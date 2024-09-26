@@ -191,7 +191,6 @@ github.com/apache/thrift
 github.com/apparentlymart/go-textseg
 github.com/apparentlymart/go-textseg/v13
 github.com/apparentlymart/go-textseg/v15
-github.com/armon/go-metrics
 github.com/asaskevich/govalidator
 github.com/ashanbrown/forbidigo
 github.com/ashanbrown/makezero

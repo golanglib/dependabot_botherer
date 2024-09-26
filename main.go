@@ -194,7 +194,6 @@ import (
 	_ "github.com/apparentlymart/go-textseg"
 	_ "github.com/apparentlymart/go-textseg/v13"
 	_ "github.com/apparentlymart/go-textseg/v15"
-	_ "github.com/armon/go-metrics"
 	_ "github.com/asaskevich/govalidator"
 	_ "github.com/ashanbrown/forbidigo"
 	_ "github.com/ashanbrown/makezero"
