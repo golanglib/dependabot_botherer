@@ -800,7 +800,6 @@ import (
 	_ "github.com/maratori/testpackage"
 	_ "github.com/markbates/going"
 	_ "github.com/markbates/goth"
-	_ "github.com/marten-seemann/qpack"
 	_ "github.com/marten-seemann/qtls"
 	_ "github.com/marten-seemann/qtls-go1-15"
 	_ "github.com/marten-seemann/qtls-go1-18"
