@@ -17,6 +17,17 @@ jobs:
         with:
           go-version: 'stable'
 
+      - name: Exclude
+        run: |
+          while read -r MODULE; do
+            if ! go get "$MODULE"; then
+              echo "$MODULE" >> exclude.txt
+            fi
+          done < list.txt
+          grep -F -v -f exclude.txt list.txt > list.txt.tmp
+          mv list.txt.tmp list.txt
+          make generate
+
       - name: Tidy
         run: |
           go mod tidy
