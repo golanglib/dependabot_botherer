@@ -784,7 +784,6 @@ import (
 	_ "github.com/linkedin/goavro/v2"
 	_ "github.com/linode/linodego"
 	_ "github.com/logzio/azure-monitor-metrics-receiver"
-	_ "github.com/lucas-clemente/quic-go"
 	_ "github.com/lucasb-eyer/go-colorful"
 	_ "github.com/lufeee/execinquery"
 	_ "github.com/lufia/plan9stats"

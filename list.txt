@@ -781,7 +781,6 @@ github.com/libdns/libdns
 github.com/linkedin/goavro/v2
 github.com/linode/linodego
 github.com/logzio/azure-monitor-metrics-receiver
-github.com/lucas-clemente/quic-go
 github.com/lucasb-eyer/go-colorful
 github.com/lufeee/execinquery
 github.com/lufia/plan9stats
