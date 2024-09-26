@@ -685,7 +685,6 @@ import (
 	_ "github.com/huandu/xstrings"
 	_ "github.com/iancoleman/strcase"
 	_ "github.com/ianlancetaylor/demangle"
-	_ "github.com/imdario/mergo"
 	_ "github.com/inconshreveable/mousetrap"
 	_ "github.com/influxdata/influxdb-client-go"
 	_ "github.com/influxdata/influxdb-client-go/v2"
