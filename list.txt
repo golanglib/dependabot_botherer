@@ -182,8 +182,6 @@ github.com/antchfx/jsonquery
 github.com/antchfx/xmlquery
 github.com/antchfx/xpath
 github.com/anthony-zh/osv-proxy
-github.com/antlr/antlr4/runtime/Go/antlr
-github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antlr4-go/antlr
 github.com/antlr4-go/antlr/v4
 github.com/apache/arrow/go/v15
