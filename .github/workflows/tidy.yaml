@@ -1,0 +1,30 @@
+name: Tidy
+
+on: workflow_call
+
+permissions:
+  contents: write
+
+jobs:
+  tidy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Tidy
+        run: |
+          go mod edit -go="$(go version | awk '{print $3}' | cut -c 3- | grep -oE '^\d+\.\d+')"
+          go mod tidy
+
+      - name: Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Tidy go.mod and go.sum'
+          git push
