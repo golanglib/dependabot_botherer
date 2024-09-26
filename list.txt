@@ -748,7 +748,6 @@ github.com/jsternberg/zap-logfmt
 github.com/jtolio/noiseconn
 github.com/julienschmidt/httprouter
 github.com/julz/importas
-github.com/junk1tm/musttag
 github.com/karamaru-alpha/copyloopvar
 github.com/karrick/godirwalk
 github.com/kisielk/errcheck

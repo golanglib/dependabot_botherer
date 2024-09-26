@@ -751,7 +751,6 @@ import (
 	_ "github.com/jtolio/noiseconn"
 	_ "github.com/julienschmidt/httprouter"
 	_ "github.com/julz/importas"
-	_ "github.com/junk1tm/musttag"
 	_ "github.com/karamaru-alpha/copyloopvar"
 	_ "github.com/karrick/godirwalk"
 	_ "github.com/kisielk/errcheck"
