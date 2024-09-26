@@ -352,7 +352,6 @@ import (
 	_ "github.com/coreos/go-iptables"
 	_ "github.com/coreos/go-semver"
 	_ "github.com/coreos/go-systemd/v22"
-	_ "github.com/cosmtrek/air"
 	_ "github.com/couchbase/go-couchbase"
 	_ "github.com/couchbase/gomemcached"
 	_ "github.com/couchbase/goutils"
