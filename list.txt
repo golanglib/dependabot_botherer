@@ -797,10 +797,6 @@ github.com/maratori/testableexamples
 github.com/maratori/testpackage
 github.com/markbates/going
 github.com/markbates/goth
-github.com/marten-seemann/qtls
-github.com/marten-seemann/qtls-go1-15
-github.com/marten-seemann/qtls-go1-18
-github.com/marten-seemann/qtls-go1-19
 github.com/maruel/natural
 github.com/mastercactapus/proxyprotocol
 github.com/matoous/godox
