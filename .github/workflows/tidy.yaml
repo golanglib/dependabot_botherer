@@ -20,7 +20,7 @@ jobs:
       - name: Exclude
         run: |
           while read -r MODULE; do
-            if ! go get "$MODULE"; then
+            if ! go get "$MODULE@latest"; then
               echo "$MODULE" >> exclude.txt
             fi
           done < list.txt
