@@ -1,4 +1,6 @@
 /.idea/
+/main.go.tmp
+
 # Created by https://www.toptal.com/developers/gitignore/api/go,intellij,visualstudiocode,vim,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=go,intellij,visualstudiocode,vim,macos
 
@@ -145,7 +147,8 @@ fabric.properties
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
