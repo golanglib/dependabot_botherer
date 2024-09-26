@@ -1086,8 +1086,6 @@ github.com/smallstep/cli
 github.com/smallstep/go-attestation
 github.com/smallstep/nosql
 github.com/smallstep/truststore
-github.com/smartystreets/assertions
-github.com/smartystreets/goconvey
 github.com/snowflakedb/gosnowflake
 github.com/soheilhy/cmux
 github.com/sonatard/noctx

@@ -1089,8 +1089,6 @@ import (
 	_ "github.com/smallstep/go-attestation"
 	_ "github.com/smallstep/nosql"
 	_ "github.com/smallstep/truststore"
-	_ "github.com/smartystreets/assertions"
-	_ "github.com/smartystreets/goconvey"
 	_ "github.com/snowflakedb/gosnowflake"
 	_ "github.com/soheilhy/cmux"
 	_ "github.com/sonatard/noctx"
