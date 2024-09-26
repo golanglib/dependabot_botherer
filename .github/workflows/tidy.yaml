@@ -19,7 +19,7 @@ jobs:
 
       - name: Tidy
         run: |
-          go mod edit -go="$(go version | awk '{print $3}' | cut -c 3- | grep -oE '^\d+\.\d+')"
+          go mod edit -go=$(go version | awk '{print $3}' | cut -c 3- | grep -oE '^\d+\.\d+')
           go mod tidy
 
       - name: Commit
