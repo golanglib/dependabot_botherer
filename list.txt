@@ -95,7 +95,6 @@ github.com/DATA-DOG/go-sqlmock
 github.com/DataDog/zstd
 github.com/Djarvur/go-err113
 github.com/Exayn/go-listmonk
-github.com/EzeXchange-API/go-listmonk
 github.com/GaijinEntertainment/go-exhaustruct
 github.com/GaijinEntertainment/go-exhaustruct/v2
 github.com/GaijinEntertainment/go-exhaustruct/v3

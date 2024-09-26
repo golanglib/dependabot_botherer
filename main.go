@@ -98,7 +98,6 @@ import (
 	_ "github.com/DataDog/zstd"
 	_ "github.com/Djarvur/go-err113"
 	_ "github.com/Exayn/go-listmonk"
-	_ "github.com/EzeXchange-API/go-listmonk"
 	_ "github.com/GaijinEntertainment/go-exhaustruct"
 	_ "github.com/GaijinEntertainment/go-exhaustruct/v2"
 	_ "github.com/GaijinEntertainment/go-exhaustruct/v3"
