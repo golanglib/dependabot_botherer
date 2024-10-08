@@ -10,9 +10,9 @@ write() {
 
 write "package main"
 write "import ("
-while read -r MODULE; do
+grep -F -v -f exclude.txt list.txt | while read -r MODULE; do
   write "  _ \"$MODULE\""
-done < list.txt
+done
 write ")"
 write "func main() {"
 write "println(\"Thanks for your hard work, Dependabot!\")"
