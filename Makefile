@@ -3,5 +3,3 @@
 list:
 	scripts/list.sh
 
-generate:
-	scripts/generate.sh
