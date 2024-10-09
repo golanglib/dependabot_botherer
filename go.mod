@@ -256,7 +256,7 @@ require (
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.1.1
-	github.com/charmbracelet/glamour v0.7.0
+	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v0.13.0
 	github.com/chavacava/garif v0.1.0
 	github.com/chenzhuoyu/base64x v0.0.0-20230717121745-296ad89f973d
@@ -287,7 +287,7 @@ require (
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.2.0
-	github.com/cyphar/filepath-securejoin v0.3.3
+	github.com/cyphar/filepath-securejoin v0.3.4
 	github.com/danieljoos/wincred v1.2.2
 	github.com/datadope-io/go-zabbix v1.6.0
 	github.com/datadope-io/go-zabbix/v2 v2.0.1
@@ -685,7 +685,7 @@ require (
 	github.com/mtibben/percent v0.2.1
 	github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6
 	github.com/muesli/cancelreader v0.2.2
-	github.com/muesli/termenv v0.15.2
+	github.com/muesli/termenv v0.15.3-0.20240618155329-98d742f6907a
 	github.com/muhlemmer/gu v0.3.1
 	github.com/muhlemmer/httpforwarded v0.1.0
 	github.com/multiformats/go-multihash v0.2.3
@@ -799,7 +799,7 @@ require (
 	github.com/rs/xid v1.6.0
 	github.com/rs/zerolog v1.33.0
 	github.com/russellhaering/goxmldsig v1.4.0
-	github.com/russross/blackfriday v1.6.0
+	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/ryancurrah/gomodguard v1.3.5
 	github.com/ryanuber/go-glob v1.0.0
