@@ -34,8 +34,10 @@ func main() {
 	if _, err := os.Stat(modFile); err == nil {
 		if data, err := os.ReadFile(modFile); err == nil {
 			if mod, err := modfile.Parse(modFile, data, nil); err == nil {
-				if len(mod.Replace) > 0 {
-					exit("package has replace")
+				for _, replace := range mod.Replace {
+					if !strings.HasPrefix(replace.New.Path, ".") {
+						exit("package has replace")
+					}
 				}
 			}
 		}
