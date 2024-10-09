@@ -287,7 +287,7 @@ require (
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.2.0
-	github.com/cyphar/filepath-securejoin v0.3.3
+	github.com/cyphar/filepath-securejoin v0.3.4
 	github.com/danieljoos/wincred v1.2.2
 	github.com/datadope-io/go-zabbix v1.6.0
 	github.com/datadope-io/go-zabbix/v2 v2.0.1
@@ -799,7 +799,7 @@ require (
 	github.com/rs/xid v1.6.0
 	github.com/rs/zerolog v1.33.0
 	github.com/russellhaering/goxmldsig v1.4.0
-	github.com/russross/blackfriday v1.6.0
+	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/ryancurrah/gomodguard v1.3.5
 	github.com/ryanuber/go-glob v1.0.0
