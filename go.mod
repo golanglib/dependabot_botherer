@@ -937,7 +937,7 @@ require (
 	github.com/xen0n/gosmopolitan v1.2.2
 	github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
-	github.com/xtaci/smux v1.5.31
+	github.com/xtaci/smux v2.0.1+incompatible
 	github.com/yagipy/maintidx v1.0.0
 	github.com/yeya24/promlinter v0.3.0
 	github.com/ykadowak/zerologlint v0.1.5
