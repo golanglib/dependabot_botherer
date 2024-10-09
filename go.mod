@@ -256,7 +256,7 @@ require (
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.1.1
-	github.com/charmbracelet/glamour v0.7.0
+	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v0.13.0
 	github.com/chavacava/garif v0.1.0
 	github.com/chenzhuoyu/base64x v0.0.0-20230717121745-296ad89f973d
@@ -287,7 +287,7 @@ require (
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.2.0
-	github.com/cyphar/filepath-securejoin v0.3.3
+	github.com/cyphar/filepath-securejoin v0.3.4
 	github.com/danieljoos/wincred v1.2.2
 	github.com/datadope-io/go-zabbix v1.6.0
 	github.com/datadope-io/go-zabbix/v2 v2.0.1
@@ -508,7 +508,7 @@ require (
 	github.com/hashicorp/go-version v1.7.0
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/hashicorp/hc-install v0.6.3
+	github.com/hashicorp/hc-install v0.9.0
 	github.com/hashicorp/hcl v1.0.1-vault-5
 	github.com/hashicorp/hcl/v2 v2.22.0
 	github.com/hashicorp/memberlist v0.5.1
@@ -685,7 +685,7 @@ require (
 	github.com/mtibben/percent v0.2.1
 	github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6
 	github.com/muesli/cancelreader v0.2.2
-	github.com/muesli/termenv v0.15.2
+	github.com/muesli/termenv v0.15.3-0.20240618155329-98d742f6907a
 	github.com/muhlemmer/gu v0.3.1
 	github.com/muhlemmer/httpforwarded v0.1.0
 	github.com/multiformats/go-multihash v0.2.3
@@ -799,7 +799,7 @@ require (
 	github.com/rs/xid v1.6.0
 	github.com/rs/zerolog v1.33.0
 	github.com/russellhaering/goxmldsig v1.4.0
-	github.com/russross/blackfriday v1.6.0
+	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/ryancurrah/gomodguard v1.3.5
 	github.com/ryanuber/go-glob v1.0.0
@@ -937,7 +937,7 @@ require (
 	github.com/xen0n/gosmopolitan v1.2.2
 	github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
-	github.com/xtaci/smux v1.5.31
+	github.com/xtaci/smux v2.0.1+incompatible
 	github.com/yagipy/maintidx v1.0.0
 	github.com/yeya24/promlinter v0.3.0
 	github.com/ykadowak/zerologlint v0.1.5
