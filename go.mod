@@ -6,7 +6,7 @@ toolchain go1.23.2
 
 require (
 	cel.dev/expr v0.16.2
-	cloud.google.com/go v0.115.1
+	cloud.google.com/go v0.116.0
 	cloud.google.com/go/auth v0.9.7
 	cloud.google.com/go/auth/oauth2adapt v0.2.4
 	cloud.google.com/go/bigquery v1.63.1
