@@ -317,7 +317,7 @@ require (
 	github.com/eapache/go-xerial-snappy v0.0.0-20230731223053-c322873962e3
 	github.com/eclipse/paho.mqtt.golang v1.5.0
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
-	github.com/edsrzf/mmap-go v1.1.0
+	github.com/edsrzf/mmap-go v1.2.0
 	github.com/elazarl/goproxy v0.0.0-20240909085733-6741dbfc16a1
 	github.com/elliotchance/orderedmap v1.6.0
 	github.com/emersion/go-imap v1.2.1
