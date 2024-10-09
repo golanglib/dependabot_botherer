@@ -1,8 +1,6 @@
 module dependabot_botherer
 
-go 1.23.0
-
-toolchain go1.23.2
+go 1.23
 
 require (
 	cel.dev/expr v0.16.2
