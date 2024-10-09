@@ -4,8 +4,10 @@ set -euo pipefail
 
 rm -f exclude.txt
 
+GOMOD_BAK=$(mktemp)
 GOSUM_BAK=$(mktemp)
 cp go.sum "$GOSUM_BAK"
+cp go.mod "$GOMOD_BAK"
 
 while read -r MODULE; do
   if ! go get "$MODULE@latest"; then
@@ -15,4 +17,5 @@ while read -r MODULE; do
   fi
 done < list.txt
 
+mv "$GOMOD_BAK" go.mod
 mv "$GOSUM_BAK" go.sum
