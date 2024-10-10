@@ -695,7 +695,7 @@ require (
 	github.com/mustafaturan/monoton v1.0.0
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
-	github.com/nats-io/jwt/v2 v2.7.0
+	github.com/nats-io/jwt/v2 v2.7.2
 	github.com/nats-io/nkeys v0.4.7
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/ncruces/go-strftime v0.1.9
