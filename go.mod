@@ -148,7 +148,7 @@ require (
 	github.com/anacrolix/torrent v1.57.1
 	github.com/anacrolix/upnp v0.1.4
 	github.com/anchore/go-struct-converter v0.0.0-20240925125616-a0883641c664
-	github.com/andybalholm/brotli v1.1.0
+	github.com/andybalholm/brotli v1.1.1
 	github.com/andybalholm/cascadia v1.3.2
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
