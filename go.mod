@@ -124,7 +124,7 @@ require (
 	github.com/alexkohler/nakedret/v2 v2.0.4
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.24
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.26
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -148,7 +148,7 @@ require (
 	github.com/anacrolix/torrent v1.57.1
 	github.com/anacrolix/upnp v0.1.4
 	github.com/anchore/go-struct-converter v0.0.0-20240925125616-a0883641c664
-	github.com/andybalholm/brotli v1.1.0
+	github.com/andybalholm/brotli v1.1.1
 	github.com/andybalholm/cascadia v1.3.2
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
@@ -928,7 +928,7 @@ require (
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 	github.com/x448/float16 v0.8.4
-	github.com/xanzy/go-gitlab v0.110.0
+	github.com/xanzy/go-gitlab v0.111.0
 	github.com/xanzy/ssh-agent v0.3.3
 	github.com/xdg-go/pbkdf2 v1.0.0
 	github.com/xdg-go/scram v1.1.2
