@@ -928,7 +928,7 @@ require (
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 	github.com/x448/float16 v0.8.4
-	github.com/xanzy/go-gitlab v0.110.0
+	github.com/xanzy/go-gitlab v0.111.0
 	github.com/xanzy/ssh-agent v0.3.3
 	github.com/xdg-go/pbkdf2 v1.0.0
 	github.com/xdg-go/scram v1.1.2
