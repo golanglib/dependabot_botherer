@@ -1007,7 +1007,7 @@ require (
 	golang.org/x/text v0.19.0
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.199.0
+	google.golang.org/api v0.200.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/grpc v1.67.1
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
