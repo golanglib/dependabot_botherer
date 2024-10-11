@@ -11,7 +11,8 @@ write() {
 write "package main"
 write "import ("
 grep -F -v -f exclude.txt list.txt | while read -r MODULE; do
-  write "  _ \"$MODULE\""
+  PACKAGE=$(go run scripts/importable.go "$MODULE")
+  write "  _ \"$PACKAGE\""
 done
 write ")"
 write "func main() {"
