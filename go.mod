@@ -124,7 +124,7 @@ require (
 	github.com/alexkohler/nakedret/v2 v2.0.4
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.26
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.27
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -175,7 +175,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.2
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.181.2
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.182.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.65.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.2
@@ -271,7 +271,7 @@ require (
 	github.com/cli/safeexec v1.0.1
 	github.com/cloudevents/sdk-go v1.2.0
 	github.com/cloudevents/sdk-go/v2 v2.15.2
-	github.com/cloudflare/circl v1.4.0
+	github.com/cloudflare/circl v1.5.0
 	github.com/cloudsoda/go-smb2 v0.0.0-20231124195312-f3ec8ae2c891
 	github.com/cloudwego/base64x v0.1.4
 	github.com/cloudwego/iasm v0.2.0
@@ -583,7 +583,7 @@ require (
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.5
 	github.com/klauspost/asmfmt v1.3.2
-	github.com/klauspost/compress v1.17.10
+	github.com/klauspost/compress v1.17.11
 	github.com/klauspost/cpuid v1.3.1
 	github.com/klauspost/cpuid/v2 v2.2.8
 	github.com/klauspost/reedsolomon v1.12.4
@@ -838,7 +838,7 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
 	github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/sijms/go-ora/v2 v2.8.21
+	github.com/sijms/go-ora/v2 v2.8.22
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
 	github.com/sina-ghaderi/rabaead v0.0.0-20220730151906-ab6e06b96e8c
 	github.com/sina-ghaderi/rabbitio v0.0.0-20220730151941-9ce26f4f872e
@@ -1021,7 +1021,7 @@ require (
 	gopkg.in/validator.v2 v2.0.1
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/datatypes v1.2.2
+	gorm.io/datatypes v1.2.3
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/driver/sqlite v1.5.6
