@@ -1,13 +1,13 @@
 package main
 
 import (
-	"bytes"
 	"fmt"
 	"go/build"
 	"log"
 	"os"
-	"os/exec"
+	"path"
 	"path/filepath"
+	"sort"
 	"strings"
 
 	"golang.org/x/mod/modfile"
@@ -16,10 +16,16 @@ import (
 func main() {
 	name := os.Args[1]
 
-	pkgNames := allPackages(name)
+	log.SetPrefix(fmt.Sprintf("[%s] ", name))
+	log.SetFlags(0)
 
-	for _, pkgName := range pkgNames {
-		if importablePackage(pkgName) {
+	modRoot := getModRoot(name)
+
+	pkgPaths := allSubPackages(modRoot)
+
+	for _, pkgPath := range pkgPaths {
+		if importablePackage(modRoot, pkgPath) {
+			pkgName := path.Join(name, pkgPath)
 			fmt.Println(pkgName)
 			return
 		}
@@ -29,9 +35,30 @@ func main() {
 	os.Exit(1)
 }
 
-func importablePackage(name string) bool {
-	log.Printf("checking %s", name)
-	pkg, err := build.Import(name, "", build.ImportComment)
+func getModRoot(name string) string {
+	gopath := build.Default.GOPATH
+	dir := filepath.Dir(name)
+	dir = filepath.Join(gopath, "pkg/mod", dir)
+	base := filepath.Base(name)
+	files, err := os.ReadDir(dir)
+	if err != nil {
+		panic(fmt.Sprintf("os.ReadDir failed: %v", err))
+	}
+
+	rootDir := ""
+	for _, file := range files {
+		if file.IsDir() && strings.HasPrefix(file.Name(), base+"@") {
+			rootDir = filepath.Join(dir, file.Name())
+			break
+		}
+	}
+
+	return rootDir
+}
+
+func importablePackage(modRoot, path string) bool {
+	log.Printf("checking %q", path)
+	pkg, err := build.ImportDir(filepath.Join(modRoot, path), build.ImportComment)
 	if err != nil {
 		log.Print(err)
 		return false
@@ -64,15 +91,21 @@ func importablePackage(name string) bool {
 	return true
 }
 
-func allPackages(name string) []string {
-	// run go list name/... to get all packages
-	cmd := exec.Command("go", "list", name+"/...")
-	stderr := &bytes.Buffer{}
-	cmd.Stderr = stderr
-	out, err := cmd.Output()
-	ret := strings.Fields(string(out))
-	if err != nil && len(ret) == 0 {
-		panic(fmt.Sprintf("go list failed: %v\n%s", err, stderr.String()))
+func allSubPackages(modRoot string) []string {
+	var ret []string
+	if err := filepath.Walk(modRoot, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if info.IsDir() {
+
+			ret = append(ret, strings.TrimPrefix(strings.TrimPrefix(path, modRoot), "/"))
+		}
+		return nil
+	}); err != nil {
+		panic(fmt.Sprintf("filepath.Walk failed: %v", err))
 	}
+
+	sort.Strings(ret)
 	return ret
 }
