@@ -3804,8 +3804,8 @@ github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92/go.mod h1:7/OT02F6
 github.com/shurcooL/webdavfs v0.0.0-20170829043945-18c3829fa133/go.mod h1:hKmq5kWdCj2z2KEozexVbfEZIWiTjhE0+UjmZgPqehw=
 github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3 h1:32k2QLgsKhcEs55q4REPKyIadvid5FPy2+VMgvbmKJ0=
 github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3/go.mod h1:gJrXWi7wSGXfiC7+VheQaz+ypdCt5SmZNL+BRxUe7y4=
-github.com/sijms/go-ora/v2 v2.8.21 h1:zhvaKaJzgEn+jq7TJF8YlY4H0P5RHxGc99y9QNoeU+s=
-github.com/sijms/go-ora/v2 v2.8.21/go.mod h1:QgFInVi3ZWyqAiJwzBQA+nbKYKH77tdp1PYoCqhR2dU=
+github.com/sijms/go-ora/v2 v2.8.22 h1:3ABgRzVKxS439cEgSLjFKutIwOyhnyi4oOSBywEdOlU=
+github.com/sijms/go-ora/v2 v2.8.22/go.mod h1:QgFInVi3ZWyqAiJwzBQA+nbKYKH77tdp1PYoCqhR2dU=
 github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b h1:rXHg9GrUEtWZhEkrykicdND3VPjlVbYiLdX9J7gimS8=
 github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b/go.mod h1:X7qrxNQViEaAN9LNZOPl9PfvQtp3V3c7LTo0dvGi0fM=
 github.com/sina-ghaderi/rabaead v0.0.0-20220730151906-ab6e06b96e8c h1:DjKMC30y6yjG3IxDaeAj3PCoRr+IsO+bzyT+Se2m2Hk=
@@ -5401,8 +5401,8 @@ gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b/go.mod h1:K4uyk7z7BCEPqu6E+C
 gopkg.in/yaml.v3 v3.0.0/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
-gorm.io/datatypes v1.2.2 h1:sdn7ZmG4l7JWtMDUb3L98f2Ym7CO5F8mZLlrQJMfF9g=
-gorm.io/datatypes v1.2.2/go.mod h1:f4BsLcFAX67szSv8svwLRjklArSHAvHLeE3pXAS5DZI=
+gorm.io/datatypes v1.2.3 h1:95ucr9ip9dZMPhB3Tc9zbcoAi62hxYAgHicu7SLjK4g=
+gorm.io/datatypes v1.2.3/go.mod h1:f4BsLcFAX67szSv8svwLRjklArSHAvHLeE3pXAS5DZI=
 gorm.io/driver/mysql v1.5.7 h1:MndhOPYOfEp2rHKgkZIhJ16eVUIRf2HmzgoPmh7FCWo=
 gorm.io/driver/mysql v1.5.7/go.mod h1:sEtPWMiqiN1N1cMXoXmBbd8C6/l+TESwriotuRRpkDM=
 gorm.io/driver/postgres v1.5.9 h1:DkegyItji119OlcaLjqN11kHoUgZ/j13E0jkJZgD6A8=

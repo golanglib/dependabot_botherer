@@ -838,7 +838,7 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
 	github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/sijms/go-ora/v2 v2.8.21
+	github.com/sijms/go-ora/v2 v2.8.22
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
 	github.com/sina-ghaderi/rabaead v0.0.0-20220730151906-ab6e06b96e8c
 	github.com/sina-ghaderi/rabbitio v0.0.0-20220730151941-9ce26f4f872e
@@ -1021,7 +1021,7 @@ require (
 	gopkg.in/validator.v2 v2.0.1
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/datatypes v1.2.2
+	gorm.io/datatypes v1.2.3
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/driver/sqlite v1.5.6
