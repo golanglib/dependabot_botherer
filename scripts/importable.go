@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"fmt"
 	"go/build"
 	"log"
@@ -66,10 +67,12 @@ func importablePackage(name string) bool {
 func allPackages(name string) []string {
 	// run go list name/... to get all packages
 	cmd := exec.Command("go", "list", name+"/...")
-	cmd.Stderr = os.Stderr
+	stderr := &bytes.Buffer{}
+	cmd.Stderr = stderr
 	out, err := cmd.Output()
-	if err != nil {
-		panic(err)
+	ret := strings.Fields(string(out))
+	if err != nil && len(ret) == 0 {
+		panic(fmt.Sprintf("go list failed: %v\n%s", err, stderr.String()))
 	}
-	return strings.Fields(string(out))
+	return ret
 }
