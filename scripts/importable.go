@@ -20,7 +20,6 @@ func main() {
 	log.SetFlags(0)
 
 	modRoot := getModRoot(name)
-
 	pkgPaths := allSubPackages(modRoot)
 
 	for _, pkgPath := range pkgPaths {
@@ -35,12 +34,25 @@ func main() {
 	os.Exit(1)
 }
 
+func escapePath(path string) string {
+	sb := &strings.Builder{}
+	for _, r := range path {
+		if r >= 'A' && r <= 'Z' {
+			sb.WriteRune('!')
+			sb.WriteRune(r - ('A' - 'a'))
+		} else {
+			sb.WriteRune(r)
+		}
+	}
+	return sb.String()
+}
+
 func getModRoot(name string) string {
 	gopath := build.Default.GOPATH
-	dir := filepath.Dir(name)
-	dir = filepath.Join(gopath, "pkg/mod", dir)
-	base := filepath.Base(name)
-	files, err := os.ReadDir(dir)
+	dir := escapePath(filepath.Dir(name))
+	base := escapePath(filepath.Base(name))
+	files, err := os.ReadDir(filepath.Join(gopath, "pkg/mod", dir))
+	log.Printf("dir: %s", filepath.Join(gopath, dir))
 	if err != nil {
 		panic(fmt.Sprintf("os.ReadDir failed: %v", err))
 	}
@@ -48,7 +60,7 @@ func getModRoot(name string) string {
 	rootDir := ""
 	for _, file := range files {
 		if file.IsDir() && strings.HasPrefix(file.Name(), base+"@") {
-			rootDir = filepath.Join(dir, file.Name())
+			rootDir = filepath.Join(gopath, "pkg/mod", dir, file.Name())
 			break
 		}
 	}
@@ -58,7 +70,7 @@ func getModRoot(name string) string {
 
 func importablePackage(modRoot, path string) bool {
 	log.Printf("checking %q", path)
-	pkg, err := build.ImportDir(filepath.Join(modRoot, path), build.ImportComment)
+	pkg, err := build.ImportDir(filepath.Join(modRoot, escapePath(path)), build.ImportComment)
 	if err != nil {
 		log.Print(err)
 		return false
