@@ -18,6 +18,11 @@ func main() {
 	log.SetPrefix(fmt.Sprintf("[%s] ", name))
 	log.SetFlags(0)
 
+	if hasInternal(name) {
+		log.Print("module is internal")
+		os.Exit(1)
+	}
+
 	modRoot := getModRoot(name)
 	pkgPaths := allSubPackages(modRoot)
 	if hasReplace(modRoot) {
@@ -95,14 +100,21 @@ func importablePackage(modRoot, path string) bool {
 		log.Print("package is main")
 		return false
 	}
-	for _, v := range strings.Split(pkg.ImportPath, "/") {
-		if v == "internal" {
-			log.Print("package is internal")
-			return false
-		}
+	if hasInternal(path) {
+		log.Print("package is internal")
+		return false
 	}
 
 	return true
+}
+
+func hasInternal(path string) bool {
+	for _, v := range strings.Split(path, "/") {
+		if v == "internal" {
+			return true
+		}
+	}
+	return false
 }
 
 func hasReplace(modRoot string) bool {
