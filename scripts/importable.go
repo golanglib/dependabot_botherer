@@ -5,7 +5,6 @@ import (
 	"go/build"
 	"log"
 	"os"
-	"path"
 	"path/filepath"
 	"sort"
 	"strings"
@@ -21,10 +20,13 @@ func main() {
 
 	modRoot := getModRoot(name)
 	pkgPaths := allSubPackages(modRoot)
+	if hasReplace(modRoot) {
+		log.Print("module has replace")
+	}
 
 	for _, pkgPath := range pkgPaths {
-		if pkgName, ok := importablePackage(modRoot, pkgPath); ok {
-			fmt.Println(path.Join(name, pkgName))
+		if ok := importablePackage(modRoot, pkgPath); ok {
+			fmt.Println(strings.Trim(name+"/"+unescapePath(pkgPath), "/"))
 			return
 		}
 	}
@@ -46,12 +48,24 @@ func escapePath(path string) string {
 	return sb.String()
 }
 
+func unescapePath(path string) string {
+	sb := &strings.Builder{}
+	for i := 0; i < len(path); i++ {
+		if path[i] == '!' {
+			i++
+			sb.WriteRune(rune(path[i]) + ('A' - 'a'))
+		} else {
+			sb.WriteByte(path[i])
+		}
+	}
+	return sb.String()
+}
+
 func getModRoot(name string) string {
 	gopath := build.Default.GOPATH
 	dir := escapePath(filepath.Dir(name))
 	base := escapePath(filepath.Base(name))
 	files, err := os.ReadDir(filepath.Join(gopath, "pkg/mod", dir))
-	log.Printf("dir: %s", filepath.Join(gopath, dir))
 	if err != nil {
 		panic(fmt.Sprintf("os.ReadDir failed: %v", err))
 	}
@@ -64,35 +78,41 @@ func getModRoot(name string) string {
 		}
 	}
 
+	log.Printf("dir: %s", rootDir)
+
 	return rootDir
 }
 
-func importablePackage(modRoot, path string) (string, bool) {
+func importablePackage(modRoot, path string) bool {
 	log.Printf("checking %q", path)
 	pkg, err := build.ImportDir(filepath.Join(modRoot, path), build.ImportComment)
 	if err != nil {
 		log.Print(err)
-		return "", false
+		return false
 	}
 	if pkg.Name == "main" {
 		log.Print("package is main")
-		return "", false
+		return false
 	}
 	for _, v := range strings.Split(pkg.ImportPath, "/") {
 		if v == "internal" {
 			log.Print("package is internal")
-			return "", false
+			return false
 		}
 	}
 
-	modFile := filepath.Join(pkg.Root, "go.mod")
+	return true
+}
+
+func hasReplace(modRoot string) bool {
+	modFile := filepath.Join(modRoot, "go.mod")
 	if _, err := os.Stat(modFile); err == nil {
 		if data, err := os.ReadFile(modFile); err == nil {
 			if mod, err := modfile.Parse(modFile, data, nil); err == nil {
 				for _, replace := range mod.Replace {
 					if !strings.HasPrefix(replace.New.Path, ".") {
-						log.Print("package has replace")
-						return "", false
+						log.Print("module has replace")
+						return true
 					}
 				}
 			}
@@ -100,8 +120,7 @@ func importablePackage(modRoot, path string) (string, bool) {
 	} else {
 		log.Printf("go.mod not found in %q", modFile)
 	}
-
-	return pkg.Name, true
+	return false
 }
 
 func allSubPackages(modRoot string) []string {
