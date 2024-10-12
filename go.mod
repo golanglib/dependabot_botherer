@@ -1454,7 +1454,7 @@ require (
 	github.com/google/flatbuffers v24.3.25+incompatible // indirect
 	github.com/gopherjs/gopherjs v1.17.2 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
-	github.com/gorilla/schema v1.2.1 // indirect
+	github.com/gorilla/schema v1.4.1 // indirect
 	github.com/gravitational/trace v1.1.16-0.20220114165159-14a9a7dd6aaf // indirect
 	github.com/groob/finalizer v0.0.0-20170707115354-4c2ed49aabda // indirect
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
