@@ -5,6 +5,7 @@ import (
 	"go/build"
 	"log"
 	"os"
+	"path"
 	"path/filepath"
 	"sort"
 	"strings"
@@ -23,7 +24,7 @@ func main() {
 
 	for _, pkgPath := range pkgPaths {
 		if pkgName, ok := importablePackage(modRoot, pkgPath); ok {
-			fmt.Println(pkgName)
+			fmt.Println(path.Join(name, pkgName))
 			return
 		}
 	}
@@ -83,8 +84,8 @@ func importablePackage(modRoot, path string) (string, bool) {
 			return "", false
 		}
 	}
-	modFile := filepath.Join(pkg.Root, "go.mod")
 
+	modFile := filepath.Join(pkg.Root, "go.mod")
 	if _, err := os.Stat(modFile); err == nil {
 		if data, err := os.ReadFile(modFile); err == nil {
 			if mod, err := modfile.Parse(modFile, data, nil); err == nil {
@@ -96,6 +97,8 @@ func importablePackage(modRoot, path string) (string, bool) {
 				}
 			}
 		}
+	} else {
+		log.Printf("go.mod not found in %q", modFile)
 	}
 
 	return pkg.Name, true
