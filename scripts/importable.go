@@ -22,6 +22,7 @@ func main() {
 	pkgPaths := allSubPackages(modRoot)
 	if hasReplace(modRoot) {
 		log.Print("module has replace")
+		os.Exit(1)
 	}
 
 	for _, pkgPath := range pkgPaths {
@@ -111,7 +112,6 @@ func hasReplace(modRoot string) bool {
 			if mod, err := modfile.Parse(modFile, data, nil); err == nil {
 				for _, replace := range mod.Replace {
 					if !strings.HasPrefix(replace.New.Path, ".") {
-						log.Print("module has replace")
 						return true
 					}
 				}
