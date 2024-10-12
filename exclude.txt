@@ -2,8 +2,11 @@ code.gitea.io/gitea
 github.com/Azure/azure-sdk-for-go/sdk/internal
 github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal
 github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v2
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v3
 github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal
 github.com/EzeXchange-API/go-listmonk
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping
 github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/armon/go-metrics
 github.com/aws/aws-sdk-go-v2/internal/configsources
@@ -17,6 +20,7 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared
 github.com/cosmtrek/air
 github.com/davidmz/go-pageant
+github.com/dmarkham/enumer
 github.com/fclairamb/ftpserverlib
 github.com/go-redsync/redsync
 github.com/go-redsync/redsync/v4
@@ -54,4 +58,6 @@ go.step.sm/cli-utils
 go.tmz.dev/musttag
 golang.org/x/tools/cmd/cover
 golang.org/x/tools/gopls
+golang.zx2c4.com/wintun
+golang.zx2c4.com/wireguard/windows
 src.techknowlogick.com/xgo
