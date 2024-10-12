@@ -5,7 +5,6 @@ import (
 	"go/build"
 	"log"
 	"os"
-	"path"
 	"path/filepath"
 	"sort"
 	"strings"
@@ -23,8 +22,7 @@ func main() {
 	pkgPaths := allSubPackages(modRoot)
 
 	for _, pkgPath := range pkgPaths {
-		if importablePackage(modRoot, pkgPath) {
-			pkgName := path.Join(name, pkgPath)
+		if pkgName, ok := importablePackage(modRoot, pkgPath); ok {
 			fmt.Println(pkgName)
 			return
 		}
@@ -68,21 +66,21 @@ func getModRoot(name string) string {
 	return rootDir
 }
 
-func importablePackage(modRoot, path string) bool {
+func importablePackage(modRoot, path string) (string, bool) {
 	log.Printf("checking %q", path)
-	pkg, err := build.ImportDir(filepath.Join(modRoot, escapePath(path)), build.ImportComment)
+	pkg, err := build.ImportDir(filepath.Join(modRoot, path), build.ImportComment)
 	if err != nil {
 		log.Print(err)
-		return false
+		return "", false
 	}
 	if pkg.Name == "main" {
 		log.Print("package is main")
-		return false
+		return "", false
 	}
 	for _, v := range strings.Split(pkg.ImportPath, "/") {
 		if v == "internal" {
 			log.Print("package is internal")
-			return false
+			return "", false
 		}
 	}
 	modFile := filepath.Join(pkg.Root, "go.mod")
@@ -93,14 +91,14 @@ func importablePackage(modRoot, path string) bool {
 				for _, replace := range mod.Replace {
 					if !strings.HasPrefix(replace.New.Path, ".") {
 						log.Print("package has replace")
-						return false
+						return "", false
 					}
 				}
 			}
 		}
 	}
 
-	return true
+	return pkg.Name, true
 }
 
 func allSubPackages(modRoot string) []string {
@@ -110,7 +108,6 @@ func allSubPackages(modRoot string) []string {
 			return err
 		}
 		if info.IsDir() {
-
 			ret = append(ret, strings.TrimPrefix(strings.TrimPrefix(path, modRoot), "/"))
 		}
 		return nil
