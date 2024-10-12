@@ -20,4 +20,6 @@ write "func main() {"
 write "println(\"Thanks for your hard work, Dependabot!\")"
 write "}"
 
+go mod tidy
+
 go fmt .

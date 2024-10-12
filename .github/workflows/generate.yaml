@@ -1,4 +1,4 @@
-name: Tidy
+name: Generate
 
 on:
   workflow_dispatch:
@@ -17,7 +17,7 @@ env:
   GOPATH: /gopath
 
 jobs:
-  tidy:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Maximize build space
@@ -55,10 +55,6 @@ jobs:
 
       - name: Generate
         run: scripts/generate.sh
-
-      - name: Tidy
-        run: |
-          go mod tidy
 
       - name: Commit
         run: |
