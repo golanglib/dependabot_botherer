@@ -840,7 +840,7 @@ require (
 	github.com/maruel/natural v1.1.1
 	github.com/mastercactapus/proxyprotocol v0.0.4
 	github.com/matoous/godox v0.0.0-20240105082147-c5b5e0e7c0c0
-	github.com/matryer/is v1.4.0
+	github.com/matryer/is v1.4.1
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
 	github.com/mattn/go-colorable v0.1.13
 	github.com/mattn/go-ieproxy v0.0.12
