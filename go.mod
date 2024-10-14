@@ -746,7 +746,7 @@ require (
 	github.com/jcmturner/gofork v1.7.6
 	github.com/jcmturner/goidentity/v6 v6.0.1
 	github.com/jcmturner/gokrb5/v8 v8.4.4
-	github.com/jcmturner/rpc v1.1.1
+	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jedib0t/go-pretty/v6 v6.6.0
 	github.com/jellydator/ttlcache/v3 v3.3.0
