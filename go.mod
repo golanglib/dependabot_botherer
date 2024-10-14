@@ -833,7 +833,7 @@ require (
 	github.com/manifoldco/promptui v0.9.0
 	github.com/maratori/testableexamples v1.0.0
 	github.com/maratori/testpackage v1.1.1
-	github.com/markbates/going v1.0.0
+	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.80.0
 	github.com/marten-seemann/qtls v0.10.0
 	github.com/marten-seemann/qtls-go1-15 v0.1.5
