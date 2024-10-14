@@ -1225,7 +1225,7 @@ require (
 	github.com/ultraware/whitespace v0.1.1
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
-	github.com/urfave/cli v1.22.15
+	github.com/urfave/cli v1.22.16
 	github.com/urfave/cli/v2 v2.27.4
 	github.com/uudashr/gocognit v1.1.3
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
