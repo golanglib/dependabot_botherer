@@ -986,8 +986,8 @@ github.com/RoaringBitmap/roaring/v2 v2.3.5 h1:aG2AxDgEc2gtLZACft3PmvpEi98thqyNGk
 github.com/RoaringBitmap/roaring/v2 v2.3.5/go.mod h1:qhgqItwt5rQY0Nj4zw9nMhXv4Pkq2D8dA8RPJAfyU08=
 github.com/RyuaNerin/go-krypto v1.3.0 h1:smavTzSMAx8iuVlGb4pEwl9MD2qicqMzuXR2QWp2/Pg=
 github.com/RyuaNerin/go-krypto v1.3.0/go.mod h1:9R9TU936laAIqAmjcHo/LsaXYOZlymudOAxjaBf62UM=
-github.com/RyuaNerin/testingutil v0.1.0 h1:IYT6JL57RV3U2ml3dLHZsVtPOP6yNK7WUVdzzlpNrss=
-github.com/RyuaNerin/testingutil v0.1.0/go.mod h1:yTqj6Ta/ycHMPJHRyO12Mz3VrvTloWOsy23WOZH19AA=
+github.com/RyuaNerin/testingutil v0.1.3 h1:ZFa6xkIC8FWgTjzgzeis/RaXozdfp5SfK8a2iHaS4RQ=
+github.com/RyuaNerin/testingutil v0.1.3/go.mod h1:yTqj6Ta/ycHMPJHRyO12Mz3VrvTloWOsy23WOZH19AA=
 github.com/SAP/go-hdb v1.12.4 h1:Oje5j/Ua6Yh5qwSy5xhXpJoooEi6vaj/ubbk3q5DWJQ=
 github.com/SAP/go-hdb v1.12.4/go.mod h1:baXEfHaYh5yPBSS+N6MsENYcton1coQMx3HlNHOx8vU=
 github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3 h1:BP0HiyNT3AQEYi+if3wkRcIdQFHtsw6xX3Kx0glckgA=
