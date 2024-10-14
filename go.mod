@@ -107,7 +107,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.24.1
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.48.1
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.48.2
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
 	github.com/IBM/sarama v1.43.3
@@ -234,7 +234,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.182.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.2
 	github.com/aws/aws-sdk-go-v2/service/kms v1.36.3
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.65.2
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.65.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.2
@@ -335,7 +335,7 @@ require (
 	github.com/charmbracelet/bubbletea v1.1.1
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v0.13.0
-	github.com/charmbracelet/x/ansi v0.2.3
+	github.com/charmbracelet/x/ansi v0.3.2
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.0
 	github.com/chavacava/garif v0.1.0
@@ -596,7 +596,7 @@ require (
 	github.com/golangci/plugin-module-register v0.1.1
 	github.com/golangci/revgrep v0.5.3
 	github.com/golangci/unconvert v0.0.0-20240309020433-c5143eacb3ed
-	github.com/gomarkdown/markdown v0.0.0-20231222211730-1d6d20845b47
+	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.21.0
@@ -668,7 +668,7 @@ require (
 	github.com/h2non/gock v1.2.0
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
 	github.com/hanwen/go-fuse v1.0.0
-	github.com/hanwen/go-fuse/v2 v2.5.1
+	github.com/hanwen/go-fuse/v2 v2.6.1
 	github.com/hanzoai/gochimp3 v0.0.0-20210305004051-da66ea724147
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
@@ -677,7 +677,7 @@ require (
 	github.com/hashicorp/go-immutable-radix v1.3.1
 	github.com/hashicorp/go-metrics v0.5.3
 	github.com/hashicorp/go-msgpack v0.5.5
-	github.com/hashicorp/go-msgpack/v2 v2.1.1
+	github.com/hashicorp/go-msgpack/v2 v2.1.2
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hashicorp/go-rootcerts v1.0.2
@@ -781,7 +781,7 @@ require (
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.8
 	github.com/kataras/golog v0.1.11
-	github.com/kataras/iris/v12 v12.2.10
+	github.com/kataras/iris/v12 v12.2.11
 	github.com/kataras/pio v0.0.13
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
@@ -929,7 +929,7 @@ require (
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.2
-	github.com/nats-io/nats-server/v2 v2.9.23
+	github.com/nats-io/nats-server/v2 v2.10.21
 	github.com/nats-io/nkeys v0.4.7
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
@@ -957,11 +957,11 @@ require (
 	github.com/onsi/ginkgo/v2 v2.20.2
 	github.com/onsi/gomega v1.34.2
 	github.com/openacid/low v0.1.21
-	github.com/openconfig/gnmi v0.0.0-20220503232738-6eb133c65a13
+	github.com/openconfig/gnmi v0.11.0
 	github.com/openconfig/goyang v1.0.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
-	github.com/opencontainers/runc v1.1.14
+	github.com/opencontainers/runc v1.1.15
 	github.com/opencontainers/selinux v1.11.0
 	github.com/opensearch-project/opensearch-go v1.1.0
 	github.com/opensearch-project/opensearch-go/v2 v2.3.0
@@ -1187,7 +1187,7 @@ require (
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.2.0
 	github.com/tdewolff/minify/v2 v2.20.37
-	github.com/tdewolff/parse/v2 v2.7.16
+	github.com/tdewolff/parse/v2 v2.7.18
 	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
@@ -1225,7 +1225,7 @@ require (
 	github.com/ultraware/whitespace v0.1.1
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
-	github.com/urfave/cli v1.22.15
+	github.com/urfave/cli v1.22.16
 	github.com/urfave/cli/v2 v2.27.4
 	github.com/uudashr/gocognit v1.1.3
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
@@ -1248,7 +1248,7 @@ require (
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wavefronthq/wavefront-sdk-go v0.15.0
 	github.com/wk8/go-ordered-map/v2 v2.1.8
-	github.com/wlynxg/anet v0.0.3
+	github.com/wlynxg/anet v0.0.5
 	github.com/x448/float16 v0.8.4
 	github.com/xanzy/go-gitlab v0.111.0
 	github.com/xanzy/ssh-agent v0.3.3
@@ -1266,7 +1266,7 @@ require (
 	github.com/ykadowak/zerologlint v0.1.5
 	github.com/yohcop/openid-go v1.0.1
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
-	github.com/yuin/goldmark v1.7.4
+	github.com/yuin/goldmark v1.7.6
 	github.com/yuin/goldmark-emoji v1.0.3
 	github.com/yuin/goldmark-highlighting v0.0.0-20220208100518-594be1970594
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
@@ -1311,18 +1311,18 @@ require (
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib v1.30.0
-	go.opentelemetry.io/contrib/detectors/gcp v1.29.0
+	go.opentelemetry.io/contrib/detectors/gcp v1.30.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.55.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.55.0
 	go.opentelemetry.io/contrib/propagators/aws v1.30.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.30.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.30.0
 	go.opentelemetry.io/contrib/propagators/ot v1.30.0
-	go.opentelemetry.io/otel v1.30.0
-	go.opentelemetry.io/otel/metric v1.30.0
-	go.opentelemetry.io/otel/sdk v1.30.0
-	go.opentelemetry.io/otel/sdk/metric v1.30.0
-	go.opentelemetry.io/otel/trace v1.30.0
+	go.opentelemetry.io/otel v1.31.0
+	go.opentelemetry.io/otel/metric v1.31.0
+	go.opentelemetry.io/otel/sdk v1.31.0
+	go.opentelemetry.io/otel/sdk/metric v1.31.0
+	go.opentelemetry.io/otel/trace v1.31.0
 	go.opentelemetry.io/proto/otlp v1.3.1
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
 	go.step.sm/crypto v0.54.0
@@ -1343,7 +1343,7 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241004190924-225e2abe05e6
 	golang.org/x/exp/typeparams v0.0.0-20241004190924-225e2abe05e6
-	golang.org/x/image v0.20.0
+	golang.org/x/image v0.21.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mod v0.21.0
 	golang.org/x/net v0.30.0
@@ -1450,6 +1450,7 @@ require (
 )
 
 require (
+	bitbucket.org/creachadair/stringset v0.0.14 // indirect
 	cloud.google.com/go/firestore v1.17.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
@@ -1461,7 +1462,7 @@ require (
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.48.1 // indirect
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.48.2 // indirect
 	github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
