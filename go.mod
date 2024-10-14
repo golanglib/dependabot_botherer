@@ -106,7 +106,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct v1.0.0
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.0
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.24.1
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.24.2
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.48.2
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
@@ -127,7 +127,7 @@ require (
 	github.com/PaesslerAG/gval v1.2.2
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
-	github.com/ProtonMail/go-crypto v1.1.0-alpha.2
+	github.com/ProtonMail/go-crypto v1.1.0-beta.0-proton
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
 	github.com/ProtonMail/gopenpgp/v2 v2.7.5
@@ -136,7 +136,7 @@ require (
 	github.com/RoaringBitmap/roaring v1.9.4
 	github.com/RoaringBitmap/roaring/v2 v2.3.5
 	github.com/RyuaNerin/go-krypto v1.3.0
-	github.com/RyuaNerin/testingutil v0.1.0
+	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.12.4
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
@@ -225,7 +225,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.41
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.12
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.17
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.31
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.32
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.41.2
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.2
@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.182.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.2
-	github.com/aws/aws-sdk-go-v2/service/kms v1.36.3
+	github.com/aws/aws-sdk-go-v2/service/kms v1.37.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.65.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.2
@@ -487,7 +487,7 @@ require (
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.7
-	github.com/go-acme/lego/v3 v3.2.0
+	github.com/go-acme/lego/v3 v3.9.0
 	github.com/go-ap/activitypub v0.0.0-20240910141749-b4b8c8aa484c
 	github.com/go-ap/errors v0.0.0-20240910140019-1e9d33cc1568
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
@@ -698,12 +698,12 @@ require (
 	github.com/hashicorp/terraform-exec v0.21.0
 	github.com/hashicorp/terraform-json v0.22.1
 	github.com/hashicorp/yamux v0.1.2
-	github.com/hedhyw/rex v0.6.0
+	github.com/hedhyw/rex v1.0.0
 	github.com/hellofresh/health-go/v5 v5.5.3
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
 	github.com/henrybear327/go-proton-api v1.0.0
 	github.com/hetznercloud/hcloud-go v1.59.1
-	github.com/hetznercloud/hcloud-go/v2 v2.10.2
+	github.com/hetznercloud/hcloud-go/v2 v2.13.1
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/hinshun/vt10x v0.0.0-20220301184237-5011da428d02
 	github.com/huandu/xstrings v1.5.0
@@ -746,7 +746,7 @@ require (
 	github.com/jcmturner/gofork v1.7.6
 	github.com/jcmturner/goidentity/v6 v6.0.1
 	github.com/jcmturner/gokrb5/v8 v8.4.4
-	github.com/jcmturner/rpc v1.1.1
+	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jedib0t/go-pretty/v6 v6.6.0
 	github.com/jellydator/ttlcache/v3 v3.3.0
@@ -768,7 +768,7 @@ require (
 	github.com/jmhodges/levigo v1.0.0
 	github.com/joho/godotenv v1.5.1
 	github.com/jonboulle/clockwork v0.4.0
-	github.com/josephspurrier/goversioninfo v1.4.0
+	github.com/josephspurrier/goversioninfo v1.4.1
 	github.com/josharian/intern v1.0.0
 	github.com/josharian/native v1.1.0
 	github.com/jpillora/backoff v1.0.0
@@ -780,7 +780,7 @@ require (
 	github.com/karamaru-alpha/copyloopvar v1.1.0
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.8
-	github.com/kataras/golog v0.1.11
+	github.com/kataras/golog v0.1.12
 	github.com/kataras/iris/v12 v12.2.11
 	github.com/kataras/pio v0.0.13
 	github.com/kataras/sitemap v0.0.6
@@ -833,14 +833,14 @@ require (
 	github.com/manifoldco/promptui v0.9.0
 	github.com/maratori/testableexamples v1.0.0
 	github.com/maratori/testpackage v1.1.1
-	github.com/markbates/going v1.0.0
+	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.80.0
 	github.com/marten-seemann/qtls v0.10.0
 	github.com/marten-seemann/qtls-go1-15 v0.1.5
 	github.com/maruel/natural v1.1.1
 	github.com/mastercactapus/proxyprotocol v0.0.4
 	github.com/matoous/godox v0.0.0-20240105082147-c5b5e0e7c0c0
-	github.com/matryer/is v1.4.0
+	github.com/matryer/is v1.4.1
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
 	github.com/mattn/go-colorable v0.1.13
 	github.com/mattn/go-ieproxy v0.0.12
@@ -958,7 +958,7 @@ require (
 	github.com/onsi/gomega v1.34.2
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.11.0
-	github.com/openconfig/goyang v1.0.0
+	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
 	github.com/opencontainers/runc v1.1.15
@@ -972,7 +972,7 @@ require (
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.0
-	github.com/otiai10/mint v1.5.1
+	github.com/otiai10/mint v1.6.3
 	github.com/ovh/go-ovh v1.6.0
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/owenrumney/go-sarif/v2 v2.3.3
@@ -1186,7 +1186,7 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20240219080617-d494b6a8ace7
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.2.0
-	github.com/tdewolff/minify/v2 v2.20.37
+	github.com/tdewolff/minify/v2 v2.21.0
 	github.com/tdewolff/parse/v2 v2.7.18
 	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
 	github.com/tenntenn/modver v1.0.1
@@ -1206,7 +1206,7 @@ require (
 	github.com/timakin/bodyclose v0.0.0-20240125160201-f835fa56326a
 	github.com/timonwong/loggercheck v0.9.4
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
-	github.com/tinylib/msgp v1.1.9
+	github.com/tinylib/msgp v1.2.2
 	github.com/tj/assert v0.0.3
 	github.com/tklauser/go-sysconf v0.3.14
 	github.com/tklauser/numcpus v0.9.0
@@ -1226,7 +1226,7 @@ require (
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
 	github.com/urfave/cli v1.22.16
-	github.com/urfave/cli/v2 v2.27.4
+	github.com/urfave/cli/v2 v2.27.5
 	github.com/uudashr/gocognit v1.1.3
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
@@ -1267,7 +1267,7 @@ require (
 	github.com/yohcop/openid-go v1.0.1
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
 	github.com/yuin/goldmark v1.7.6
-	github.com/yuin/goldmark-emoji v1.0.3
+	github.com/yuin/goldmark-emoji v1.0.4
 	github.com/yuin/goldmark-highlighting v0.0.0-20220208100518-594be1970594
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	github.com/yuin/goldmark-meta v1.1.0
