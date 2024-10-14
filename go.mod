@@ -1248,7 +1248,7 @@ require (
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wavefronthq/wavefront-sdk-go v0.15.0
 	github.com/wk8/go-ordered-map/v2 v2.1.8
-	github.com/wlynxg/anet v0.0.3
+	github.com/wlynxg/anet v0.0.5
 	github.com/x448/float16 v0.8.4
 	github.com/xanzy/go-gitlab v0.111.0
 	github.com/xanzy/ssh-agent v0.3.3
