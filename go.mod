@@ -1050,7 +1050,7 @@ require (
 	github.com/quic-go/quic-go v0.47.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.68.1
-	github.com/redis/go-redis/v9 v9.6.1
+	github.com/redis/go-redis/v9 v9.6.2
 	github.com/redis/rueidis v1.0.47
 	github.com/refraction-networking/utls v1.6.7
 	github.com/relvacode/iso8601 v1.4.0
@@ -1312,9 +1312,9 @@ require (
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib v1.30.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.31.0
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.55.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.56.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.55.0
-	go.opentelemetry.io/contrib/propagators/aws v1.30.0
+	go.opentelemetry.io/contrib/propagators/aws v1.31.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.30.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.31.0
 	go.opentelemetry.io/contrib/propagators/ot v1.31.0
