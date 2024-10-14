@@ -498,7 +498,7 @@ require (
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
 	github.com/go-critic/go-critic v0.11.5
-	github.com/go-enry/go-enry/v2 v2.9.0
+	github.com/go-enry/go-enry/v2 v2.9.1
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-faster/city v1.0.1
 	github.com/go-faster/errors v0.7.1
@@ -515,7 +515,7 @@ require (
 	github.com/go-kratos/consul v0.1.5
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
-	github.com/go-kratos/kratos/v2 v2.8.0
+	github.com/go-kratos/kratos/v2 v2.8.1
 	github.com/go-ldap/ldap/v3 v3.4.8
 	github.com/go-llsqlite/adapter v0.1.0
 	github.com/go-llsqlite/crawshaw v0.5.5
@@ -1050,7 +1050,7 @@ require (
 	github.com/quic-go/quic-go v0.47.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.68.1
-	github.com/redis/go-redis/v9 v9.6.1
+	github.com/redis/go-redis/v9 v9.6.2
 	github.com/redis/rueidis v1.0.47
 	github.com/refraction-networking/utls v1.6.7
 	github.com/relvacode/iso8601 v1.4.0
@@ -1250,7 +1250,7 @@ require (
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 	github.com/wlynxg/anet v0.0.5
 	github.com/x448/float16 v0.8.4
-	github.com/xanzy/go-gitlab v0.111.0
+	github.com/xanzy/go-gitlab v0.112.0
 	github.com/xanzy/ssh-agent v0.3.3
 	github.com/xdg-go/pbkdf2 v1.0.0
 	github.com/xdg-go/scram v1.1.2
@@ -1316,7 +1316,7 @@ require (
 	go.opentelemetry.io/contrib/propagators/autoprop v0.55.0
 	go.opentelemetry.io/contrib/propagators/aws v1.30.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.30.0
-	go.opentelemetry.io/contrib/propagators/jaeger v1.30.0
+	go.opentelemetry.io/contrib/propagators/jaeger v1.31.0
 	go.opentelemetry.io/contrib/propagators/ot v1.30.0
 	go.opentelemetry.io/otel v1.31.0
 	go.opentelemetry.io/otel/metric v1.31.0
