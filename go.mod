@@ -596,7 +596,7 @@ require (
 	github.com/golangci/plugin-module-register v0.1.1
 	github.com/golangci/revgrep v0.5.3
 	github.com/golangci/unconvert v0.0.0-20240309020433-c5143eacb3ed
-	github.com/gomarkdown/markdown v0.0.0-20231222211730-1d6d20845b47
+	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.21.0
@@ -781,7 +781,7 @@ require (
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.8
 	github.com/kataras/golog v0.1.11
-	github.com/kataras/iris/v12 v12.2.10
+	github.com/kataras/iris/v12 v12.2.11
 	github.com/kataras/pio v0.0.13
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
