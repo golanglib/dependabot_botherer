@@ -698,7 +698,7 @@ require (
 	github.com/hashicorp/terraform-exec v0.21.0
 	github.com/hashicorp/terraform-json v0.22.1
 	github.com/hashicorp/yamux v0.1.2
-	github.com/hedhyw/rex v0.6.0
+	github.com/hedhyw/rex v1.0.0
 	github.com/hellofresh/health-go/v5 v5.5.3
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
 	github.com/henrybear327/go-proton-api v1.0.0
