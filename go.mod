@@ -472,7 +472,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.0
 	github.com/gabriel-vasile/mimetype v1.4.5
-	github.com/gaissmai/bart v0.11.1
+	github.com/gaissmai/bart v0.13.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/ghostiam/protogetter v0.3.8
