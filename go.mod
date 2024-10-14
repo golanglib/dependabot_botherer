@@ -471,7 +471,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.0
-	github.com/gabriel-vasile/mimetype v1.4.5
+	github.com/gabriel-vasile/mimetype v1.4.6
 	github.com/gaissmai/bart v0.13.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
@@ -498,7 +498,7 @@ require (
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
 	github.com/go-critic/go-critic v0.11.5
-	github.com/go-enry/go-enry/v2 v2.9.0
+	github.com/go-enry/go-enry/v2 v2.9.1
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-faster/city v1.0.1
 	github.com/go-faster/errors v0.7.1
@@ -1093,7 +1093,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.0.7
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.32.0
+	github.com/sashabaranov/go-openai v1.32.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.27.0
 	github.com/sassoftware/go-rpmutils v0.4.0
@@ -1311,7 +1311,7 @@ require (
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib v1.30.0
-	go.opentelemetry.io/contrib/detectors/gcp v1.30.0
+	go.opentelemetry.io/contrib/detectors/gcp v1.31.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.55.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.55.0
 	go.opentelemetry.io/contrib/propagators/aws v1.30.0
