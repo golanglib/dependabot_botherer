@@ -2962,8 +2962,8 @@ github.com/hashicorp/vault/api v1.14.0 h1:Ah3CFLixD5jmjusOgm8grfN9M0d+Y8fVR2SW0K
 github.com/hashicorp/vault/api v1.14.0/go.mod h1:pV9YLxBGSz+cItFDd8Ii4G17waWOQ32zVjMWHe/cOqk=
 github.com/hashicorp/yamux v0.1.2 h1:XtB8kyFOyHXYVFnwT5C3+Bdo8gArse7j2AQ0DA0Uey8=
 github.com/hashicorp/yamux v0.1.2/go.mod h1:C+zze2n6e/7wshOZep2A70/aQU6QBRWJO/G6FT1wIns=
-github.com/hedhyw/rex v0.6.0 h1:VoCgjAn2st5qshzHM3Qcd4lEHq8y1PDGNp+MO5x0G64=
-github.com/hedhyw/rex v0.6.0/go.mod h1:n9CYz3ztkAp56mrMXw65Q3LeXCO2AZSUvO7VMHsVMF8=
+github.com/hedhyw/rex v1.0.0 h1:f7QNmVMBsmuEop/wg85byq6YbOHQr0q3Y78Q3IwKp+I=
+github.com/hedhyw/rex v1.0.0/go.mod h1:n9CYz3ztkAp56mrMXw65Q3LeXCO2AZSUvO7VMHsVMF8=
 github.com/hellofresh/health-go/v5 v5.5.3 h1:i+mfJcA8te/QhBzrBZxOw344XgIvHrc9IQzrEyn3OUQ=
 github.com/hellofresh/health-go/v5 v5.5.3/go.mod h1:maWprKoK7N9zno7l2ubFEGVF2SDmTHq5D9sV+lCFmGs=
 github.com/henrybear327/Proton-API-Bridge v1.0.0 h1:gjKAaWfKu++77WsZTHg6FUyPC5W0LTKWQciUm8PMZb0=
