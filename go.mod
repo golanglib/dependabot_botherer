@@ -471,7 +471,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.0
-	github.com/gabriel-vasile/mimetype v1.4.5
+	github.com/gabriel-vasile/mimetype v1.4.6
 	github.com/gaissmai/bart v0.13.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
@@ -1093,7 +1093,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.0.7
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.32.0
+	github.com/sashabaranov/go-openai v1.32.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.27.0
 	github.com/sassoftware/go-rpmutils v0.4.0
