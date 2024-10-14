@@ -804,7 +804,7 @@ require (
 	github.com/kunwardeep/paralleltest v1.0.10
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyoh86/exportloopref v0.1.11
-	github.com/labstack/echo/v4 v4.11.4
+	github.com/labstack/echo/v4 v4.12.0
 	github.com/labstack/gommon v0.4.2
 	github.com/lasiar/canonicalheader v1.1.1
 	github.com/ldez/gomoddirectives v0.2.4
