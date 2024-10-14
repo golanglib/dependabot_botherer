@@ -958,7 +958,7 @@ require (
 	github.com/onsi/gomega v1.34.2
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.11.0
-	github.com/openconfig/goyang v1.0.0
+	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
 	github.com/opencontainers/runc v1.1.15
