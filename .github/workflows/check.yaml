@@ -14,6 +14,7 @@ concurrency:
 
 env:
   GOPATH: /gopath
+  GOCACHE: /gopath/.cache/go-build
 
 jobs:
   check:
@@ -52,6 +53,15 @@ jobs:
       - name: Tidy
         run: |
           go mod tidy
+
+      - name: Build
+        run: |
+          CGO_ENABLED=1 go build -o main -v .
+
+      - name: Run
+        run: |
+          ls -lh main
+          ./main || true
 
       - name: Always save cache
         if: always()
