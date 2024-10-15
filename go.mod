@@ -1277,7 +1277,7 @@ require (
 	github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940
 	github.com/zeebo/assert v1.3.1
 	github.com/zeebo/blake3 v0.2.4
-	github.com/zeebo/errs v1.3.0
+	github.com/zeebo/errs v1.4.0
 	github.com/zeebo/pcg v1.0.1
 	github.com/zeebo/xxh3 v1.0.2
 	github.com/zerobounce/zerobouncego v1.1.0
