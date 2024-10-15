@@ -363,7 +363,7 @@ require (
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/containerd/cgroups/v3 v3.0.3
-	github.com/containerd/containerd v1.7.22
+	github.com/containerd/containerd v1.7.23
 	github.com/containerd/containerd/api v1.7.19
 	github.com/containerd/continuity v0.4.3
 	github.com/containerd/errdefs v0.3.0
@@ -1204,7 +1204,7 @@ require (
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.1.7
 	github.com/timakin/bodyclose v0.0.0-20240125160201-f835fa56326a
-	github.com/timonwong/loggercheck v0.9.4
+	github.com/timonwong/loggercheck v0.10.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.2.2
 	github.com/tj/assert v0.0.3
@@ -1277,7 +1277,7 @@ require (
 	github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940
 	github.com/zeebo/assert v1.3.1
 	github.com/zeebo/blake3 v0.2.4
-	github.com/zeebo/errs v1.3.0
+	github.com/zeebo/errs v1.4.0
 	github.com/zeebo/pcg v1.0.1
 	github.com/zeebo/xxh3 v1.0.2
 	github.com/zerobounce/zerobouncego v1.1.0
