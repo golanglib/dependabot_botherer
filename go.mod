@@ -1136,7 +1136,7 @@ require (
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.10.0
 	github.com/skeema/knownhosts v1.3.0
-	github.com/slack-go/slack v0.14.0
+	github.com/slack-go/slack v0.15.0
 	github.com/slackhq/nebula v1.9.4
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
