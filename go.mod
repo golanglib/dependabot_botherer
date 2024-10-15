@@ -577,7 +577,7 @@ require (
 	github.com/gofrs/uuid/v5 v5.3.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
-	github.com/gohugoio/hugo v0.135.0
+	github.com/gohugoio/hugo v0.136.0
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/golang-sql/sqlexp v0.1.0
@@ -1524,6 +1524,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golangci/dupl v0.0.0-20180902072040-3e9179ac440a // indirect
 	github.com/google/flatbuffers v24.3.25+incompatible // indirect
+	github.com/google/go-replayers/httpreplay v1.2.0 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
 	github.com/gorilla/schema v1.4.1 // indirect
 	github.com/gravitational/trace v1.1.16-0.20220114165159-14a9a7dd6aaf // indirect
