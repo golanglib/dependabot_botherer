@@ -363,7 +363,7 @@ require (
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/containerd/cgroups/v3 v3.0.3
-	github.com/containerd/containerd v1.7.22
+	github.com/containerd/containerd v1.7.23
 	github.com/containerd/containerd/api v1.7.19
 	github.com/containerd/continuity v0.4.3
 	github.com/containerd/errdefs v0.3.0
