@@ -285,7 +285,7 @@ require (
 	github.com/blevesearch/zapx/v12 v12.3.10
 	github.com/blevesearch/zapx/v13 v13.3.10
 	github.com/blevesearch/zapx/v14 v14.3.10
-	github.com/blevesearch/zapx/v15 v15.3.13
+	github.com/blevesearch/zapx/v15 v15.3.14
 	github.com/blevesearch/zapx/v16 v16.1.6
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/blues/jsonata-go v1.5.4
@@ -311,7 +311,7 @@ require (
 	github.com/bufbuild/protocompile v0.14.1
 	github.com/bufbuild/protovalidate-go v0.7.2
 	github.com/buger/jsonparser v1.1.1
-	github.com/buildkite/terminal-to-html/v3 v3.16.2
+	github.com/buildkite/terminal-to-html/v3 v3.16.3
 	github.com/butuzov/ireturn v0.3.0
 	github.com/butuzov/mirror v1.2.0
 	github.com/bytedance/sonic v1.12.3
@@ -1093,7 +1093,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.0.7
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.32.1
+	github.com/sashabaranov/go-openai v1.32.2
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.27.0
 	github.com/sassoftware/go-rpmutils v0.4.0
