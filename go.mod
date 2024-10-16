@@ -1361,7 +1361,7 @@ require (
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.200.0
+	google.golang.org/api v0.201.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241007155032-5fefd90f89a9
 	google.golang.org/genproto/googleapis/api v0.0.0-20241007155032-5fefd90f89a9
