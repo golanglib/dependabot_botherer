@@ -1524,8 +1524,8 @@ github.com/blevesearch/zapx/v14 v14.2.0/go.mod h1:GNgZusc1p4ot040cBQMRGEZobvwjCq
 github.com/blevesearch/zapx/v14 v14.3.10 h1:SG6xlsL+W6YjhX5N3aEiL/2tcWh3DO75Bnz77pSwwKU=
 github.com/blevesearch/zapx/v14 v14.3.10/go.mod h1:qqyuR0u230jN1yMmE4FIAuCxmahRQEOehF78m6oTgns=
 github.com/blevesearch/zapx/v15 v15.2.0/go.mod h1:MmQceLpWfME4n1WrBFIwplhWmaQbQqLQARpaKUEOs/A=
-github.com/blevesearch/zapx/v15 v15.3.13 h1:6EkfaZiPlAxqXz0neniq35my6S48QI94W/wyhnpDHHQ=
-github.com/blevesearch/zapx/v15 v15.3.13/go.mod h1:Turk/TNRKj9es7ZpKK95PS7f6D44Y7fAFy8F4LXQtGg=
+github.com/blevesearch/zapx/v15 v15.3.14 h1:5JAShxMAAXaZQxk+Cxfpd8w2ktOpVlbn18pliQuvv70=
+github.com/blevesearch/zapx/v15 v15.3.14/go.mod h1:Turk/TNRKj9es7ZpKK95PS7f6D44Y7fAFy8F4LXQtGg=
 github.com/blevesearch/zapx/v16 v16.1.6 h1:3g1xL9HQMRURaiLiA0lBi6uTjp6w7VQlFg0XjdHvYcs=
 github.com/blevesearch/zapx/v16 v16.1.6/go.mod h1:I1CnZUekZFlJZ+cUCnmoJZTD49suuunjuH6BdOTtT9g=
 github.com/blizzy78/varnamelen v0.8.0 h1:oqSblyuQvFsW1hbBHh1zfwrKe3kcSj0rnXkKzsQ089M=
@@ -4360,8 +4360,8 @@ github.com/santhosh-tekuri/jsonschema v1.2.4 h1:hNhW8e7t+H1vgY+1QeEQpveR6D4+OwKP
 github.com/santhosh-tekuri/jsonschema v1.2.4/go.mod h1:TEAUOeZSmIxTTuHatJzrvARHiuO9LYd+cIxzgEHCQI4=
 github.com/santhosh-tekuri/jsonschema/v5 v5.3.1 h1:lZUw3E0/J3roVtGQ+SCrUrg3ON6NgVqpn3+iol9aGu4=
 github.com/santhosh-tekuri/jsonschema/v5 v5.3.1/go.mod h1:uToXkOrWAZ6/Oc07xWQrPOhJotwFIyu2bBVN41fcDUY=
-github.com/sashabaranov/go-openai v1.32.1 h1:JmdOa6d+cQwvGpBJigQf+dq40Qc20b+1HcXRGVOmqFw=
-github.com/sashabaranov/go-openai v1.32.1/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
+github.com/sashabaranov/go-openai v1.32.2 h1:8z9PfYaLPbRzmJIYpwcWu6z3XU8F+RwVMF1QRSeSF2M=
+github.com/sashabaranov/go-openai v1.32.2/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
 github.com/sashamelentyev/interfacebloat v1.1.0 h1:xdRdJp0irL086OyW1H/RTZTr1h/tMEOsumirXcOJqAw=
 github.com/sashamelentyev/interfacebloat v1.1.0/go.mod h1:+Y9yU5YdTkrNvoX0xHc84dxiN1iBi9+G8zZIhPVoNjQ=
 github.com/sashamelentyev/usestdlibvars v1.27.0 h1:t/3jZpSXtRPRf2xr0m63i32ZrusyurIGT9E5wAvXQnI=
