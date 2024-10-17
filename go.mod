@@ -260,7 +260,7 @@ require (
 	github.com/bitly/go-simplejson v0.5.1
 	github.com/bits-and-blooms/bitset v1.14.3
 	github.com/bits-and-blooms/bloom/v3 v3.7.0
-	github.com/bkielbasa/cyclop v1.2.2
+	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.4.2
 	github.com/blevesearch/bleve_index_api v1.1.12
