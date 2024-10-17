@@ -163,7 +163,7 @@ require (
 	github.com/alexflint/go-arg v1.5.1
 	github.com/alexflint/go-scalar v1.2.0
 	github.com/alexkohler/nakedret v1.0.2
-	github.com/alexkohler/nakedret/v2 v2.0.4
+	github.com/alexkohler/nakedret/v2 v2.0.5
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
@@ -285,7 +285,7 @@ require (
 	github.com/blevesearch/zapx/v12 v12.3.10
 	github.com/blevesearch/zapx/v13 v13.3.10
 	github.com/blevesearch/zapx/v14 v14.3.10
-	github.com/blevesearch/zapx/v15 v15.3.14
+	github.com/blevesearch/zapx/v15 v15.3.15
 	github.com/blevesearch/zapx/v16 v16.1.6
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/blues/jsonata-go v1.5.4
