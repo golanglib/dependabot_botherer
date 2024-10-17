@@ -18,7 +18,7 @@ require (
 	cloud.google.com/go/datacatalog v1.22.1
 	cloud.google.com/go/iam v1.2.1
 	cloud.google.com/go/kms v1.20.0
-	cloud.google.com/go/logging v1.11.0
+	cloud.google.com/go/logging v1.12.0
 	cloud.google.com/go/longrunning v0.6.1
 	cloud.google.com/go/monitoring v1.21.1
 	cloud.google.com/go/pubsub v1.44.0
