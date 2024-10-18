@@ -333,6 +333,7 @@ require (
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.1.1
+	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v0.13.0
 	github.com/charmbracelet/x/ansi v0.3.2
@@ -481,6 +482,7 @@ require (
 	github.com/gin-contrib/sse v0.1.0
 	github.com/gin-contrib/timeout v1.0.1
 	github.com/gin-gonic/gin v1.10.0
+	github.com/git-lfs/pktline v0.0.0-20230103162542-ca444d533ef1
 	github.com/gkampitakis/ciinfo v0.3.0
 	github.com/gkampitakis/go-diff v1.3.2
 	github.com/gkampitakis/go-snaps v0.5.7
@@ -623,6 +625,7 @@ require (
 	github.com/google/gopacket v1.1.19
 	github.com/google/licensecheck v0.3.1
 	github.com/google/licenseclassifier v0.0.0-20221004142553-c1ed8fcf4bab
+	github.com/google/licenseclassifier/v2 v2.0.0-alpha.1
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.0
 	github.com/google/pprof v0.0.0-20241008150032-332c0e1a4a34
@@ -1475,6 +1478,7 @@ require (
 	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
+	github.com/avast/retry-go v2.4.2+incompatible // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.21 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.21 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
@@ -1514,6 +1518,9 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/getkin/kin-openapi v0.127.0 // indirect
+	github.com/git-lfs/git-lfs/v3 v3.3.0 // indirect
+	github.com/git-lfs/gitobj/v2 v2.1.1 // indirect
+	github.com/git-lfs/wildmatch/v2 v2.0.1 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
 	github.com/go-xmlfmt/xmlfmt v1.1.2 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
@@ -1552,6 +1559,7 @@ require (
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/klauspost/pgzip v1.2.6 // indirect
 	github.com/knz/go-libedit v1.10.1 // indirect
+	github.com/leonelquinteros/gotext v1.5.0 // indirect
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/lyft/protoc-gen-star/v2 v2.0.4-0.20230330145011-496ad1ac90a4 // indirect
 	github.com/mailgun/multibuf v0.1.2 // indirect
@@ -1588,6 +1596,7 @@ require (
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff // indirect
+	github.com/rubyist/tracerx v0.0.0-20170927163412-787959303086 // indirect
 	github.com/ryszard/goskiplist v0.0.0-20150312221310-2dfbae5fcf46 // indirect
 	github.com/sahilm/fuzzy v0.1.1 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da // indirect
