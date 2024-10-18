@@ -61,7 +61,7 @@ require (
 	github.com/Azure/azure-event-hubs-go/v3 v3.6.2
 	github.com/Azure/azure-kusto-go v0.16.1
 	github.com/Azure/azure-pipeline-go v0.2.3
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.15.0
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.16.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.8.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity/cache v0.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute v1.0.0
@@ -124,7 +124,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/OpenPeeDeeP/depguard v1.1.1
 	github.com/OpenPeeDeeP/depguard/v2 v2.2.0
-	github.com/PaesslerAG/gval v1.2.2
+	github.com/PaesslerAG/gval v1.2.3
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
 	github.com/ProtonMail/go-crypto v1.1.0-beta.0-proton
@@ -167,7 +167,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.31
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.32
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -266,7 +266,7 @@ require (
 	github.com/blevesearch/bleve_index_api v1.1.12
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
-	github.com/blevesearch/go-faiss v1.0.22
+	github.com/blevesearch/go-faiss v1.0.23
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
@@ -286,7 +286,7 @@ require (
 	github.com/blevesearch/zapx/v13 v13.3.10
 	github.com/blevesearch/zapx/v14 v14.3.10
 	github.com/blevesearch/zapx/v15 v15.3.15
-	github.com/blevesearch/zapx/v16 v16.1.6
+	github.com/blevesearch/zapx/v16 v16.1.7
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/blues/jsonata-go v1.5.4
 	github.com/bmatcuk/doublestar v1.3.4
@@ -1128,7 +1128,7 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
 	github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/signalfx/golib/v3 v3.3.54
+	github.com/signalfx/golib/v3 v3.3.55
 	github.com/signalfx/sapm-proto v0.16.0
 	github.com/sijms/go-ora/v2 v2.8.22
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
@@ -1184,7 +1184,7 @@ require (
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
-	github.com/swaggo/swag v1.16.3
+	github.com/swaggo/swag v1.16.4
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/t3rm1n4l/go-mega v0.0.0-20240219080617-d494b6a8ace7
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
@@ -1335,7 +1335,7 @@ require (
 	go.uber.org/dig v1.18.0
 	go.uber.org/fx v1.23.0
 	go.uber.org/goleak v1.3.0
-	go.uber.org/mock v0.4.0
+	go.uber.org/mock v0.5.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/ratelimit v0.3.1
 	go.uber.org/zap v1.27.0
@@ -1383,7 +1383,7 @@ require (
 	gopkg.in/validator.v2 v2.0.1
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/datatypes v1.2.3
+	gorm.io/datatypes v1.2.4
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/driver/sqlite v1.5.6
