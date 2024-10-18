@@ -347,6 +347,7 @@ github.com/cespare/xxhash/v2
 github.com/charithe/durationcheck
 github.com/charmbracelet/bubbles
 github.com/charmbracelet/bubbletea
+github.com/charmbracelet/git-lfs-transfer
 github.com/charmbracelet/glamour
 github.com/charmbracelet/lipgloss
 github.com/charmbracelet/x/ansi
@@ -499,6 +500,7 @@ github.com/gin-contrib/sessions
 github.com/gin-contrib/sse
 github.com/gin-contrib/timeout
 github.com/gin-gonic/gin
+github.com/git-lfs/pktline
 github.com/gkampitakis/ciinfo
 github.com/gkampitakis/go-diff
 github.com/gkampitakis/go-snaps
@@ -644,6 +646,7 @@ github.com/google/gofuzz
 github.com/google/gopacket
 github.com/google/licensecheck
 github.com/google/licenseclassifier
+github.com/google/licenseclassifier/v2
 github.com/google/martian/v3
 github.com/google/osv-scanner
 github.com/google/pprof
