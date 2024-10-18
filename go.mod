@@ -641,7 +641,7 @@ require (
 	github.com/gopacket/gopacket v1.3.0
 	github.com/gopcua/opcua v0.5.3
 	github.com/gophercloud/gophercloud v1.14.1
-	github.com/gophercloud/gophercloud/v2 v2.1.1
+	github.com/gophercloud/gophercloud/v2 v2.2.0
 	github.com/gopherjs/gopherjs v1.17.2
 	github.com/gorcon/rcon v1.3.5
 	github.com/gordonklaus/ineffassign v0.1.0
