@@ -625,7 +625,7 @@ require (
 	github.com/google/gopacket v1.1.19
 	github.com/google/licensecheck v0.3.1
 	github.com/google/licenseclassifier v0.0.0-20221004142553-c1ed8fcf4bab
-	github.com/google/licenseclassifier/v2 v2.0.0-alpha.1
+	github.com/google/licenseclassifier/v2 v2.0.0
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.0
 	github.com/google/pprof v0.0.0-20241008150032-332c0e1a4a34
