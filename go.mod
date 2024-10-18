@@ -124,7 +124,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/OpenPeeDeeP/depguard v1.1.1
 	github.com/OpenPeeDeeP/depguard/v2 v2.2.0
-	github.com/PaesslerAG/gval v1.2.2
+	github.com/PaesslerAG/gval v1.2.3
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
 	github.com/ProtonMail/go-crypto v1.1.0-beta.0-proton
@@ -167,7 +167,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.31
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.32
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -1184,7 +1184,7 @@ require (
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
-	github.com/swaggo/swag v1.16.3
+	github.com/swaggo/swag v1.16.4
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/t3rm1n4l/go-mega v0.0.0-20240219080617-d494b6a8ace7
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
@@ -1383,7 +1383,7 @@ require (
 	gopkg.in/validator.v2 v2.0.1
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/datatypes v1.2.3
+	gorm.io/datatypes v1.2.4
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/driver/sqlite v1.5.6
