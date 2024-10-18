@@ -266,7 +266,7 @@ require (
 	github.com/blevesearch/bleve_index_api v1.1.12
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
-	github.com/blevesearch/go-faiss v1.0.22
+	github.com/blevesearch/go-faiss v1.0.23
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
@@ -286,7 +286,7 @@ require (
 	github.com/blevesearch/zapx/v13 v13.3.10
 	github.com/blevesearch/zapx/v14 v14.3.10
 	github.com/blevesearch/zapx/v15 v15.3.15
-	github.com/blevesearch/zapx/v16 v16.1.6
+	github.com/blevesearch/zapx/v16 v16.1.7
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/blues/jsonata-go v1.5.4
 	github.com/bmatcuk/doublestar v1.3.4
