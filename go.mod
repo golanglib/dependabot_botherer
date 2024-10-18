@@ -1184,7 +1184,7 @@ require (
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
-	github.com/swaggo/swag v1.16.3
+	github.com/swaggo/swag v1.16.4
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/t3rm1n4l/go-mega v0.0.0-20240219080617-d494b6a8ace7
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
