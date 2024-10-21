@@ -119,9 +119,9 @@ github.com/gwos/tcg
 //go: downloading github.com/gwos/tcg v0.0.0-20241016132914-74f3d7af9b65
 //go: downloading github.com/gwos/tcg/sdk v0.0.0
 //go: downloading github.com/prometheus/alertmanager v0.27.0
-//go: downloading k8s.io/metrics v0.31.0
 //go: downloading github.com/PaesslerAG/jsonpath v0.1.1
 //go: downloading github.com/patrickmn/go-cache v2.1.0+incompatible
+//go: downloading k8s.io/metrics v0.31.0
 //go: downloading github.com/gin-contrib/cors v1.7.2
 //go: downloading go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.54.0
 //go: downloading github.com/elastic/go-elasticsearch/v7 v7.17.10
@@ -148,6 +148,7 @@ github.com/gwos/tcg
 //	github.com/gwos/tcg/connectors/apm imports
 //	github.com/gwos/tcg/services imports
 //	github.com/gwos/tcg/sdk/errors: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: unknown revision sdk/v0.0.0
+//go: downloading k8s.io/gengo/v2 v2.0.0-20240812201722-3b05ca7b6e59
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
 github.com/hashicorp/consul
 //go: downloading github.com/hashicorp/consul v1.20.0
@@ -176,8 +177,8 @@ github.com/hashicorp/consul
 //go: downloading github.com/posener/complete v1.2.3
 //go: downloading github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2
 //go: downloading github.com/hashicorp/vault-plugin-auth-alicloud v0.14.0
-//go: downloading github.com/hashicorp/vault/api/auth/gcp v0.3.0
 //go: downloading github.com/hashicorp/vault/sdk v0.7.0
+//go: downloading github.com/hashicorp/vault/api/auth/gcp v0.3.0
 //go: downloading github.com/oklog/ulid/v2 v2.1.0
 //go: downloading github.com/hashicorp/hcp-sdk-go v0.80.0
 //go: downloading github.com/deckarep/golang-set/v2 v2.3.1
@@ -206,8 +207,8 @@ github.com/hashicorp/consul
 //go: downloading github.com/joyent/triton-go v1.7.1-0.20200416154420-6801d15b779f
 //go: downloading github.com/hashicorp/vic v1.5.1-0.20190403131502-bbfe86ec9443
 //go: downloading github.com/cosiner/argv v0.1.0
-//go: downloading github.com/renier/xmlrpc v0.0.0-20170708154548-ce4a1a486c03
 //go: downloading github.com/coreos/pkg v0.0.0-20220810130054-c7d1c02cb6cf
+//go: downloading github.com/renier/xmlrpc v0.0.0-20170708154548-ce4a1a486c03
 //go: downloading github.com/hashicorp/go-msgpack v1.1.5
 //go: downloading go.opentelemetry.io v0.1.0
 //go: github.com/hashicorp/consul imports
