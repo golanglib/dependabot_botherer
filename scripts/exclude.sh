@@ -9,15 +9,15 @@ GOSUM_BAK=$(mktemp)
 cp go.sum "$GOSUM_BAK"
 cp go.mod "$GOMOD_BAK"
 
-TEST_OUTPUT=$(mktemp)
+CHECK_OUTPUT=$(mktemp)
 
 while read -r MODULE; do
-  if ! go get "$MODULE@latest" &> "$TEST_OUTPUT"; then
+  if ! go get "$MODULE@latest" &> "$CHECK_OUTPUT"; then
     echo "$MODULE" >> exclude.txt
-    sed 's#^#//#' "$TEST_OUTPUT" >> exclude.txt
-  elif ! go run scripts/importable.go "$MODULE" &> "$TEST_OUTPUT"; then
-    sed 's#^#//#' "$TEST_OUTPUT" >> exclude.txt
+    sed 's#^#//#' "$CHECK_OUTPUT" >> exclude.txt
+  elif ! go run scripts/importable.go "$MODULE" &> "$CHECK_OUTPUT"; then
     echo "$MODULE" >> exclude.txt
+    sed 's#^#//#' "$CHECK_OUTPUT" >> exclude.txt
   fi
 done < list.txt
 
