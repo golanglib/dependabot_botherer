@@ -606,7 +606,7 @@ require (
 	github.com/golangci/revgrep v0.5.3
 	github.com/golangci/unconvert v0.0.0-20240309020433-c5143eacb3ed
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
-	github.com/gomodule/redigo v1.9.2
+	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.21.0
 	github.com/google/certificate-transparency-go v1.2.1
