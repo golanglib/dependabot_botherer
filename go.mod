@@ -505,7 +505,7 @@ require (
 	github.com/go-critic/go-critic v0.11.5
 	github.com/go-enry/go-enry/v2 v2.9.1
 	github.com/go-enry/go-oniguruma v1.2.1
-	github.com/go-errors/errors v1.4.2
+	github.com/go-errors/errors v1.5.1
 	github.com/go-faster/city v1.0.1
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
