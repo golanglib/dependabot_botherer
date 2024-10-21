@@ -408,7 +408,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.3.1
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241007203800-ad92148935b6
-	github.com/digitalocean/godo v1.126.0
+	github.com/digitalocean/godo v1.127.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/distribution/reference v0.6.0
