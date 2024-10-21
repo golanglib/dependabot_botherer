@@ -316,7 +316,7 @@ require (
 	github.com/butuzov/ireturn v0.3.0
 	github.com/butuzov/mirror v1.2.0
 	github.com/bytedance/sonic v1.12.3
-	github.com/bytedance/sonic/loader v0.2.0
+	github.com/bytedance/sonic/loader v0.2.1
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.8.4
 	github.com/caddyserver/certmagic v0.21.4
@@ -505,7 +505,7 @@ require (
 	github.com/go-critic/go-critic v0.11.5
 	github.com/go-enry/go-enry/v2 v2.9.1
 	github.com/go-enry/go-oniguruma v1.2.1
-	github.com/go-errors/errors v1.4.2
+	github.com/go-errors/errors v1.5.1
 	github.com/go-faster/city v1.0.1
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
