@@ -261,6 +261,7 @@ require (
 	github.com/bits-and-blooms/bitset v1.14.3
 	github.com/bits-and-blooms/bloom/v3 v3.7.0
 	github.com/bkielbasa/cyclop v1.2.3
+	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.4.2
 	github.com/blevesearch/bleve_index_api v1.1.12
@@ -455,6 +456,8 @@ require (
 	github.com/esimonov/ifshort v1.0.4
 	github.com/ethantkoenig/rupture v1.0.1
 	github.com/ettle/strcase v0.2.0
+	github.com/evanphx/json-patch v5.9.0+incompatible
+	github.com/evanphx/json-patch/v5 v5.9.0
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
 	github.com/fatih/color v1.17.0
 	github.com/fatih/structtag v1.2.0
@@ -502,6 +505,7 @@ require (
 	github.com/go-critic/go-critic v0.11.5
 	github.com/go-enry/go-enry/v2 v2.9.1
 	github.com/go-enry/go-oniguruma v1.2.1
+	github.com/go-errors/errors v1.4.2
 	github.com/go-faster/city v1.0.1
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
@@ -524,6 +528,7 @@ require (
 	github.com/go-logfmt/logfmt v0.6.0
 	github.com/go-logr/logr v1.4.2
 	github.com/go-logr/stdr v1.2.2
+	github.com/go-logr/zapr v1.3.0
 	github.com/go-ole/go-ole v1.3.0
 	github.com/go-openapi/analysis v0.23.0
 	github.com/go-openapi/errors v0.22.0
@@ -563,6 +568,7 @@ require (
 	github.com/go-webauthn/webauthn v0.11.2
 	github.com/go-webauthn/x v0.1.15
 	github.com/go-zookeeper/zk v1.0.4
+	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
@@ -590,6 +596,7 @@ require (
 	github.com/golang/snappy v0.0.4
 	github.com/golang/vscode-go v0.43.2
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
+	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20240816233607-d8596aa466a9
 	github.com/golangci/golangci-lint v1.61.0
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
@@ -1260,6 +1267,7 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xen0n/gosmopolitan v1.2.2
 	github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2
+	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
 	github.com/xtaci/smux v2.0.1+incompatible
 	github.com/xyproto/randomstring v1.0.5
@@ -1362,6 +1370,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
+	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
 	google.golang.org/api v0.201.0
 	google.golang.org/appengine v1.6.8
@@ -1398,8 +1407,13 @@ require (
 	honnef.co/go/tools v0.5.1
 	howett.net/plist v1.0.1
 	k8s.io/api v0.31.1
+	k8s.io/apiextensions-apiserver v0.31.1
 	k8s.io/apimachinery v0.31.1
+	k8s.io/apiserver v0.31.1
 	k8s.io/client-go v0.31.1
+	k8s.io/code-generator v0.31.1
+	k8s.io/component-base v0.31.1
+	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340
 	k8s.io/utils v0.0.0-20240921022957-49e7df575cb6
@@ -1435,7 +1449,14 @@ require (
 	pgregory.net/rapid v1.1.0
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
+	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.30.3
+	sigs.k8s.io/controller-runtime v0.19.0
+	sigs.k8s.io/controller-tools v0.16.4
 	sigs.k8s.io/json v0.0.0-20241008212023-c46165d29634
+	sigs.k8s.io/kustomize/api v0.18.0
+	sigs.k8s.io/kustomize/cmd/config v0.15.0
+	sigs.k8s.io/kustomize/kustomize/v5 v5.5.0
+	sigs.k8s.io/kustomize/kyaml v0.18.1
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1
 	sigs.k8s.io/yaml v1.4.0
 	storj.io/common v0.0.0-20240812101423-26b53789c348
@@ -1576,6 +1597,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
+	github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/mrunalp/fileutils v0.5.1 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
@@ -1642,8 +1664,10 @@ require (
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
+	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/guregu/null.v4 v4.0.0 // indirect
+	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
