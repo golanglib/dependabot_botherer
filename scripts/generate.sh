@@ -10,7 +10,7 @@ write() {
 
 write "package main"
 write "import ("
-grep -F -v -f exclude.txt list.txt | while read -r MODULE; do
+grep -v -E '^//' exclude.txt | grep -F -v -f - list.txt | while read -r MODULE; do
   PACKAGE=$(go run scripts/importable.go "$MODULE")
   write "  _ \"$PACKAGE\""
   echo "imported $PACKAGE for $MODULE" >&2
