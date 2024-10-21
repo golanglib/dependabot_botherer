@@ -30,6 +30,7 @@ github.com/hashicorp/nomad
 github.com/hashicorp/vault
 github.com/imdario/mergo
 github.com/jaegertracing/jaeger
+github.com/jirfag/go-printf-func-name
 github.com/jmespath/go-jmespath/internal/testify
 github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go

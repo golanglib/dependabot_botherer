@@ -760,7 +760,6 @@ import (
 	_ "github.com/jinzhu/copier"
 	_ "github.com/jinzhu/inflection"
 	_ "github.com/jinzhu/now"
-	_ "github.com/jirfag/go-printf-func-name/pkg/analyzer"
 	_ "github.com/jjti/go-spancheck"
 	_ "github.com/jlaffaye/ftp"
 	_ "github.com/jmespath/go-jmespath"
