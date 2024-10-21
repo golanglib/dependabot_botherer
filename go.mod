@@ -758,7 +758,7 @@ require (
 	github.com/jcmturner/gokrb5/v8 v8.4.4
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
-	github.com/jedib0t/go-pretty/v6 v6.6.0
+	github.com/jedib0t/go-pretty/v6 v6.6.1
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.7
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
