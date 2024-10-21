@@ -3016,8 +3016,8 @@ github.com/henrybear327/go-proton-api v1.0.0 h1:zYi/IbjLwFAW7ltCeqXneUGJey0TN//X
 github.com/henrybear327/go-proton-api v1.0.0/go.mod h1:w63MZuzufKcIZ93pwRgiOtxMXYafI8H74D77AxytOBc=
 github.com/hetznercloud/hcloud-go v1.59.1 h1:YwRRO4KemQZWsyL3Yp3cUH0Z7MQQ94keiBJ/VaTmlsM=
 github.com/hetznercloud/hcloud-go v1.59.1/go.mod h1:oTebZCjd+osj75jlI76Z+zjN1sTxmMiQ1MWoO8aRl1c=
-github.com/hetznercloud/hcloud-go/v2 v2.13.1 h1:jq0GP4QaYE5d8xR/Zw17s9qoaESRJMXfGmtD1a/qckQ=
-github.com/hetznercloud/hcloud-go/v2 v2.13.1/go.mod h1:dhix40Br3fDiBhwaSG/zgaYOFFddpfBm/6R1Zz0IiF0=
+github.com/hetznercloud/hcloud-go/v2 v2.14.0 h1:WQW72DuOGqT486F0eNp92lDH5cwDTmyn9Mhin93m1To=
+github.com/hetznercloud/hcloud-go/v2 v2.14.0/go.mod h1:h8sHav+27Xa+48cVMAvAUMELov5h298Ilg2vflyTHgg=
 github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUqJM=
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
 github.com/hinshun/vt10x v0.0.0-20180616224451-1954e6464174/go.mod h1:DqJ97dSdRW1W22yXSB90986pcOyQ7r45iio1KN2ez1A=
@@ -4757,8 +4757,8 @@ github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3 h1:f+jULpR
 github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3/go.mod h1:ON8b8w4BN/kE1EOhwT0o+d62W65a6aPw1nouo9LMgyY=
 github.com/terminalstatic/go-xsd-validate v0.1.5 h1:RqpJnf6HGE2CB/lZB1A8BYguk8uRtcvYAPLCF15qguo=
 github.com/terminalstatic/go-xsd-validate v0.1.5/go.mod h1:18lsvYFofBflqCrvo1umpABZ99+GneNTw2kEEc8UPJw=
-github.com/testcontainers/testcontainers-go v0.33.0 h1:zJS9PfXYT5O0ZFXM2xxXfk4J5UMw/kRiISng037Gxdw=
-github.com/testcontainers/testcontainers-go v0.33.0/go.mod h1:W80YpTa8D5C3Yy16icheD01UTDu+LmXIA2Keo+jWtT8=
+github.com/testcontainers/testcontainers-go v0.34.0 h1:5fbgF0vIN5u+nD3IWabQwRybuB4GY8G2HHgCkbMzMHo=
+github.com/testcontainers/testcontainers-go v0.34.0/go.mod h1:6P/kMkQe8yqPHfPWNulFGdFHTD8HB2vLq/231xY2iPQ=
 github.com/testcontainers/testcontainers-go/modules/kafka v0.33.0 h1:Zug/9wK9tE9NdJ/sy27XbIvIVjXsD7rXrcV5B3KVrOM=
 github.com/testcontainers/testcontainers-go/modules/kafka v0.33.0/go.mod h1:J8NhxBCTnivcTANoNpuMnOEkdKf/x9zwZ434Y4dbIH4=
 github.com/tetafro/godot v1.4.18 h1:ouX3XGiziKDypbpXqShBfnNLTSjR8r3/HVzrtJ+bHlI=
