@@ -4759,8 +4759,8 @@ github.com/terminalstatic/go-xsd-validate v0.1.5 h1:RqpJnf6HGE2CB/lZB1A8BYguk8uR
 github.com/terminalstatic/go-xsd-validate v0.1.5/go.mod h1:18lsvYFofBflqCrvo1umpABZ99+GneNTw2kEEc8UPJw=
 github.com/testcontainers/testcontainers-go v0.34.0 h1:5fbgF0vIN5u+nD3IWabQwRybuB4GY8G2HHgCkbMzMHo=
 github.com/testcontainers/testcontainers-go v0.34.0/go.mod h1:6P/kMkQe8yqPHfPWNulFGdFHTD8HB2vLq/231xY2iPQ=
-github.com/testcontainers/testcontainers-go/modules/kafka v0.33.0 h1:Zug/9wK9tE9NdJ/sy27XbIvIVjXsD7rXrcV5B3KVrOM=
-github.com/testcontainers/testcontainers-go/modules/kafka v0.33.0/go.mod h1:J8NhxBCTnivcTANoNpuMnOEkdKf/x9zwZ434Y4dbIH4=
+github.com/testcontainers/testcontainers-go/modules/kafka v0.34.0 h1:LrMlsBH+nKJ2c6M7rOjbi7UivgofgAQo+LAwsWttR+Q=
+github.com/testcontainers/testcontainers-go/modules/kafka v0.34.0/go.mod h1:4BIbeoKY/ZAf86MvWT5xJW5TvxbCPg67I5rBvwFsx4A=
 github.com/tetafro/godot v1.4.18 h1:ouX3XGiziKDypbpXqShBfnNLTSjR8r3/HVzrtJ+bHlI=
 github.com/tetafro/godot v1.4.18/go.mod h1:2oVxTBSftRTh4+MVfUaUXR6bn2GDXCaMcOG4Dk3rfio=
 github.com/tetratelabs/wazero v1.8.1 h1:NrcgVbWfkWvVc4UtT4LRLDf91PsOzDzefMdwhLfA550=
