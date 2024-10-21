@@ -1449,7 +1449,7 @@ require (
 	pgregory.net/rapid v1.1.0
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
-	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.30.3
+	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.0
 	sigs.k8s.io/controller-runtime v0.19.0
 	sigs.k8s.io/controller-tools v0.16.4
 	sigs.k8s.io/json v0.0.0-20241008212023-c46165d29634
