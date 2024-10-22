@@ -90,18 +90,17 @@ func getModRoot(name string) string {
 }
 
 func importablePackage(modRoot, path string) bool {
-	log.Printf("checking %q", path)
 	pkg, err := build.ImportDir(filepath.Join(modRoot, path), build.ImportComment)
 	if err != nil {
-		log.Print(err)
+		log.Printf("%q: %v", path, err)
 		return false
 	}
 	if pkg.Name == "main" {
-		log.Print("package is main")
+		log.Printf("%q: package is main", path)
 		return false
 	}
 	if hasInternal(path) {
-		log.Print("package is internal")
+		log.Printf("%q: package is internal", path)
 		return false
 	}
 
