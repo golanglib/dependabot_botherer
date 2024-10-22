@@ -72,7 +72,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/network/armnetwork/v4 v4.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources v1.2.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.6.0
-	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.1.0
+	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.2.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.4.1
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.3.1
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
@@ -459,7 +459,7 @@ require (
 	github.com/evanphx/json-patch v5.9.0+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.0
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
 	github.com/felixge/fgprof v0.9.5
@@ -510,7 +510,7 @@ require (
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
-	github.com/go-git/go-billy/v5 v5.5.0
+	github.com/go-git/go-billy/v5 v5.6.0
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/go-jose/go-jose/v3 v3.0.3
@@ -825,7 +825,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.2
 	github.com/linkedin/goavro/v2 v2.13.0
-	github.com/linode/linodego v1.41.0
+	github.com/linode/linodego v1.42.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
@@ -1102,7 +1102,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.0.7
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.32.2
+	github.com/sashabaranov/go-openai v1.32.3
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.27.0
 	github.com/sassoftware/go-rpmutils v0.4.0
@@ -1252,7 +1252,7 @@ require (
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
-	github.com/vmware/govmomi v0.44.1
+	github.com/vmware/govmomi v0.45.0
 	github.com/vulcand/oxy v1.4.2
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wavefronthq/wavefront-sdk-go v0.15.0
@@ -1292,7 +1292,7 @@ require (
 	github.com/zeebo/xxh3 v1.0.2
 	github.com/zerobounce/zerobouncego v1.1.0
 	github.com/zitadel/logging v0.6.1
-	github.com/zitadel/oidc/v3 v3.30.1
+	github.com/zitadel/oidc/v3 v3.31.0
 	github.com/zitadel/schema v1.3.0
 	gitlab.com/bosi/decorder v0.4.2
 	gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7
@@ -1481,7 +1481,7 @@ require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.10.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal v1.1.2 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.0.1 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.1.0 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
