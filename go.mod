@@ -459,7 +459,7 @@ require (
 	github.com/evanphx/json-patch v5.9.0+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.0
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
 	github.com/felixge/fgprof v0.9.5
