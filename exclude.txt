@@ -119,10 +119,10 @@ github.com/gwos/tcg
 //go: downloading github.com/patrickmn/go-cache v2.1.0+incompatible
 //go: downloading github.com/gin-contrib/cors v1.7.2
 //go: downloading go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.54.0
-//go: downloading github.com/tubemogul/nscatools v0.0.0-20170420204428-ca8ef6bde11e
-//go: downloading github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 //go: downloading github.com/elastic/go-elasticsearch/v7 v7.17.10
 //go: downloading github.com/markel1974/gokuery v1.0.3
+//go: downloading github.com/tubemogul/nscatools v0.0.0-20170420204428-ca8ef6bde11e
+//go: downloading github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 //go: downloading github.com/nats-io/nats.go v1.37.0
 //go: downloading github.com/google/gnostic-models v0.6.9-0.20230804172637-c7be7c783f49
 //go: downloading github.com/nats-io/nuid v1.0.1
@@ -152,8 +152,8 @@ github.com/hashicorp/consul
 //go: downloading github.com/fullstorydev/grpchan v1.1.1
 //go: downloading github.com/hashicorp/consul-net-rpc v0.0.0-20221205195236-156cfab66a69
 //go: downloading github.com/hashicorp/consul/proto-public v0.6.3
-//go: downloading github.com/hashicorp/go-bexpr v0.1.2
 //go: downloading github.com/hashicorp/go-connlimit v0.3.0
+//go: downloading github.com/hashicorp/go-bexpr v0.1.2
 //go: downloading github.com/hashicorp/go-memdb v1.3.4
 //go: downloading github.com/hashicorp/go-raftchunking v0.7.0
 //go: downloading github.com/hashicorp/raft v1.5.0
@@ -172,8 +172,8 @@ github.com/hashicorp/consul
 //go: downloading github.com/posener/complete v1.2.3
 //go: downloading github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2
 //go: downloading github.com/hashicorp/vault-plugin-auth-alicloud v0.14.0
-//go: downloading github.com/hashicorp/vault/sdk v0.7.0
 //go: downloading github.com/hashicorp/vault/api/auth/gcp v0.3.0
+//go: downloading github.com/hashicorp/vault/sdk v0.7.0
 //go: downloading github.com/oklog/ulid/v2 v2.1.0
 //go: downloading github.com/hashicorp/hcp-sdk-go v0.80.0
 //go: downloading github.com/deckarep/golang-set/v2 v2.3.1
@@ -202,8 +202,8 @@ github.com/hashicorp/consul
 //go: downloading github.com/joyent/triton-go v1.7.1-0.20200416154420-6801d15b779f
 //go: downloading github.com/hashicorp/vic v1.5.1-0.20190403131502-bbfe86ec9443
 //go: downloading github.com/cosiner/argv v0.1.0
-//go: downloading github.com/coreos/pkg v0.0.0-20220810130054-c7d1c02cb6cf
 //go: downloading github.com/renier/xmlrpc v0.0.0-20170708154548-ce4a1a486c03
+//go: downloading github.com/coreos/pkg v0.0.0-20220810130054-c7d1c02cb6cf
 //go: downloading github.com/hashicorp/go-msgpack v1.1.5
 //go: downloading go.opentelemetry.io v0.1.0
 //go: github.com/hashicorp/consul imports
