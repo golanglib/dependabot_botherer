@@ -336,7 +336,7 @@ require (
 	github.com/charmbracelet/bubbletea v1.1.1
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
-	github.com/charmbracelet/lipgloss v0.13.0
+	github.com/charmbracelet/lipgloss v0.13.1
 	github.com/charmbracelet/x/ansi v0.3.2
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.0
