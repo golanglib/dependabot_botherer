@@ -191,7 +191,7 @@ github.com/mozillazg/go-pinyin/cli/pinyin
 github.com/nats-io/nats.go
 //stat github.com/nats-io/nats.go: no such file or directory
 github.com/open-telemetry/opentelemetry-collector-contrib
-//[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.111.0
+//[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.112.0
 //[github.com/open-telemetry/opentelemetry-collector-contrib] module has replace
 github.com/prometheus/prometheus
 //[github.com/prometheus/prometheus] dir: /gopath/pkg/mod/github.com/prometheus/prometheus@v0.54.1
