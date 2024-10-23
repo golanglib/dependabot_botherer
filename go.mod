@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.2.1
 	4d63.com/gochecknoglobals v0.2.1
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.1-20240920164238-5a7b106cbb87.1
-	cel.dev/expr v0.16.2
+	cel.dev/expr v0.17.0
 	cloud.google.com/go v0.116.0
 	cloud.google.com/go/auth v0.9.8
 	cloud.google.com/go/auth/oauth2adapt v0.2.4
@@ -336,7 +336,7 @@ require (
 	github.com/charmbracelet/bubbletea v1.1.1
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
-	github.com/charmbracelet/lipgloss v0.13.0
+	github.com/charmbracelet/lipgloss v0.13.1
 	github.com/charmbracelet/x/ansi v0.3.2
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.0
@@ -1411,7 +1411,7 @@ require (
 	k8s.io/apimachinery v0.31.2
 	k8s.io/apiserver v0.31.1
 	k8s.io/client-go v0.31.1
-	k8s.io/code-generator v0.31.1
+	k8s.io/code-generator v0.31.2
 	k8s.io/component-base v0.31.1
 	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70
 	k8s.io/klog/v2 v2.130.1
