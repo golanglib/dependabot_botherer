@@ -1023,7 +1023,7 @@ require (
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
 	github.com/oapi-codegen/runtime v1.1.1
-	github.com/oapi-codegen/testutil v1.0.0
+	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.32
