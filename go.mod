@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.2.1
 	4d63.com/gochecknoglobals v0.2.1
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.1-20240920164238-5a7b106cbb87.1
-	cel.dev/expr v0.17.0
+	cel.dev/expr v0.18.0
 	cloud.google.com/go v0.116.0
 	cloud.google.com/go/auth v0.9.9
 	cloud.google.com/go/auth/oauth2adapt v0.2.4
@@ -1024,7 +1024,7 @@ require (
 	github.com/pires/go-proxyproto v0.8.0
 	github.com/pjbgf/sha1cd v0.3.0
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
-	github.com/pkg/sftp v1.13.6
+	github.com/pkg/sftp v1.13.7
 	github.com/pkg/xattr v0.4.10
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
 	github.com/polyfloyd/go-errorlint v1.6.0
