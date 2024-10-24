@@ -23,7 +23,7 @@ require (
 	cloud.google.com/go/monitoring v1.21.1
 	cloud.google.com/go/pubsub v1.45.0
 	cloud.google.com/go/storage v1.45.0
-	cloud.google.com/go/trace v1.11.1
+	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
 	code.gitea.io/sdk/gitea v0.19.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
@@ -1372,7 +1372,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.202.0
+	google.golang.org/api v0.203.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241015192408-796eee8c2d53
 	google.golang.org/genproto/googleapis/api v0.0.0-20241007155032-5fefd90f89a9
