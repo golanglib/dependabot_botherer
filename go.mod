@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.2.1
 	4d63.com/gochecknoglobals v0.2.1
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.1-20240920164238-5a7b106cbb87.1
-	cel.dev/expr v0.17.0
+	cel.dev/expr v0.18.0
 	cloud.google.com/go v0.116.0
 	cloud.google.com/go/auth v0.9.9
 	cloud.google.com/go/auth/oauth2adapt v0.2.4
