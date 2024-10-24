@@ -19,11 +19,11 @@ require (
 	cloud.google.com/go/iam v1.2.2
 	cloud.google.com/go/kms v1.20.0
 	cloud.google.com/go/logging v1.12.0
-	cloud.google.com/go/longrunning v0.6.1
+	cloud.google.com/go/longrunning v0.6.2
 	cloud.google.com/go/monitoring v1.21.1
 	cloud.google.com/go/pubsub v1.45.0
 	cloud.google.com/go/storage v1.45.0
-	cloud.google.com/go/trace v1.11.1
+	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
 	code.gitea.io/sdk/gitea v0.19.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
@@ -231,7 +231,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.2
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.184.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.185.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.2
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.0
@@ -977,7 +977,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.77.0
+	github.com/oracle/oci-go-sdk/v65 v65.77.1
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.0
@@ -1252,7 +1252,7 @@ require (
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
-	github.com/vmware/govmomi v0.45.0
+	github.com/vmware/govmomi v0.45.1
 	github.com/vulcand/oxy v1.4.2
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wavefronthq/wavefront-sdk-go v0.15.0
