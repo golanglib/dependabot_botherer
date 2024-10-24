@@ -728,7 +728,7 @@ require (
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
-	github.com/hashicorp/go-getter/gcs/v2 v2.2.2
+	github.com/hashicorp/go-getter/gcs/v2 v2.2.3
 	github.com/hashicorp/go-getter/s3/v2 v2.2.3
 	github.com/hashicorp/go-getter/v2 v2.2.3
 	github.com/hashicorp/go-hclog v1.6.3
