@@ -729,8 +729,8 @@ require (
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-getter/gcs/v2 v2.2.2
-	github.com/hashicorp/go-getter/s3/v2 v2.2.2
-	github.com/hashicorp/go-getter/v2 v2.2.2
+	github.com/hashicorp/go-getter/s3/v2 v2.2.3
+	github.com/hashicorp/go-getter/v2 v2.2.3
 	github.com/hashicorp/go-hclog v1.6.3
 	github.com/hashicorp/go-immutable-radix v1.3.1
 	github.com/hashicorp/go-metrics v0.5.3
