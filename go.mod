@@ -650,7 +650,7 @@ require (
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.0
 	github.com/google/go-cmp v0.6.0
-	github.com/google/go-configfs-tsm v0.2.2
+	github.com/google/go-configfs-tsm v0.3.2
 	github.com/google/go-containerregistry v0.20.2
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
