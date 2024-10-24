@@ -13,9 +13,9 @@ require (
 	cloud.google.com/go/auth v0.9.9
 	cloud.google.com/go/auth/oauth2adapt v0.2.4
 	cloud.google.com/go/bigquery v1.63.1
-	cloud.google.com/go/compute v1.28.1
+	cloud.google.com/go/compute v1.28.2
 	cloud.google.com/go/compute/metadata v0.5.2
-	cloud.google.com/go/datacatalog v1.22.1
+	cloud.google.com/go/datacatalog v1.22.2
 	cloud.google.com/go/iam v1.2.2
 	cloud.google.com/go/kms v1.20.0
 	cloud.google.com/go/logging v1.12.0
@@ -1252,7 +1252,7 @@ require (
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
-	github.com/vmware/govmomi v0.45.0
+	github.com/vmware/govmomi v0.45.1
 	github.com/vulcand/oxy v1.4.2
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wavefronthq/wavefront-sdk-go v0.15.0
