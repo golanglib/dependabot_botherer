@@ -393,7 +393,7 @@ require (
 	github.com/containerd/stargz-snapshotter/estargz v0.15.1
 	github.com/containerd/ttrpc v1.2.5
 	github.com/containerd/typeurl/v2 v2.2.0
-	github.com/containernetworking/cni v1.2.2
+	github.com/containernetworking/cni v1.2.3
 	github.com/coocood/freecache v1.2.4
 	github.com/coreos/go-iptables v0.8.0
 	github.com/coreos/go-oidc/v3 v3.11.0
@@ -502,14 +502,14 @@ require (
 	github.com/gaissmai/bart v0.13.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
-	github.com/getkin/kin-openapi v0.127.0
+	github.com/getkin/kin-openapi v0.128.0
 	github.com/ghostiam/protogetter v0.3.8
 	github.com/gin-contrib/gzip v1.0.1
 	github.com/gin-contrib/sessions v1.0.1
 	github.com/gin-contrib/sse v0.1.0
 	github.com/gin-contrib/timeout v1.0.1
 	github.com/gin-gonic/gin v1.10.0
-	github.com/git-lfs/git-lfs/v3 v3.3.0
+	github.com/git-lfs/git-lfs/v3 v3.5.1
 	github.com/git-lfs/gitobj/v2 v2.1.1
 	github.com/git-lfs/pktline v0.0.0-20230103162542-ca444d533ef1
 	github.com/git-lfs/wildmatch/v2 v2.0.1
@@ -664,7 +664,7 @@ require (
 	github.com/google/go-licenses v1.6.0
 	github.com/google/go-querystring v1.1.0
 	github.com/google/go-replayers/httpreplay v1.2.0
-	github.com/google/go-sev-guest v0.9.3
+	github.com/google/go-sev-guest v0.11.1
 	github.com/google/go-tdx-guest v0.3.1
 	github.com/google/go-tpm v0.9.1
 	github.com/google/go-tpm-tools v0.4.4
@@ -728,7 +728,7 @@ require (
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
-	github.com/hashicorp/go-getter/gcs/v2 v2.2.2
+	github.com/hashicorp/go-getter/gcs/v2 v2.2.3
 	github.com/hashicorp/go-getter/s3/v2 v2.2.3
 	github.com/hashicorp/go-getter/v2 v2.2.3
 	github.com/hashicorp/go-hclog v1.6.3
@@ -875,7 +875,7 @@ require (
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
-	github.com/leonelquinteros/gotext v1.5.0
+	github.com/leonelquinteros/gotext v1.7.0
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.2
@@ -893,7 +893,7 @@ require (
 	github.com/macabu/inamedparam v0.1.3
 	github.com/magefile/mage v1.15.0
 	github.com/magiconair/properties v1.8.7
-	github.com/mailgun/multibuf v0.1.2
+	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
 	github.com/mailru/easyjson v0.7.7
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
@@ -1365,7 +1365,7 @@ require (
 	github.com/zeebo/xxh3 v1.0.2
 	github.com/zerobounce/zerobouncego v1.1.0
 	github.com/zitadel/logging v0.6.1
-	github.com/zitadel/oidc/v2 v2.12.0
+	github.com/zitadel/oidc/v2 v2.12.2
 	github.com/zitadel/oidc/v3 v3.31.0
 	github.com/zitadel/schema v1.3.0
 	gitlab.com/bosi/decorder v0.4.2
@@ -1493,7 +1493,7 @@ require (
 	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340
 	k8s.io/utils v0.0.0-20240921022957-49e7df575cb6
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
-	libvirt.org/go/libvirtxml v1.8009.0
+	libvirt.org/go/libvirtxml v1.10008.0
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
@@ -1711,11 +1711,11 @@ require (
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
+	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 	gopkg.in/guregu/null.v4 v4.0.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
-	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
