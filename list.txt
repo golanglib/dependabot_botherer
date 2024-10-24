@@ -1,5 +1,6 @@
 4d63.com/gocheckcompilerdirectives
 4d63.com/gochecknoglobals
+bitbucket.org/creachadair/stringset
 buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go
 cel.dev/expr
 cloud.google.com/go
@@ -9,6 +10,7 @@ cloud.google.com/go/bigquery
 cloud.google.com/go/compute
 cloud.google.com/go/compute/metadata
 cloud.google.com/go/datacatalog
+cloud.google.com/go/firestore
 cloud.google.com/go/iam
 cloud.google.com/go/kms
 cloud.google.com/go/logging
@@ -267,9 +269,19 @@ github.com/belong-inc/go-hubspot
 github.com/benbjohnson/clock
 github.com/benbjohnson/immutable
 github.com/beorn7/perks
+github.com/bep/clocks
+github.com/bep/debounce
+github.com/bep/gitmap
+github.com/bep/goat
 github.com/bep/godartsass
 github.com/bep/godartsass/v2
 github.com/bep/golibsass
+github.com/bep/gowebp
+github.com/bep/imagemeta
+github.com/bep/lazycache
+github.com/bep/logg
+github.com/bep/overlayfs
+github.com/bep/tmc
 github.com/bitly/go-hostpool
 github.com/bitly/go-simplejson
 github.com/bits-and-blooms/bitset
@@ -355,6 +367,7 @@ github.com/charmbracelet/x/ansi
 github.com/charmbracelet/x/exp/golden
 github.com/charmbracelet/x/term
 github.com/chavacava/garif
+github.com/checkpoint-restore/go-criu/v5
 github.com/chenzhuoyu/base64x
 github.com/chenzhuoyu/iasm
 github.com/chi-middleware/proxy
@@ -362,9 +375,11 @@ github.com/chigopher/pathlib
 github.com/chzyer/logex
 github.com/chzyer/readline
 github.com/chzyer/test
+github.com/cilium/ebpf
 github.com/cisco-ie/nx-telemetry-proto
 github.com/ckaznocha/intrange
 github.com/clarify/clarify-go
+github.com/clbanning/mxj/v2
 github.com/cli/safeexec
 github.com/cloudevents/sdk-go
 github.com/cloudevents/sdk-go/v2
@@ -379,23 +394,27 @@ github.com/cockroachdb/datadriven
 github.com/colinmarc/hdfs/v2
 github.com/compose-spec/compose-go
 github.com/containerd/cgroups/v3
+github.com/containerd/console
 github.com/containerd/containerd
 github.com/containerd/containerd/api
 github.com/containerd/continuity
 github.com/containerd/errdefs
 github.com/containerd/fifo
+github.com/containerd/go-cni
 github.com/containerd/log
 github.com/containerd/platforms
 github.com/containerd/stargz-snapshotter
 github.com/containerd/stargz-snapshotter/estargz
 github.com/containerd/ttrpc
 github.com/containerd/typeurl/v2
+github.com/containernetworking/cni
 github.com/coocood/freecache
 github.com/coreos/go-iptables
 github.com/coreos/go-oidc/v3
 github.com/coreos/go-semver
 github.com/coreos/go-systemd/v22
 github.com/cosmtrek/air
+github.com/couchbase/cbauth
 github.com/couchbase/go-couchbase
 github.com/couchbase/gomemcached
 github.com/couchbase/goutils
@@ -428,6 +447,7 @@ github.com/digitalocean/go-libvirt
 github.com/digitalocean/godo
 github.com/dimchansky/utfbom
 github.com/dimiro1/reply
+github.com/disintegration/gift
 github.com/distribution/reference
 github.com/djherbis/buffer
 github.com/djherbis/nio/v3
@@ -437,12 +457,14 @@ github.com/dmarkham/enumer
 github.com/dnaeon/go-vcr
 github.com/docker/docker-credential-helpers
 github.com/docker/go-connections
+github.com/dpotapov/go-spnego
 github.com/dropbox/dropbox-sdk-go-unofficial/v6
 github.com/dsnet/compress
 github.com/dsnet/try
 github.com/duo-labs/webauthn
 github.com/dustin/go-humanize
 github.com/dvsekhvalnov/jose2go
+github.com/dylanmei/winrmtest
 github.com/dynatrace-oss/dynatrace-metric-utils-go
 github.com/eapache/go-resiliency
 github.com/eapache/go-xerial-snappy
@@ -475,6 +497,7 @@ github.com/ethantkoenig/rupture
 github.com/ettle/strcase
 github.com/evanphx/json-patch
 github.com/evanphx/json-patch/v5
+github.com/evanw/esbuild
 github.com/facebook/time
 github.com/fatih/color
 github.com/fatih/structtag
@@ -497,13 +520,17 @@ github.com/gabriel-vasile/mimetype
 github.com/gaissmai/bart
 github.com/gaukas/godicttls
 github.com/geoffgarside/ber
+github.com/getkin/kin-openapi
 github.com/ghostiam/protogetter
 github.com/gin-contrib/gzip
 github.com/gin-contrib/sessions
 github.com/gin-contrib/sse
 github.com/gin-contrib/timeout
 github.com/gin-gonic/gin
+github.com/git-lfs/git-lfs/v3
+github.com/git-lfs/gitobj/v2
 github.com/git-lfs/pktline
+github.com/git-lfs/wildmatch/v2
 github.com/gkampitakis/ciinfo
 github.com/gkampitakis/go-diff
 github.com/gkampitakis/go-snaps
@@ -521,6 +548,7 @@ github.com/go-chi/cors
 github.com/go-chi/render
 github.com/go-co-op/gocron
 github.com/go-critic/go-critic
+github.com/go-darwin/apfs
 github.com/go-enry/go-enry/v2
 github.com/go-enry/go-oniguruma
 github.com/go-errors/errors
@@ -564,6 +592,7 @@ github.com/go-playground/form/v4
 github.com/go-playground/locales
 github.com/go-playground/universal-translator
 github.com/go-playground/validator/v10
+github.com/go-quicktest/qt
 github.com/go-redis/redis/v7
 github.com/go-redis/redis/v8
 github.com/go-redsync/redsync
@@ -581,6 +610,7 @@ github.com/go-toolsmith/astcopy
 github.com/go-toolsmith/astequal
 github.com/go-toolsmith/astfmt
 github.com/go-toolsmith/astp
+github.com/go-toolsmith/pkgload
 github.com/go-toolsmith/strparse
 github.com/go-toolsmith/typep
 github.com/go-viper/mapstructure/v2
@@ -603,10 +633,18 @@ github.com/gochore/pt
 github.com/gochore/uniq
 github.com/godbus/dbus
 github.com/godbus/dbus/v5
+github.com/gofrs/flock
 github.com/gofrs/uuid/v5
 github.com/gogo/protobuf
 github.com/gogs/chardet
+github.com/gohugoio/go-i18n/v2
+github.com/gohugoio/hashstructure
+github.com/gohugoio/httpcache
 github.com/gohugoio/hugo
+github.com/gohugoio/hugo-goldmark-extensions/extras
+github.com/gohugoio/hugo-goldmark-extensions/passthrough
+github.com/gohugoio/locales
+github.com/gohugoio/localescompressed
 github.com/golang-jwt/jwt/v4
 github.com/golang-jwt/jwt/v5
 github.com/golang-sql/sqlexp
@@ -633,7 +671,9 @@ github.com/google/cel-go
 github.com/google/certificate-transparency-go
 github.com/google/gnostic-models
 github.com/google/gnxi
+github.com/google/go-attestation
 github.com/google/go-cmp
+github.com/google/go-configfs-tsm
 github.com/google/go-containerregistry
 github.com/google/go-github/v28
 github.com/google/go-github/v32
@@ -646,6 +686,9 @@ github.com/google/go-github/v61
 github.com/google/go-github/v64
 github.com/google/go-licenses
 github.com/google/go-querystring
+github.com/google/go-replayers/httpreplay
+github.com/google/go-sev-guest
+github.com/google/go-tdx-guest
 github.com/google/go-tpm
 github.com/google/go-tpm-tools
 github.com/google/go-tspi
@@ -654,6 +697,7 @@ github.com/google/gopacket
 github.com/google/licensecheck
 github.com/google/licenseclassifier
 github.com/google/licenseclassifier/v2
+github.com/google/logger
 github.com/google/martian/v3
 github.com/google/osv-scanner
 github.com/google/pprof
@@ -678,6 +722,7 @@ github.com/gorilla/css
 github.com/gorilla/feeds
 github.com/gorilla/handlers
 github.com/gorilla/mux
+github.com/gorilla/schema
 github.com/gorilla/securecookie
 github.com/gorilla/sessions
 github.com/gorilla/websocket
@@ -690,6 +735,7 @@ github.com/gostaticanalysis/testutil
 github.com/grafana/pyroscope-go
 github.com/grafana/pyroscope-go/godeltaprof
 github.com/grafana/regexp
+github.com/gravitational/trace
 github.com/grid-x/modbus
 github.com/grid-x/serial
 github.com/grpc-ecosystem/go-grpc-middleware
@@ -700,6 +746,7 @@ github.com/gwos/tcg/sdk
 github.com/h12w/go-socks5
 github.com/h2non/gock
 github.com/h2non/parth
+github.com/hairyhenderson/go-codeowners
 github.com/hanwen/go-fuse
 github.com/hanwen/go-fuse/v2
 github.com/hanzoai/gochimp3
@@ -710,6 +757,9 @@ github.com/hashicorp/consul/proto-public
 github.com/hashicorp/consul/sdk
 github.com/hashicorp/errwrap
 github.com/hashicorp/go-cleanhttp
+github.com/hashicorp/go-getter/gcs/v2
+github.com/hashicorp/go-getter/s3/v2
+github.com/hashicorp/go-getter/v2
 github.com/hashicorp/go-hclog
 github.com/hashicorp/go-immutable-radix
 github.com/hashicorp/go-metrics
@@ -718,6 +768,7 @@ github.com/hashicorp/go-msgpack/v2
 github.com/hashicorp/go-multierror
 github.com/hashicorp/go-retryablehttp
 github.com/hashicorp/go-rootcerts
+github.com/hashicorp/go-safetemp
 github.com/hashicorp/go-secure-stdlib/awsutil
 github.com/hashicorp/go-secure-stdlib/parseutil
 github.com/hashicorp/go-secure-stdlib/strutil
@@ -729,6 +780,7 @@ github.com/hashicorp/golang-lru/v2
 github.com/hashicorp/hc-install
 github.com/hashicorp/hcl
 github.com/hashicorp/hcl/v2
+github.com/hashicorp/logutils
 github.com/hashicorp/memberlist
 github.com/hashicorp/nomad
 github.com/hashicorp/nomad/api
@@ -766,6 +818,7 @@ github.com/influxdata/tail
 github.com/insomniacslk/dhcp
 github.com/intel/iaevents
 github.com/intel/powertelemetry
+github.com/invopop/yaml
 github.com/ionos-cloud/sdk-go/v6
 github.com/ip2location/ip2location-go/v9
 github.com/iris-contrib/httpexpect/v2
@@ -793,6 +846,7 @@ github.com/jcmturner/goidentity/v6
 github.com/jcmturner/gokrb5/v8
 github.com/jcmturner/rpc
 github.com/jcmturner/rpc/v2
+github.com/jdkato/prose
 github.com/jedib0t/go-pretty/v6
 github.com/jellydator/ttlcache/v3
 github.com/jeremija/gosubmit
@@ -817,6 +871,7 @@ github.com/jonboulle/clockwork
 github.com/josephspurrier/goversioninfo
 github.com/josharian/intern
 github.com/josharian/native
+github.com/josharian/txtarfs
 github.com/jpillora/backoff
 github.com/json-iterator/go
 github.com/jsternberg/zap-logfmt
@@ -851,6 +906,7 @@ github.com/kulti/thelper
 github.com/kunwardeep/paralleltest
 github.com/kylelemons/godebug
 github.com/kyoh86/exportloopref
+github.com/kyokomi/emoji/v2
 github.com/labstack/echo/v4
 github.com/labstack/gommon
 github.com/lasiar/canonicalheader
@@ -859,6 +915,7 @@ github.com/ldez/tagliatelle
 github.com/leodido/go-syslog/v4
 github.com/leodido/go-urn
 github.com/leodido/ragel-machinery
+github.com/leonelquinteros/gotext
 github.com/leonklingele/grouper
 github.com/lib/pq
 github.com/libdns/libdns
@@ -873,14 +930,18 @@ github.com/lunixbochs/struc
 github.com/lunixbochs/vtclean
 github.com/lxc/incus
 github.com/lxc/incus/v6
+github.com/lyft/protoc-gen-star/v2
 github.com/macabu/inamedparam
 github.com/magefile/mage
 github.com/magiconair/properties
+github.com/mailgun/multibuf
 github.com/mailgun/raymond/v2
 github.com/mailru/easyjson
+github.com/makeworld-the-better-one/dither/v2
 github.com/manifoldco/promptui
 github.com/maratori/testableexamples
 github.com/maratori/testpackage
+github.com/marekm4/color-extractor
 github.com/markbates/going
 github.com/markbates/goth
 github.com/marten-seemann/qpack
@@ -890,6 +951,7 @@ github.com/marten-seemann/qtls-go1-18
 github.com/marten-seemann/qtls-go1-19
 github.com/maruel/natural
 github.com/mastercactapus/proxyprotocol
+github.com/masterzen/winrm
 github.com/matoous/godox
 github.com/matryer/is
 github.com/mattermost/xml-roundtrip-validator
@@ -897,6 +959,7 @@ github.com/mattn/go-colorable
 github.com/mattn/go-ieproxy
 github.com/mattn/go-isatty
 github.com/mattn/go-runewidth
+github.com/mattn/go-shellwords
 github.com/mattn/go-sqlite3
 github.com/mattn/goveralls
 github.com/matttproud/golang_protobuf_extensions
@@ -944,8 +1007,10 @@ github.com/minio/sha256-simd
 github.com/mitchellh/copystructure
 github.com/mitchellh/go-homedir
 github.com/mitchellh/go-ps
+github.com/mitchellh/go-testing-interface
 github.com/mitchellh/go-wordwrap
 github.com/mitchellh/hashstructure
+github.com/mitchellh/iochan
 github.com/mitchellh/mapstructure
 github.com/mitchellh/reflectwalk
 github.com/moby/buildkit
@@ -968,6 +1033,7 @@ github.com/mozillazg/go-unidecode
 github.com/mr-tron/base58
 github.com/mroth/weightedrand
 github.com/mroth/weightedrand/v2
+github.com/mrunalp/fileutils
 github.com/mschoch/smat
 github.com/msteinert/pam
 github.com/mtibben/percent
@@ -1007,6 +1073,7 @@ github.com/nwaples/rardecode
 github.com/nwaples/tacplus
 github.com/nxadm/tail
 github.com/oapi-codegen/runtime
+github.com/oapi-codegen/testutil
 github.com/oasisprotocol/deoxysii
 github.com/olekukonko/tablewriter
 github.com/olivere/elastic/v7
@@ -1043,8 +1110,10 @@ github.com/pascaldekloe/goe
 github.com/pascaldekloe/name
 github.com/paulmach/orb
 github.com/pbnjay/memory
+github.com/pborman/uuid
 github.com/pelletier/go-toml
 github.com/pelletier/go-toml/v2
+github.com/perimeterx/marshmallow
 github.com/peterbourgon/diskv/v3
 github.com/peterbourgon/unixtransport
 github.com/philhofer/fwd
@@ -1161,10 +1230,12 @@ github.com/sassoftware/go-rpmutils
 github.com/scaleway/scaleway-sdk-go
 github.com/seancfoley/bintree
 github.com/seancfoley/ipaddress-go
+github.com/seccomp/libseccomp-golang
 github.com/secure-io/siv-go
 github.com/securego/gosec
 github.com/securego/gosec/v2
 github.com/segmentio/asm
+github.com/segmentio/fasthash
 github.com/segmentio/kafka-go
 github.com/seiflotfy/cuckoofilter
 github.com/sensu/sensu-go/api/core
@@ -1203,6 +1274,7 @@ github.com/sleepinggenius2/gosmi
 github.com/smallstep/assert
 github.com/smallstep/certificates
 github.com/smallstep/cli
+github.com/smallstep/cli-utils
 github.com/smallstep/go-attestation
 github.com/smallstep/nosql
 github.com/smallstep/pkcs7
@@ -1232,6 +1304,7 @@ github.com/spf13/viper
 github.com/sqids/sqids-go
 github.com/srebhan/cborquery
 github.com/srebhan/protobufquery
+github.com/ssgelm/cookiejarparser
 github.com/ssgreg/nlreturn/v2
 github.com/stbenjam/no-sprintf-host-port
 github.com/steveyen/gtreap
@@ -1258,6 +1331,7 @@ github.com/terminalstatic/go-xsd-validate
 github.com/testcontainers/testcontainers-go
 github.com/testcontainers/testcontainers-go/modules/kafka
 github.com/tetafro/godot
+github.com/tetratelabs/wazero
 github.com/thomasklein94/packer-plugin-libvirt
 github.com/tidwall/btree
 github.com/tidwall/gjson
@@ -1309,6 +1383,7 @@ github.com/vmihailenco/msgpack/v5
 github.com/vmihailenco/tagparser/v2
 github.com/vmware/govmomi
 github.com/vulcand/oxy
+github.com/vulcand/predicate
 github.com/vultr/govultr/v2
 github.com/wavefronthq/wavefront-sdk-go
 github.com/wk8/go-ordered-map/v2
@@ -1349,6 +1424,7 @@ github.com/zeebo/pcg
 github.com/zeebo/xxh3
 github.com/zerobounce/zerobouncego
 github.com/zitadel/logging
+github.com/zitadel/oidc/v2
 github.com/zitadel/oidc/v3
 github.com/zitadel/schema
 gitlab.com/bosi/decorder
@@ -1429,6 +1505,7 @@ golang.org/x/exp
 golang.org/x/exp/typeparams
 golang.org/x/image
 golang.org/x/lint
+golang.org/x/mobile
 golang.org/x/mod
 golang.org/x/net
 golang.org/x/oauth2
@@ -1496,6 +1573,7 @@ k8s.io/klog/v2
 k8s.io/kube-openapi
 k8s.io/utils
 layeh.com/radius
+libvirt.org/go/libvirtxml
 lukechampine.com/blake3
 lukechampine.com/uint128
 modernc.org/cc/v3
@@ -1503,6 +1581,7 @@ modernc.org/cc/v4
 modernc.org/ccgo/v3
 modernc.org/ccgo/v4
 modernc.org/ccorpus
+modernc.org/ccorpus2
 modernc.org/fileutil
 modernc.org/gc/v2
 modernc.org/gc/v3
