@@ -502,7 +502,7 @@ require (
 	github.com/gaissmai/bart v0.13.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
-	github.com/getkin/kin-openapi v0.127.0
+	github.com/getkin/kin-openapi v0.128.0
 	github.com/ghostiam/protogetter v0.3.8
 	github.com/gin-contrib/gzip v1.0.1
 	github.com/gin-contrib/sessions v1.0.1
