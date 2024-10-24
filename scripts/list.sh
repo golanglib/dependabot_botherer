@@ -28,3 +28,6 @@ done | sort -u | while read -r MODULE; do
 done >> list.txt
 
 sort -u list.txt -o list.txt
+
+git add --all
+git diff --staged --exit-code || git commit -m "chore: add more modules"
