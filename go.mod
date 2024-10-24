@@ -20,7 +20,7 @@ require (
 	cloud.google.com/go/kms v1.20.0
 	cloud.google.com/go/logging v1.12.0
 	cloud.google.com/go/longrunning v0.6.2
-	cloud.google.com/go/monitoring v1.21.1
+	cloud.google.com/go/monitoring v1.21.2
 	cloud.google.com/go/pubsub v1.45.0
 	cloud.google.com/go/storage v1.45.0
 	cloud.google.com/go/trace v1.11.2
