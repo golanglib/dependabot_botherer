@@ -4748,8 +4748,8 @@ github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53/go.mod h1:kNGUQ3V
 github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
 github.com/tdakkota/asciicheck v0.2.0 h1:o8jvnUANo0qXtnslk2d3nMKTFNlOnJjRrNcj0j9qkHM=
 github.com/tdakkota/asciicheck v0.2.0/go.mod h1:Qb7Y9EgjCLJGup51gDHFzbI08/gbGhL/UVhYIPWG2rg=
-github.com/tdewolff/minify/v2 v2.21.0 h1:nAPP1UVx0aK1xsQh/JiG3xyEnnqWw+agPstn+V6Pkto=
-github.com/tdewolff/minify/v2 v2.21.0/go.mod h1:hGcthJ6Vj51NG+9QRIfN/DpWj5loHnY3bfhThzWWq08=
+github.com/tdewolff/minify/v2 v2.21.1 h1:AAf5iltw6+KlUvjRNPAPrANIXl3XEJNBBzuZom5iCAM=
+github.com/tdewolff/minify/v2 v2.21.1/go.mod h1:PoqFH8ugcuTUvKqVM9vOqXw4msxvuhL/DTmV5ZXhSCI=
 github.com/tdewolff/parse/v2 v2.7.18 h1:uSqjEMT2lwCj5oifBHDcWU2kN1pbLrRENgFWDJa57eI=
 github.com/tdewolff/parse/v2 v2.7.18/go.mod h1:3FbJWZp3XT9OWVN3Hmfp0p/a08v4h8J9W1aghka0soA=
 github.com/tdewolff/test v1.0.11-0.20231101010635-f1265d231d52/go.mod h1:6DAvZliBAAnD7rhVgwaM7DE5/d9NMOAJ09SqYqeK4QE=
