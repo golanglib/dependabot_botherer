@@ -23,7 +23,7 @@ require (
 	cloud.google.com/go/monitoring v1.21.1
 	cloud.google.com/go/pubsub v1.45.0
 	cloud.google.com/go/storage v1.45.0
-	cloud.google.com/go/trace v1.11.1
+	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
 	code.gitea.io/sdk/gitea v0.19.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
