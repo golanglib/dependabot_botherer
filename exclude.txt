@@ -66,12 +66,28 @@ github.com/dmarkham/enumer
 github.com/fclairamb/ftpserverlib
 //[github.com/fclairamb/ftpserverlib] dir: /gopath/pkg/mod/github.com/fclairamb/ftpserverlib@v0.24.1
 //[github.com/fclairamb/ftpserverlib] module has replace
+github.com/go-darwin/apfs
+//[github.com/go-darwin/apfs] dir: /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348
+//[github.com/go-darwin/apfs] "": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348
+//[github.com/go-darwin/apfs] ".circleci": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/.circleci
+//[github.com/go-darwin/apfs] "cmd": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/cmd
+//[github.com/go-darwin/apfs] "cmd/go-apfs": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/cmd/go-apfs
+//[github.com/go-darwin/apfs] "docs": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/docs
+//[github.com/go-darwin/apfs] "hack": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/hack
+//[github.com/go-darwin/apfs] "hack/boilerplate": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/hack/boilerplate
+//[github.com/go-darwin/apfs] "hack/make": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/hack/make
+//[github.com/go-darwin/apfs] "testdata": no buildable Go source files in /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/testdata
+//[github.com/go-darwin/apfs] no importable packages found
 github.com/go-redsync/redsync
 //[github.com/go-redsync/redsync] dir: /gopath/pkg/mod/github.com/go-redsync/redsync@v1.4.2
 //[github.com/go-redsync/redsync] module has replace
 github.com/go-redsync/redsync/v4
 //[github.com/go-redsync/redsync/v4] dir: /gopath/pkg/mod/github.com/go-redsync/redsync/v4@v4.13.0
 //[github.com/go-redsync/redsync/v4] module has replace
+github.com/gohugoio/go-i18n/v2
+//go: github.com/gohugoio/go-i18n/v2@latest (v2.1.2) requires github.com/gohugoio/go-i18n/v2@v2.1.2: parsing go.mod:
+//	module declares its path as: github.com/nicksnyder/go-i18n/v2
+//	        but was required as: github.com/gohugoio/go-i18n/v2
 github.com/gwos/tcg
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/config imports
