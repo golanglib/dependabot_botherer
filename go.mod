@@ -893,7 +893,7 @@ require (
 	github.com/macabu/inamedparam v0.1.3
 	github.com/magefile/mage v1.15.0
 	github.com/magiconair/properties v1.8.7
-	github.com/mailgun/multibuf v0.1.2
+	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
 	github.com/mailru/easyjson v0.7.7
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
