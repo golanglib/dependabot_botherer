@@ -1212,7 +1212,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/sivchari/containedctx v1.0.3
 	github.com/sivchari/nosnakecase v1.7.0
-	github.com/sivchari/tenv v1.10.0
+	github.com/sivchari/tenv v1.12.0
 	github.com/skeema/knownhosts v1.3.0
 	github.com/slack-go/slack v0.15.0
 	github.com/slackhq/nebula v1.9.4
