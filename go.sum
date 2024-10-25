@@ -1534,8 +1534,8 @@ github.com/blevesearch/zapx/v14 v14.2.0/go.mod h1:GNgZusc1p4ot040cBQMRGEZobvwjCq
 github.com/blevesearch/zapx/v14 v14.3.10 h1:SG6xlsL+W6YjhX5N3aEiL/2tcWh3DO75Bnz77pSwwKU=
 github.com/blevesearch/zapx/v14 v14.3.10/go.mod h1:qqyuR0u230jN1yMmE4FIAuCxmahRQEOehF78m6oTgns=
 github.com/blevesearch/zapx/v15 v15.2.0/go.mod h1:MmQceLpWfME4n1WrBFIwplhWmaQbQqLQARpaKUEOs/A=
-github.com/blevesearch/zapx/v15 v15.3.15 h1:JydcGIq279tmTrfBBSPDF/VOiCMBLQ+rJulTXrGFlGA=
-github.com/blevesearch/zapx/v15 v15.3.15/go.mod h1:Turk/TNRKj9es7ZpKK95PS7f6D44Y7fAFy8F4LXQtGg=
+github.com/blevesearch/zapx/v15 v15.3.16 h1:Ct3rv7FUJPfPk99TI/OofdC+Kpb4IdyfdMH48sb+FmE=
+github.com/blevesearch/zapx/v15 v15.3.16/go.mod h1:Turk/TNRKj9es7ZpKK95PS7f6D44Y7fAFy8F4LXQtGg=
 github.com/blevesearch/zapx/v16 v16.1.7 h1:I07qV6l1rPda19zyof9Q2J9E8cjZ57pQhNY0+ePI5vM=
 github.com/blevesearch/zapx/v16 v16.1.7/go.mod h1:JqQlOqlRVaYDkpLIl3JnKql8u4zKTNlVEa3nLsi0Gn8=
 github.com/blizzy78/varnamelen v0.8.0 h1:oqSblyuQvFsW1hbBHh1zfwrKe3kcSj0rnXkKzsQ089M=
