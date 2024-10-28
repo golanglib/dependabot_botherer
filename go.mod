@@ -23,7 +23,7 @@ require (
 	cloud.google.com/go/logging v1.12.0
 	cloud.google.com/go/longrunning v0.6.2
 	cloud.google.com/go/monitoring v1.21.2
-	cloud.google.com/go/pubsub v1.45.0
+	cloud.google.com/go/pubsub v1.45.1
 	cloud.google.com/go/storage v1.45.0
 	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
@@ -1111,7 +1111,7 @@ require (
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
 	github.com/puzpuzpuz/xsync/v3 v3.4.0
-	github.com/qiniu/go-sdk/v7 v7.24.0
+	github.com/qiniu/go-sdk/v7 v7.25.0
 	github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/quasilyte/go-ruleguard/rules v0.0.0-20211022131956-028d6511ab71
@@ -1287,7 +1287,7 @@ require (
 	github.com/timakin/bodyclose v0.0.0-20240125160201-f835fa56326a
 	github.com/timonwong/loggercheck v0.10.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
-	github.com/tinylib/msgp v1.2.2
+	github.com/tinylib/msgp v1.2.3
 	github.com/tj/assert v0.0.3
 	github.com/tklauser/go-sysconf v0.3.14
 	github.com/tklauser/numcpus v0.9.0
