@@ -1528,7 +1528,7 @@ require (
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.0
 	sigs.k8s.io/controller-runtime v0.19.1
-	sigs.k8s.io/controller-tools v0.16.4
+	sigs.k8s.io/controller-tools v0.16.5
 	sigs.k8s.io/json v0.0.0-20241008212023-c46165d29634
 	sigs.k8s.io/kustomize/api v0.18.0
 	sigs.k8s.io/kustomize/cmd/config v0.15.0
