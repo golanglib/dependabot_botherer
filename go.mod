@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.39
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.40
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
-	github.com/goccy/go-yaml v1.12.0
+	github.com/goccy/go-yaml v1.13.0
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -927,7 +927,7 @@ require (
 	github.com/mdlayher/netlink v1.7.2
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
-	github.com/meilisearch/meilisearch-go v0.28.0
+	github.com/meilisearch/meilisearch-go v0.29.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
 	github.com/metacubex/chacha v0.1.0
 	github.com/metacubex/randv2 v0.2.0
