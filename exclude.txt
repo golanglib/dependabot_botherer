@@ -221,7 +221,7 @@ github.com/smartystreets/assertions
 //	module declares its path as: github.com/smarty/assertions
 //	        but was required as: github.com/smartystreets/assertions
 github.com/v2fly/v2ray-core/v5
-//[github.com/v2fly/v2ray-core/v5] dir: /gopath/pkg/mod/github.com/v2fly/v2ray-core/v5@v5.21.0
+//[github.com/v2fly/v2ray-core/v5] dir: /gopath/pkg/mod/github.com/v2fly/v2ray-core/v5@v5.22.0
 //[github.com/v2fly/v2ray-core/v5] module has replace
 github.com/xiaokangwang/VSign
 //go: github.com/xiaokangwang/VSign@latest (v0.0.0-20201108000810-e2adc24bf848) requires github.com/xiaokangwang/VSign@v0.0.0-20201108000810-e2adc24bf848: parsing go.mod:
