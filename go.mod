@@ -23,7 +23,7 @@ require (
 	cloud.google.com/go/logging v1.12.0
 	cloud.google.com/go/longrunning v0.6.2
 	cloud.google.com/go/monitoring v1.21.2
-	cloud.google.com/go/pubsub v1.45.0
+	cloud.google.com/go/pubsub v1.45.1
 	cloud.google.com/go/storage v1.45.0
 	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
@@ -227,16 +227,16 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.41
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.12
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.17
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.33
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.34
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.2
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.41.2
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.42.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.186.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.2
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.2
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.2
@@ -383,7 +383,7 @@ require (
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.23
 	github.com/containerd/containerd/api v1.7.19
-	github.com/containerd/continuity v0.4.3
+	github.com/containerd/continuity v0.4.4
 	github.com/containerd/errdefs v0.3.0
 	github.com/containerd/fifo v1.1.0
 	github.com/containerd/go-cni v1.1.10
@@ -1111,7 +1111,7 @@ require (
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
 	github.com/puzpuzpuz/xsync/v3 v3.4.0
-	github.com/qiniu/go-sdk/v7 v7.24.0
+	github.com/qiniu/go-sdk/v7 v7.25.0
 	github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/quasilyte/go-ruleguard/rules v0.0.0-20211022131956-028d6511ab71
@@ -1287,7 +1287,7 @@ require (
 	github.com/timakin/bodyclose v0.0.0-20240125160201-f835fa56326a
 	github.com/timonwong/loggercheck v0.10.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
-	github.com/tinylib/msgp v1.2.2
+	github.com/tinylib/msgp v1.2.3
 	github.com/tj/assert v0.0.3
 	github.com/tklauser/go-sysconf v0.3.14
 	github.com/tklauser/numcpus v0.9.0
