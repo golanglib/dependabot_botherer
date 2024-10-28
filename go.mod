@@ -264,7 +264,7 @@ require (
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
 	github.com/bep/imagemeta v0.8.1
-	github.com/bep/lazycache v0.5.0
+	github.com/bep/lazycache v0.7.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.9.2
 	github.com/bep/tmc v0.5.1
