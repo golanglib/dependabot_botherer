@@ -145,7 +145,7 @@ require (
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
 	github.com/abice/go-enum v0.6.0
 	github.com/acomagu/bufpipe v1.0.4
-	github.com/adrg/xdg v0.5.1
+	github.com/adrg/xdg v0.5.2
 	github.com/aerospike/aerospike-client-go/v5 v5.11.0
 	github.com/agext/levenshtein v1.2.3
 	github.com/agnivade/levenshtein v1.2.0
@@ -1410,7 +1410,7 @@ require (
 	go.opentelemetry.io/proto/otlp v1.3.1
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
 	go.step.sm/crypto v0.54.0
-	go.step.sm/linkedca v0.22.1
+	go.step.sm/linkedca v0.22.2
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.0
