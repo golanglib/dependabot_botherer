@@ -318,6 +318,8 @@ go.tmz.dev/musttag
 //go: go.tmz.dev/musttag@latest (v0.9.0) requires go.tmz.dev/musttag@v0.9.0: parsing go.mod:
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: go.tmz.dev/musttag
+golang.org/x/telemetry
+//go: golang.org/x/telemetry@latest: module golang.org/x/telemetry: Get "https://proxy.golang.org/golang.org/x/telemetry/@v/list": read tcp 10.1.0.54:36840->142.251.167.141:443: read: connection reset by peer
 golang.org/x/tools/cmd/cover
 //[golang.org/x/tools/cmd/cover] dir: /gopath/pkg/mod/golang.org/x/tools/cmd/cover@v0.1.0-deprecated
 //[golang.org/x/tools/cmd/cover] "": package is main
