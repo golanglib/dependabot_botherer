@@ -349,7 +349,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v0.13.1
-	github.com/charmbracelet/x/ansi v0.4.0
+	github.com/charmbracelet/x/ansi v0.4.1
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.0
 	github.com/chavacava/garif v0.1.0
