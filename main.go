@@ -1432,6 +1432,8 @@ import (
 	_ "golang.org/x/oauth2"
 	_ "golang.org/x/sync/errgroup"
 	_ "golang.org/x/sys/cpu"
+	_ "golang.org/x/telemetry"
+	_ "golang.org/x/telemetry/config"
 	_ "golang.org/x/term"
 	_ "golang.org/x/text"
 	_ "golang.org/x/time/rate"
