@@ -231,16 +231,16 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.3
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.42.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.2
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.186.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.2
-	github.com/aws/aws-sdk-go-v2/service/kms v1.37.2
+	github.com/aws/aws-sdk-go-v2/service/kms v1.37.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.3
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.2
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.3
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.2
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.2
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.3
 	github.com/aws/smithy-go v1.22.0
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -349,7 +349,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v0.13.1
-	github.com/charmbracelet/x/ansi v0.4.0
+	github.com/charmbracelet/x/ansi v0.4.1
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.0
 	github.com/chavacava/garif v0.1.0
@@ -1169,7 +1169,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.0.7
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.32.3
+	github.com/sashabaranov/go-openai v1.32.5
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.27.0
 	github.com/sassoftware/go-rpmutils v0.4.0
@@ -1312,7 +1312,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/valyala/fasthttp v1.56.0
+	github.com/valyala/fasthttp v1.57.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
@@ -1580,7 +1580,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.21 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.2 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
