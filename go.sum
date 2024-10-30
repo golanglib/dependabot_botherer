@@ -2311,8 +2311,8 @@ github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196
 github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a/go.mod h1:Ms8kOEVk2JP8JgAmtIUioKM/SL2GXF2R80C5Ao31WKc=
 github.com/go-kratos/kratos/v2 v2.0.1/go.mod h1:Jz6fuJFF2SLczQ7Y8ocKieVGgstQKa+R9NX09bCHekU=
 github.com/go-kratos/kratos/v2 v2.0.5/go.mod h1:pl/qF1XBL9qQfu7+kEVV+Cg7Zx1u8jIiWxVpaLx6X5k=
-github.com/go-kratos/kratos/v2 v2.8.1 h1:nK+NRp8C+wQk7tr55K9Er7nBjmBLYGbnyNz7UIy37qw=
-github.com/go-kratos/kratos/v2 v2.8.1/go.mod h1:+Vfe3FzF0d+BfMdajA11jT0rAyJWublRE/seZQNZVxE=
+github.com/go-kratos/kratos/v2 v2.8.2 h1:EsEA7AmPQ2YQQ0FZrDWO2HgBNqeWM8z/mWKzS5UkQaQ=
+github.com/go-kratos/kratos/v2 v2.8.2/go.mod h1:+Vfe3FzF0d+BfMdajA11jT0rAyJWublRE/seZQNZVxE=
 github.com/go-latex/latex v0.0.0-20210118124228-b3d85cf34e07/go.mod h1:CO1AlKB2CSIqUrmQPqA0gdRIlnLEY0gK5JGjh37zN5U=
 github.com/go-latex/latex v0.0.0-20210823091927-c0d11ff05a81/go.mod h1:SX0U8uGpxhq9o2S/CELCSUxEWWAuoCUcVCQWv7G2OCk=
 github.com/go-ldap/ldap/v3 v3.4.8 h1:loKJyspcRezt2Q3ZRMq2p/0v8iOurlmeXDPw6fikSvQ=
