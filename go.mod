@@ -11,7 +11,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.1-20240920164238-5a7b106cbb87.1
 	cel.dev/expr v0.18.0
 	cloud.google.com/go v0.116.0
-	cloud.google.com/go/auth v0.9.9
+	cloud.google.com/go/auth v0.10.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
 	cloud.google.com/go/bigquery v1.63.1
 	cloud.google.com/go/compute v1.28.2
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.40
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.44
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -229,7 +229,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.18
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.35
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.3
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.42.1
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.3
@@ -548,7 +548,7 @@ require (
 	github.com/go-kratos/consul v0.1.5
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
-	github.com/go-kratos/kratos/v2 v2.8.1
+	github.com/go-kratos/kratos/v2 v2.8.2
 	github.com/go-ldap/ldap/v3 v3.4.8
 	github.com/go-llsqlite/adapter v0.1.0
 	github.com/go-llsqlite/crawshaw v0.5.5
@@ -645,7 +645,7 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.21.0
-	github.com/google/certificate-transparency-go v1.2.1
+	github.com/google/certificate-transparency-go v1.2.2
 	github.com/google/gnostic-models v0.6.8
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
@@ -824,7 +824,7 @@ require (
 	github.com/jinzhu/now v1.1.5
 	github.com/jjti/go-spancheck v0.6.2
 	github.com/jlaffaye/ftp v0.2.0
-	github.com/jmespath/go-jmespath v0.4.0
+	github.com/jmespath/go-jmespath v0.4.1-0.20220621161143-b0104c826a24
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmhodges/levigo v1.0.0
 	github.com/joho/godotenv v1.5.1
@@ -954,7 +954,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.79
+	github.com/minio/minio-go/v7 v7.0.80
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1029,7 +1029,7 @@ require (
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/ginkgo/v2 v2.21.0
-	github.com/onsi/gomega v1.34.2
+	github.com/onsi/gomega v1.35.0
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.11.0
 	github.com/openconfig/goyang v1.6.0
@@ -1227,7 +1227,7 @@ require (
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
-	github.com/snowflakedb/gosnowflake v1.11.2
+	github.com/snowflakedb/gosnowflake v1.12.0
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.1.0
 	github.com/sony/gobreaker v1.0.0
