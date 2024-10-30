@@ -141,10 +141,9 @@ github.com/hashicorp/consul
 //go: module github.com/Azure/go-autorest/autorest/adal is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
 //go: module github.com/Azure/go-autorest/autorest/azure/auth is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
-//go: warning: github.com/hashicorp/consul/api@v1.29.5: retracted by module author: cut from incorrect branch
 //go: warning: github.com/hashicorp/go-msgpack@v1.1.5: retracted by module author: v1.1.5 merged upstream ugorji/go which breaks compatibility with previous versions.
 //go: to switch to the latest unretracted version, run:
-//	go get <module>@latest
+//	go get github.com/hashicorp/go-msgpack@latest
 github.com/hashicorp/nomad
 //go: github.com/hashicorp/nomad@latest (v1.9.1) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
 //	module declares its path as: github.com/hashicorp/go-metrics
