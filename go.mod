@@ -645,7 +645,7 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.21.0
-	github.com/google/certificate-transparency-go v1.2.1
+	github.com/google/certificate-transparency-go v1.2.2
 	github.com/google/gnostic-models v0.6.8
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
@@ -824,7 +824,7 @@ require (
 	github.com/jinzhu/now v1.1.5
 	github.com/jjti/go-spancheck v0.6.2
 	github.com/jlaffaye/ftp v0.2.0
-	github.com/jmespath/go-jmespath v0.4.0
+	github.com/jmespath/go-jmespath v0.4.1-0.20220621161143-b0104c826a24
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmhodges/levigo v1.0.0
 	github.com/joho/godotenv v1.5.1
