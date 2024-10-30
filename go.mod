@@ -756,7 +756,7 @@ require (
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
 	github.com/hashicorp/serf v0.10.1
 	github.com/hashicorp/terraform-exec v0.21.0
-	github.com/hashicorp/terraform-json v0.22.1
+	github.com/hashicorp/terraform-json v0.23.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hedhyw/rex v1.0.0
 	github.com/hellofresh/health-go/v5 v5.5.3
@@ -1285,7 +1285,7 @@ require (
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.1.7
 	github.com/timakin/bodyclose v0.0.0-20240125160201-f835fa56326a
-	github.com/timonwong/loggercheck v0.10.0
+	github.com/timonwong/loggercheck v0.10.1
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.2.3
 	github.com/tj/assert v0.0.3
