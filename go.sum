@@ -4572,8 +4572,8 @@ github.com/sleepinggenius2/gosmi v0.4.4 h1:xgu+Mt7CptuB10IPt3SVXBAA9tARToT4B9xGz
 github.com/sleepinggenius2/gosmi v0.4.4/go.mod h1:l8OniPmd3bJzw0MXP2/qh7AhP/e+bTY2CNivIhsnDT0=
 github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262 h1:unQFBIznI+VYD1/1fApl1A+9VcBk+9dcqGfnePY87LY=
 github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262/go.mod h1:MyOHs9Po2fbM1LHej6sBUT8ozbxmMOFG+E+rx/GSGuc=
-github.com/smallstep/certificates v0.27.5 h1:EOfaHdo/eMv0aVF11iuF4PoY/UmDBS7+TxYD0MSKTFA=
-github.com/smallstep/certificates v0.27.5/go.mod h1:0rLS7iQtfG3X0fcxZWeBXSkFVnBoeCLXxHWVnPD+zzg=
+github.com/smallstep/certificates v0.28.0 h1:EM/lH/5vizfs1sMSBADSJt2PfQikRCBYtzgRNrtNjlA=
+github.com/smallstep/certificates v0.28.0/go.mod h1:kJE6IWqokSv34dWy/Qqcl2FuQvmwruxn2Yhg/tIqs4Y=
 github.com/smallstep/cli v0.27.5 h1:bXGlhxDmr32vnKf84VmgoA6wsDI1vLY6M3Lz6ZMwS6I=
 github.com/smallstep/cli v0.27.5/go.mod h1:X/wWlOSMrGTkxSef+uUlDofM18ZtETy02HqDpSdxAhw=
 github.com/smallstep/cli-utils v0.10.0 h1:CfXNvHtIN5pAzGvGP0NEUZoGFcj5epNEB6RSpSfduek=
@@ -5209,8 +5209,6 @@ go.opentelemetry.io/proto/otlp v1.3.1/go.mod h1:0X1WI4de4ZsLrrJNLAQbFeLCm3T7yBkR
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 go.starlark.net v0.0.0-20240925182052-1207426daebd h1:S+EMisJOHklQxnS3kqsY8jl2y5aF0FDEdcLnOw3q22E=
 go.starlark.net v0.0.0-20240925182052-1207426daebd/go.mod h1:YKMCv9b1WrfWmeqdV5MAuEHWsu5iC+fe6kYl2sQjdI8=
-go.step.sm/cli-utils v0.9.0 h1:55jYcsQbnArNqepZyAwcato6Zy2MoZDRkWW+jF+aPfQ=
-go.step.sm/cli-utils v0.9.0/go.mod h1:Y/CRoWl1FVR9j+7PnAewufAwKmBOTzR6l9+7EYGAnp8=
 go.step.sm/crypto v0.54.0 h1:V8p+12Ld0NRA/RBMYoKXA0dWmVKZSdCwP56IwzweT9g=
 go.step.sm/crypto v0.54.0/go.mod h1:vQJyTngfZDW+UyZdFzOMCY/txWDAmcwViEUC7Gn4YfU=
 go.step.sm/linkedca v0.22.2 h1:zmFIyDC77gFHo6FLQJ8OIXYpLYDIsgDWaYqtYs6A9/Q=
