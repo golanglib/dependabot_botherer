@@ -1218,7 +1218,7 @@ require (
 	github.com/slackhq/nebula v1.9.4
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
-	github.com/smallstep/certificates v0.27.5
+	github.com/smallstep/certificates v0.28.0
 	github.com/smallstep/cli v0.27.5
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
@@ -1708,7 +1708,6 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.55.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.30.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.30.0 // indirect
-	go.step.sm/cli-utils v0.9.0 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
