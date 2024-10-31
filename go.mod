@@ -13,7 +13,7 @@ require (
 	cloud.google.com/go v0.116.0
 	cloud.google.com/go/auth v0.10.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
-	cloud.google.com/go/bigquery v1.63.1
+	cloud.google.com/go/bigquery v1.64.0
 	cloud.google.com/go/compute v1.28.2
 	cloud.google.com/go/compute/metadata v0.5.2
 	cloud.google.com/go/datacatalog v1.22.2
@@ -32,10 +32,10 @@ require (
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.17.0
 	dario.cat/mergo v1.0.1
-	deps.dev/api/v3 v3.0.0-20240923041156-0312db85d6d6
-	deps.dev/util/maven v0.0.0-20240923041156-0312db85d6d6
-	deps.dev/util/resolve v0.0.0-20240923041156-0312db85d6d6
-	deps.dev/util/semver v0.0.0-20240923041156-0312db85d6d6
+	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/maven v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/resolve v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
@@ -91,7 +91,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.1
 	github.com/Azure/go-autorest/tracing v0.6.0
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.2
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.3
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.63.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.44
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.45
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.186.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.187.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.3
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.2
@@ -348,7 +348,7 @@ require (
 	github.com/charmbracelet/bubbletea v1.1.2
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
-	github.com/charmbracelet/lipgloss v0.13.1
+	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/charmbracelet/x/ansi v0.4.2
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.0
@@ -492,7 +492,7 @@ require (
 	github.com/flynn/noise v1.1.0
 	github.com/francoispqt/gojay v1.2.13
 	github.com/frankban/quicktest v1.14.6
-	github.com/fsnotify/fsnotify v1.7.0
+	github.com/fsnotify/fsnotify v1.8.0
 	github.com/fullstorydev/grpcurl v1.9.1
 	github.com/fxamacker/cbor v1.5.1
 	github.com/fxamacker/cbor/v2 v2.7.0
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
-	github.com/goccy/go-yaml v1.13.0
+	github.com/goccy/go-yaml v1.13.1
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -676,7 +676,7 @@ require (
 	github.com/google/licenseclassifier/v2 v2.0.0
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
-	github.com/google/osv-scanner v1.9.0
+	github.com/google/osv-scanner v1.9.1
 	github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db
 	github.com/google/s2a-go v0.1.8
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -749,7 +749,7 @@ require (
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hc-install v0.9.0
-	github.com/hashicorp/hcl v1.0.1-vault-5
+	github.com/hashicorp/hcl v1.0.1-vault-6
 	github.com/hashicorp/hcl/v2 v2.22.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.1
@@ -965,7 +965,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.16.0
+	github.com/moby/buildkit v0.17.0
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1069,7 +1069,7 @@ require (
 	github.com/pion/dtls v1.5.4
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
-	github.com/pion/ice/v2 v2.3.36
+	github.com/pion/ice/v2 v2.3.37
 	github.com/pion/interceptor v0.1.37
 	github.com/pion/logging v0.2.2
 	github.com/pion/mdns v0.0.12
@@ -1287,7 +1287,7 @@ require (
 	github.com/timakin/bodyclose v0.0.0-20240125160201-f835fa56326a
 	github.com/timonwong/loggercheck v0.10.1
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
-	github.com/tinylib/msgp v1.2.3
+	github.com/tinylib/msgp v1.2.4
 	github.com/tj/assert v0.0.3
 	github.com/tklauser/go-sysconf v0.3.14
 	github.com/tklauser/numcpus v0.9.0
@@ -1425,7 +1425,7 @@ require (
 	golang.org/x/arch v0.11.0
 	golang.org/x/crypto v0.28.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
-	golang.org/x/exp v0.0.0-20241004190924-225e2abe05e6
+	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 	golang.org/x/exp/typeparams v0.0.0-20241004190924-225e2abe05e6
 	golang.org/x/image v0.21.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
@@ -1600,9 +1600,9 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v27.2.1+incompatible // indirect
+	github.com/docker/cli v27.3.1+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v27.3.0+incompatible // indirect
+	github.com/docker/docker v27.3.1+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
