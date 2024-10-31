@@ -149,7 +149,8 @@ github.com/hashicorp/nomad
 //	module declares its path as: github.com/hashicorp/go-metrics
 //	        but was required as: github.com/armon/go-metrics
 github.com/hashicorp/vault
-//go: github.com/hashicorp/vault@latest (v1.18.0) requires github.com/pires/go-proxyproto@v1.0.0: reading github.com/pires/go-proxyproto/go.mod at revision v1.0.0: unknown revision v1.0.0
+//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.18.1
+//[github.com/hashicorp/vault] module has replace
 github.com/imdario/mergo
 //go: github.com/imdario/mergo@latest (v1.0.1) requires github.com/imdario/mergo@v1.0.1: parsing go.mod:
 //	module declares its path as: dario.cat/mergo
@@ -336,20 +337,20 @@ golang.zx2c4.com/wireguard/windows
 //[golang.zx2c4.com/wireguard/windows] dir: /gopath/pkg/mod/golang.zx2c4.com/wireguard/windows@v0.5.3
 //[golang.zx2c4.com/wireguard/windows] module has replace
 src.techknowlogick.com/xgo
-//[src.techknowlogick.com/xgo] dir: /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387
+//[src.techknowlogick.com/xgo] dir: /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f
 //[src.techknowlogick.com/xgo] "": package is main
-//[src.techknowlogick.com/xgo] ".github": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/.github
-//[src.techknowlogick.com/xgo] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/.github/workflows
-//[src.techknowlogick.com/xgo] "docker": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker
-//[src.techknowlogick.com/xgo] "docker/build": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/build
-//[src.techknowlogick.com/xgo] "docker/go-1.22.8": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/go-1.22.8
-//[src.techknowlogick.com/xgo] "docker/go-1.22.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/go-1.22.x
-//[src.techknowlogick.com/xgo] "docker/go-1.23.2": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/go-1.23.2
-//[src.techknowlogick.com/xgo] "docker/go-1.23.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/go-1.23.x
-//[src.techknowlogick.com/xgo] "docker/go-latest": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/go-latest
-//[src.techknowlogick.com/xgo] "docker/toolchain": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/toolchain
-//[src.techknowlogick.com/xgo] "docker/toolchain/patches": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/docker/toolchain/patches
-//[src.techknowlogick.com/xgo] "tests": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241001173926-419a3c2a0387/tests
+//[src.techknowlogick.com/xgo] ".github": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/.github
+//[src.techknowlogick.com/xgo] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/.github/workflows
+//[src.techknowlogick.com/xgo] "docker": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker
+//[src.techknowlogick.com/xgo] "docker/build": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/build
+//[src.techknowlogick.com/xgo] "docker/go-1.22.8": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/go-1.22.8
+//[src.techknowlogick.com/xgo] "docker/go-1.22.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/go-1.22.x
+//[src.techknowlogick.com/xgo] "docker/go-1.23.2": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/go-1.23.2
+//[src.techknowlogick.com/xgo] "docker/go-1.23.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/go-1.23.x
+//[src.techknowlogick.com/xgo] "docker/go-latest": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/go-latest
+//[src.techknowlogick.com/xgo] "docker/toolchain": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/toolchain
+//[src.techknowlogick.com/xgo] "docker/toolchain/patches": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/docker/toolchain/patches
+//[src.techknowlogick.com/xgo] "tests": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.7.1-0.20241030201442-94a37a05420f/tests
 //[src.techknowlogick.com/xgo] "tests/embedded_c": package is main
 //[src.techknowlogick.com/xgo] "tests/embedded_cpp": package is main
 //[src.techknowlogick.com/xgo] no importable packages found
