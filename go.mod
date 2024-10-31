@@ -32,10 +32,10 @@ require (
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.17.0
 	dario.cat/mergo v1.0.1
-	deps.dev/api/v3 v3.0.0-20240923041156-0312db85d6d6
-	deps.dev/util/maven v0.0.0-20240923041156-0312db85d6d6
-	deps.dev/util/resolve v0.0.0-20240923041156-0312db85d6d6
-	deps.dev/util/semver v0.0.0-20240923041156-0312db85d6d6
+	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/maven v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/resolve v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
@@ -676,7 +676,7 @@ require (
 	github.com/google/licenseclassifier/v2 v2.0.0
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
-	github.com/google/osv-scanner v1.9.0
+	github.com/google/osv-scanner v1.9.1
 	github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db
 	github.com/google/s2a-go v0.1.8
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -1425,7 +1425,7 @@ require (
 	golang.org/x/arch v0.11.0
 	golang.org/x/crypto v0.28.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
-	golang.org/x/exp v0.0.0-20241004190924-225e2abe05e6
+	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 	golang.org/x/exp/typeparams v0.0.0-20241004190924-225e2abe05e6
 	golang.org/x/image v0.21.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
