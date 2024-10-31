@@ -965,7 +965,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.16.0
+	github.com/moby/buildkit v0.17.0
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1600,9 +1600,9 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v27.2.1+incompatible // indirect
+	github.com/docker/cli v27.3.1+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v27.3.0+incompatible // indirect
+	github.com/docker/docker v27.3.1+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
