@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.45
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.47
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -617,7 +617,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.1.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.136.5
+	github.com/gohugoio/hugo v0.137.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.2.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
