@@ -717,7 +717,7 @@ require (
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.22.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.23.0
 	github.com/h12w/go-socks5 v0.0.0-20200522160539-76189e178364
 	github.com/h2non/gock v1.2.0
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
@@ -1450,7 +1450,7 @@ require (
 	google.golang.org/api v0.204.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38
-	google.golang.org/genproto/googleapis/api v0.0.0-20241015192408-796eee8c2d53
+	google.golang.org/genproto/googleapis/api v0.0.0-20241021214115-324edc3d5d38
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241021214115-324edc3d5d38
 	google.golang.org/grpc v1.67.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
