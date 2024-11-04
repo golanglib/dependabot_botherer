@@ -1155,7 +1155,7 @@ require (
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.2.3
-	github.com/sagernet/sing v0.4.3
+	github.com/sagernet/sing v0.5.0
 	github.com/sagernet/sing-mux v0.2.0
 	github.com/sagernet/sing-shadowtls v0.1.4
 	github.com/sagernet/sing-vmess v0.1.12
