@@ -854,7 +854,7 @@ require (
 	github.com/klauspost/asmfmt v1.3.2
 	github.com/klauspost/compress v1.17.11
 	github.com/klauspost/cpuid v1.3.1
-	github.com/klauspost/cpuid/v2 v2.2.8
+	github.com/klauspost/cpuid/v2 v2.2.9
 	github.com/klauspost/reedsolomon v1.12.4
 	github.com/kolo/xmlrpc v0.0.0-20220921171641-a4b6fa1dd06b
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3
