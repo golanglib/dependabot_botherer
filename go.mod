@@ -14,7 +14,7 @@ require (
 	cloud.google.com/go/auth v0.10.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
 	cloud.google.com/go/bigquery v1.64.0
-	cloud.google.com/go/compute v1.28.2
+	cloud.google.com/go/compute v1.28.3
 	cloud.google.com/go/compute/metadata v0.5.2
 	cloud.google.com/go/datacatalog v1.22.2
 	cloud.google.com/go/firestore v1.17.0
@@ -234,13 +234,13 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.4
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.187.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.3
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.4
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.2
-	github.com/aws/aws-sdk-go-v2/service/sso v1.24.3
+	github.com/aws/aws-sdk-go-v2/service/sso v1.24.4
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.3
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.3
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.4
 	github.com/aws/smithy-go v1.22.0
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -1324,7 +1324,7 @@ require (
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
-	github.com/vmware/govmomi v0.45.1
+	github.com/vmware/govmomi v0.46.0
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.2.0
 	github.com/vultr/govultr/v2 v2.17.2
