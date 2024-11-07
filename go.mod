@@ -1320,7 +1320,7 @@ require (
 	github.com/vektah/gqlparser/v2 v2.5.18
 	github.com/vektra/mockery/v2 v2.46.3
 	github.com/vishvananda/netlink v1.3.0
-	github.com/vishvananda/netns v0.0.4
+	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
