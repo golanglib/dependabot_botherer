@@ -14,7 +14,7 @@ require (
 	cloud.google.com/go/auth v0.10.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
 	cloud.google.com/go/bigquery v1.64.0
-	cloud.google.com/go/compute v1.28.2
+	cloud.google.com/go/compute v1.28.3
 	cloud.google.com/go/compute/metadata v0.5.2
 	cloud.google.com/go/datacatalog v1.22.2
 	cloud.google.com/go/firestore v1.17.0
@@ -226,7 +226,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.28.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.42
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.13
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.18
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.35
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.3
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.0
@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.3
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.3
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.3
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.3
 	github.com/aws/smithy-go v1.22.0
@@ -392,7 +392,7 @@ require (
 	github.com/containerd/stargz-snapshotter v0.15.1
 	github.com/containerd/stargz-snapshotter/estargz v0.15.1
 	github.com/containerd/ttrpc v1.2.6
-	github.com/containerd/typeurl/v2 v2.2.2
+	github.com/containerd/typeurl/v2 v2.2.3
 	github.com/containernetworking/cni v1.2.3
 	github.com/coocood/freecache v1.2.4
 	github.com/coreos/go-iptables v0.8.0
@@ -428,7 +428,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.3.1
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241007203800-ad92148935b6
-	github.com/digitalocean/godo v1.128.0
+	github.com/digitalocean/godo v1.129.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -644,7 +644,7 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.21.0
+	github.com/google/cel-go v0.22.0
 	github.com/google/certificate-transparency-go v1.2.2
 	github.com/google/gnostic-models v0.6.8
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
@@ -783,7 +783,7 @@ require (
 	github.com/intel/iaevents v1.1.0
 	github.com/intel/powertelemetry v1.0.1
 	github.com/invopop/yaml v0.3.1
-	github.com/ionos-cloud/sdk-go/v6 v6.2.1
+	github.com/ionos-cloud/sdk-go/v6 v6.3.0
 	github.com/ip2location/ip2location-go/v9 v9.7.0
 	github.com/iris-contrib/httpexpect/v2 v2.15.2
 	github.com/iris-contrib/schema v0.0.6
@@ -854,7 +854,7 @@ require (
 	github.com/klauspost/asmfmt v1.3.2
 	github.com/klauspost/compress v1.17.11
 	github.com/klauspost/cpuid v1.3.1
-	github.com/klauspost/cpuid/v2 v2.2.8
+	github.com/klauspost/cpuid/v2 v2.2.9
 	github.com/klauspost/reedsolomon v1.12.4
 	github.com/kolo/xmlrpc v0.0.0-20220921171641-a4b6fa1dd06b
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3
@@ -1320,11 +1320,11 @@ require (
 	github.com/vektah/gqlparser/v2 v2.5.19
 	github.com/vektra/mockery/v2 v2.46.3
 	github.com/vishvananda/netlink v1.3.0
-	github.com/vishvananda/netns v0.0.4
+	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
-	github.com/vmware/govmomi v0.45.1
+	github.com/vmware/govmomi v0.46.0
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.2.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1447,12 +1447,12 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.204.0
+	google.golang.org/api v0.205.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38
 	google.golang.org/genproto/googleapis/api v0.0.0-20241021214115-324edc3d5d38
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241021214115-324edc3d5d38
-	google.golang.org/grpc v1.67.1
+	google.golang.org/grpc v1.68.0
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
 	google.golang.org/protobuf v1.35.1
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
