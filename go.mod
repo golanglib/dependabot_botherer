@@ -240,7 +240,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.3
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.3
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.4
 	github.com/aws/smithy-go v1.22.0
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -1582,7 +1582,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.22 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.3 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.3 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
