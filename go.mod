@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.48
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.49
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -223,24 +223,24 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/aws/aws-sdk-go-v2 v1.32.4
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.6
-	github.com/aws/aws-sdk-go-v2/config v1.28.2
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.43
+	github.com/aws/aws-sdk-go-v2/config v1.28.3
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.44
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.14
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.36
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.1
-	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.4
+	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.4
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.187.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.4
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.4
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.3
-	github.com/aws/aws-sdk-go-v2/service/sso v1.24.4
+	github.com/aws/aws-sdk-go-v2/service/sso v1.24.5
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.4
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.4
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.5
 	github.com/aws/smithy-go v1.22.0
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -351,7 +351,7 @@ require (
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/charmbracelet/x/ansi v0.4.5
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
-	github.com/charmbracelet/x/term v0.2.0
+	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
 	github.com/checkpoint-restore/go-criu/v5 v5.3.0
 	github.com/chenzhuoyu/base64x v0.0.0-20230717121745-296ad89f973d
@@ -499,7 +499,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.6
-	github.com/gaissmai/bart v0.13.0
+	github.com/gaissmai/bart v0.13.1
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.128.0
@@ -749,7 +749,7 @@ require (
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hc-install v0.9.0
-	github.com/hashicorp/hcl v1.0.1-vault-6
+	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.22.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.1
@@ -1127,7 +1127,7 @@ require (
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.68.1
 	github.com/redis/go-redis/v9 v9.7.0
-	github.com/redis/rueidis v1.0.48
+	github.com/redis/rueidis v1.0.49
 	github.com/refraction-networking/utls v1.6.7
 	github.com/relvacode/iso8601 v1.5.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
@@ -1156,7 +1156,7 @@ require (
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.2.3
 	github.com/sagernet/sing v0.5.0
-	github.com/sagernet/sing-mux v0.2.0
+	github.com/sagernet/sing-mux v0.2.1
 	github.com/sagernet/sing-shadowtls v0.1.4
 	github.com/sagernet/sing-vmess v0.1.12
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
@@ -1169,7 +1169,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.0.7
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.32.5
+	github.com/sashabaranov/go-openai v1.35.6
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.27.0
 	github.com/sassoftware/go-rpmutils v0.4.0
@@ -1402,11 +1402,11 @@ require (
 	go.opentelemetry.io/contrib/propagators/b3 v1.31.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.31.0
 	go.opentelemetry.io/contrib/propagators/ot v1.31.0
-	go.opentelemetry.io/otel v1.31.0
-	go.opentelemetry.io/otel/metric v1.31.0
+	go.opentelemetry.io/otel v1.32.0
+	go.opentelemetry.io/otel/metric v1.32.0
 	go.opentelemetry.io/otel/sdk v1.31.0
 	go.opentelemetry.io/otel/sdk/metric v1.31.0
-	go.opentelemetry.io/otel/trace v1.31.0
+	go.opentelemetry.io/otel/trace v1.32.0
 	go.opentelemetry.io/proto/otlp v1.3.1
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
 	go.step.sm/crypto v0.54.0
@@ -1423,7 +1423,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/arch v0.11.0
-	golang.org/x/crypto v0.28.0
+	golang.org/x/crypto v0.29.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 	golang.org/x/exp/typeparams v0.0.0-20241004190924-225e2abe05e6
@@ -1431,14 +1431,14 @@ require (
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.21.0
-	golang.org/x/net v0.30.0
+	golang.org/x/net v0.31.0
 	golang.org/x/oauth2 v0.23.0
-	golang.org/x/sync v0.8.0
-	golang.org/x/sys v0.26.0
+	golang.org/x/sync v0.9.0
+	golang.org/x/sys v0.27.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.32.0
-	golang.org/x/term v0.25.0
-	golang.org/x/text v0.19.0
+	golang.org/x/term v0.26.0
+	golang.org/x/text v0.20.0
 	golang.org/x/time v0.7.0
 	golang.org/x/tools v0.26.0
 	golang.org/x/vuln v1.1.3
