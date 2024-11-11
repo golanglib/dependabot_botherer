@@ -48,7 +48,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.3.4
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.55
+	github.com/99designs/gqlgen v0.17.56
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -129,14 +129,14 @@ require (
 	github.com/PaesslerAG/gval v1.2.3
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
-	github.com/ProtonMail/go-crypto v1.1.0
+	github.com/ProtonMail/go-crypto v1.1.2
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
 	github.com/ProtonMail/gopenpgp/v2 v2.8.0
 	github.com/PuerkitoBio/goquery v1.10.0
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
-	github.com/RoaringBitmap/roaring/v2 v2.4.1
+	github.com/RoaringBitmap/roaring/v2 v2.4.2
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.12.5
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.48
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.49
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -223,24 +223,24 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/aws/aws-sdk-go-v2 v1.32.4
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.6
-	github.com/aws/aws-sdk-go-v2/config v1.28.2
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.43
+	github.com/aws/aws-sdk-go-v2/config v1.28.3
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.44
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.14
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.36
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.1
-	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.4
+	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.4
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.187.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.4
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.4
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.3
-	github.com/aws/aws-sdk-go-v2/service/sso v1.24.4
+	github.com/aws/aws-sdk-go-v2/service/sso v1.24.5
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.32.4
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.4
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.5
 	github.com/aws/smithy-go v1.22.0
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -270,7 +270,7 @@ require (
 	github.com/bep/tmc v0.5.1
 	github.com/bitly/go-hostpool v0.1.0
 	github.com/bitly/go-simplejson v0.5.1
-	github.com/bits-and-blooms/bitset v1.14.3
+	github.com/bits-and-blooms/bitset v1.15.0
 	github.com/bits-and-blooms/bloom/v3 v3.7.0
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
@@ -324,7 +324,7 @@ require (
 	github.com/bufbuild/protocompile v0.14.1
 	github.com/bufbuild/protovalidate-go v0.7.2
 	github.com/buger/jsonparser v1.1.1
-	github.com/buildkite/terminal-to-html/v3 v3.16.3
+	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.0
 	github.com/butuzov/mirror v1.2.0
 	github.com/bytedance/sonic v1.12.4
@@ -345,13 +345,13 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.20.0
-	github.com/charmbracelet/bubbletea v1.2.0
+	github.com/charmbracelet/bubbletea v1.2.1
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/charmbracelet/x/ansi v0.4.5
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
-	github.com/charmbracelet/x/term v0.2.0
+	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
 	github.com/checkpoint-restore/go-criu/v5 v5.3.0
 	github.com/chenzhuoyu/base64x v0.0.0-20230717121745-296ad89f973d
@@ -499,7 +499,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.6
-	github.com/gaissmai/bart v0.13.0
+	github.com/gaissmai/bart v0.13.1
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.128.0
@@ -576,7 +576,7 @@ require (
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.15.3
+	github.com/go-resty/resty/v2 v2.16.0
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
-	github.com/goccy/go-yaml v1.13.6
+	github.com/goccy/go-yaml v1.13.7
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -749,7 +749,7 @@ require (
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hc-install v0.9.0
-	github.com/hashicorp/hcl v1.0.1-vault-6
+	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.22.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.1
@@ -965,7 +965,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.17.0
+	github.com/moby/buildkit v0.17.1
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1372,7 +1372,7 @@ require (
 	gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7
 	gitlab.com/yawning/bsaes.git v0.0.0-20190805113838-0a714cd429ec
 	go-simpler.org/assert v0.9.0
-	go-simpler.org/musttag v0.12.2
+	go-simpler.org/musttag v0.13.0
 	go-simpler.org/sloglint v0.7.2
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
@@ -1394,12 +1394,12 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib v1.31.0
+	go.opentelemetry.io/contrib v1.32.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.31.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.56.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.56.0
 	go.opentelemetry.io/contrib/propagators/aws v1.31.0
-	go.opentelemetry.io/contrib/propagators/b3 v1.31.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.32.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.31.0
 	go.opentelemetry.io/contrib/propagators/ot v1.31.0
 	go.opentelemetry.io/otel v1.32.0
@@ -1470,7 +1470,7 @@ require (
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/driver/sqlite v1.5.6
-	gorm.io/driver/sqlserver v1.5.3
+	gorm.io/driver/sqlserver v1.5.4
 	gorm.io/gen v0.3.26
 	gorm.io/gorm v1.25.12
 	gorm.io/hints v1.1.2
