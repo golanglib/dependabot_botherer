@@ -1127,7 +1127,7 @@ require (
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.68.1
 	github.com/redis/go-redis/v9 v9.7.0
-	github.com/redis/rueidis v1.0.48
+	github.com/redis/rueidis v1.0.49
 	github.com/refraction-networking/utls v1.6.7
 	github.com/relvacode/iso8601 v1.5.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
@@ -1402,11 +1402,11 @@ require (
 	go.opentelemetry.io/contrib/propagators/b3 v1.31.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.31.0
 	go.opentelemetry.io/contrib/propagators/ot v1.31.0
-	go.opentelemetry.io/otel v1.31.0
-	go.opentelemetry.io/otel/metric v1.31.0
+	go.opentelemetry.io/otel v1.32.0
+	go.opentelemetry.io/otel/metric v1.32.0
 	go.opentelemetry.io/otel/sdk v1.31.0
 	go.opentelemetry.io/otel/sdk/metric v1.31.0
-	go.opentelemetry.io/otel/trace v1.31.0
+	go.opentelemetry.io/otel/trace v1.32.0
 	go.opentelemetry.io/proto/otlp v1.3.1
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
 	go.step.sm/crypto v0.54.0
