@@ -324,7 +324,7 @@ require (
 	github.com/bufbuild/protocompile v0.14.1
 	github.com/bufbuild/protovalidate-go v0.7.2
 	github.com/buger/jsonparser v1.1.1
-	github.com/buildkite/terminal-to-html/v3 v3.16.3
+	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.0
 	github.com/butuzov/mirror v1.2.0
 	github.com/bytedance/sonic v1.12.4
