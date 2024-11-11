@@ -1156,7 +1156,7 @@ require (
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.2.3
 	github.com/sagernet/sing v0.5.0
-	github.com/sagernet/sing-mux v0.2.0
+	github.com/sagernet/sing-mux v0.2.1
 	github.com/sagernet/sing-shadowtls v0.1.4
 	github.com/sagernet/sing-vmess v0.1.12
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
@@ -1423,7 +1423,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/arch v0.11.0
-	golang.org/x/crypto v0.28.0
+	golang.org/x/crypto v0.29.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 	golang.org/x/exp/typeparams v0.0.0-20241004190924-225e2abe05e6
@@ -1431,14 +1431,14 @@ require (
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.21.0
-	golang.org/x/net v0.30.0
+	golang.org/x/net v0.31.0
 	golang.org/x/oauth2 v0.23.0
-	golang.org/x/sync v0.8.0
-	golang.org/x/sys v0.26.0
+	golang.org/x/sync v0.9.0
+	golang.org/x/sys v0.27.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.32.0
-	golang.org/x/term v0.25.0
-	golang.org/x/text v0.19.0
+	golang.org/x/term v0.26.0
+	golang.org/x/text v0.20.0
 	golang.org/x/time v0.7.0
 	golang.org/x/tools v0.26.0
 	golang.org/x/vuln v1.1.3
