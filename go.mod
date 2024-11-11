@@ -225,17 +225,17 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.6
 	github.com/aws/aws-sdk-go-v2/config v1.28.3
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.44
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.14
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.15
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.37
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.5
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.4
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.5
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.187.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.4
-	github.com/aws/aws-sdk-go-v2/service/kms v1.37.4
+	github.com/aws/aws-sdk-go-v2/service/kms v1.37.5
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.5
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
@@ -1396,7 +1396,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib v1.32.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.31.0
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.56.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.57.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.56.0
 	go.opentelemetry.io/contrib/propagators/aws v1.32.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.32.0
@@ -1427,19 +1427,19 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
-	golang.org/x/image v0.21.0
+	golang.org/x/image v0.22.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.22.0
 	golang.org/x/net v0.31.0
-	golang.org/x/oauth2 v0.23.0
+	golang.org/x/oauth2 v0.24.0
 	golang.org/x/sync v0.9.0
 	golang.org/x/sys v0.27.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.33.0
 	golang.org/x/term v0.26.0
 	golang.org/x/text v0.20.0
-	golang.org/x/time v0.7.0
+	golang.org/x/time v0.8.0
 	golang.org/x/tools v0.27.0
 	golang.org/x/vuln v1.1.3
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
@@ -1451,7 +1451,7 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38
 	google.golang.org/genproto/googleapis/api v0.0.0-20241021214115-324edc3d5d38
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20241021214115-324edc3d5d38
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/grpc v1.68.0
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
 	google.golang.org/protobuf v1.35.1
