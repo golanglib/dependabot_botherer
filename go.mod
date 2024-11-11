@@ -1018,7 +1018,7 @@ require (
 	github.com/nishanths/exhaustive v0.12.0
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/nunnatsa/ginkgolinter v0.18.0
+	github.com/nunnatsa/ginkgolinter v0.18.2
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
@@ -1426,11 +1426,11 @@ require (
 	golang.org/x/crypto v0.29.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
-	golang.org/x/exp/typeparams v0.0.0-20241004190924-225e2abe05e6
+	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/image v0.21.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
-	golang.org/x/mod v0.21.0
+	golang.org/x/mod v0.22.0
 	golang.org/x/net v0.31.0
 	golang.org/x/oauth2 v0.23.0
 	golang.org/x/sync v0.9.0
@@ -1440,7 +1440,7 @@ require (
 	golang.org/x/term v0.26.0
 	golang.org/x/text v0.20.0
 	golang.org/x/time v0.7.0
-	golang.org/x/tools v0.26.0
+	golang.org/x/tools v0.27.0
 	golang.org/x/vuln v1.1.3
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
