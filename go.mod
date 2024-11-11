@@ -1372,7 +1372,7 @@ require (
 	gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7
 	gitlab.com/yawning/bsaes.git v0.0.0-20190805113838-0a714cd429ec
 	go-simpler.org/assert v0.9.0
-	go-simpler.org/musttag v0.12.2
+	go-simpler.org/musttag v0.13.0
 	go-simpler.org/sloglint v0.7.2
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
