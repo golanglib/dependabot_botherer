@@ -5160,8 +5160,8 @@ go.opentelemetry.io/collector/pdata/testdata v0.111.0 h1:Fqyf1NJ0az+HbsvKSCNw8pf
 go.opentelemetry.io/collector/pdata/testdata v0.111.0/go.mod h1:7SypOzbVtRsCkns6Yxa4GztnkVGkk7b9fW24Ow75q5s=
 go.opentelemetry.io/collector/semconv v0.111.0 h1:ELleMtLBzeZ3xhfhYPmFcLc0hJMqRxhOB0eY60WLivw=
 go.opentelemetry.io/collector/semconv v0.111.0/go.mod h1:zCJ5njhWpejR+A40kiEoeFm1xq1uzyZwMnRNX6/D82A=
-go.opentelemetry.io/contrib v1.31.0 h1:GkjBOSwjro1dRWw64sDgsx3MAUa0puW4NLwLO4QNRCc=
-go.opentelemetry.io/contrib v1.31.0/go.mod h1:10IRYpeyXrTiOz6iJGXlLWoFWrnIzYRE/1EdC3GSHjg=
+go.opentelemetry.io/contrib v1.32.0 h1:eHUg3qVKIV+YQ/CzFxSWOqD6S6R1+j/IvEPoGQLLWlY=
+go.opentelemetry.io/contrib v1.32.0/go.mod h1:10IRYpeyXrTiOz6iJGXlLWoFWrnIzYRE/1EdC3GSHjg=
 go.opentelemetry.io/contrib/detectors/gcp v1.31.0 h1:G1JQOreVrfhRkner+l4mrGxmfqYCAuy76asTDAo0xsA=
 go.opentelemetry.io/contrib/detectors/gcp v1.31.0/go.mod h1:tzQL6E1l+iV44YFTkcAeNQqzXUiekSYP9jjJjXwEd00=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.56.0 h1:yMkBS9yViCc7U7yeLzJPM2XizlfdVvBRSmsQDWu6qc0=
