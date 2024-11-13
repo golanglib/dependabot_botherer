@@ -11,7 +11,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.1-20240920164238-5a7b106cbb87.1
 	cel.dev/expr v0.18.0
 	cloud.google.com/go v0.116.0
-	cloud.google.com/go/auth v0.10.1
+	cloud.google.com/go/auth v0.10.2
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
 	cloud.google.com/go/bigquery v1.64.0
 	cloud.google.com/go/compute v1.28.3
@@ -263,7 +263,7 @@ require (
 	github.com/bep/godartsass/v2 v2.2.0
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
-	github.com/bep/imagemeta v0.8.1
+	github.com/bep/imagemeta v0.8.3
 	github.com/bep/lazycache v0.7.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.9.2
