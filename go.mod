@@ -56,7 +56,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Antonboom/errname v1.0.0
 	github.com/Antonboom/nilnil v1.0.0
-	github.com/Antonboom/testifylint v1.5.0
+	github.com/Antonboom/testifylint v1.5.1
 	github.com/Azure/azure-amqp-common-go v1.1.4
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0
 	github.com/Azure/azure-event-hubs-go v1.3.2
