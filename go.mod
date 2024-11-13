@@ -11,7 +11,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.1-20240920164238-5a7b106cbb87.1
 	cel.dev/expr v0.18.0
 	cloud.google.com/go v0.116.0
-	cloud.google.com/go/auth v0.10.1
+	cloud.google.com/go/auth v0.10.2
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
 	cloud.google.com/go/bigquery v1.64.0
 	cloud.google.com/go/compute v1.28.3
@@ -56,7 +56,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Antonboom/errname v1.0.0
 	github.com/Antonboom/nilnil v1.0.0
-	github.com/Antonboom/testifylint v1.5.0
+	github.com/Antonboom/testifylint v1.5.1
 	github.com/Azure/azure-amqp-common-go v1.1.4
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0
 	github.com/Azure/azure-event-hubs-go v1.3.2
@@ -263,7 +263,7 @@ require (
 	github.com/bep/godartsass/v2 v2.2.0
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
-	github.com/bep/imagemeta v0.8.1
+	github.com/bep/imagemeta v0.8.3
 	github.com/bep/lazycache v0.7.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.9.2
@@ -446,7 +446,7 @@ require (
 	github.com/dsnet/try v0.0.3
 	github.com/duo-labs/webauthn v0.0.0-20221205164246-ebaf9b74c6ec
 	github.com/dustin/go-humanize v1.0.1
-	github.com/dvsekhvalnov/jose2go v1.7.0
+	github.com/dvsekhvalnov/jose2go v1.8.0
 	github.com/dylanmei/winrmtest v0.0.0-20210303004826-fbc9ae56efb6
 	github.com/dynatrace-oss/dynatrace-metric-utils-go v0.5.0
 	github.com/eapache/go-resiliency v1.7.0
