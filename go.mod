@@ -686,7 +686,7 @@ require (
 	github.com/google/wire v0.6.0
 	github.com/googleapis/enterprise-certificate-proxy v0.3.4
 	github.com/googleapis/gax-go v2.0.2+incompatible
-	github.com/googleapis/gax-go/v2 v2.13.0
+	github.com/googleapis/gax-go/v2 v2.14.0
 	github.com/gopacket/gopacket v1.3.1
 	github.com/gopcua/opcua v0.5.3
 	github.com/gophercloud/gophercloud v1.14.1
@@ -1450,7 +1450,7 @@ require (
 	google.golang.org/api v0.205.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38
-	google.golang.org/genproto/googleapis/api v0.0.0-20241021214115-324edc3d5d38
+	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/grpc v1.68.0
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
