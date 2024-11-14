@@ -52,11 +52,11 @@ require (
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
-	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20230306123547-8075edf89bb0
+	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Antonboom/errname v1.0.0
 	github.com/Antonboom/nilnil v1.0.0
-	github.com/Antonboom/testifylint v1.5.1
+	github.com/Antonboom/testifylint v1.5.2
 	github.com/Azure/azure-amqp-common-go v1.1.4
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0
 	github.com/Azure/azure-event-hubs-go v1.3.2
@@ -76,7 +76,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.4.1
-	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.3.1
+	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.4.0
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
 	github.com/Azure/go-amqp v1.2.0
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.51
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.52
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -225,13 +225,13 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.6
 	github.com/aws/aws-sdk-go-v2/config v1.28.3
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.44
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.15
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.16
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.37
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.2
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.5
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.5
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.5
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.187.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.5
@@ -275,7 +275,7 @@ require (
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
-	github.com/blevesearch/bleve/v2 v2.4.2
+	github.com/blevesearch/bleve/v2 v2.4.3
 	github.com/blevesearch/bleve_index_api v1.1.12
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
@@ -388,9 +388,9 @@ require (
 	github.com/containerd/fifo v1.1.0
 	github.com/containerd/go-cni v1.1.10
 	github.com/containerd/log v0.1.0
-	github.com/containerd/platforms v0.2.1
-	github.com/containerd/stargz-snapshotter v0.15.1
-	github.com/containerd/stargz-snapshotter/estargz v0.15.1
+	github.com/containerd/platforms v1.0.0-rc.0
+	github.com/containerd/stargz-snapshotter v0.16.1
+	github.com/containerd/stargz-snapshotter/estargz v0.16.1
 	github.com/containerd/ttrpc v1.2.6
 	github.com/containerd/typeurl/v2 v2.2.3
 	github.com/containernetworking/cni v1.2.3
@@ -428,7 +428,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.4.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241007203800-ad92148935b6
-	github.com/digitalocean/godo v1.129.0
+	github.com/digitalocean/godo v1.130.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -451,7 +451,7 @@ require (
 	github.com/dynatrace-oss/dynatrace-metric-utils-go v0.5.0
 	github.com/eapache/go-resiliency v1.7.0
 	github.com/eapache/go-xerial-snappy v0.0.0-20230731223053-c322873962e3
-	github.com/eclipse/paho.golang v0.21.0
+	github.com/eclipse/paho.golang v0.22.0
 	github.com/eclipse/paho.mqtt.golang v1.5.0
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
-	github.com/goccy/go-yaml v1.14.0
+	github.com/goccy/go-yaml v1.14.1
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -1094,7 +1094,7 @@ require (
 	github.com/pkg/sftp v1.13.7
 	github.com/pkg/xattr v0.4.10
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
-	github.com/polyfloyd/go-errorlint v1.6.0
+	github.com/polyfloyd/go-errorlint v1.7.0
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
@@ -1409,7 +1409,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.32.0
 	go.opentelemetry.io/proto/otlp v1.3.1
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
-	go.step.sm/crypto v0.54.0
+	go.step.sm/crypto v0.54.2
 	go.step.sm/linkedca v0.22.2
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
@@ -1454,7 +1454,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/grpc v1.68.0
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
-	google.golang.org/protobuf v1.35.1
+	google.golang.org/protobuf v1.35.2
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
@@ -1534,7 +1534,7 @@ require (
 	sigs.k8s.io/kustomize/cmd/config v0.15.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.5.0
 	sigs.k8s.io/kustomize/kyaml v0.18.1
-	sigs.k8s.io/structured-merge-diff/v4 v4.4.2
+	sigs.k8s.io/structured-merge-diff/v4 v4.4.3
 	sigs.k8s.io/yaml v1.4.0
 	storj.io/common v0.0.0-20240812101423-26b53789c348
 	storj.io/drpc v0.0.35-0.20240709171858-0075ac871661
@@ -1591,7 +1591,9 @@ require (
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
 	github.com/checkpoint-restore/go-criu/v6 v6.3.0 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
+	github.com/containerd/containerd/v2 v2.0.0 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
+	github.com/containerd/plugin v1.0.0 // indirect
 	github.com/couchbase/clog v0.1.0 // indirect
 	github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
@@ -1663,6 +1665,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.111.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.111.0 // indirect
 	github.com/opencontainers/runtime-spec v1.2.0 // indirect
+	github.com/opencontainers/runtime-tools v0.9.1-0.20221107090550-2e043c6bd626 // indirect
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db // indirect
 	github.com/pkg/errors v0.9.1 // indirect
@@ -1707,9 +1710,9 @@ require (
 	go.opentelemetry.io/collector/consumer v0.111.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.17.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.111.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.55.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.30.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.30.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.56.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.31.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.31.0 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
@@ -1725,4 +1728,6 @@ require (
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	pack.ag/amqp v0.11.0 // indirect
+	tags.cncf.io/container-device-interface v0.8.0 // indirect
+	tags.cncf.io/container-device-interface/specs-go v0.8.0 // indirect
 )
