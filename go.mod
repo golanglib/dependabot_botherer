@@ -390,7 +390,7 @@ require (
 	github.com/containerd/log v0.1.0
 	github.com/containerd/platforms v0.2.1
 	github.com/containerd/stargz-snapshotter v0.15.1
-	github.com/containerd/stargz-snapshotter/estargz v0.15.1
+	github.com/containerd/stargz-snapshotter/estargz v0.16.1
 	github.com/containerd/ttrpc v1.2.6
 	github.com/containerd/typeurl/v2 v2.2.3
 	github.com/containernetworking/cni v1.2.3
