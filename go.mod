@@ -708,7 +708,7 @@ require (
 	github.com/gostaticanalysis/comment v1.4.2
 	github.com/gostaticanalysis/forcetypeassert v0.1.0
 	github.com/gostaticanalysis/nilerr v0.1.1
-	github.com/gostaticanalysis/testutil v0.4.0
+	github.com/gostaticanalysis/testutil v0.5.0
 	github.com/grafana/pyroscope-go v1.2.0
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
