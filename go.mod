@@ -1454,7 +1454,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/grpc v1.68.0
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
-	google.golang.org/protobuf v1.35.1
+	google.golang.org/protobuf v1.35.2
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
