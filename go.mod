@@ -275,7 +275,7 @@ require (
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
-	github.com/blevesearch/bleve/v2 v2.4.2
+	github.com/blevesearch/bleve/v2 v2.4.3
 	github.com/blevesearch/bleve_index_api v1.1.12
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
@@ -1094,7 +1094,7 @@ require (
 	github.com/pkg/sftp v1.13.7
 	github.com/pkg/xattr v0.4.10
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
-	github.com/polyfloyd/go-errorlint v1.6.0
+	github.com/polyfloyd/go-errorlint v1.7.0
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
