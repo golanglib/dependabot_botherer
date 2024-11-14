@@ -1103,6 +1103,7 @@ import (
 	_ "github.com/prometheus/common/sigv4"
 	_ "github.com/prometheus/procfs"
 	_ "github.com/prometheus/prom2json"
+	_ "github.com/prometheus/prometheus/config"
 	_ "github.com/protolambda/ctxlock"
 	_ "github.com/putdotio/go-putio"
 	_ "github.com/putdotio/go-putio/putio"
