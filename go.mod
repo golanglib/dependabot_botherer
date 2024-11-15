@@ -750,7 +750,7 @@ require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hc-install v0.9.0
 	github.com/hashicorp/hcl v1.0.1-vault-7
-	github.com/hashicorp/hcl/v2 v2.22.0
+	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.1
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
