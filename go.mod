@@ -1284,7 +1284,7 @@ require (
 	github.com/tidwall/pretty v1.2.1
 	github.com/tidwall/sjson v1.2.5
 	github.com/tidwall/tinylru v1.2.1
-	github.com/tidwall/wal v1.1.7
+	github.com/tidwall/wal v1.1.8
 	github.com/timakin/bodyclose v0.0.0-20240125160201-f835fa56326a
 	github.com/timonwong/loggercheck v0.10.1
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
