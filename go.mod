@@ -14,7 +14,7 @@ require (
 	cloud.google.com/go/auth v0.10.2
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
 	cloud.google.com/go/bigquery v1.64.0
-	cloud.google.com/go/compute v1.28.3
+	cloud.google.com/go/compute v1.29.0
 	cloud.google.com/go/compute/metadata v0.5.2
 	cloud.google.com/go/datacatalog v1.22.2
 	cloud.google.com/go/firestore v1.17.0
@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.188.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.5
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.5
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.66.3
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.67.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.5
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.0
@@ -1205,7 +1205,7 @@ require (
 	github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
 	github.com/signalfx/golib/v3 v3.3.55
-	github.com/signalfx/sapm-proto v0.16.0
+	github.com/signalfx/sapm-proto v0.17.0
 	github.com/sijms/go-ora/v2 v2.8.22
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
 	github.com/sina-ghaderi/rabaead v0.0.0-20220730151906-ab6e06b96e8c
@@ -1634,7 +1634,7 @@ require (
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
-	github.com/jaegertracing/jaeger v1.61.0 // indirect
+	github.com/jaegertracing/jaeger v1.62.0 // indirect
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
@@ -1708,8 +1708,8 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go.mongodb.org/mongo-driver v1.17.1 // indirect
 	go.opentelemetry.io/collector/consumer v0.111.0 // indirect
-	go.opentelemetry.io/collector/pdata v1.17.0 // indirect
-	go.opentelemetry.io/collector/semconv v0.111.0 // indirect
+	go.opentelemetry.io/collector/pdata v1.19.0 // indirect
+	go.opentelemetry.io/collector/semconv v0.113.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.56.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.31.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.31.0 // indirect
