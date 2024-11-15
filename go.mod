@@ -781,7 +781,7 @@ require (
 	github.com/influxdata/tail v1.0.0
 	github.com/insomniacslk/dhcp v0.0.0-20240829085014-a3a4c1f04475
 	github.com/intel/iaevents v1.1.0
-	github.com/intel/powertelemetry v1.0.1
+	github.com/intel/powertelemetry v1.0.2
 	github.com/invopop/yaml v0.3.1
 	github.com/ionos-cloud/sdk-go/v6 v6.3.0
 	github.com/ip2location/ip2location-go/v9 v9.7.0
@@ -1611,6 +1611,7 @@ require (
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
+	github.com/ebitengine/purego v0.8.0 // indirect
 	github.com/echlebek/timeproxy v1.0.0 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
@@ -1683,6 +1684,7 @@ require (
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/shazow/go-diff v0.0.0-20160112020656-b6b7b6733b8c // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
+	github.com/shirou/gopsutil/v4 v4.24.9 // indirect
 	github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 // indirect
 	github.com/smallstep/go-attestation v0.4.4-0.20240109183208-413678f90935 // indirect
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 // indirect
