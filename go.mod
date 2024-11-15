@@ -427,7 +427,7 @@ require (
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/dgraph-io/badger/v4 v4.4.0
 	github.com/dgraph-io/ristretto v1.0.0
-	github.com/digitalocean/go-libvirt v0.0.0-20241007203800-ad92148935b6
+	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
 	github.com/digitalocean/godo v1.130.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
@@ -888,7 +888,7 @@ require (
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
-	github.com/lxc/incus/v6 v6.6.0
+	github.com/lxc/incus/v6 v6.7.0
 	github.com/lyft/protoc-gen-star/v2 v2.0.4-0.20230330145011-496ad1ac90a4
 	github.com/macabu/inamedparam v0.1.3
 	github.com/magefile/mage v1.15.0
@@ -1426,7 +1426,7 @@ require (
 	golang.org/x/arch v0.12.0
 	golang.org/x/crypto v0.29.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
-	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
+	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/image v0.22.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
@@ -1452,7 +1452,7 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38
 	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20241104194629-dd2ea8efbc28
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20241113202542-65e8d215514f
 	google.golang.org/grpc v1.68.0
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
 	google.golang.org/protobuf v1.35.2
@@ -1492,7 +1492,7 @@ require (
 	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340
-	k8s.io/utils v0.0.0-20240921022957-49e7df575cb6
+	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.10009.0
 	lukechampine.com/blake3 v1.3.0
