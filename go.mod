@@ -91,7 +91,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.1
 	github.com/Azure/go-autorest/tracing v0.6.0
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.1
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.2
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.63.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
@@ -228,12 +228,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.16
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.38
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.42.4
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.2
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.5
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.188.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.189.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.5
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.5
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.67.0
@@ -241,7 +241,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.0
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.5
-	github.com/aws/smithy-go v1.22.0
+	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
 	github.com/aymanbagabas/go-osc52 v1.2.2
@@ -572,7 +572,7 @@ require (
 	github.com/go-playground/form/v4 v4.2.1
 	github.com/go-playground/locales v0.14.1
 	github.com/go-playground/universal-translator v0.18.1
-	github.com/go-playground/validator/v10 v10.22.1
+	github.com/go-playground/validator/v10 v10.23.0
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
@@ -692,7 +692,7 @@ require (
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.2.0
 	github.com/gopherjs/gopherjs v1.17.2
-	github.com/gorcon/rcon v1.3.5
+	github.com/gorcon/rcon v1.4.0
 	github.com/gordonklaus/ineffassign v0.1.0
 	github.com/gorilla/context v1.1.2
 	github.com/gorilla/css v1.0.1
@@ -941,7 +941,7 @@ require (
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
-	github.com/mgechev/revive v1.5.0
+	github.com/mgechev/revive v1.5.1
 	github.com/mholt/acmez v1.2.0
 	github.com/mholt/acmez/v2 v2.0.3
 	github.com/mholt/archiver/v3 v3.5.1
@@ -1035,7 +1035,7 @@ require (
 	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
-	github.com/opencontainers/runc v1.2.1
+	github.com/opencontainers/runc v1.2.2
 	github.com/opencontainers/selinux v1.11.1
 	github.com/opensearch-project/opensearch-go v1.1.0
 	github.com/opensearch-project/opensearch-go/v2 v2.3.0
@@ -1156,9 +1156,9 @@ require (
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.2.3
-	github.com/sagernet/sing v0.5.0
+	github.com/sagernet/sing v0.5.1
 	github.com/sagernet/sing-mux v0.2.1
-	github.com/sagernet/sing-shadowtls v0.1.4
+	github.com/sagernet/sing-shadowtls v0.1.5
 	github.com/sagernet/sing-vmess v0.1.12
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
 	github.com/sagernet/wireguard-go v0.0.0-20231209092712-9a439356a62e
@@ -1293,7 +1293,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.14
 	github.com/tklauser/numcpus v0.9.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
-	github.com/tomarrell/wrapcheck/v2 v2.9.0
+	github.com/tomarrell/wrapcheck/v2 v2.10.0
 	github.com/tommy-muehle/go-mnd/v2 v2.5.1
 	github.com/toqueteos/webbrowser v1.2.0
 	github.com/tv42/httpunix v0.0.0-20191220191345-2ba4b9c3382c
@@ -1498,9 +1498,9 @@ require (
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.23.0
+	modernc.org/cc/v4 v4.23.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.22.2
+	modernc.org/ccgo/v4 v4.22.3
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.1
 	modernc.org/fileutil v1.3.0
@@ -1509,13 +1509,13 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.0
+	modernc.org/libc v1.61.2
 	modernc.org/mathutil v1.6.0
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.3
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.0
-	modernc.org/sqlite v1.33.1
+	modernc.org/sqlite v1.34.1
 	modernc.org/strutil v1.2.0
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
