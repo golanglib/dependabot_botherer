@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.52
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.53
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -229,17 +229,17 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.38
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.1
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.2
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.3
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.6
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.190.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.5
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.6
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.6
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.67.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.6
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.0
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.1
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.5
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -276,7 +276,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.4.3
-	github.com/blevesearch/bleve_index_api v1.1.12
+	github.com/blevesearch/bleve_index_api v1.1.13
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
 	github.com/blevesearch/go-faiss v1.0.23
@@ -630,7 +630,7 @@ require (
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v0.0.4
-	github.com/golang/vscode-go v0.43.2
+	github.com/golang/vscode-go v0.43.3
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20240816233607-d8596aa466a9
@@ -810,7 +810,7 @@ require (
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jdkato/prose v1.2.1
-	github.com/jedib0t/go-pretty/v6 v6.6.1
+	github.com/jedib0t/go-pretty/v6 v6.6.2
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.7
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
@@ -1152,7 +1152,7 @@ require (
 	github.com/ryanrolds/sqlclosecheck v0.5.1
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
-	github.com/safchain/ethtool v0.4.1
+	github.com/safchain/ethtool v0.5.9
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.2.3
@@ -1333,7 +1333,7 @@ require (
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 	github.com/wlynxg/anet v0.0.5
 	github.com/x448/float16 v0.8.4
-	github.com/xanzy/go-gitlab v0.113.0
+	github.com/xanzy/go-gitlab v0.114.0
 	github.com/xanzy/ssh-agent v0.3.3
 	github.com/xdg-go/pbkdf2 v1.0.0
 	github.com/xdg-go/scram v1.1.2
@@ -1500,7 +1500,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.23.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.22.3
+	modernc.org/ccgo/v4 v4.23.0
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.1
 	modernc.org/fileutil v1.3.0
