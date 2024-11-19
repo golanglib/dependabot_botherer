@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.52
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.53
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -221,23 +221,23 @@ require (
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.5
-	github.com/aws/aws-sdk-go-v2 v1.32.4
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.6
+	github.com/aws/aws-sdk-go-v2 v1.32.5
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.28.4
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.45
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.16
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.19
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.38
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.0
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.2
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.1
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.3
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.5
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.189.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.190.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.5
-	github.com/aws/aws-sdk-go-v2/service/kms v1.37.5
+	github.com/aws/aws-sdk-go-v2/service/kms v1.37.6
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.67.0
-	github.com/aws/aws-sdk-go-v2/service/sso v1.24.5
+	github.com/aws/aws-sdk-go-v2/service/sso v1.24.6
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.0
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.5
@@ -322,7 +322,7 @@ require (
 	github.com/bsm/gomega v1.27.10
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
-	github.com/bufbuild/protovalidate-go v0.7.2
+	github.com/bufbuild/protovalidate-go v0.7.3
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.0
@@ -630,7 +630,7 @@ require (
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v0.0.4
-	github.com/golang/vscode-go v0.43.2
+	github.com/golang/vscode-go v0.43.3
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20240816233607-d8596aa466a9
@@ -723,7 +723,7 @@ require (
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
 	github.com/hairyhenderson/go-codeowners v0.6.1
 	github.com/hanwen/go-fuse v1.0.0
-	github.com/hanwen/go-fuse/v2 v2.6.4
+	github.com/hanwen/go-fuse/v2 v2.7.0
 	github.com/hanzoai/gochimp3 v0.0.0-20210305004051-da66ea724147
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
@@ -1152,7 +1152,7 @@ require (
 	github.com/ryanrolds/sqlclosecheck v0.5.1
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
-	github.com/safchain/ethtool v0.4.1
+	github.com/safchain/ethtool v0.5.9
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.2.3
@@ -1319,7 +1319,7 @@ require (
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.6
 	github.com/vektah/gqlparser/v2 v2.5.19
-	github.com/vektra/mockery/v2 v2.47.0
+	github.com/vektra/mockery/v2 v2.48.0
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1333,7 +1333,7 @@ require (
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 	github.com/wlynxg/anet v0.0.5
 	github.com/x448/float16 v0.8.4
-	github.com/xanzy/go-gitlab v0.113.0
+	github.com/xanzy/go-gitlab v0.114.0
 	github.com/xanzy/ssh-agent v0.3.3
 	github.com/xdg-go/pbkdf2 v1.0.0
 	github.com/xdg-go/scram v1.1.2
@@ -1527,7 +1527,7 @@ require (
 	pgregory.net/rapid v1.1.0
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
-	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.0
+	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
 	sigs.k8s.io/controller-runtime v0.19.1
 	sigs.k8s.io/controller-tools v0.16.5
 	sigs.k8s.io/json v0.0.0-20241008212023-c46165d29634
@@ -1577,14 +1577,14 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v2.4.2+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.23 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.23 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.24 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.24 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.23 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.4 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.4 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.4 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
