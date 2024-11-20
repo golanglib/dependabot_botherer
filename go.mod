@@ -1219,8 +1219,8 @@ require (
 	github.com/slackhq/nebula v1.9.4
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
-	github.com/smallstep/certificates v0.28.0
-	github.com/smallstep/cli v0.28.0
+	github.com/smallstep/certificates v0.28.1
+	github.com/smallstep/cli v0.28.1
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
 	github.com/smallstep/pkcs7 v0.0.0-20240911091500-b1cae6277023
