@@ -21,7 +21,7 @@ require (
 	cloud.google.com/go/iam v1.2.2
 	cloud.google.com/go/kms v1.20.1
 	cloud.google.com/go/logging v1.12.0
-	cloud.google.com/go/longrunning v0.6.2
+	cloud.google.com/go/longrunning v0.6.3
 	cloud.google.com/go/monitoring v1.21.2
 	cloud.google.com/go/pubsub v1.45.1
 	cloud.google.com/go/storage v1.47.0
@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.6
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.6
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.190.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.191.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.6
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.6
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.67.1
@@ -576,7 +576,7 @@ require (
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.16.0
+	github.com/go-resty/resty/v2 v2.16.1
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
@@ -1076,7 +1076,7 @@ require (
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.14
 	github.com/pion/rtp v1.8.9
-	github.com/pion/sctp v1.8.33
+	github.com/pion/sctp v1.8.34
 	github.com/pion/sdp/v3 v3.0.9
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
@@ -1448,9 +1448,9 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.206.0
+	google.golang.org/api v0.207.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20241104194629-dd2ea8efbc28
+	google.golang.org/genproto v0.0.0-20241113202542-65e8d215514f
 	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241113202542-65e8d215514f
 	google.golang.org/grpc v1.68.0
@@ -1551,7 +1551,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/spanner v1.71.0 // indirect
+	cloud.google.com/go/spanner v1.72.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
