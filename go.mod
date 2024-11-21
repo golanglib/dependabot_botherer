@@ -288,7 +288,7 @@ require (
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
-	github.com/blevesearch/vellum v1.0.10
+	github.com/blevesearch/vellum v1.0.11
 	github.com/blevesearch/zap/v11 v11.0.14
 	github.com/blevesearch/zap/v12 v12.0.14
 	github.com/blevesearch/zap/v13 v13.0.6
@@ -349,7 +349,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
-	github.com/charmbracelet/x/ansi v0.4.5
+	github.com/charmbracelet/x/ansi v0.5.1
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
@@ -1028,7 +1028,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.21.0
+	github.com/onsi/ginkgo/v2 v2.22.0
 	github.com/onsi/gomega v1.35.1
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.11.0
@@ -1319,7 +1319,7 @@ require (
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.6
 	github.com/vektah/gqlparser/v2 v2.5.19
-	github.com/vektra/mockery/v2 v2.48.0
+	github.com/vektra/mockery/v2 v2.49.0
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1482,13 +1482,13 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.5.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.31.2
+	k8s.io/api v0.31.3
 	k8s.io/apiextensions-apiserver v0.31.2
-	k8s.io/apimachinery v0.31.2
+	k8s.io/apimachinery v0.31.3
 	k8s.io/apiserver v0.31.2
-	k8s.io/client-go v0.31.2
+	k8s.io/client-go v0.31.3
 	k8s.io/code-generator v0.31.2
-	k8s.io/component-base v0.31.2
+	k8s.io/component-base v0.31.3
 	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340
@@ -1528,7 +1528,7 @@ require (
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
-	sigs.k8s.io/controller-runtime v0.19.1
+	sigs.k8s.io/controller-runtime v0.19.2
 	sigs.k8s.io/controller-tools v0.16.5
 	sigs.k8s.io/json v0.0.0-20241008212023-c46165d29634
 	sigs.k8s.io/kustomize/api v0.18.0
