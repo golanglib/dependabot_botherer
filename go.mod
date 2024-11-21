@@ -288,7 +288,7 @@ require (
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
-	github.com/blevesearch/vellum v1.0.10
+	github.com/blevesearch/vellum v1.0.11
 	github.com/blevesearch/zap/v11 v11.0.14
 	github.com/blevesearch/zap/v12 v12.0.14
 	github.com/blevesearch/zap/v13 v13.0.6
