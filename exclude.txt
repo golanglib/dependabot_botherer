@@ -23,7 +23,7 @@ github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping
 //[github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping] module is internal
 github.com/antlr/antlr4/runtime/Go/antlr/v4
-//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20241109175557-75befabd1ca6) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20241109175557-75befabd1ca6: parsing go.mod:
+//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20241122003904-67228355c5bf) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20241122003904-67228355c5bf: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/armon/go-metrics
@@ -149,7 +149,7 @@ github.com/hashicorp/nomad
 //	module declares its path as: github.com/hashicorp/go-metrics
 //	        but was required as: github.com/armon/go-metrics
 github.com/hashicorp/vault
-//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.18.1
+//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.18.2
 //[github.com/hashicorp/vault] module has replace
 github.com/imdario/mergo
 //go: github.com/imdario/mergo@latest (v1.0.1) requires github.com/imdario/mergo@v1.0.1: parsing go.mod:
