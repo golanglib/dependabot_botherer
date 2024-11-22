@@ -812,7 +812,7 @@ require (
 	github.com/jdkato/prose v1.2.1
 	github.com/jedib0t/go-pretty/v6 v6.6.2
 	github.com/jellydator/ttlcache/v3 v3.3.0
-	github.com/jeremija/gosubmit v0.2.7
+	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jgautheron/goconst v1.7.1
