@@ -11,12 +11,12 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.2-20240920164238-5a7b106cbb87.1
 	cel.dev/expr v0.18.0
 	cloud.google.com/go v0.116.0
-	cloud.google.com/go/auth v0.10.2
+	cloud.google.com/go/auth v0.11.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.5
 	cloud.google.com/go/bigquery v1.64.0
 	cloud.google.com/go/compute v1.29.0
 	cloud.google.com/go/compute/metadata v0.5.2
-	cloud.google.com/go/datacatalog v1.23.0
+	cloud.google.com/go/datacatalog v1.24.0
 	cloud.google.com/go/firestore v1.17.0
 	cloud.google.com/go/iam v1.2.2
 	cloud.google.com/go/kms v1.20.1
@@ -227,13 +227,13 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.46
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.17
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.20
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.39
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.40
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.1
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.43.3
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.44.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.6
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.6
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.192.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.193.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.6
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.6
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.68.0
@@ -270,7 +270,7 @@ require (
 	github.com/bep/tmc v0.5.1
 	github.com/bitly/go-hostpool v0.1.0
 	github.com/bitly/go-simplejson v0.5.1
-	github.com/bits-and-blooms/bitset v1.15.0
+	github.com/bits-and-blooms/bitset v1.16.0
 	github.com/bits-and-blooms/bloom/v3 v3.7.0
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
@@ -349,7 +349,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
-	github.com/charmbracelet/x/ansi v0.5.1
+	github.com/charmbracelet/x/ansi v0.5.2
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
@@ -576,7 +576,7 @@ require (
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.16.1
+	github.com/go-resty/resty/v2 v2.16.2
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
@@ -723,7 +723,7 @@ require (
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
 	github.com/hairyhenderson/go-codeowners v0.6.1
 	github.com/hanwen/go-fuse v1.0.0
-	github.com/hanwen/go-fuse/v2 v2.7.0
+	github.com/hanwen/go-fuse/v2 v2.7.1
 	github.com/hanzoai/gochimp3 v0.0.0-20210305004051-da66ea724147
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
@@ -812,7 +812,7 @@ require (
 	github.com/jdkato/prose v1.2.1
 	github.com/jedib0t/go-pretty/v6 v6.6.2
 	github.com/jellydator/ttlcache/v3 v3.3.0
-	github.com/jeremija/gosubmit v0.2.7
+	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jgautheron/goconst v1.7.1
@@ -965,7 +965,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.17.1
+	github.com/moby/buildkit v0.17.2
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1448,7 +1448,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.208.0
+	google.golang.org/api v0.209.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241113202542-65e8d215514f
 	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28
