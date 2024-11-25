@@ -1255,7 +1255,7 @@ require (
 	github.com/steveyen/gtreap v0.1.0
 	github.com/stoewer/go-strcase v1.3.0
 	github.com/stretchr/objx v0.5.2
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/stripe/stripe-go/v75 v75.11.0
 	github.com/stripe/stripe-go/v76 v76.25.0
 	github.com/stripe/stripe-go/v78 v78.12.0
