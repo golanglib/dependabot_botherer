@@ -973,8 +973,8 @@ github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f h1:tCbYj7/299ek
 github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f/go.mod h1:gcr0kNtGBqin9zDW9GOHcVntrwnjrK+qdJ06mWYBybw=
 github.com/ProtonMail/go-srp v0.0.7 h1:Sos3Qk+th4tQR64vsxGIxYpN3rdnG9Wf9K4ZloC1JrI=
 github.com/ProtonMail/go-srp v0.0.7/go.mod h1:giCp+7qRnMIcCvI6V6U3S1lDDXDQYx2ewJ6F/9wdlJk=
-github.com/ProtonMail/gopenpgp/v2 v2.8.0 h1:WvMv3CMcFsqKSM4/Qf8sf3tgyQkzDqQmoSE49bnBuP4=
-github.com/ProtonMail/gopenpgp/v2 v2.8.0/go.mod h1:qb2GUSnmA9ipBW5GVtCtEhkummSlqs2A8Ar3S0HBgSY=
+github.com/ProtonMail/gopenpgp/v2 v2.8.1 h1:WGE1THOhOnLurL0+N4BOlLkIhjEO7YVZgmpgyDHN56A=
+github.com/ProtonMail/gopenpgp/v2 v2.8.1/go.mod h1:4PUgqGSQjd7HldUbAgMmC69+Gv6DO8NomCNi0y8+BTc=
 github.com/PuerkitoBio/goquery v1.10.0 h1:6fiXdLuUvYs2OJSvNRqlNPoBm6YABE226xrbavY5Wv4=
 github.com/PuerkitoBio/goquery v1.10.0/go.mod h1:TjZZl68Q3eGHNBA8CWaxAN7rOU1EbDz3CWuolcO5Yu4=
 github.com/RaveNoX/go-jsoncommentstrip v1.0.0/go.mod h1:78ihd09MekBnJnxpICcwzCMzGrKSKYe4AqU6PDYYpjk=
@@ -4308,8 +4308,8 @@ github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 h1:N/ElC8H3+5X
 github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/redis/go-redis/v9 v9.7.0 h1:HhLSs+B6O021gwzl+locl0zEDnyNkxMtf/Z3NNBMa9E=
 github.com/redis/go-redis/v9 v9.7.0/go.mod h1:f6zhXITC7JUJIlPEiBOTXxJgPLdZcA93GewI7inzyWw=
-github.com/redis/rueidis v1.0.49 h1:uhjMcQ663R8st3saoo85VV9Ce37zfvRXiveZcBrS3YQ=
-github.com/redis/rueidis v1.0.49/go.mod h1:by+34b0cFXndxtYmPAHpoTHO5NkosDlBvhexoTURIxM=
+github.com/redis/rueidis v1.0.50 h1:UdsB/2EadJMGFIUuzxqFuWM2BSjXt8jYtml6eXkhJLE=
+github.com/redis/rueidis v1.0.50/go.mod h1:by+34b0cFXndxtYmPAHpoTHO5NkosDlBvhexoTURIxM=
 github.com/refraction-networking/utls v1.6.7 h1:zVJ7sP1dJx/WtVuITug3qYUq034cDq9B2MR1K67ULZM=
 github.com/refraction-networking/utls v1.6.7/go.mod h1:BC3O4vQzye5hqpmDTWUqi4P5DDhzJfkV1tdqtawQIH0=
 github.com/relvacode/iso8601 v1.6.0 h1:eFXUhMJN3Gz8Rcq82f9DTMW0svjtAVuIEULglM7QHTU=
