@@ -934,7 +934,7 @@ require (
 	github.com/metacubex/sing-quic v0.0.0-20240827003841-cd97758ed8b4
 	github.com/metacubex/sing-shadowsocks v0.2.8
 	github.com/metacubex/sing-shadowsocks2 v0.2.2
-	github.com/metacubex/sing-tun v0.2.6
+	github.com/metacubex/sing-tun v0.4.2
 	github.com/metacubex/sing-wireguard v0.0.0-20240924052438-b0976fc59ea3
 	github.com/metacubex/tfo-go v0.0.0-20241006021335-daedaf0ca7aa
 	github.com/metacubex/utls v1.6.6
@@ -1155,7 +1155,7 @@ require (
 	github.com/safchain/ethtool v0.5.9
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
-	github.com/sagernet/nftables v0.2.3
+	github.com/sagernet/nftables v0.3.0-beta.4
 	github.com/sagernet/sing v0.5.1
 	github.com/sagernet/sing-mux v0.2.1
 	github.com/sagernet/sing-shadowtls v0.1.5
@@ -1648,7 +1648,7 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
-	github.com/metacubex/gvisor v0.0.0-20240320004321-933faba989ec // indirect
+	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a // indirect
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
