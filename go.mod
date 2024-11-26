@@ -1276,7 +1276,7 @@ require (
 	github.com/testcontainers/testcontainers-go v0.34.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.34.0
 	github.com/tetafro/godot v1.4.18
-	github.com/tetratelabs/wazero v1.8.1
+	github.com/tetratelabs/wazero v1.8.2
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
 	github.com/tidwall/btree v1.7.0
 	github.com/tidwall/gjson v1.18.0
