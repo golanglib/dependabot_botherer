@@ -132,7 +132,7 @@ require (
 	github.com/ProtonMail/go-crypto v1.1.3
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
-	github.com/ProtonMail/gopenpgp/v2 v2.8.0
+	github.com/ProtonMail/gopenpgp/v2 v2.8.1
 	github.com/PuerkitoBio/goquery v1.10.0
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
@@ -1124,11 +1124,11 @@ require (
 	github.com/quic-go/qtls-go1-18 v0.2.0
 	github.com/quic-go/qtls-go1-19 v0.3.3
 	github.com/quic-go/qtls-go1-20 v0.4.1
-	github.com/quic-go/quic-go v0.48.1
+	github.com/quic-go/quic-go v0.48.2
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.68.2
 	github.com/redis/go-redis/v9 v9.7.0
-	github.com/redis/rueidis v1.0.49
+	github.com/redis/rueidis v1.0.50
 	github.com/refraction-networking/utls v1.6.7
 	github.com/relvacode/iso8601 v1.6.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
