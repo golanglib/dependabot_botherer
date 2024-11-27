@@ -1344,7 +1344,7 @@ require (
 	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
 	github.com/xtaci/smux v2.0.1+incompatible
-	github.com/xyproto/randomstring v1.1.0
+	github.com/xyproto/randomstring v1.2.0
 	github.com/yagipy/maintidx v1.0.0
 	github.com/yeya24/promlinter v0.3.0
 	github.com/ykadowak/zerologlint v0.1.5
