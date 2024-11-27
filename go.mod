@@ -389,8 +389,8 @@ require (
 	github.com/containerd/go-cni v1.1.10
 	github.com/containerd/log v0.1.0
 	github.com/containerd/platforms v1.0.0-rc.0
-	github.com/containerd/stargz-snapshotter v0.16.1
-	github.com/containerd/stargz-snapshotter/estargz v0.16.1
+	github.com/containerd/stargz-snapshotter v0.16.2
+	github.com/containerd/stargz-snapshotter/estargz v0.16.2
 	github.com/containerd/ttrpc v1.2.6
 	github.com/containerd/typeurl/v2 v2.2.3
 	github.com/containernetworking/cni v1.2.3
@@ -645,7 +645,7 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.22.1
-	github.com/google/certificate-transparency-go v1.2.2
+	github.com/google/certificate-transparency-go v1.3.0
 	github.com/google/gnostic-models v0.6.8
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
