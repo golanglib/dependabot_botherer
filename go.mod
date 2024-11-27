@@ -139,7 +139,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.2
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.12.5
+	github.com/SAP/go-hdb v1.12.6
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.56
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.59
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.6
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.6
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.193.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.194.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.6
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.6
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.69.0
@@ -260,7 +260,7 @@ require (
 	github.com/bep/gitmap v1.6.0
 	github.com/bep/goat v0.5.0
 	github.com/bep/godartsass v1.2.0
-	github.com/bep/godartsass/v2 v2.3.0
+	github.com/bep/godartsass/v2 v2.3.1
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
 	github.com/bep/imagemeta v0.8.3
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
-	github.com/goccy/go-yaml v1.15.0
+	github.com/goccy/go-yaml v1.15.1
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -871,7 +871,7 @@ require (
 	github.com/labstack/gommon v0.4.2
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.2.4
-	github.com/ldez/tagliatelle v0.5.0
+	github.com/ldez/tagliatelle v0.6.0
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
@@ -1003,7 +1003,7 @@ require (
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.2
 	github.com/nats-io/nats-server/v2 v2.10.22
-	github.com/nats-io/nkeys v0.4.7
+	github.com/nats-io/nkeys v0.4.8
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/ncruces/go-strftime v0.1.9
@@ -1319,7 +1319,7 @@ require (
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.6
 	github.com/vektah/gqlparser/v2 v2.5.20
-	github.com/vektra/mockery/v2 v2.49.0
+	github.com/vektra/mockery/v2 v2.49.1
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1344,7 +1344,7 @@ require (
 	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
 	github.com/xtaci/smux v2.0.1+incompatible
-	github.com/xyproto/randomstring v1.1.0
+	github.com/xyproto/randomstring v1.2.0
 	github.com/yagipy/maintidx v1.0.0
 	github.com/yeya24/promlinter v0.3.0
 	github.com/ykadowak/zerologlint v0.1.5
@@ -1357,7 +1357,7 @@ require (
 	github.com/yuin/goldmark-meta v1.1.0
 	github.com/yuin/gopher-lua v1.1.1
 	github.com/yunify/qingstor-sdk-go/v3 v3.2.0
-	github.com/zclconf/go-cty v1.15.0
+	github.com/zclconf/go-cty v1.15.1
 	github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940
 	github.com/zeebo/assert v1.3.1
 	github.com/zeebo/blake3 v0.2.4
@@ -1631,6 +1631,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hashicorp/consul/api v1.29.4 // indirect
+	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
 	github.com/hashicorp/vault/api v1.15.0 // indirect
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
