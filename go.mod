@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.2.1
 	4d63.com/gochecknoglobals v0.2.1
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.2-20240920164238-5a7b106cbb87.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.35.2-20241127180247-a33202765966.1
 	cel.dev/expr v0.18.0
 	cloud.google.com/go v0.116.0
 	cloud.google.com/go/auth v0.11.0
@@ -126,7 +126,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/OpenPeeDeeP/depguard v1.1.1
 	github.com/OpenPeeDeeP/depguard/v2 v2.2.0
-	github.com/PaesslerAG/gval v1.2.3
+	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
 	github.com/ProtonMail/go-crypto v1.1.3
@@ -810,7 +810,7 @@ require (
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jdkato/prose v1.2.1
-	github.com/jedib0t/go-pretty/v6 v6.6.2
+	github.com/jedib0t/go-pretty/v6 v6.6.3
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
@@ -1509,7 +1509,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.2
+	modernc.org/libc v1.61.3
 	modernc.org/mathutil v1.6.0
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.3
