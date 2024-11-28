@@ -126,7 +126,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/OpenPeeDeeP/depguard v1.1.1
 	github.com/OpenPeeDeeP/depguard/v2 v2.2.0
-	github.com/PaesslerAG/gval v1.2.3
+	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
 	github.com/ProtonMail/go-crypto v1.1.3
@@ -1509,7 +1509,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.2
+	modernc.org/libc v1.61.3
 	modernc.org/mathutil v1.6.0
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.3
