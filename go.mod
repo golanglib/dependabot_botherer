@@ -126,7 +126,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/OpenPeeDeeP/depguard v1.1.1
 	github.com/OpenPeeDeeP/depguard/v2 v2.2.0
-	github.com/PaesslerAG/gval v1.2.3
+	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
 	github.com/ProtonMail/go-crypto v1.1.3
