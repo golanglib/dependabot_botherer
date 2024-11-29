@@ -214,7 +214,7 @@ require (
 	github.com/armon/go-radix v1.0.1-0.20221118154546-54df44f2176c
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
-	github.com/ashanbrown/makezero v1.1.1
+	github.com/ashanbrown/makezero v1.2.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.6.0
 	github.com/awnumar/memcall v0.4.0
@@ -326,7 +326,7 @@ require (
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.0
-	github.com/butuzov/mirror v1.2.0
+	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/sonic v1.12.5
 	github.com/bytedance/sonic/loader v0.2.1
 	github.com/caddyserver/caddy v1.0.5
@@ -410,7 +410,7 @@ require (
 	github.com/creack/pty v1.1.24
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
-	github.com/curioswitch/go-reassign v0.2.0
+	github.com/curioswitch/go-reassign v0.3.0
 	github.com/cyphar/filepath-securejoin v0.3.4
 	github.com/daixiang0/gci v0.13.5
 	github.com/danieljoos/wincred v1.2.2
@@ -425,7 +425,7 @@ require (
 	github.com/dghubble/trie v0.1.0
 	github.com/dgraph-io/badger v1.6.2
 	github.com/dgraph-io/badger/v2 v2.2007.4
-	github.com/dgraph-io/badger/v4 v4.4.0
+	github.com/dgraph-io/badger/v4 v4.5.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
 	github.com/digitalocean/godo v1.131.0
@@ -493,7 +493,7 @@ require (
 	github.com/francoispqt/gojay v1.2.13
 	github.com/frankban/quicktest v1.14.6
 	github.com/fsnotify/fsnotify v1.8.0
-	github.com/fullstorydev/grpcurl v1.9.1
+	github.com/fullstorydev/grpcurl v1.9.2
 	github.com/fxamacker/cbor v1.5.1
 	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/fzipp/gocyclo v0.6.0
@@ -1106,7 +1106,7 @@ require (
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.15.1
 	github.com/prometheus/prom2json v1.4.1
-	github.com/prometheus/prometheus v0.300.0
+	github.com/prometheus/prometheus v0.300.1
 	github.com/protolambda/ctxlock v0.1.0
 	github.com/putdotio/go-putio v1.7.1
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
