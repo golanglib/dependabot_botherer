@@ -326,7 +326,7 @@ require (
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.0
-	github.com/butuzov/mirror v1.2.0
+	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/sonic v1.12.5
 	github.com/bytedance/sonic/loader v0.2.1
 	github.com/caddyserver/caddy v1.0.5
@@ -425,7 +425,7 @@ require (
 	github.com/dghubble/trie v0.1.0
 	github.com/dgraph-io/badger v1.6.2
 	github.com/dgraph-io/badger/v2 v2.2007.4
-	github.com/dgraph-io/badger/v4 v4.4.0
+	github.com/dgraph-io/badger/v4 v4.5.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
 	github.com/digitalocean/godo v1.131.0
