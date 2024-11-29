@@ -326,7 +326,7 @@ require (
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.0
-	github.com/butuzov/mirror v1.2.0
+	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/sonic v1.12.5
 	github.com/bytedance/sonic/loader v0.2.1
 	github.com/caddyserver/caddy v1.0.5
