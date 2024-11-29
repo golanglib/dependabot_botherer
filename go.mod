@@ -214,7 +214,7 @@ require (
 	github.com/armon/go-radix v1.0.1-0.20221118154546-54df44f2176c
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
-	github.com/ashanbrown/makezero v1.1.1
+	github.com/ashanbrown/makezero v1.2.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.6.0
 	github.com/awnumar/memcall v0.4.0
