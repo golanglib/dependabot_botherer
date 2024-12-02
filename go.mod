@@ -229,7 +229,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.21
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.41
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.1
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.44.0
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.7
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.7
@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.6
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.70.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.6
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.5
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.6
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.1
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.7
 	github.com/aws/smithy-go v1.22.1
@@ -299,7 +299,7 @@ require (
 	github.com/blevesearch/zapx/v13 v13.3.10
 	github.com/blevesearch/zapx/v14 v14.3.10
 	github.com/blevesearch/zapx/v15 v15.3.16
-	github.com/blevesearch/zapx/v16 v16.1.8
+	github.com/blevesearch/zapx/v16 v16.1.9
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/blues/jsonata-go v1.5.4
 	github.com/bmatcuk/doublestar v1.3.4
@@ -723,7 +723,7 @@ require (
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
 	github.com/hairyhenderson/go-codeowners v0.6.1
 	github.com/hanwen/go-fuse v1.0.0
-	github.com/hanwen/go-fuse/v2 v2.7.1
+	github.com/hanwen/go-fuse/v2 v2.7.2
 	github.com/hanzoai/gochimp3 v0.0.0-20210305004051-da66ea724147
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
@@ -822,7 +822,7 @@ require (
 	github.com/jinzhu/copier v0.4.0
 	github.com/jinzhu/inflection v1.0.0
 	github.com/jinzhu/now v1.1.5
-	github.com/jjti/go-spancheck v0.6.2
+	github.com/jjti/go-spancheck v0.6.4
 	github.com/jlaffaye/ftp v0.2.0
 	github.com/jmespath/go-jmespath v0.4.1-0.20220621161143-b0104c826a24
 	github.com/jmhodges/clock v1.2.0
@@ -1167,7 +1167,7 @@ require (
 	github.com/samber/lo v1.47.0
 	github.com/sanity-io/litter v1.5.5
 	github.com/sanposhiho/wastedassign v1.0.0
-	github.com/sanposhiho/wastedassign/v2 v2.0.7
+	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
 	github.com/sashabaranov/go-openai v1.35.7
@@ -1469,7 +1469,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/datatypes v1.2.4
 	gorm.io/driver/mysql v1.5.7
-	gorm.io/driver/postgres v1.5.10
+	gorm.io/driver/postgres v1.5.11
 	gorm.io/driver/sqlite v1.5.6
 	gorm.io/driver/sqlserver v1.5.4
 	gorm.io/gen v0.3.26
@@ -1528,7 +1528,7 @@ require (
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
-	sigs.k8s.io/controller-runtime v0.19.2
+	sigs.k8s.io/controller-runtime v0.19.3
 	sigs.k8s.io/controller-tools v0.16.5
 	sigs.k8s.io/json v0.0.0-20241008212023-c46165d29634
 	sigs.k8s.io/kustomize/api v0.18.0
