@@ -226,7 +226,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.28.5
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.46
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.17
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.20
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.21
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.41
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.44.0
@@ -325,7 +325,7 @@ require (
 	github.com/bufbuild/protovalidate-go v0.7.3
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
-	github.com/butuzov/ireturn v0.3.0
+	github.com/butuzov/ireturn v0.3.1
 	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/sonic v1.12.5
 	github.com/bytedance/sonic/loader v0.2.1
