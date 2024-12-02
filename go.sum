@@ -1600,8 +1600,8 @@ github.com/buger/jsonparser v1.1.1 h1:2PnMjfWD7wBILjqQbt530v576A/cAbQvEW9gGIpYMU
 github.com/buger/jsonparser v1.1.1/go.mod h1:6RYKKt7H4d4+iWqouImQ9R2FZql3VbhNgx27UK13J/0=
 github.com/buildkite/terminal-to-html/v3 v3.16.4 h1:QFYO8IGvRnp7tGgiQb8g9uFU8kY9wOzxsFFx17+yy6Q=
 github.com/buildkite/terminal-to-html/v3 v3.16.4/go.mod h1:r/J7cC9c3EzBzP3/wDz0RJLPwv5PUAMp+KF2w+ntMc0=
-github.com/butuzov/ireturn v0.3.0 h1:hTjMqWw3y5JC3kpnC5vXmFJAWI/m31jaCYQqzkS6PL0=
-github.com/butuzov/ireturn v0.3.0/go.mod h1:A09nIiwiqzN/IoVo9ogpa0Hzi9fex1kd9PSD6edP5ZA=
+github.com/butuzov/ireturn v0.3.1 h1:mFgbEI6m+9W8oP/oDdfA34dLisRFCj2G6o/yiI1yZrY=
+github.com/butuzov/ireturn v0.3.1/go.mod h1:ZfRp+E7eJLC0NQmk1Nrm1LOrn/gQlOykv+cVPdiXH5M=
 github.com/butuzov/mirror v1.3.0 h1:HdWCXzmwlQHdVhwvsfBb2Au0r3HyINry3bDWLYXiKoc=
 github.com/butuzov/mirror v1.3.0/go.mod h1:AEij0Z8YMALaq4yQj9CPPVYOyJQyiexpQEQgihajRfI=
 github.com/bwesterb/go-ristretto v1.2.0/go.mod h1:fUIoIZaG73pV5biE2Blr2xEzDoMj7NFEuV9ekS419A0=
