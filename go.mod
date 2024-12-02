@@ -1167,7 +1167,7 @@ require (
 	github.com/samber/lo v1.47.0
 	github.com/sanity-io/litter v1.5.5
 	github.com/sanposhiho/wastedassign v1.0.0
-	github.com/sanposhiho/wastedassign/v2 v2.0.7
+	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
 	github.com/sashabaranov/go-openai v1.35.7
