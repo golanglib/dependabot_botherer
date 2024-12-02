@@ -228,7 +228,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.18
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.21
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.41
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.1
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.7
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.2
@@ -240,7 +240,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.7
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.6
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.1
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.7
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.8
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
