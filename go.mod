@@ -78,7 +78,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.5.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.4.0
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
-	github.com/Azure/go-amqp v1.2.0
+	github.com/Azure/go-amqp v1.3.0
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161
 	github.com/Azure/go-autorest/autorest v0.11.29
 	github.com/Azure/go-autorest/autorest/adal v0.9.24
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.62
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.63
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -225,14 +225,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.28.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.47
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.18
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.19
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.21
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.42
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.7
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.7
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.8
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.195.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.7
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.7
@@ -784,7 +784,7 @@ require (
 	github.com/intel/powertelemetry v1.0.2
 	github.com/invopop/yaml v0.3.1
 	github.com/ionos-cloud/sdk-go/v6 v6.3.0
-	github.com/ip2location/ip2location-go/v9 v9.7.0
+	github.com/ip2location/ip2location-go/v9 v9.7.1
 	github.com/iris-contrib/httpexpect/v2 v2.15.2
 	github.com/iris-contrib/schema v0.0.6
 	github.com/jackc/chunkreader v1.0.0
@@ -1500,7 +1500,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.23.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.0
+	modernc.org/ccgo/v4 v4.23.1
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.1
 	modernc.org/fileutil v1.3.0
