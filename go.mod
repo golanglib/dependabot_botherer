@@ -227,16 +227,16 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.47
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.19
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.21
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.42
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.43
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.7
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.2
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.38.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.8
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.195.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.7
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.7
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.70.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.71.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.7
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.6
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.2
@@ -1319,7 +1319,7 @@ require (
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.6
 	github.com/vektah/gqlparser/v2 v2.5.20
-	github.com/vektra/mockery/v2 v2.49.1
+	github.com/vektra/mockery/v2 v2.49.2
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1435,10 +1435,10 @@ require (
 	golang.org/x/net v0.31.0
 	golang.org/x/oauth2 v0.24.0
 	golang.org/x/sync v0.9.0
-	golang.org/x/sys v0.27.0
+	golang.org/x/sys v0.28.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.33.0
-	golang.org/x/term v0.26.0
+	golang.org/x/term v0.27.0
 	golang.org/x/text v0.20.0
 	golang.org/x/time v0.8.0
 	golang.org/x/tools v0.27.0
