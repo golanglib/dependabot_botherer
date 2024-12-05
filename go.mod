@@ -23,7 +23,7 @@ require (
 	cloud.google.com/go/logging v1.12.0
 	cloud.google.com/go/longrunning v0.6.3
 	cloud.google.com/go/monitoring v1.21.2
-	cloud.google.com/go/pubsub v1.45.2
+	cloud.google.com/go/pubsub v1.45.3
 	cloud.google.com/go/storage v1.47.0
 	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
-	github.com/goccy/go-yaml v1.15.6
+	github.com/goccy/go-yaml v1.15.7
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -630,7 +630,7 @@ require (
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v0.0.4
-	github.com/golang/vscode-go v0.43.3
+	github.com/golang/vscode-go v0.43.4
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20240816233607-d8596aa466a9
@@ -688,7 +688,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.0
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.5.3
+	github.com/gopcua/opcua v0.6.0
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.2.0
 	github.com/gopherjs/gopherjs v1.17.2
@@ -1102,7 +1102,7 @@ require (
 	github.com/prometheus-community/pro-bing v0.5.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/client_model v0.6.1
-	github.com/prometheus/common v0.60.1
+	github.com/prometheus/common v0.61.0
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.15.1
 	github.com/prometheus/prom2json v1.4.1
@@ -1319,7 +1319,7 @@ require (
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.6
 	github.com/vektah/gqlparser/v2 v2.5.20
-	github.com/vektra/mockery/v2 v2.49.2
+	github.com/vektra/mockery/v2 v2.50.0
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1424,7 +1424,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/arch v0.12.0
-	golang.org/x/crypto v0.29.0
+	golang.org/x/crypto v0.30.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
@@ -1432,7 +1432,7 @@ require (
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.22.0
-	golang.org/x/net v0.31.0
+	golang.org/x/net v0.32.0
 	golang.org/x/oauth2 v0.24.0
 	golang.org/x/sync v0.10.0
 	golang.org/x/sys v0.28.0
@@ -1448,9 +1448,9 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.209.0
+	google.golang.org/api v0.210.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20241113202542-65e8d215514f
+	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
 	google.golang.org/genproto/googleapis/api v0.0.0-20241118233622-e639e219e697
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241118233622-e639e219e697
 	google.golang.org/grpc v1.68.0
@@ -1551,7 +1551,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/spanner v1.72.0 // indirect
+	cloud.google.com/go/spanner v1.73.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
