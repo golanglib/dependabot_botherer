@@ -13,7 +13,7 @@ require (
 	cloud.google.com/go v0.116.0
 	cloud.google.com/go/auth v0.12.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.6
-	cloud.google.com/go/bigquery v1.64.0
+	cloud.google.com/go/bigquery v1.65.0
 	cloud.google.com/go/compute v1.29.0
 	cloud.google.com/go/compute/metadata v0.5.2
 	cloud.google.com/go/datacatalog v1.24.0
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.63
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.65
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -1509,7 +1509,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.3
+	modernc.org/libc v1.61.4
 	modernc.org/mathutil v1.6.0
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.3
