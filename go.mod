@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.3
-	github.com/goccy/go-yaml v1.15.7
+	github.com/goccy/go-yaml v1.15.8
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -721,7 +721,7 @@ require (
 	github.com/h12w/go-socks5 v0.0.0-20200522160539-76189e178364
 	github.com/h2non/gock v1.2.0
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
-	github.com/hairyhenderson/go-codeowners v0.6.1
+	github.com/hairyhenderson/go-codeowners v0.7.0
 	github.com/hanwen/go-fuse v1.0.0
 	github.com/hanwen/go-fuse/v2 v2.7.2
 	github.com/hanzoai/gochimp3 v0.0.0-20210305004051-da66ea724147
