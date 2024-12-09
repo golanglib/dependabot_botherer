@@ -871,7 +871,7 @@ require (
 	github.com/labstack/gommon v0.4.2
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.0
-	github.com/ldez/tagliatelle v0.6.0
+	github.com/ldez/tagliatelle v0.7.1
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
