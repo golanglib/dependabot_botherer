@@ -48,7 +48,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.3.4
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.58
+	github.com/99designs/gqlgen v0.17.59
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.7
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.38.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.8
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.195.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.196.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.7
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.7
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.71.0
@@ -349,7 +349,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
-	github.com/charmbracelet/x/ansi v0.5.2
+	github.com/charmbracelet/x/ansi v0.6.0
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
@@ -664,7 +664,7 @@ require (
 	github.com/google/go-licenses v1.6.0
 	github.com/google/go-querystring v1.1.0
 	github.com/google/go-replayers/httpreplay v1.2.0
-	github.com/google/go-sev-guest v0.11.1
+	github.com/google/go-sev-guest v0.12.0
 	github.com/google/go-tdx-guest v0.3.1
 	github.com/google/go-tpm v0.9.1
 	github.com/google/go-tpm-tools v0.4.4
@@ -810,7 +810,7 @@ require (
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jdkato/prose v1.2.1
-	github.com/jedib0t/go-pretty/v6 v6.6.3
+	github.com/jedib0t/go-pretty/v6 v6.6.4
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
@@ -1029,7 +1029,7 @@ require (
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/ginkgo/v2 v2.22.0
-	github.com/onsi/gomega v1.36.0
+	github.com/onsi/gomega v1.36.1
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.11.0
 	github.com/openconfig/goyang v1.6.0
@@ -1065,7 +1065,7 @@ require (
 	github.com/peterbourgon/unixtransport v0.0.4
 	github.com/philhofer/fwd v1.1.3-0.20240916144458-20a13a1f6b7c
 	github.com/pierrec/lz4/v4 v4.1.21
-	github.com/pion/datachannel v1.5.9
+	github.com/pion/datachannel v1.5.10
 	github.com/pion/dtls v1.5.4
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
@@ -1076,7 +1076,7 @@ require (
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.14
 	github.com/pion/rtp v1.8.9
-	github.com/pion/sctp v1.8.34
+	github.com/pion/sctp v1.8.35
 	github.com/pion/sdp/v3 v3.0.9
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
