@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.65
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.66
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -205,7 +205,7 @@ require (
 	github.com/antlr4-go/antlr/v4 v4.13.1
 	github.com/apache/arrow/go/v15 v15.0.2
 	github.com/apache/arrow/go/v18 v18.0.0-20241007013041-ab95a4d25142
-	github.com/apache/iotdb-client-go v1.3.2
+	github.com/apache/iotdb-client-go v1.3.3
 	github.com/apache/thrift v0.21.0
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0
 	github.com/apparentlymart/go-textseg v1.0.0
@@ -284,11 +284,11 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.2.16
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.0
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
-	github.com/blevesearch/vellum v1.0.11
+	github.com/blevesearch/vellum v1.1.0
 	github.com/blevesearch/zap/v11 v11.0.14
 	github.com/blevesearch/zap/v12 v12.0.14
 	github.com/blevesearch/zap/v13 v13.0.6
@@ -298,7 +298,7 @@ require (
 	github.com/blevesearch/zapx/v12 v12.3.10
 	github.com/blevesearch/zapx/v13 v13.3.10
 	github.com/blevesearch/zapx/v14 v14.3.10
-	github.com/blevesearch/zapx/v15 v15.3.16
+	github.com/blevesearch/zapx/v15 v15.3.17
 	github.com/blevesearch/zapx/v16 v16.1.10
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/blues/jsonata-go v1.5.4
@@ -386,7 +386,7 @@ require (
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
 	github.com/containerd/fifo v1.1.0
-	github.com/containerd/go-cni v1.1.10
+	github.com/containerd/go-cni v1.1.11
 	github.com/containerd/log v0.1.0
 	github.com/containerd/platforms v1.0.0-rc.0
 	github.com/containerd/stargz-snapshotter v0.16.2
@@ -664,7 +664,7 @@ require (
 	github.com/google/go-licenses v1.6.0
 	github.com/google/go-querystring v1.1.0
 	github.com/google/go-replayers/httpreplay v1.2.0
-	github.com/google/go-sev-guest v0.12.0
+	github.com/google/go-sev-guest v0.12.1
 	github.com/google/go-tdx-guest v0.3.1
 	github.com/google/go-tpm v0.9.1
 	github.com/google/go-tpm-tools v0.4.4
@@ -867,7 +867,7 @@ require (
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyoh86/exportloopref v0.1.11
 	github.com/kyokomi/emoji/v2 v2.2.13
-	github.com/labstack/echo/v4 v4.13.0
+	github.com/labstack/echo/v4 v4.13.1
 	github.com/labstack/gommon v0.4.2
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.0
@@ -1002,7 +1002,7 @@ require (
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.2
-	github.com/nats-io/nats-server/v2 v2.10.22
+	github.com/nats-io/nats-server/v2 v2.10.23
 	github.com/nats-io/nkeys v0.4.8
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
@@ -1018,7 +1018,7 @@ require (
 	github.com/nishanths/exhaustive v0.12.0
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/nunnatsa/ginkgolinter v0.18.3
+	github.com/nunnatsa/ginkgolinter v0.18.4
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
@@ -1035,14 +1035,14 @@ require (
 	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
-	github.com/opencontainers/runc v1.2.2
+	github.com/opencontainers/runc v1.2.3
 	github.com/opencontainers/selinux v1.11.1
 	github.com/opensearch-project/opensearch-go v1.1.0
 	github.com/opensearch-project/opensearch-go/v2 v2.3.0
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.79.0
+	github.com/oracle/oci-go-sdk/v65 v65.80.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.0
@@ -1223,7 +1223,7 @@ require (
 	github.com/smallstep/cli v0.28.2
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
-	github.com/smallstep/pkcs7 v0.0.0-20240911091500-b1cae6277023
+	github.com/smallstep/pkcs7 v0.1.0
 	github.com/smallstep/scep v0.0.0-20240926084937-8cf1ca453101
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
@@ -1448,11 +1448,11 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.210.0
+	google.golang.org/api v0.211.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
 	google.golang.org/genproto/googleapis/api v0.0.0-20241118233622-e639e219e697
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20241118233622-e639e219e697
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20241206012308-a4fef0638583
 	google.golang.org/grpc v1.68.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
 	google.golang.org/protobuf v1.35.2
@@ -1482,13 +1482,13 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.5.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.31.3
-	k8s.io/apiextensions-apiserver v0.31.3
+	k8s.io/api v0.31.4
+	k8s.io/apiextensions-apiserver v0.31.4
 	k8s.io/apimachinery v0.31.4
-	k8s.io/apiserver v0.31.3
-	k8s.io/client-go v0.31.3
+	k8s.io/apiserver v0.31.4
+	k8s.io/client-go v0.31.4
 	k8s.io/code-generator v0.31.4
-	k8s.io/component-base v0.31.3
+	k8s.io/component-base v0.31.4
 	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340
