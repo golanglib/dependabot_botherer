@@ -276,7 +276,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.4.3
-	github.com/blevesearch/bleve_index_api v1.1.13
+	github.com/blevesearch/bleve_index_api v1.2.0
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
 	github.com/blevesearch/go-faiss v1.0.23
