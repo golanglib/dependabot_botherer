@@ -1502,7 +1502,7 @@ require (
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.23.1
 	modernc.org/ccorpus v1.11.6
-	modernc.org/ccorpus2 v1.5.1
+	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
 	modernc.org/gc/v2 v2.5.0
 	modernc.org/gc/v3 v3.0.0-20241004144649-1aea3fae8852
