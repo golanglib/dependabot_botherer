@@ -48,7 +48,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.3.4
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.59
+	github.com/99designs/gqlgen v0.17.60
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -688,7 +688,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.0
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.6.0
+	github.com/gopcua/opcua v0.6.1
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.3.0
 	github.com/gopherjs/gopherjs v1.17.2
@@ -1426,7 +1426,7 @@ require (
 	golang.org/x/arch v0.12.0
 	golang.org/x/crypto v0.30.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
-	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f
+	golang.org/x/exp v0.0.0-20241204233417-43b7b7cde48d
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/image v0.23.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
