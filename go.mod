@@ -518,7 +518,7 @@ require (
 	github.com/gkampitakis/go-snaps v0.5.7
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/glebarez/sqlite v1.11.0
-	github.com/gliderlabs/ssh v0.3.7
+	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
 	github.com/go-ap/activitypub v0.0.0-20240910141749-b4b8c8aa484c
 	github.com/go-ap/errors v0.0.0-20240910140019-1e9d33cc1568
@@ -1424,7 +1424,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/arch v0.12.0
-	golang.org/x/crypto v0.30.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241204233417-43b7b7cde48d
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
@@ -1482,16 +1482,16 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.5.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.31.4
+	k8s.io/api v0.32.0
 	k8s.io/apiextensions-apiserver v0.31.4
-	k8s.io/apimachinery v0.31.4
+	k8s.io/apimachinery v0.32.0
 	k8s.io/apiserver v0.31.4
-	k8s.io/client-go v0.31.4
+	k8s.io/client-go v0.32.0
 	k8s.io/code-generator v0.31.4
 	k8s.io/component-base v0.31.4
-	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70
+	k8s.io/gengo/v2 v2.0.0-20240826214909-a7b603a56eb7
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340
+	k8s.io/kube-openapi v0.0.0-20241105132330-32ad38e42d3f
 	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.10009.0
@@ -1530,7 +1530,7 @@ require (
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
 	sigs.k8s.io/controller-runtime v0.19.3
 	sigs.k8s.io/controller-tools v0.16.5
-	sigs.k8s.io/json v0.0.0-20241008212023-c46165d29634
+	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.18.0
 	sigs.k8s.io/kustomize/cmd/config v0.15.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.5.0
