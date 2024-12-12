@@ -157,7 +157,7 @@ require (
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
 	github.com/alecthomas/chroma/v2 v2.14.0
-	github.com/alecthomas/go-check-sumtype v0.2.0
+	github.com/alecthomas/go-check-sumtype v0.3.0
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.4.0
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
@@ -225,7 +225,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.28.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.47
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.20
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.21
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.21
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.43
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.3
@@ -756,7 +756,7 @@ require (
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
 	github.com/hashicorp/serf v0.10.1
 	github.com/hashicorp/terraform-exec v0.21.0
-	github.com/hashicorp/terraform-json v0.23.0
+	github.com/hashicorp/terraform-json v0.24.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hedhyw/rex v1.0.0
 	github.com/hellofresh/health-go/v5 v5.5.3
@@ -1487,9 +1487,9 @@ require (
 	k8s.io/apimachinery v0.32.0
 	k8s.io/apiserver v0.31.4
 	k8s.io/client-go v0.32.0
-	k8s.io/code-generator v0.31.4
+	k8s.io/code-generator v0.32.0
 	k8s.io/component-base v0.31.4
-	k8s.io/gengo/v2 v2.0.0-20240826214909-a7b603a56eb7
+	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20241105132330-32ad38e42d3f
 	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
@@ -1498,7 +1498,7 @@ require (
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.23.1
+	modernc.org/cc/v4 v4.24.1
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.23.2
 	modernc.org/ccorpus v1.11.6
@@ -1535,7 +1535,7 @@ require (
 	sigs.k8s.io/kustomize/cmd/config v0.15.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.5.0
 	sigs.k8s.io/kustomize/kyaml v0.18.1
-	sigs.k8s.io/structured-merge-diff/v4 v4.4.3
+	sigs.k8s.io/structured-merge-diff/v4 v4.5.0
 	sigs.k8s.io/yaml v1.4.0
 	storj.io/common v0.0.0-20240812101423-26b53789c348
 	storj.io/drpc v0.0.35-0.20240709171858-0075ac871661
