@@ -518,7 +518,7 @@ require (
 	github.com/gkampitakis/go-snaps v0.5.7
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/glebarez/sqlite v1.11.0
-	github.com/gliderlabs/ssh v0.3.7
+	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
 	github.com/go-ap/activitypub v0.0.0-20240910141749-b4b8c8aa484c
 	github.com/go-ap/errors v0.0.0-20240910140019-1e9d33cc1568
@@ -1424,7 +1424,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/arch v0.12.0
-	golang.org/x/crypto v0.30.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
 	golang.org/x/exp v0.0.0-20241204233417-43b7b7cde48d
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
