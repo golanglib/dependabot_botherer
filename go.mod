@@ -157,7 +157,7 @@ require (
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
 	github.com/alecthomas/chroma/v2 v2.14.0
-	github.com/alecthomas/go-check-sumtype v0.2.0
+	github.com/alecthomas/go-check-sumtype v0.3.0
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.4.0
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
