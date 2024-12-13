@@ -4286,8 +4286,8 @@ github.com/puzpuzpuz/xsync v1.5.2/go.mod h1:K98BYhX3k1dQ2M63t1YNVDanbwUPmBCAhNmV
 github.com/puzpuzpuz/xsync/v3 v3.4.0 h1:DuVBAdXuGFHv8adVXjWWZ63pJq+NRXOWVXlKDBZ+mJ4=
 github.com/puzpuzpuz/xsync/v3 v3.4.0/go.mod h1:VjzYrABPabuM4KyBh1Ftq6u8nhwY5tBPKP9jpmh0nnA=
 github.com/qiniu/dyn v1.3.0/go.mod h1:E8oERcm8TtwJiZvkQPbcAh0RL8jO1G0VXJMW3FAWdkk=
-github.com/qiniu/go-sdk/v7 v7.25.0 h1:Roi4XMxRly9K4wb87DhQOKaQylyiphEXC7/l8uqJZaQ=
-github.com/qiniu/go-sdk/v7 v7.25.0/go.mod h1:uZE85Pi0ftIHT/UNLShosdzwsovqpdas0LwAGO7cPao=
+github.com/qiniu/go-sdk/v7 v7.25.1 h1:fynXKE2RP9XYkispAI3YI+eML39JFEx2+PLYP46ephA=
+github.com/qiniu/go-sdk/v7 v7.25.1/go.mod h1:uZE85Pi0ftIHT/UNLShosdzwsovqpdas0LwAGO7cPao=
 github.com/qiniu/x v1.10.5/go.mod h1:03Ni9tj+N2h2aKnAz+6N0Xfl8FwMEDRC2PAlxekASDs=
 github.com/quasilyte/go-ruleguard v0.3.1-0.20210203134552-1b5a410e1cc8/go.mod h1:KsAh3x0e7Fkpgs+Q9pNLS5XpFSvYCEVl5gP9Pp1xp30=
 github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1 h1:+Wl/0aFp0hpuHM3H//KMft64WQ1yX9LdJY64Qm/gFCo=
