@@ -1003,7 +1003,7 @@ require (
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.2
 	github.com/nats-io/nats-server/v2 v2.10.23
-	github.com/nats-io/nkeys v0.4.8
+	github.com/nats-io/nkeys v0.4.9
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/ncruces/go-strftime v0.1.9
