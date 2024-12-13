@@ -14,7 +14,7 @@ require (
 	cloud.google.com/go/auth v0.12.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.6
 	cloud.google.com/go/bigquery v1.65.0
-	cloud.google.com/go/compute v1.29.0
+	cloud.google.com/go/compute v1.30.0
 	cloud.google.com/go/compute/metadata v0.5.2
 	cloud.google.com/go/datacatalog v1.24.0
 	cloud.google.com/go/firestore v1.17.0
@@ -100,7 +100,7 @@ require (
 	github.com/CloudyKit/jet/v6 v6.2.0
 	github.com/Code-Hex/go-generics-cache v1.5.1
 	github.com/Crocmagnon/fatcontext v0.5.2
-	github.com/CycloneDX/cyclonedx-go v0.9.1
+	github.com/CycloneDX/cyclonedx-go v0.9.2
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/DataDog/zstd v1.5.6
 	github.com/Djarvur/go-err113 v0.1.0
@@ -322,7 +322,7 @@ require (
 	github.com/bsm/gomega v1.27.10
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
-	github.com/bufbuild/protovalidate-go v0.7.3
+	github.com/bufbuild/protovalidate-go v0.8.0
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.1
@@ -1003,7 +1003,7 @@ require (
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.2
 	github.com/nats-io/nats-server/v2 v2.10.23
-	github.com/nats-io/nkeys v0.4.8
+	github.com/nats-io/nkeys v0.4.9
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/ncruces/go-strftime v0.1.9
@@ -1064,7 +1064,7 @@ require (
 	github.com/peterbourgon/diskv/v3 v3.0.1
 	github.com/peterbourgon/unixtransport v0.0.4
 	github.com/philhofer/fwd v1.1.3-0.20240916144458-20a13a1f6b7c
-	github.com/pierrec/lz4/v4 v4.1.21
+	github.com/pierrec/lz4/v4 v4.1.22
 	github.com/pion/datachannel v1.5.10
 	github.com/pion/dtls v1.5.4
 	github.com/pion/dtls/v2 v2.2.12
@@ -1112,7 +1112,7 @@ require (
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
 	github.com/puzpuzpuz/xsync/v3 v3.4.0
-	github.com/qiniu/go-sdk/v7 v7.25.0
+	github.com/qiniu/go-sdk/v7 v7.25.1
 	github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/quasilyte/go-ruleguard/rules v0.0.0-20211022131956-028d6511ab71
@@ -1325,7 +1325,7 @@ require (
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
-	github.com/vmware/govmomi v0.46.2
+	github.com/vmware/govmomi v0.46.3
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.2.0
 	github.com/vultr/govultr/v2 v2.17.2
