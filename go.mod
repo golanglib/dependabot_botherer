@@ -895,7 +895,7 @@ require (
 	github.com/magiconair/properties v1.8.9
 	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
-	github.com/mailru/easyjson v0.7.7
+	github.com/mailru/easyjson v0.9.0
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
 	github.com/manifoldco/promptui v0.9.0
 	github.com/maratori/testableexamples v1.0.0
