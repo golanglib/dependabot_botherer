@@ -1022,8 +1022,8 @@ github.com/agext/levenshtein v1.2.3 h1:YB2fHEn0UJagG8T1rrWknE3ZQzWM06O8AMAatNn7l
 github.com/agext/levenshtein v1.2.3/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
 github.com/agnivade/levenshtein v1.2.0 h1:U9L4IOT0Y3i0TIlUIDJ7rVUziKi/zPbrJGaFrtYH3SY=
 github.com/agnivade/levenshtein v1.2.0/go.mod h1:QVVI16kDrtSuwcpd0p1+xMC6Z/VfhtCyDIjcwga4/DU=
-github.com/air-verse/air v1.61.1 h1:W3iLkvWd9XompcUbGZef3Fo1rj4Ts0SSI7Wlw9Z9OcU=
-github.com/air-verse/air v1.61.1/go.mod h1:QW4HkIASdtSnwaYof1zgJCSxd41ebvix10t5ubtm9cg=
+github.com/air-verse/air v1.61.3 h1:BI0EGssTeO0ECwyQRjpJi0yV5lVMDvg/lgxBpggqx2I=
+github.com/air-verse/air v1.61.3/go.mod h1:QW4HkIASdtSnwaYof1zgJCSxd41ebvix10t5ubtm9cg=
 github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
 github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
 github.com/ajstarks/deck v0.0.0-20200831202436-30c9fc6549a9/go.mod h1:JynElWSGnm/4RlzPXRlREEwqTHAN3T56Bv2ITsFT3gY=
