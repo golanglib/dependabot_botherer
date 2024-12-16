@@ -6640,8 +6640,8 @@ tags.cncf.io/container-device-interface/specs-go v0.8.0 h1:QYGFzGxvYK/ZLMrjhvY0R
 tags.cncf.io/container-device-interface/specs-go v0.8.0/go.mod h1:BhJIkjjPh4qpys+qm4DAYtUyryaTDg9zris+AczXyws=
 v2ray.com/core v4.19.1+incompatible h1:JWoYsYlCpFOJX5KcmSkAMHOqOjzux+wx/HtgMBkUvSg=
 v2ray.com/core v4.19.1+incompatible/go.mod h1:0yC/gG6Jd6qgp9PuaXuFE9uOi1xVYoDPexD1nlFms/w=
-vitess.io/vitess v0.20.2 h1:Nc9yW99lHND5R7nObvoTbMMtwqoK4NBsJ+7U3T4jx1E=
-vitess.io/vitess v0.20.2/go.mod h1:1eORqYx9TnhEzknEH9AnzAT/9nlAHEsqA8QZmzNGgVM=
+vitess.io/vitess v0.20.4 h1:3FUo4OFmj9vNIWgtMpqoXYo2pXmuwut6TUpQCuhY7rM=
+vitess.io/vitess v0.20.4/go.mod h1:sf4fAnru7wuPJTzX5Dp6m9WOattxc65ixEysdLT1VpY=
 xorm.io/builder v0.3.13 h1:a3jmiVVL19psGeXx8GIurTp7p0IIgqeDmwhcR6BAOAo=
 xorm.io/builder v0.3.13/go.mod h1:aUW0S9eb9VCaPohFCH3j7czOx1PMW3i1HrSzbLYGBSE=
 xorm.io/xorm v1.3.9 h1:TUovzS0ko+IQ1XnNLfs5dqK1cJl1H5uHpWbWqAQ04nU=

@@ -1544,7 +1544,7 @@ require (
 	storj.io/picobuf v0.0.4
 	storj.io/uplink v1.13.1
 	v2ray.com/core v4.19.1+incompatible
-	vitess.io/vitess v0.20.2
+	vitess.io/vitess v0.20.4
 	xorm.io/builder v0.3.13
 	xorm.io/xorm v1.3.9
 	zombiezen.com/go/sqlite v1.4.0
