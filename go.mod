@@ -549,7 +549,7 @@ require (
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
 	github.com/go-kratos/kratos/v2 v2.8.2
-	github.com/go-ldap/ldap/v3 v3.4.8
+	github.com/go-ldap/ldap/v3 v3.4.9
 	github.com/go-llsqlite/adapter v0.1.0
 	github.com/go-llsqlite/crawshaw v0.5.5
 	github.com/go-logfmt/logfmt v0.6.0
