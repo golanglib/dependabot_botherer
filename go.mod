@@ -15,7 +15,7 @@ require (
 	cloud.google.com/go/auth/oauth2adapt v0.2.6
 	cloud.google.com/go/bigquery v1.65.0
 	cloud.google.com/go/compute v1.30.0
-	cloud.google.com/go/compute/metadata v0.5.2
+	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.0
 	cloud.google.com/go/firestore v1.17.0
 	cloud.google.com/go/iam v1.3.0
@@ -149,7 +149,7 @@ require (
 	github.com/aerospike/aerospike-client-go/v5 v5.11.0
 	github.com/agext/levenshtein v1.2.3
 	github.com/agnivade/levenshtein v1.2.0
-	github.com/air-verse/air v1.61.1
+	github.com/air-verse/air v1.61.3
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0
 	github.com/akavel/rsrc v0.10.2
 	github.com/alecthomas/assert v1.0.0
@@ -157,7 +157,7 @@ require (
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
 	github.com/alecthomas/chroma/v2 v2.14.0
-	github.com/alecthomas/go-check-sumtype v0.3.0
+	github.com/alecthomas/go-check-sumtype v0.3.1
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.4.0
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
@@ -198,7 +198,7 @@ require (
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
 	github.com/antchfx/xmlquery v1.4.2
-	github.com/antchfx/xpath v1.3.2
+	github.com/antchfx/xpath v1.3.3
 	github.com/anthony-zh/osv-proxy v0.0.0-20240202022159-ab4f4b8cac39
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
 	github.com/antlr4-go/antlr v0.0.0-20230518091524-98b52378c522
@@ -525,7 +525,7 @@ require (
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
 	github.com/go-asn1-ber/asn1-ber v1.5.7
 	github.com/go-chi/chi v4.1.2+incompatible
-	github.com/go-chi/chi/v5 v5.1.0
+	github.com/go-chi/chi/v5 v5.2.0
 	github.com/go-chi/cors v1.2.1
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
@@ -549,7 +549,7 @@ require (
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
 	github.com/go-kratos/kratos/v2 v2.8.2
-	github.com/go-ldap/ldap/v3 v3.4.8
+	github.com/go-ldap/ldap/v3 v3.4.9
 	github.com/go-llsqlite/adapter v0.1.0
 	github.com/go-llsqlite/crawshaw v0.5.5
 	github.com/go-logfmt/logfmt v0.6.0
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.4
-	github.com/goccy/go-yaml v1.15.9
+	github.com/goccy/go-yaml v1.15.10
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -617,7 +617,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.1.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.139.4
+	github.com/gohugoio/hugo v0.139.5
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.2.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -666,7 +666,7 @@ require (
 	github.com/google/go-replayers/httpreplay v1.2.0
 	github.com/google/go-sev-guest v0.12.1
 	github.com/google/go-tdx-guest v0.3.1
-	github.com/google/go-tpm v0.9.1
+	github.com/google/go-tpm v0.9.2
 	github.com/google/go-tpm-tools v0.4.4
 	github.com/google/go-tspi v0.3.0
 	github.com/google/gofuzz v1.2.0
@@ -810,7 +810,7 @@ require (
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jdkato/prose v1.2.1
-	github.com/jedib0t/go-pretty/v6 v6.6.4
+	github.com/jedib0t/go-pretty/v6 v6.6.5
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
@@ -841,7 +841,7 @@ require (
 	github.com/julz/importas v0.1.0
 	github.com/karamaru-alpha/copyloopvar v1.1.0
 	github.com/karrick/godirwalk v1.17.0
-	github.com/kataras/blocks v0.0.8
+	github.com/kataras/blocks v0.0.11
 	github.com/kataras/golog v0.1.12
 	github.com/kataras/iris/v12 v12.2.11
 	github.com/kataras/pio v0.0.13
@@ -895,7 +895,7 @@ require (
 	github.com/magiconair/properties v1.8.9
 	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
-	github.com/mailru/easyjson v0.7.7
+	github.com/mailru/easyjson v0.9.0
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
 	github.com/manifoldco/promptui v0.9.0
 	github.com/maratori/testableexamples v1.0.0
@@ -1031,7 +1031,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.22.0
 	github.com/onsi/gomega v1.36.1
 	github.com/openacid/low v0.1.21
-	github.com/openconfig/gnmi v0.11.0
+	github.com/openconfig/gnmi v0.12.0
 	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
@@ -1074,7 +1074,7 @@ require (
 	github.com/pion/logging v0.2.2
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
-	github.com/pion/rtcp v1.2.14
+	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.9
 	github.com/pion/sctp v1.8.35
 	github.com/pion/sdp/v3 v3.0.9
@@ -1303,7 +1303,7 @@ require (
 	github.com/ugorji/go v1.2.12
 	github.com/ugorji/go/codec v1.2.12
 	github.com/ulikunitz/xz v0.5.12
-	github.com/ultraware/funlen v0.1.0
+	github.com/ultraware/funlen v0.2.0
 	github.com/ultraware/whitespace v0.1.1
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
@@ -1377,7 +1377,7 @@ require (
 	go-simpler.org/sloglint v0.7.2
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.68.0
+	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.3.11
 	go.etcd.io/etcd/api/v3 v3.5.17
 	go.etcd.io/etcd/client/pkg/v3 v3.5.17
@@ -1504,7 +1504,7 @@ require (
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
-	modernc.org/gc/v2 v2.5.0
+	modernc.org/gc/v2 v2.6.0
 	modernc.org/gc/v3 v3.0.0-20241004144649-1aea3fae8852
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
