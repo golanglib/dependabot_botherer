@@ -15,7 +15,7 @@ require (
 	cloud.google.com/go/auth/oauth2adapt v0.2.6
 	cloud.google.com/go/bigquery v1.65.0
 	cloud.google.com/go/compute v1.30.0
-	cloud.google.com/go/compute/metadata v0.5.2
+	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.0
 	cloud.google.com/go/firestore v1.17.0
 	cloud.google.com/go/iam v1.3.0
@@ -157,7 +157,7 @@ require (
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
 	github.com/alecthomas/chroma/v2 v2.14.0
-	github.com/alecthomas/go-check-sumtype v0.3.0
+	github.com/alecthomas/go-check-sumtype v0.3.1
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.4.0
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
@@ -198,7 +198,7 @@ require (
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
 	github.com/antchfx/xmlquery v1.4.2
-	github.com/antchfx/xpath v1.3.2
+	github.com/antchfx/xpath v1.3.3
 	github.com/anthony-zh/osv-proxy v0.0.0-20240202022159-ab4f4b8cac39
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
 	github.com/antlr4-go/antlr v0.0.0-20230518091524-98b52378c522
@@ -549,7 +549,7 @@ require (
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
 	github.com/go-kratos/kratos/v2 v2.8.2
-	github.com/go-ldap/ldap/v3 v3.4.8
+	github.com/go-ldap/ldap/v3 v3.4.9
 	github.com/go-llsqlite/adapter v0.1.0
 	github.com/go-llsqlite/crawshaw v0.5.5
 	github.com/go-logfmt/logfmt v0.6.0
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.4
-	github.com/goccy/go-yaml v1.15.9
+	github.com/goccy/go-yaml v1.15.10
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -895,7 +895,7 @@ require (
 	github.com/magiconair/properties v1.8.9
 	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
-	github.com/mailru/easyjson v0.7.7
+	github.com/mailru/easyjson v0.9.0
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
 	github.com/manifoldco/promptui v0.9.0
 	github.com/maratori/testableexamples v1.0.0
@@ -1377,7 +1377,7 @@ require (
 	go-simpler.org/sloglint v0.7.2
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.68.0
+	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.3.11
 	go.etcd.io/etcd/api/v3 v3.5.17
 	go.etcd.io/etcd/client/pkg/v3 v3.5.17
