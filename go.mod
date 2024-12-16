@@ -1031,7 +1031,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.22.0
 	github.com/onsi/gomega v1.36.1
 	github.com/openacid/low v0.1.21
-	github.com/openconfig/gnmi v0.11.0
+	github.com/openconfig/gnmi v0.12.0
 	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
