@@ -841,7 +841,7 @@ require (
 	github.com/julz/importas v0.1.0
 	github.com/karamaru-alpha/copyloopvar v1.1.0
 	github.com/karrick/godirwalk v1.17.0
-	github.com/kataras/blocks v0.0.8
+	github.com/kataras/blocks v0.0.11
 	github.com/kataras/golog v0.1.12
 	github.com/kataras/iris/v12 v12.2.11
 	github.com/kataras/pio v0.0.13
