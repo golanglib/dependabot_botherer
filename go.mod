@@ -1087,7 +1087,7 @@ require (
 	github.com/pion/turn v1.4.0
 	github.com/pion/turn/v2 v2.1.6
 	github.com/pion/udp v0.1.4
-	github.com/pion/webrtc/v3 v3.3.4
+	github.com/pion/webrtc/v3 v3.3.5
 	github.com/pires/go-proxyproto v0.8.0
 	github.com/pjbgf/sha1cd v0.3.0
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
