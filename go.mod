@@ -55,7 +55,7 @@ require (
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Antonboom/errname v1.0.0
-	github.com/Antonboom/nilnil v1.0.0
+	github.com/Antonboom/nilnil v1.0.1
 	github.com/Antonboom/testifylint v1.5.2
 	github.com/Azure/azure-amqp-common-go v1.1.4
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0
@@ -149,7 +149,7 @@ require (
 	github.com/aerospike/aerospike-client-go/v5 v5.11.0
 	github.com/agext/levenshtein v1.2.3
 	github.com/agnivade/levenshtein v1.2.0
-	github.com/air-verse/air v1.61.3
+	github.com/air-verse/air v1.61.5
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0
 	github.com/akavel/rsrc v0.10.2
 	github.com/alecthomas/assert v1.0.0
@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.7
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.38.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.9
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.197.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.7
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.7
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.71.0
@@ -411,7 +411,7 @@ require (
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.3.0
-	github.com/cyphar/filepath-securejoin v0.3.5
+	github.com/cyphar/filepath-securejoin v0.3.6
 	github.com/daixiang0/gci v0.13.5
 	github.com/danieljoos/wincred v1.2.2
 	github.com/datadope-io/go-zabbix v1.6.0
@@ -499,7 +499,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.7
-	github.com/gaissmai/bart v0.14.3
+	github.com/gaissmai/bart v0.15.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.128.0
@@ -617,7 +617,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.1.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.139.5
+	github.com/gohugoio/hugo v0.140.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.2.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -965,7 +965,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.18.1
+	github.com/moby/buildkit v0.18.2
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1455,7 +1455,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241209162323-e6fa225c2576
 	google.golang.org/grpc v1.68.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/protobuf v1.36.0
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
@@ -1500,7 +1500,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.3
+	modernc.org/ccgo/v4 v4.23.4
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
