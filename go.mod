@@ -1304,7 +1304,7 @@ require (
 	github.com/ugorji/go/codec v1.2.12
 	github.com/ulikunitz/xz v0.5.12
 	github.com/ultraware/funlen v0.2.0
-	github.com/ultraware/whitespace v0.1.1
+	github.com/ultraware/whitespace v0.2.0
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
 	github.com/urfave/cli v1.22.16
