@@ -149,7 +149,7 @@ require (
 	github.com/aerospike/aerospike-client-go/v5 v5.11.0
 	github.com/agext/levenshtein v1.2.3
 	github.com/agnivade/levenshtein v1.2.0
-	github.com/air-verse/air v1.61.3
+	github.com/air-verse/air v1.61.5
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0
 	github.com/akavel/rsrc v0.10.2
 	github.com/alecthomas/assert v1.0.0
