@@ -3047,8 +3047,8 @@ github.com/henrybear327/go-proton-api v1.0.0 h1:zYi/IbjLwFAW7ltCeqXneUGJey0TN//X
 github.com/henrybear327/go-proton-api v1.0.0/go.mod h1:w63MZuzufKcIZ93pwRgiOtxMXYafI8H74D77AxytOBc=
 github.com/hetznercloud/hcloud-go v1.59.2 h1:NkCPwYiPv85FnOV3IW9/gxfW61TPIUSwyPHRSLwCkHA=
 github.com/hetznercloud/hcloud-go v1.59.2/go.mod h1:oTebZCjd+osj75jlI76Z+zjN1sTxmMiQ1MWoO8aRl1c=
-github.com/hetznercloud/hcloud-go/v2 v2.17.0 h1:ge0w2piey9SV6XGyU/wQ6HBR24QyMbJ3wLzezplqR68=
-github.com/hetznercloud/hcloud-go/v2 v2.17.0/go.mod h1:zfyZ4Orx+mPpYDzWAxXR7DHGL50nnlZ5Edzgs1o6f/s=
+github.com/hetznercloud/hcloud-go/v2 v2.17.1 h1:DPi019dv0WCiECEmtcuTgc//hBvnxESb6QlJnAb4a04=
+github.com/hetznercloud/hcloud-go/v2 v2.17.1/go.mod h1:6ygmBba+FdawR2lLp/d9uJljY2k0dTYthprrI8usdLw=
 github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUqJM=
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
 github.com/hinshun/vt10x v0.0.0-20180616224451-1954e6464174/go.mod h1:DqJ97dSdRW1W22yXSB90986pcOyQ7r45iio1KN2ez1A=
