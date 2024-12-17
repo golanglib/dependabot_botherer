@@ -406,7 +406,7 @@ require (
 	github.com/couchbase/vellum v1.0.2
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
-	github.com/cpuguy83/go-md2man/v2 v2.0.5
+	github.com/cpuguy83/go-md2man/v2 v2.0.6
 	github.com/creack/pty v1.1.24
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
