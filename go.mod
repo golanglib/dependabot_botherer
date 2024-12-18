@@ -1514,7 +1514,7 @@ require (
 	modernc.org/opt v0.1.3
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.0
-	modernc.org/sqlite v1.34.2
+	modernc.org/sqlite v1.34.3
 	modernc.org/strutil v1.2.0
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
