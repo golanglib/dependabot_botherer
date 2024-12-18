@@ -428,7 +428,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.5.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
-	github.com/digitalocean/godo v1.131.1
+	github.com/digitalocean/godo v1.132.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -499,7 +499,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.7
-	github.com/gaissmai/bart v0.15.0
+	github.com/gaissmai/bart v0.15.2
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.128.0
@@ -666,7 +666,7 @@ require (
 	github.com/google/go-replayers/httpreplay v1.2.0
 	github.com/google/go-sev-guest v0.12.1
 	github.com/google/go-tdx-guest v0.3.1
-	github.com/google/go-tpm v0.9.2
+	github.com/google/go-tpm v0.9.3
 	github.com/google/go-tpm-tools v0.4.4
 	github.com/google/go-tspi v0.3.0
 	github.com/google/gofuzz v1.2.0
@@ -1000,8 +1000,8 @@ require (
 	github.com/mustafaturan/monoton v1.0.0
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
-	github.com/nats-io/jwt/v2 v2.7.2
-	github.com/nats-io/nats-server/v2 v2.10.23
+	github.com/nats-io/jwt/v2 v2.7.3
+	github.com/nats-io/nats-server/v2 v2.10.24
 	github.com/nats-io/nkeys v0.4.9
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
@@ -1041,7 +1041,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.80.0
+	github.com/oracle/oci-go-sdk/v65 v65.81.1
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.0
@@ -1074,7 +1074,7 @@ require (
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.9
+	github.com/pion/rtp v1.8.10
 	github.com/pion/sctp v1.8.35
 	github.com/pion/sdp/v3 v3.0.9
 	github.com/pion/srtp v1.5.2
