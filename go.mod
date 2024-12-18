@@ -499,7 +499,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.7
-	github.com/gaissmai/bart v0.15.0
+	github.com/gaissmai/bart v0.15.2
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.128.0
@@ -1074,7 +1074,7 @@ require (
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.9
+	github.com/pion/rtp v1.8.10
 	github.com/pion/sctp v1.8.35
 	github.com/pion/sdp/v3 v3.0.9
 	github.com/pion/srtp v1.5.2
