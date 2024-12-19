@@ -16,7 +16,7 @@ require (
 	cloud.google.com/go/bigquery v1.65.0
 	cloud.google.com/go/compute v1.31.0
 	cloud.google.com/go/compute/metadata v0.6.0
-	cloud.google.com/go/datacatalog v1.24.0
+	cloud.google.com/go/datacatalog v1.24.1
 	cloud.google.com/go/firestore v1.17.0
 	cloud.google.com/go/iam v1.3.0
 	cloud.google.com/go/kms v1.20.2
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.71
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.72
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -548,7 +548,7 @@ require (
 	github.com/go-kratos/consul v0.1.5
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
-	github.com/go-kratos/kratos/v2 v2.8.2
+	github.com/go-kratos/kratos/v2 v2.8.3
 	github.com/go-ldap/ldap/v3 v3.4.9
 	github.com/go-llsqlite/adapter v0.1.0
 	github.com/go-llsqlite/crawshaw v0.5.5
