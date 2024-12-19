@@ -1097,7 +1097,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
-	github.com/pressly/goose/v3 v3.23.1
+	github.com/pressly/goose/v3 v3.24.0
 	github.com/prometheus-community/pro-bing v0.5.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/client_model v0.6.1
