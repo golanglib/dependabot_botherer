@@ -866,7 +866,7 @@ require (
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyoh86/exportloopref v0.1.11
 	github.com/kyokomi/emoji/v2 v2.2.13
-	github.com/labstack/echo/v4 v4.13.2
+	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.0
@@ -1431,7 +1431,7 @@ require (
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.22.0
-	golang.org/x/net v0.32.0
+	golang.org/x/net v0.33.0
 	golang.org/x/oauth2 v0.24.0
 	golang.org/x/sync v0.10.0
 	golang.org/x/sys v0.28.0
