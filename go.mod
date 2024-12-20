@@ -48,7 +48,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.3.4
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.60
+	github.com/99designs/gqlgen v0.17.61
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -226,7 +226,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.28.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.47
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.21
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.21
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.22
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.43
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.3
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.0
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.71.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.7
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.6
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.2
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.3
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.8
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -361,7 +361,7 @@ require (
 	github.com/chzyer/logex v1.2.1
 	github.com/chzyer/readline v1.5.1
 	github.com/chzyer/test v1.0.0
-	github.com/cilium/ebpf v0.17.0
+	github.com/cilium/ebpf v0.17.1
 	github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df
 	github.com/ckaznocha/intrange v0.3.0
 	github.com/clarify/clarify-go v0.3.1
@@ -379,7 +379,7 @@ require (
 	github.com/cockroachdb/datadriven v1.0.2
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
-	github.com/containerd/cgroups/v3 v3.0.4
+	github.com/containerd/cgroups/v3 v3.0.5
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.24
 	github.com/containerd/containerd/api v1.8.0
@@ -480,7 +480,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.0+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.0
-	github.com/evanw/esbuild v0.24.0
+	github.com/evanw/esbuild v0.24.1
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -601,7 +601,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.4
-	github.com/goccy/go-yaml v1.15.11
+	github.com/goccy/go-yaml v1.15.12
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -1447,7 +1447,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.213.0
+	google.golang.org/api v0.214.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
 	google.golang.org/genproto/googleapis/api v0.0.0-20241209162323-e6fa225c2576
