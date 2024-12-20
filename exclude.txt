@@ -149,7 +149,7 @@ github.com/hashicorp/go-getter/gcs/v2
 //go: github.com/hashicorp/go-getter/gcs/v2 imports
 //	cloud.google.com/go/storage imports
 //	google.golang.org/grpc/stats/opentelemetry: ambiguous import: found package google.golang.org/grpc/stats/opentelemetry in multiple modules:
-//	google.golang.org/grpc v1.69.0 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.0/stats/opentelemetry)
+//	google.golang.org/grpc v1.69.2 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.2/stats/opentelemetry)
 //	google.golang.org/grpc/stats/opentelemetry v0.0.0-20241028142157-ada6787961b3 (/gopath/pkg/mod/google.golang.org/grpc/stats/opentelemetry@v0.0.0-20241028142157-ada6787961b3)
 github.com/hashicorp/nomad
 //go: github.com/hashicorp/nomad@latest (v1.9.4) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
@@ -161,7 +161,7 @@ github.com/hashicorp/vault
 //	github.com/hashicorp/vault/physical/gcs imports
 //	cloud.google.com/go/storage imports
 //	google.golang.org/grpc/stats/opentelemetry: ambiguous import: found package google.golang.org/grpc/stats/opentelemetry in multiple modules:
-//	google.golang.org/grpc v1.69.0 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.0/stats/opentelemetry)
+//	google.golang.org/grpc v1.69.2 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.2/stats/opentelemetry)
 //	google.golang.org/grpc/stats/opentelemetry v0.0.0-20241028142157-ada6787961b3 (/gopath/pkg/mod/google.golang.org/grpc/stats/opentelemetry@v0.0.0-20241028142157-ada6787961b3)
 //go: module github.com/Azure/go-autorest/autorest/adal is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
 //go: module github.com/Azure/go-autorest/autorest/azure/auth is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
@@ -171,7 +171,7 @@ github.com/imdario/mergo
 //	module declares its path as: dario.cat/mergo
 //	        but was required as: github.com/imdario/mergo
 github.com/jaegertracing/jaeger
-//[github.com/jaegertracing/jaeger] dir: /gopath/pkg/mod/github.com/jaegertracing/jaeger@v1.62.0
+//[github.com/jaegertracing/jaeger] dir: /gopath/pkg/mod/github.com/jaegertracing/jaeger@v1.64.0
 //[github.com/jaegertracing/jaeger] module has replace
 github.com/jirfag/go-printf-func-name
 //go: github.com/jirfag/go-printf-func-name@latest (v0.1.0) requires github.com/jirfag/go-printf-func-name@v0.1.0: parsing go.mod:
@@ -247,50 +247,22 @@ go.mongodb.org/mongo-driver
 //[go.mongodb.org/mongo-driver] dir: /gopath/pkg/mod/go.mongodb.org/mongo-driver@v1.17.1
 //[go.mongodb.org/mongo-driver] module has replace
 go.opentelemetry.io/collector
-//[go.opentelemetry.io/collector] dir: /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0
-//[go.opentelemetry.io/collector] "": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0
-//[go.opentelemetry.io/collector] ".chloggen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.chloggen
-//[go.opentelemetry.io/collector] ".github": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github
-//[go.opentelemetry.io/collector] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github/ISSUE_TEMPLATE
-//[go.opentelemetry.io/collector] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github/workflows
-//[go.opentelemetry.io/collector] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github/workflows/scripts
-//[go.opentelemetry.io/collector] "docs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/docs
-//[go.opentelemetry.io/collector] "docs/img": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/docs/img
-//[go.opentelemetry.io/collector] "docs/rfcs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/docs/rfcs
-//[go.opentelemetry.io/collector] "examples": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/examples
-//[go.opentelemetry.io/collector] "examples/k8s": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/examples/k8s
-//[go.opentelemetry.io/collector] "examples/local": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/examples/local
-//[go.opentelemetry.io/collector] "internal": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal
-//[go.opentelemetry.io/collector] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/buildscripts
-//[go.opentelemetry.io/collector] "internal/cgroups": package is internal
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/cpu": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/cpu
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/empty": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/empty
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/invalid": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/invalid
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/memory": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/memory
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/undefined": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/undefined
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/undefined-period": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/undefined-period
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/empty": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/empty
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/invalid": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/invalid
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/memory": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/memory
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/undefined": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/undefined
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/cgroups": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/cgroups
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/invalid-cgroup": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/invalid-cgroup
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/invalid-mountinfo": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/invalid-mountinfo
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/untranslatable": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/untranslatable
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2/cgroupv1": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2/cgroupv1
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2/cgroupv1v2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2/cgroupv1v2
-//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2/cgroupv2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2/cgroupv2
-//[go.opentelemetry.io/collector] "internal/fanoutconsumer": package is internal
+//[go.opentelemetry.io/collector] dir: /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0
+//[go.opentelemetry.io/collector] "": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0
+//[go.opentelemetry.io/collector] ".chloggen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/.chloggen
+//[go.opentelemetry.io/collector] ".github": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/.github
+//[go.opentelemetry.io/collector] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/.github/ISSUE_TEMPLATE
+//[go.opentelemetry.io/collector] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/.github/workflows
+//[go.opentelemetry.io/collector] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/.github/workflows/scripts
+//[go.opentelemetry.io/collector] "docs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/docs
+//[go.opentelemetry.io/collector] "docs/img": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/docs/img
+//[go.opentelemetry.io/collector] "docs/rfcs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/docs/rfcs
+//[go.opentelemetry.io/collector] "examples": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/examples
+//[go.opentelemetry.io/collector] "examples/k8s": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/examples/k8s
+//[go.opentelemetry.io/collector] "examples/local": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/examples/local
+//[go.opentelemetry.io/collector] "internal": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/internal
+//[go.opentelemetry.io/collector] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.116.0/internal/buildscripts
 //[go.opentelemetry.io/collector] "internal/httphelper": package is internal
-//[go.opentelemetry.io/collector] "internal/iruntime": package is internal
-//[go.opentelemetry.io/collector] "internal/memorylimiter": package is internal
-//[go.opentelemetry.io/collector] "internal/memorylimiter/testdata": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/memorylimiter/testdata
-//[go.opentelemetry.io/collector] "internal/sharedcomponent": package is internal
 //[go.opentelemetry.io/collector] "internal/testutil": package is internal
 //[go.opentelemetry.io/collector] no importable packages found
 go.opentelemetry.io/contrib/instrumentation/net/http
@@ -333,91 +305,91 @@ golang.org/x/tools/cmd/cover
 //[golang.org/x/tools/cmd/cover] "testdata": package is main
 //[golang.org/x/tools/cmd/cover] no importable packages found
 golang.org/x/tools/gopls
-//[golang.org/x/tools/gopls] dir: /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0
+//[golang.org/x/tools/gopls] dir: /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1
 //[golang.org/x/tools/gopls] "": package is main
-//[golang.org/x/tools/gopls] "doc": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/doc
-//[golang.org/x/tools/gopls] "doc/design": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/doc/design
-//[golang.org/x/tools/gopls] "doc/features": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/doc/features
+//[golang.org/x/tools/gopls] "doc": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/doc
+//[golang.org/x/tools/gopls] "doc/design": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/doc/design
+//[golang.org/x/tools/gopls] "doc/features": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/doc/features
 //[golang.org/x/tools/gopls] "doc/generate": package is main
-//[golang.org/x/tools/gopls] "doc/release": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/doc/release
-//[golang.org/x/tools/gopls] "integration": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/integration
+//[golang.org/x/tools/gopls] "doc/release": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/doc/release
+//[golang.org/x/tools/gopls] "integration": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/integration
 //[golang.org/x/tools/gopls] "integration/govim": package is main
-//[golang.org/x/tools/gopls] "internal": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal
-//[golang.org/x/tools/gopls] "internal/analysis": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis
+//[golang.org/x/tools/gopls] "internal": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal
+//[golang.org/x/tools/gopls] "internal/analysis": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis
 //[golang.org/x/tools/gopls] "internal/analysis/deprecated": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/deprecated/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/deprecated/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/deprecated/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/deprecated/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/deprecated/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/deprecated/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/deprecated/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/deprecated/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/deprecated/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/embeddirective": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/embeddirective/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/embeddirective/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/embeddirective/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/embeddirective/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/embeddirective/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/embeddirective/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/embeddirective/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/embeddirective/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/embeddirective/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillreturns": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/fillreturns/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/fillreturns/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/fillreturns/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/fillreturns/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/fillreturns/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/fillreturns/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/fillreturns/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/fillreturns/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/fillreturns/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillreturns/testdata/src/typeparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/fillstruct/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/fillstruct/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/fillstruct/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/fillstruct/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/b": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/typeparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillswitch": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/fillswitch/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/fillswitch/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/fillswitch/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/fillswitch/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/fillswitch/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/fillswitch/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/fillswitch/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/fillswitch/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/fillswitch/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillswitch/testdata/src/b": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/infertypeargs": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/infertypeargs/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/infertypeargs/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/infertypeargs/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/infertypeargs/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/infertypeargs/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/infertypeargs/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/infertypeargs/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/infertypeargs/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/infertypeargs/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/infertypeargs/testdata/src/a/imported": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/nonewvars": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/nonewvars/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/nonewvars/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/nonewvars/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/nonewvars/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/nonewvars/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/nonewvars/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/nonewvars/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/nonewvars/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/nonewvars/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/nonewvars/testdata/src/typeparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/noresultvalues": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/noresultvalues/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/noresultvalues/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/noresultvalues/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/noresultvalues/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/noresultvalues/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/noresultvalues/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/noresultvalues/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/noresultvalues/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/noresultvalues/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/noresultvalues/testdata/src/typeparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifycompositelit": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/simplifycompositelit/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/simplifycompositelit/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/simplifycompositelit/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/simplifycompositelit/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/simplifycompositelit/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/simplifycompositelit/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/simplifycompositelit/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/simplifycompositelit/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/simplifycompositelit/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifycompositelit/testdata/src/generatedcode": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyrange": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/simplifyrange/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/simplifyrange/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/simplifyrange/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/simplifyrange/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/simplifyrange/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/simplifyrange/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/simplifyrange/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/simplifyrange/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyrange/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyrange/testdata/src/generatedcode": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyrange/testdata/src/rangeoverfunc": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyslice": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/simplifyslice/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/simplifyslice/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/simplifyslice/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/simplifyslice/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/simplifyslice/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/simplifyslice/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/simplifyslice/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/simplifyslice/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyslice/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyslice/testdata/src/generatedcode": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/simplifyslice/testdata/src/typeparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/unusedparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/unusedparams/cmd": package is main
-//[golang.org/x/tools/gopls] "internal/analysis/unusedparams/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/unusedparams/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/unusedparams/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/unusedparams/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/unusedparams/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/unusedparams/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/unusedparams/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/unusedparams/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/unusedparams/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/unusedparams/testdata/src/typeparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/unusedvariable": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/unusedvariable/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/unusedvariable/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/unusedvariable/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/unusedvariable/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/unusedvariable/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/unusedvariable/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/unusedvariable/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/unusedvariable/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/unusedvariable/testdata/src/assign": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/unusedvariable/testdata/src/decl": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/useany": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/useany/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/useany/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/useany/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/useany/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/useany/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/useany/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/useany/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/useany/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/useany/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/yield": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/yield/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/yield/testdata
-//[golang.org/x/tools/gopls] "internal/analysis/yield/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/analysis/yield/testdata/src
+//[golang.org/x/tools/gopls] "internal/analysis/yield/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/yield/testdata
+//[golang.org/x/tools/gopls] "internal/analysis/yield/testdata/src": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/analysis/yield/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/yield/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/bloom": package is internal
 //[golang.org/x/tools/gopls] "internal/cache": package is internal
@@ -429,7 +401,7 @@ golang.org/x/tools/gopls
 //[golang.org/x/tools/gopls] "internal/cache/xrefs": package is internal
 //[golang.org/x/tools/gopls] "internal/clonetest": package is internal
 //[golang.org/x/tools/gopls] "internal/cmd": package is internal
-//[golang.org/x/tools/gopls] "internal/cmd/usage": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/cmd/usage
+//[golang.org/x/tools/gopls] "internal/cmd/usage": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/cmd/usage
 //[golang.org/x/tools/gopls] "internal/debug": package is internal
 //[golang.org/x/tools/gopls] "internal/debug/log": package is internal
 //[golang.org/x/tools/gopls] "internal/doc": package is internal
@@ -452,13 +424,13 @@ golang.org/x/tools/gopls
 //[golang.org/x/tools/gopls] "internal/protocol/generate": package is main
 //[golang.org/x/tools/gopls] "internal/protocol/semtok": package is internal
 //[golang.org/x/tools/gopls] "internal/server": package is internal
-//[golang.org/x/tools/gopls] "internal/server/assets": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/server/assets
+//[golang.org/x/tools/gopls] "internal/server/assets": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/server/assets
 //[golang.org/x/tools/gopls] "internal/settings": package is internal
 //[golang.org/x/tools/gopls] "internal/telemetry": package is internal
-//[golang.org/x/tools/gopls] "internal/telemetry/cmd": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/telemetry/cmd
+//[golang.org/x/tools/gopls] "internal/telemetry/cmd": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/telemetry/cmd
 //[golang.org/x/tools/gopls] "internal/telemetry/cmd/stacks": package is main
 //[golang.org/x/tools/gopls] "internal/template": package is internal
-//[golang.org/x/tools/gopls] "internal/test": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test
+//[golang.org/x/tools/gopls] "internal/test": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test
 //[golang.org/x/tools/gopls] "internal/test/compare": package is internal
 //[golang.org/x/tools/gopls] "internal/test/integration": package is internal
 //[golang.org/x/tools/gopls] "internal/test/integration/bench": package is internal
@@ -475,37 +447,37 @@ golang.org/x/tools/gopls
 //[golang.org/x/tools/gopls] "internal/test/integration/watch": package is internal
 //[golang.org/x/tools/gopls] "internal/test/integration/workspace": package is internal
 //[golang.org/x/tools/gopls] "internal/test/marker": package is internal
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/callhierarchy": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/callhierarchy
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/codeaction": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/codeaction
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/codelens": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/codelens
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/completion": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/completion
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/configuration": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/configuration
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/definition": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/definition
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/diagnostics": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/diagnostics
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/fixedbugs": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/fixedbugs
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/foldingrange": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/foldingrange
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/format": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/format
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/highlight": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/highlight
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/hover": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/hover
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/implementation": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/implementation
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/inlayhints": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/inlayhints
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/links": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/links
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/modfile": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/modfile
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/quickfix": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/quickfix
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/quickfix/stubmethods": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/quickfix/stubmethods
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/quickfix/undeclared": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/quickfix/undeclared
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/references": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/references
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/rename": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/rename
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/selectionrange": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/selectionrange
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/signature": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/signature
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/symbol": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/symbol
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/token": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/token
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/typedef": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/typedef
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/workfile": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/workfile
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/workspacesymbol": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/workspacesymbol
-//[golang.org/x/tools/gopls] "internal/test/marker/testdata/zeroconfig": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/test/marker/testdata/zeroconfig
-//[golang.org/x/tools/gopls] "internal/util": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/util
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/callhierarchy": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/callhierarchy
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/codeaction": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/codeaction
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/codelens": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/codelens
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/completion": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/completion
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/configuration": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/configuration
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/definition": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/definition
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/diagnostics": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/diagnostics
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/fixedbugs": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/fixedbugs
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/foldingrange": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/foldingrange
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/format": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/format
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/highlight": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/highlight
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/hover": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/hover
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/implementation": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/implementation
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/inlayhints": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/inlayhints
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/links": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/links
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/modfile": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/modfile
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/quickfix": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/quickfix
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/quickfix/stubmethods": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/quickfix/stubmethods
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/quickfix/undeclared": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/quickfix/undeclared
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/references": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/references
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/rename": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/rename
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/selectionrange": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/selectionrange
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/signature": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/signature
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/symbol": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/symbol
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/token": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/token
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/typedef": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/typedef
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/workfile": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/workfile
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/workspacesymbol": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/workspacesymbol
+//[golang.org/x/tools/gopls] "internal/test/marker/testdata/zeroconfig": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/test/marker/testdata/zeroconfig
+//[golang.org/x/tools/gopls] "internal/util": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/util
 //[golang.org/x/tools/gopls] "internal/util/astutil": package is internal
 //[golang.org/x/tools/gopls] "internal/util/browser": package is internal
 //[golang.org/x/tools/gopls] "internal/util/bug": package is internal
@@ -527,7 +499,7 @@ golang.org/x/tools/gopls
 //[golang.org/x/tools/gopls] "internal/vulncheck/scan": package is internal
 //[golang.org/x/tools/gopls] "internal/vulncheck/semver": package is internal
 //[golang.org/x/tools/gopls] "internal/vulncheck/vulntest": package is internal
-//[golang.org/x/tools/gopls] "internal/vulncheck/vulntest/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.0/internal/vulncheck/vulntest/testdata
+//[golang.org/x/tools/gopls] "internal/vulncheck/vulntest/testdata": no buildable Go source files in /gopath/pkg/mod/golang.org/x/tools/gopls@v0.17.1/internal/vulncheck/vulntest/testdata
 //[golang.org/x/tools/gopls] "internal/work": package is internal
 //[golang.org/x/tools/gopls] no importable packages found
 golang.zx2c4.com/wintun
