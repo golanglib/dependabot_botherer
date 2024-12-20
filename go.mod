@@ -1192,7 +1192,7 @@ require (
 	github.com/shoenig/go-m1cpu v0.1.6
 	github.com/shoenig/test v1.12.0
 	github.com/shopspring/decimal v1.4.0
-	github.com/showwin/speedtest-go v1.7.9
+	github.com/showwin/speedtest-go v1.7.10
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20210228213109-c3a9aa474629
 	github.com/shurcooL/go v0.0.0-20230706063926-5fe729b41b3a
 	github.com/shurcooL/go-goon v1.0.0
