@@ -221,7 +221,7 @@ require (
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.5
-	github.com/aws/aws-sdk-go-v2 v1.32.6
+	github.com/aws/aws-sdk-go-v2 v1.32.7
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.28.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.47
@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.7
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.7
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.71.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.71.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.7
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.6
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.2
@@ -677,7 +677,7 @@ require (
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.1
-	github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db
+	github.com/google/pprof v0.0.0-20241210010833-40e02aabc2ad
 	github.com/google/s2a-go v0.1.8
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
@@ -686,11 +686,11 @@ require (
 	github.com/google/wire v0.6.0
 	github.com/googleapis/enterprise-certificate-proxy v0.3.4
 	github.com/googleapis/gax-go v2.0.2+incompatible
-	github.com/googleapis/gax-go/v2 v2.14.0
+	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
 	github.com/gopcua/opcua v0.6.1
 	github.com/gophercloud/gophercloud v1.14.1
-	github.com/gophercloud/gophercloud/v2 v2.3.0
+	github.com/gophercloud/gophercloud/v2 v2.4.0
 	github.com/gopherjs/gopherjs v1.17.2
 	github.com/gorcon/rcon v1.4.0
 	github.com/gordonklaus/ineffassign v0.1.0
@@ -1027,7 +1027,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.22.0
+	github.com/onsi/ginkgo/v2 v2.22.1
 	github.com/onsi/gomega v1.36.1
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.12.0
@@ -1450,7 +1450,7 @@ require (
 	google.golang.org/api v0.213.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
-	google.golang.org/genproto/googleapis/api v0.0.0-20241118233622-e639e219e697
+	google.golang.org/genproto/googleapis/api v0.0.0-20241209162323-e6fa225c2576
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241209162323-e6fa225c2576
 	google.golang.org/grpc v1.68.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
@@ -1577,15 +1577,15 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v2.4.2+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.25 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.25 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.26 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.26 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.25 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.26 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.6 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.6 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.6 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.6 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.7 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.7 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
