@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.3
 	cloud.google.com/go/monitoring v1.22.0
 	cloud.google.com/go/pubsub v1.45.3
-	cloud.google.com/go/storage v1.48.0
+	cloud.google.com/go/storage v1.49.0
 	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
 	code.gitea.io/sdk/gitea v0.19.0
@@ -46,7 +46,7 @@ require (
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/42wim/httpsig v1.2.2
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
-	github.com/4meepo/tagalign v1.3.4
+	github.com/4meepo/tagalign v1.4.0
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.61
 	github.com/99designs/keyring v1.2.2
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.72
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.73
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -197,7 +197,7 @@ require (
 	github.com/andybalholm/cascadia v1.3.3
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
-	github.com/antchfx/xmlquery v1.4.2
+	github.com/antchfx/xmlquery v1.4.3
 	github.com/antchfx/xpath v1.3.3
 	github.com/anthony-zh/osv-proxy v0.0.0-20240202022159-ab4f4b8cac39
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
@@ -480,7 +480,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.0+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.0
-	github.com/evanw/esbuild v0.24.1
+	github.com/evanw/esbuild v0.24.2
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -499,7 +499,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.7
-	github.com/gaissmai/bart v0.15.4
+	github.com/gaissmai/bart v0.16.1
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.128.0
@@ -583,7 +583,7 @@ require (
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-test/deep v1.1.1
-	github.com/go-testfixtures/testfixtures/v3 v3.13.0
+	github.com/go-testfixtures/testfixtures/v3 v3.14.0
 	github.com/go-toolsmith/astcast v1.1.0
 	github.com/go-toolsmith/astcopy v1.1.0
 	github.com/go-toolsmith/astequal v1.2.0
@@ -595,13 +595,13 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.2.1
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.11.2
-	github.com/go-webauthn/x v0.1.15
+	github.com/go-webauthn/x v0.1.16
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.4
-	github.com/goccy/go-yaml v1.15.12
+	github.com/goccy/go-yaml v1.15.13
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -797,7 +797,7 @@ require (
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761
 	github.com/jackc/pgtype v1.14.4
 	github.com/jackc/pgx/v4 v4.18.3
-	github.com/jackc/pgx/v5 v5.7.1
+	github.com/jackc/pgx/v5 v5.7.2
 	github.com/jackc/puddle v1.3.0
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/jarcoal/httpmock v1.3.1
@@ -1454,7 +1454,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241209162323-e6fa225c2576
 	google.golang.org/grpc v1.68.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
-	google.golang.org/protobuf v1.36.0
+	google.golang.org/protobuf v1.36.1
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
@@ -1509,12 +1509,12 @@ require (
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
 	modernc.org/libc v1.61.4
-	modernc.org/mathutil v1.6.0
+	modernc.org/mathutil v1.7.0
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.3
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.0
-	modernc.org/sqlite v1.34.3
+	modernc.org/sqlite v1.34.4
 	modernc.org/strutil v1.2.0
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
