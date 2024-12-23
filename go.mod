@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.3
 	cloud.google.com/go/monitoring v1.22.0
 	cloud.google.com/go/pubsub v1.45.3
-	cloud.google.com/go/storage v1.48.0
+	cloud.google.com/go/storage v1.49.0
 	cloud.google.com/go/trace v1.11.2
 	code.gitea.io/actions-proto-go v0.4.0
 	code.gitea.io/sdk/gitea v0.19.0
@@ -197,7 +197,7 @@ require (
 	github.com/andybalholm/cascadia v1.3.3
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
-	github.com/antchfx/xmlquery v1.4.2
+	github.com/antchfx/xmlquery v1.4.3
 	github.com/antchfx/xpath v1.3.3
 	github.com/anthony-zh/osv-proxy v0.0.0-20240202022159-ab4f4b8cac39
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
