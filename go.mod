@@ -837,7 +837,7 @@ require (
 	github.com/jsternberg/zap-logfmt v1.3.0
 	github.com/jtolio/noiseconn v0.0.0-20231127013910-f6d9ecbf1de7
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/julz/importas v0.1.0
+	github.com/julz/importas v0.2.0
 	github.com/karamaru-alpha/copyloopvar v1.1.0
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.11
