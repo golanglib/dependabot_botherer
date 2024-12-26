@@ -46,7 +46,7 @@ require (
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/42wim/httpsig v1.2.2
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
-	github.com/4meepo/tagalign v1.4.0
+	github.com/4meepo/tagalign v1.4.1
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.61
 	github.com/99designs/keyring v1.2.2
@@ -505,7 +505,7 @@ require (
 	github.com/getkin/kin-openapi v0.128.0
 	github.com/ghostiam/protogetter v0.3.8
 	github.com/gin-contrib/gzip v1.0.1
-	github.com/gin-contrib/sessions v1.0.1
+	github.com/gin-contrib/sessions v1.0.2
 	github.com/gin-contrib/sse v0.1.0
 	github.com/gin-contrib/timeout v1.0.1
 	github.com/gin-gonic/gin v1.10.0
@@ -515,7 +515,7 @@ require (
 	github.com/git-lfs/wildmatch/v2 v2.0.1
 	github.com/gkampitakis/ciinfo v0.3.1
 	github.com/gkampitakis/go-diff v1.3.2
-	github.com/gkampitakis/go-snaps v0.5.7
+	github.com/gkampitakis/go-snaps v0.5.8
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
@@ -837,7 +837,7 @@ require (
 	github.com/jsternberg/zap-logfmt v1.3.0
 	github.com/jtolio/noiseconn v0.0.0-20231127013910-f6d9ecbf1de7
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/julz/importas v0.1.0
+	github.com/julz/importas v0.2.0
 	github.com/karamaru-alpha/copyloopvar v1.1.0
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.11
@@ -1317,7 +1317,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.6
-	github.com/vektah/gqlparser/v2 v2.5.20
+	github.com/vektah/gqlparser/v2 v2.5.21
 	github.com/vektra/mockery/v2 v2.50.1
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.5
@@ -1497,7 +1497,7 @@ require (
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.24.1
+	modernc.org/cc/v4 v4.24.2
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.23.5
 	modernc.org/ccorpus v1.11.6
