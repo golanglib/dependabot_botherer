@@ -2202,8 +2202,8 @@ github.com/ghostiam/protogetter v0.3.8 h1:LYcXbYvybUyTIxN2Mj9h6rHrDZBDwZloPoKctW
 github.com/ghostiam/protogetter v0.3.8/go.mod h1:WZ0nw9pfzsgxuRsPOFQomgDVSWtDLJRfQJEhsGbmQMA=
 github.com/gin-contrib/gzip v1.0.1 h1:HQ8ENHODeLY7a4g1Au/46Z92bdGFl74OhxcZble9WJE=
 github.com/gin-contrib/gzip v1.0.1/go.mod h1:njt428fdUNRvjuJf16tZMYZ2Yl+WQB53X5wmhDwXvC4=
-github.com/gin-contrib/sessions v1.0.1 h1:3hsJyNs7v7N8OtelFmYXFrulAf6zSR7nW/putcPEHxI=
-github.com/gin-contrib/sessions v1.0.1/go.mod h1:ouxSFM24/OgIud5MJYQJLpy6AwxQ5EYO9yLhbtObGkM=
+github.com/gin-contrib/sessions v1.0.2 h1:UaIjUvTH1cMeOdj3in6dl+Xb6It8RiKRF9Z1anbUyCA=
+github.com/gin-contrib/sessions v1.0.2/go.mod h1:KxKxWqWP5LJVDCInulOl4WbLzK2KSPlLesfZ66wRvMs=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
 github.com/gin-contrib/timeout v1.0.1 h1:OV3uH0MSbWQdy8Q9KdGSze8e2sgShPC8Qxw/3Ct7+Ng=
@@ -2224,8 +2224,8 @@ github.com/gkampitakis/ciinfo v0.3.1 h1:lzjbemlGI4Q+XimPg64ss89x8Mf3xihJqy/0Mgag
 github.com/gkampitakis/ciinfo v0.3.1/go.mod h1:1NIwaOcFChN4fa/B0hEBdAb6npDlFL8Bwx4dfRLRqAo=
 github.com/gkampitakis/go-diff v1.3.2 h1:Qyn0J9XJSDTgnsgHRdz9Zp24RaJeKMUHg2+PDZZdC4M=
 github.com/gkampitakis/go-diff v1.3.2/go.mod h1:LLgOrpqleQe26cte8s36HTWcTmMEur6OPYerdAAS9tk=
-github.com/gkampitakis/go-snaps v0.5.7 h1:uVGjHR4t4pPHU944udMx7VKHpwepZXmvDMF+yDmI0rg=
-github.com/gkampitakis/go-snaps v0.5.7/go.mod h1:ZABkO14uCuVxBHAXAfKG+bqNz+aa1bGPAg8jkI0Nk8Y=
+github.com/gkampitakis/go-snaps v0.5.8 h1:BB4ihcyXgJEVO/Pj/P+4bs7pFzsLcEjsfU2+mFdJh1c=
+github.com/gkampitakis/go-snaps v0.5.8/go.mod h1:PcKmy8q5Se7p48ywpogN5Td13reipz1Iivah4wrTIvY=
 github.com/glebarez/go-sqlite v1.22.0 h1:uAcMJhaA6r3LHMTFgP0SifzgXg46yJkgxqyuyec+ruQ=
 github.com/glebarez/go-sqlite v1.22.0/go.mod h1:PlBIdHe0+aUEFn+r2/uthrWq4FxbzugL0L8Li6yQJbc=
 github.com/glebarez/sqlite v1.11.0 h1:wSG0irqzP6VurnMEpFGer5Li19RpIRi2qvQz++w0GMw=

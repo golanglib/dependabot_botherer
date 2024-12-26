@@ -505,7 +505,7 @@ require (
 	github.com/getkin/kin-openapi v0.128.0
 	github.com/ghostiam/protogetter v0.3.8
 	github.com/gin-contrib/gzip v1.0.1
-	github.com/gin-contrib/sessions v1.0.1
+	github.com/gin-contrib/sessions v1.0.2
 	github.com/gin-contrib/sse v0.1.0
 	github.com/gin-contrib/timeout v1.0.1
 	github.com/gin-gonic/gin v1.10.0
@@ -515,7 +515,7 @@ require (
 	github.com/git-lfs/wildmatch/v2 v2.0.1
 	github.com/gkampitakis/ciinfo v0.3.1
 	github.com/gkampitakis/go-diff v1.3.2
-	github.com/gkampitakis/go-snaps v0.5.7
+	github.com/gkampitakis/go-snaps v0.5.8
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
