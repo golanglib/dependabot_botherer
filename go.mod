@@ -46,7 +46,7 @@ require (
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/42wim/httpsig v1.2.2
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
-	github.com/4meepo/tagalign v1.4.0
+	github.com/4meepo/tagalign v1.4.1
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.61
 	github.com/99designs/keyring v1.2.2
@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.75
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.76
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -837,7 +837,7 @@ require (
 	github.com/jsternberg/zap-logfmt v1.3.0
 	github.com/jtolio/noiseconn v0.0.0-20231127013910-f6d9ecbf1de7
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/julz/importas v0.1.0
+	github.com/julz/importas v0.2.0
 	github.com/karamaru-alpha/copyloopvar v1.1.0
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.11
@@ -933,7 +933,7 @@ require (
 	github.com/metacubex/sing-quic v0.0.0-20240827003841-cd97758ed8b4
 	github.com/metacubex/sing-shadowsocks v0.2.8
 	github.com/metacubex/sing-shadowsocks2 v0.2.2
-	github.com/metacubex/sing-tun v0.4.2
+	github.com/metacubex/sing-tun v0.4.5
 	github.com/metacubex/sing-wireguard v0.0.0-20240924052438-b0976fc59ea3
 	github.com/metacubex/tfo-go v0.0.0-20241006021335-daedaf0ca7aa
 	github.com/metacubex/utls v1.6.6
@@ -1497,7 +1497,7 @@ require (
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.24.1
+	modernc.org/cc/v4 v4.24.2
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.23.5
 	modernc.org/ccorpus v1.11.6
