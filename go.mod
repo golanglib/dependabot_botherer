@@ -46,7 +46,7 @@ require (
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/42wim/httpsig v1.2.2
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
-	github.com/4meepo/tagalign v1.4.0
+	github.com/4meepo/tagalign v1.4.1
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.61
 	github.com/99designs/keyring v1.2.2
