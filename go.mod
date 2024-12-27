@@ -112,7 +112,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.49.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
-	github.com/IBM/sarama v1.43.3
+	github.com/IBM/sarama v1.44.0
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/Masterminds/semver/v3 v3.3.1
@@ -133,7 +133,7 @@ require (
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
 	github.com/ProtonMail/gopenpgp/v2 v2.8.1
-	github.com/PuerkitoBio/goquery v1.10.0
+	github.com/PuerkitoBio/goquery v1.10.1
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
 	github.com/RoaringBitmap/roaring/v2 v2.4.2
@@ -549,7 +549,7 @@ require (
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
 	github.com/go-kratos/kratos/v2 v2.8.3
-	github.com/go-ldap/ldap/v3 v3.4.9
+	github.com/go-ldap/ldap/v3 v3.4.10
 	github.com/go-llsqlite/adapter v0.1.0
 	github.com/go-llsqlite/crawshaw v0.5.5
 	github.com/go-logfmt/logfmt v0.6.0
