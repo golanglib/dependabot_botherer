@@ -4351,8 +4351,8 @@ github.com/resendlabs/resend-go v1.7.0 h1:DycOqSXtw2q7aB+Nt9DDJUDtaYcrNPGn1t5RFp
 github.com/resendlabs/resend-go v1.7.0/go.mod h1:yip1STH7Bqfm4fD0So5HgyNbt5taG5Cplc4xXxETyLI=
 github.com/rfjakob/eme v1.1.2 h1:SxziR8msSOElPayZNFfQw4Tjx/Sbaeeh3eRvrHVMUs4=
 github.com/rfjakob/eme v1.1.2/go.mod h1:cVvpasglm/G3ngEfcfT/Wt0GwhkuO32pf/poW6Nyk1k=
-github.com/rhysd/actionlint v1.7.4 h1:L/vYADku9+iFnMlUyg8YhkRDFsI3Uqczxx06Gbik+bc=
-github.com/rhysd/actionlint v1.7.4/go.mod h1:/8EH7xBU5Ug0DFUUJ7TeaFgtDONmh5ISg9zVjrQNMBU=
+github.com/rhysd/actionlint v1.7.5 h1:4EtnNXGBgS0frlBJFKaRMe8SPI09wfj9rpJOFPwD9uM=
+github.com/rhysd/actionlint v1.7.5/go.mod h1:REAIaWKOapdqsgzHPGraVrGuAjuZ45UXFfpj5SwGXvE=
 github.com/riemann/riemann-go-client v0.5.0 h1:yPP7tz1vSYJkSZvZFCsMiDsHHXX57x8/fEX3qyEXuAA=
 github.com/riemann/riemann-go-client v0.5.0/go.mod h1:FMiaOL8dgBnRfgwENzV0xlYJ2eCbV1o7yqVwOBLbShQ=
 github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 h1:f/FNXud6gA3MNr8meMVVGxhp+QBTqY91tM8HjEuMjGg=
