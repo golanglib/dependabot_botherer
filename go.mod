@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/prealloc v1.0.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.76
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.77
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -458,7 +458,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/elazarl/goproxy v1.2.2
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
-	github.com/elliotchance/orderedmap v1.7.0
+	github.com/elliotchance/orderedmap v1.7.1
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.1
 	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43
@@ -537,7 +537,7 @@ require (
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
-	github.com/go-git/go-billy/v5 v5.6.0
+	github.com/go-git/go-billy/v5 v5.6.1
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/go-jose/go-jose/v3 v3.0.3
@@ -617,7 +617,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.1.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.140.1
+	github.com/gohugoio/hugo v0.140.2
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.2.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -1509,13 +1509,13 @@ require (
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
 	modernc.org/libc v1.61.5
-	modernc.org/mathutil v1.7.0
+	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.3
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.0
 	modernc.org/sqlite v1.34.4
-	modernc.org/strutil v1.2.0
+	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
 	modernc.org/z v1.7.4
