@@ -458,7 +458,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/elazarl/goproxy v1.2.2
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
-	github.com/elliotchance/orderedmap v1.7.0
+	github.com/elliotchance/orderedmap v1.7.1
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.1
 	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43
@@ -537,7 +537,7 @@ require (
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
-	github.com/go-git/go-billy/v5 v5.6.0
+	github.com/go-git/go-billy/v5 v5.6.1
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/go-jose/go-jose/v3 v3.0.3
