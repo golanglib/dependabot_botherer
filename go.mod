@@ -391,7 +391,7 @@ require (
 	github.com/containerd/platforms v1.0.0-rc.0
 	github.com/containerd/stargz-snapshotter v0.16.3
 	github.com/containerd/stargz-snapshotter/estargz v0.16.3
-	github.com/containerd/ttrpc v1.2.6
+	github.com/containerd/ttrpc v1.2.7
 	github.com/containerd/typeurl/v2 v2.2.3
 	github.com/containernetworking/cni v1.2.3
 	github.com/coocood/freecache v1.2.4
