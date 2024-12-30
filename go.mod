@@ -1509,13 +1509,13 @@ require (
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
 	modernc.org/libc v1.61.5
-	modernc.org/mathutil v1.7.0
+	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.3
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.0
 	modernc.org/sqlite v1.34.4
-	modernc.org/strutil v1.2.0
+	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
 	modernc.org/z v1.7.4
