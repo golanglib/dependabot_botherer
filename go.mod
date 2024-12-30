@@ -1511,7 +1511,7 @@ require (
 	modernc.org/libc v1.61.5
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.8.0
-	modernc.org/opt v0.1.3
+	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.0
 	modernc.org/sqlite v1.34.4
