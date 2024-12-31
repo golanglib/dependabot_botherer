@@ -331,7 +331,7 @@ require (
 	github.com/bytedance/sonic/loader v0.2.1
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.8.4
-	github.com/caddyserver/certmagic v0.21.4
+	github.com/caddyserver/certmagic v0.21.5
 	github.com/caddyserver/xcaddy v0.4.4
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
@@ -456,7 +456,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
 	github.com/edsrzf/mmap-go v1.2.0
-	github.com/elazarl/goproxy v1.2.2
+	github.com/elazarl/goproxy v1.2.4
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
 	github.com/elliotchance/orderedmap v1.7.1
 	github.com/emersion/go-imap v1.2.1
@@ -506,7 +506,7 @@ require (
 	github.com/ghostiam/protogetter v0.3.8
 	github.com/gin-contrib/gzip v1.1.0
 	github.com/gin-contrib/sessions v1.0.2
-	github.com/gin-contrib/sse v0.1.0
+	github.com/gin-contrib/sse v1.0.0
 	github.com/gin-contrib/timeout v1.0.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/git-lfs/git-lfs/v3 v3.6.0
@@ -1482,7 +1482,7 @@ require (
 	honnef.co/go/tools v0.5.1
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.0
-	k8s.io/apiextensions-apiserver v0.31.4
+	k8s.io/apiextensions-apiserver v0.32.0
 	k8s.io/apimachinery v0.32.0
 	k8s.io/apiserver v0.32.0
 	k8s.io/client-go v0.32.0
@@ -1497,7 +1497,7 @@ require (
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.24.2
+	modernc.org/cc/v4 v4.24.3
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.23.6
 	modernc.org/ccorpus v1.11.6
@@ -1508,7 +1508,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.5
+	modernc.org/libc v1.61.6
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.4
@@ -1528,7 +1528,7 @@ require (
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
 	sigs.k8s.io/controller-runtime v0.19.3
-	sigs.k8s.io/controller-tools v0.16.5
+	sigs.k8s.io/controller-tools v0.17.0
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.18.0
 	sigs.k8s.io/kustomize/cmd/config v0.15.0
@@ -1656,6 +1656,7 @@ require (
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
+	github.com/mholt/acmez/v3 v3.0.0 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/mmcloughlin/avo v0.6.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
