@@ -1513,7 +1513,7 @@ require (
 	modernc.org/memory v1.8.0
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
-	modernc.org/sortutil v1.2.0
+	modernc.org/sortutil v1.2.1
 	modernc.org/sqlite v1.34.4
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
