@@ -707,8 +707,8 @@ github.com/6543/go-version v1.4.0 h1:iNYLzyjZarPImMoauoqjFP+hkdny/Zp1ecg5pS+AGuU
 github.com/6543/go-version v1.4.0/go.mod h1:V7SnyexYKaK0qTlRluNFJGo69Kgu2I249RY6TjIB6tY=
 github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 h1:/vQbFIOMbk2FiG/kXiLl8BRyzTWDw7gX/Hz7Dd5eDMs=
 github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4/go.mod h1:hN7oaIRCjzsZ2dE+yG5k+rsdt3qcwykqK6HVGcKwsw4=
-github.com/99designs/gqlgen v0.17.61 h1:vE7xLRC066n9wehgjeplILOWtwz75zbzcV2/Iv9i3pw=
-github.com/99designs/gqlgen v0.17.61/go.mod h1:rFU1T3lhv/tPeAlww/DJ4ol2YxT/pPpue+xxPbkd3r4=
+github.com/99designs/gqlgen v0.17.62 h1:Wovt1+XJN9dTWYh92537Y9a5FuMVSkrQL4bn0a8v5Rg=
+github.com/99designs/gqlgen v0.17.62/go.mod h1:sVCM2iwIZisJjTI/DEC3fpH+HFgxY1496ZJ+jbT9IjA=
 github.com/99designs/keyring v1.2.2 h1:pZd3neh/EmUzWONb35LxQfvuY7kiSXAq3HQd97+XBn0=
 github.com/99designs/keyring v1.2.2/go.mod h1:wes/FrByc8j7lFOAGLGSNEg8f/PaI3cgTBqhFkHUrPk=
 github.com/Abirdcfly/dupword v0.1.3 h1:9Pa1NuAsZvpFPi9Pqkd93I7LIYRURj+A//dFd5tgBeE=
