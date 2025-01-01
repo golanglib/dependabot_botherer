@@ -1616,8 +1616,8 @@ github.com/bytedance/sonic/loader v0.2.1 h1:1GgorWTqf12TA8mma4DDSbaQigE2wOgQo7iC
 github.com/bytedance/sonic/loader v0.2.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
 github.com/caddyserver/caddy v1.0.5 h1:5B1Hs0UF2x2tggr2X9jL2qOZtDXbIWQb9YLbmlxHSuM=
 github.com/caddyserver/caddy v1.0.5/go.mod h1:AnFHB+/MrgRC+mJAvuAgQ38ePzw+wKeW0wzENpdQQKY=
-github.com/caddyserver/caddy/v2 v2.8.4 h1:q3pe0wpBj1OcHFZ3n/1nl4V4bxBrYoSoab7rL9BMYNk=
-github.com/caddyserver/caddy/v2 v2.8.4/go.mod h1:vmDAHp3d05JIvuhc24LmnxVlsZmWnUwbP5WMjzcMPWw=
+github.com/caddyserver/caddy/v2 v2.9.0 h1:rteY8N18LsQn+2KVk6R10Vg/AlNsID1N/Ek9JLjm2yE=
+github.com/caddyserver/caddy/v2 v2.9.0/go.mod h1:BYELOc32ZTQRzPy1UGngt3A9nQMTDWDN68fBaoHf4tI=
 github.com/caddyserver/certmagic v0.21.5 h1:iIga4nZRgd27EIEbX7RZmoRMul+EVBn/h7bAGL83dnY=
 github.com/caddyserver/certmagic v0.21.5/go.mod h1:n1sCo7zV1Ez2j+89wrzDxo4N/T1Ws/Vx8u5NvuBFabw=
 github.com/caddyserver/xcaddy v0.4.4 h1:xstmMhsxrDF/1rnncpi+CLbBfxEP0PjjdtXe3YFwnuo=
@@ -5388,8 +5388,8 @@ golang.org/x/crypto v0.27.0/go.mod h1:1Xngt8kV6Dvbssa53Ziq6Eqn0HqbZi5Z6R0ZpwQzt7
 golang.org/x/crypto v0.30.0/go.mod h1:kDsLvtWBEx7MV9tJOj9bnXsPbxwJQ6csT/x4KIN4Ssk=
 golang.org/x/crypto v0.31.0 h1:ihbySMvVjLAeSH1IbfcRTkD/iNscyz8rGzjF/E5hV6U=
 golang.org/x/crypto v0.31.0/go.mod h1:kDsLvtWBEx7MV9tJOj9bnXsPbxwJQ6csT/x4KIN4Ssk=
-golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595 h1:TgSqweA595vD0Zt86JzLv3Pb/syKg8gd5KMGGbJPYFw=
-golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595/go.mod h1:kNa9WdvYnzFwC79zRpLRMJbdEFlhyM5RPFBBZp/wWH8=
+golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9 h1:4cEcP5+OjGppY79LCQ5Go2B1Boix2x0v6pvA01P3FoA=
+golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9/go.mod h1:kNa9WdvYnzFwC79zRpLRMJbdEFlhyM5RPFBBZp/wWH8=
 golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20180807140117-3d87b88a115f/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20181106170214-d68db9428509/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
