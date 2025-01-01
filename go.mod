@@ -1008,7 +1008,7 @@ require (
 	github.com/ncruces/go-strftime v0.1.9
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.3
-	github.com/nektos/act v0.2.70
+	github.com/nektos/act v0.2.71
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.1
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
@@ -1604,9 +1604,9 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v27.4.0-rc.2+incompatible // indirect
+	github.com/docker/cli v27.4.1+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v27.4.0-rc.2+incompatible // indirect
+	github.com/docker/docker v27.4.1+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
@@ -1623,7 +1623,7 @@ require (
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
-	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
+	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/golangci/dupl v0.0.0-20180902072040-3e9179ac440a // indirect
 	github.com/google/flatbuffers v24.3.25+incompatible // indirect
 	github.com/googleapis/go-sql-spanner v1.7.4 // indirect
@@ -1726,7 +1726,7 @@ require (
 	go.opentelemetry.io/collector/consumer v0.111.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.19.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.113.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.56.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.58.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.31.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.31.0 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
