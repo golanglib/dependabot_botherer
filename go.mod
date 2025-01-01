@@ -330,7 +330,7 @@ require (
 	github.com/bytedance/sonic v1.12.6
 	github.com/bytedance/sonic/loader v0.2.1
 	github.com/caddyserver/caddy v1.0.5
-	github.com/caddyserver/caddy/v2 v2.8.4
+	github.com/caddyserver/caddy/v2 v2.9.0
 	github.com/caddyserver/certmagic v0.21.5
 	github.com/caddyserver/xcaddy v0.4.4
 	github.com/caddyserver/zerossl v0.1.3
@@ -1424,7 +1424,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/arch v0.12.0
 	golang.org/x/crypto v0.31.0
-	golang.org/x/crypto/x509roots/fallback v0.0.0-20240507223354-67b13616a595
+	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20241204233417-43b7b7cde48d
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/image v0.23.0
