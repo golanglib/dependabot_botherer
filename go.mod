@@ -20,7 +20,7 @@ require (
 	cloud.google.com/go/firestore v1.17.0
 	cloud.google.com/go/iam v1.3.0
 	cloud.google.com/go/kms v1.20.2
-	cloud.google.com/go/logging v1.12.0
+	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.3
 	cloud.google.com/go/monitoring v1.22.0
 	cloud.google.com/go/pubsub v1.45.3
@@ -458,7 +458,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/elazarl/goproxy v1.2.4
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
-	github.com/elliotchance/orderedmap v1.7.1
+	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.1
 	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43
@@ -634,7 +634,7 @@ require (
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20241223200906-057b0627d9b9
-	github.com/golangci/golangci-lint v1.63.0
+	github.com/golangci/golangci-lint v1.63.2
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
@@ -827,7 +827,7 @@ require (
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmhodges/levigo v1.0.0
 	github.com/joho/godotenv v1.5.1
-	github.com/jonboulle/clockwork v0.4.0
+	github.com/jonboulle/clockwork v0.5.0
 	github.com/josephspurrier/goversioninfo v1.4.1
 	github.com/josharian/intern v1.0.0
 	github.com/josharian/native v1.1.0
@@ -1499,7 +1499,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.3
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.7
+	modernc.org/ccgo/v4 v4.23.8
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
