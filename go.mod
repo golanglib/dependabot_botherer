@@ -634,7 +634,7 @@ require (
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20241223200906-057b0627d9b9
-	github.com/golangci/golangci-lint v1.63.0
+	github.com/golangci/golangci-lint v1.63.2
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
@@ -827,7 +827,7 @@ require (
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmhodges/levigo v1.0.0
 	github.com/joho/godotenv v1.5.1
-	github.com/jonboulle/clockwork v0.4.0
+	github.com/jonboulle/clockwork v0.5.0
 	github.com/josephspurrier/goversioninfo v1.4.1
 	github.com/josharian/intern v1.0.0
 	github.com/josharian/native v1.1.0
