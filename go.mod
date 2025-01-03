@@ -688,7 +688,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.6.1
+	github.com/gopcua/opcua v0.6.2
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.4.0
 	github.com/gopherjs/gopherjs v1.17.2
