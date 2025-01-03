@@ -1407,7 +1407,6 @@ import (
 	_ "go.opentelemetry.io/proto/otlp/collector/logs/v1"
 	_ "go.starlark.net/lib/json"
 	_ "go.step.sm/crypto/fingerprint"
-	_ "go.step.sm/linkedca"
 	_ "go.uber.org/atomic"
 	_ "go.uber.org/automaxprocs"
 	_ "go.uber.org/dig"
