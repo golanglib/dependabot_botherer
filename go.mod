@@ -498,7 +498,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
-	github.com/gabriel-vasile/mimetype v1.4.7
+	github.com/gabriel-vasile/mimetype v1.4.8
 	github.com/gaissmai/bart v0.16.1
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
