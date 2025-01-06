@@ -1133,7 +1133,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
 	github.com/rfjakob/eme v1.1.2
-	github.com/rhysd/actionlint v1.7.5
+	github.com/rhysd/actionlint v1.7.6
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/rivo/uniseg v0.4.7
 	github.com/robfig/cron/v3 v3.0.1
@@ -1433,7 +1433,7 @@ require (
 	golang.org/x/net v0.33.0
 	golang.org/x/oauth2 v0.24.0
 	golang.org/x/sync v0.10.0
-	golang.org/x/sys v0.28.0
+	golang.org/x/sys v0.29.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.36.0
 	golang.org/x/term v0.27.0
