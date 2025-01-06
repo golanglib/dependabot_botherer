@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.8
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.8
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.71.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.8
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.7
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.3
@@ -1438,7 +1438,7 @@ require (
 	golang.org/x/telemetry/config v0.36.0
 	golang.org/x/term v0.27.0
 	golang.org/x/text v0.21.0
-	golang.org/x/time v0.8.0
+	golang.org/x/time v0.9.0
 	golang.org/x/tools v0.28.0
 	golang.org/x/vuln v1.1.3
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
@@ -1509,7 +1509,7 @@ require (
 	modernc.org/lexer v1.0.5
 	modernc.org/libc v1.61.6
 	modernc.org/mathutil v1.7.1
-	modernc.org/memory v1.8.0
+	modernc.org/memory v1.8.1
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
