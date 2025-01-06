@@ -1422,7 +1422,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/arch v0.13.0
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.32.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20241204233417-43b7b7cde48d
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
@@ -1436,7 +1436,7 @@ require (
 	golang.org/x/sys v0.29.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.36.0
-	golang.org/x/term v0.27.0
+	golang.org/x/term v0.28.0
 	golang.org/x/text v0.21.0
 	golang.org/x/time v0.9.0
 	golang.org/x/tools v0.28.0
