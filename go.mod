@@ -944,7 +944,7 @@ require (
 	github.com/mholt/acmez v1.2.0
 	github.com/mholt/acmez/v2 v2.0.3
 	github.com/mholt/archiver/v3 v3.5.1
-	github.com/mholt/caddy-ratelimit v0.0.0-20240828171918-12435ecef5db
+	github.com/mholt/caddy-ratelimit v0.1.0
 	github.com/microcosm-cc/bluemonday v1.0.27
 	github.com/micromdm/scep/v2 v2.2.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
