@@ -1614,8 +1614,8 @@ github.com/bytedance/sonic v1.10.0-rc/go.mod h1:ElCzW+ufi8qKqNW0FY314xriJhyJhuoJ
 github.com/bytedance/sonic v1.12.6 h1:/isNmCUF2x3Sh8RAp/4mh4ZGkcFAX/hLrzrK3AvpRzk=
 github.com/bytedance/sonic v1.12.6/go.mod h1:B8Gt/XvtZ3Fqj+iSKMypzymZxw/FVwgIGKzMzT9r/rk=
 github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
-github.com/bytedance/sonic/loader v0.2.1 h1:1GgorWTqf12TA8mma4DDSbaQigE2wOgQo7iCjjJv3+E=
-github.com/bytedance/sonic/loader v0.2.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
+github.com/bytedance/sonic/loader v0.2.2 h1:jxAJuN9fOot/cyz5Q6dUuMJF5OqQ6+5GfA8FjjQ0R4o=
+github.com/bytedance/sonic/loader v0.2.2/go.mod h1:N8A3vUdtUebEY2/VQC0MyhYeKUFosQU6FxH2JmUe6VI=
 github.com/caddyserver/caddy v1.0.5 h1:5B1Hs0UF2x2tggr2X9jL2qOZtDXbIWQb9YLbmlxHSuM=
 github.com/caddyserver/caddy v1.0.5/go.mod h1:AnFHB+/MrgRC+mJAvuAgQ38ePzw+wKeW0wzENpdQQKY=
 github.com/caddyserver/caddy/v2 v2.9.0 h1:rteY8N18LsQn+2KVk6R10Vg/AlNsID1N/Ek9JLjm2yE=
@@ -2040,8 +2040,8 @@ github.com/elastic/go-sysinfo v1.0.2/go.mod h1:O/D5m1VpYLwGjCYzEt63g3Z1uO3jXfwyz
 github.com/elastic/go-windows v1.0.0/go.mod h1:TsU0Nrp7/y3+VwE82FoZF8gC/XFg/Elz6CcloAxnPgU=
 github.com/elazarl/go-bindata-assetfs v1.0.0/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
 github.com/elazarl/go-bindata-assetfs v1.0.1/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
-github.com/elazarl/goproxy v1.2.6 h1:jk1cwYYz96HhB985lQ1FFv7UcYVQHV84w8lWtpxW7WE=
-github.com/elazarl/goproxy v1.2.6/go.mod h1:yBhqz1/IaNA5tCayHGVfFmuzyanF6YeDNGIwPhfvtp8=
+github.com/elazarl/goproxy v1.2.8 h1:MwEJaka7qf9iXGfIdBX3A2OT/bYY93ekxd1tmMpQL/4=
+github.com/elazarl/goproxy v1.2.8/go.mod h1:X/5W/t+gzDyLfHW4DrMdpjqYjpXsURlBt9lpBDxZZZQ=
 github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2 h1:dWB6v3RcOy03t/bUadywsbyrQwCqZeNIEX6M1OtSZOM=
 github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
 github.com/elgatito/upnp v0.0.0-20180711183757-2f244d205f9a/go.mod h1:afkYpY8JAIL4341N7Zj9xJ5yTovsg6BkWfBFlCzIoF4=
@@ -3458,8 +3458,8 @@ github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac/go.mod h
 github.com/linkedin/goavro/v2 v2.13.0 h1:L8eI8GcuciwUkt41Ej62joSZS4kKaYIUdze+6for9NU=
 github.com/linkedin/goavro/v2 v2.13.0/go.mod h1:KXx+erlq+RPlGSPmLF7xGo6SAbh8sCQ53x064+ioxhk=
 github.com/linode/linodego v0.10.0/go.mod h1:cziNP7pbvE3mXIPneHj0oRY8L1WtGEIKlZ8LANE4eXA=
-github.com/linode/linodego v1.44.0 h1:JZLLWzCAx3CmHSV9NmCoXisuqKtrmPhfY9MrgvaHMUY=
-github.com/linode/linodego v1.44.0/go.mod h1:umdoNOmtbqAdGQbmQnPFZ2YS4US+/mU/1bA7MjoKAvg=
+github.com/linode/linodego v1.44.1 h1:+O1KUjJLe4Y6hVXFgN4+VZh+06JaPTsZHonup/pHPN0=
+github.com/linode/linodego v1.44.1/go.mod h1:gbgZweiU1LFyaCKI12wUlwDTeha/JTGruoKj751Ix5Q=
 github.com/liquidweb/liquidweb-go v1.6.0/go.mod h1:UDcVnAMDkZxpw4Y7NOHkqoeiGacVLEIG/i5J9cyixzQ=
 github.com/logzio/azure-monitor-metrics-receiver v1.1.0 h1:L2LU/jWTOFibZeSKUeEDBdPY6iFL1gkSE3A/9mnk/Ms=
 github.com/logzio/azure-monitor-metrics-receiver v1.1.0/go.mod h1:6J/ZJtFGAuv3XvLWOWTefbi1BBHvnawNjUTGcx2qUG4=
@@ -4991,8 +4991,8 @@ github.com/vmihailenco/msgpack/v5 v5.4.1/go.mod h1:GaZTsDaehaPpQVyxrf5mtQlH+pc21
 github.com/vmihailenco/tagparser v0.1.1/go.mod h1:OeAg3pn3UbLjkWt+rN9oFYB6u/cQgqMEUPoW2WPyhdI=
 github.com/vmihailenco/tagparser/v2 v2.0.0 h1:y09buUbR+b5aycVFQs/g70pqKVZNBmxwAhO7/IwNM9g=
 github.com/vmihailenco/tagparser/v2 v2.0.0/go.mod h1:Wri+At7QHww0WTrCBeu4J6bNtoV6mEfg5OIWRZA9qds=
-github.com/vmware/govmomi v0.47.0 h1:yFDYALpyuyZfN9L0oZ2wP+Pk9e3++Ak57dW8xuuiJ44=
-github.com/vmware/govmomi v0.47.0/go.mod h1:bYwUHpGpisE4AOlDl5eph90T+cjJMIcKx/kaa5v5rQM=
+github.com/vmware/govmomi v0.47.1 h1:6a2iNaqSS2/AFfvI8UMe0l787/TBKkK0KK9jCqCyYCE=
+github.com/vmware/govmomi v0.47.1/go.mod h1:bYwUHpGpisE4AOlDl5eph90T+cjJMIcKx/kaa5v5rQM=
 github.com/vulcand/oxy v1.4.2 h1:KibUVdKrwy7eXR3uHS2pYoZ9dCzKVcgDNHD2jkPZmxU=
 github.com/vulcand/oxy v1.4.2/go.mod h1:Yq8OBb0XWU/7nPSglwUH5LS2Pcp4yvad8SVayobZbSo=
 github.com/vulcand/predicate v1.2.0 h1:uFsW1gcnnR7R+QTID+FVcs0sSYlIGntoGOTb3rQJt50=
