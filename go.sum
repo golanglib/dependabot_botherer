@@ -1614,8 +1614,8 @@ github.com/bytedance/sonic v1.10.0-rc/go.mod h1:ElCzW+ufi8qKqNW0FY314xriJhyJhuoJ
 github.com/bytedance/sonic v1.12.6 h1:/isNmCUF2x3Sh8RAp/4mh4ZGkcFAX/hLrzrK3AvpRzk=
 github.com/bytedance/sonic v1.12.6/go.mod h1:B8Gt/XvtZ3Fqj+iSKMypzymZxw/FVwgIGKzMzT9r/rk=
 github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
-github.com/bytedance/sonic/loader v0.2.1 h1:1GgorWTqf12TA8mma4DDSbaQigE2wOgQo7iCjjJv3+E=
-github.com/bytedance/sonic/loader v0.2.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
+github.com/bytedance/sonic/loader v0.2.2 h1:jxAJuN9fOot/cyz5Q6dUuMJF5OqQ6+5GfA8FjjQ0R4o=
+github.com/bytedance/sonic/loader v0.2.2/go.mod h1:N8A3vUdtUebEY2/VQC0MyhYeKUFosQU6FxH2JmUe6VI=
 github.com/caddyserver/caddy v1.0.5 h1:5B1Hs0UF2x2tggr2X9jL2qOZtDXbIWQb9YLbmlxHSuM=
 github.com/caddyserver/caddy v1.0.5/go.mod h1:AnFHB+/MrgRC+mJAvuAgQ38ePzw+wKeW0wzENpdQQKY=
 github.com/caddyserver/caddy/v2 v2.9.0 h1:rteY8N18LsQn+2KVk6R10Vg/AlNsID1N/Ek9JLjm2yE=
