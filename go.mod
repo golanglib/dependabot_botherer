@@ -17,7 +17,7 @@ require (
 	cloud.google.com/go/compute v1.31.1
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.2
-	cloud.google.com/go/firestore v1.17.0
+	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.3.1
 	cloud.google.com/go/kms v1.20.4
 	cloud.google.com/go/logging v1.13.0
@@ -328,7 +328,7 @@ require (
 	github.com/butuzov/ireturn v0.3.1
 	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/sonic v1.12.6
-	github.com/bytedance/sonic/loader v0.2.1
+	github.com/bytedance/sonic/loader v0.2.2
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.9.0
 	github.com/caddyserver/certmagic v0.21.5
@@ -456,7 +456,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
 	github.com/edsrzf/mmap-go v1.2.0
-	github.com/elazarl/goproxy v1.2.6
+	github.com/elazarl/goproxy v1.2.8
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
@@ -678,7 +678,7 @@ require (
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.1
 	github.com/google/pprof v0.0.0-20241210010833-40e02aabc2ad
-	github.com/google/s2a-go v0.1.8
+	github.com/google/s2a-go v0.1.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
 	github.com/google/tink/go v1.7.0
@@ -879,7 +879,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.2
 	github.com/linkedin/goavro/v2 v2.13.0
-	github.com/linode/linodego v1.44.0
+	github.com/linode/linodego v1.44.1
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
@@ -1107,7 +1107,7 @@ require (
 	github.com/prometheus/prom2json v1.4.1
 	github.com/prometheus/prometheus v0.300.1
 	github.com/protolambda/ctxlock v0.1.0
-	github.com/putdotio/go-putio v1.7.1
+	github.com/putdotio/go-putio v1.7.2
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
 	github.com/puzpuzpuz/xsync/v3 v3.4.0
@@ -1324,7 +1324,7 @@ require (
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/vmihailenco/tagparser/v2 v2.0.0
-	github.com/vmware/govmomi v0.47.0
+	github.com/vmware/govmomi v0.47.1
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.2.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1439,7 +1439,7 @@ require (
 	golang.org/x/term v0.28.0
 	golang.org/x/text v0.21.0
 	golang.org/x/time v0.9.0
-	golang.org/x/tools v0.28.0
+	golang.org/x/tools v0.29.0
 	golang.org/x/vuln v1.1.3
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
@@ -1453,7 +1453,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241223144023-3abc09e42ca8
 	google.golang.org/grpc v1.68.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
-	google.golang.org/protobuf v1.36.1
+	google.golang.org/protobuf v1.36.2
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
@@ -1526,7 +1526,7 @@ require (
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
-	sigs.k8s.io/controller-runtime v0.19.3
+	sigs.k8s.io/controller-runtime v0.19.4
 	sigs.k8s.io/controller-tools v0.17.0
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.18.0
