@@ -327,7 +327,7 @@ require (
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.1
 	github.com/butuzov/mirror v1.3.0
-	github.com/bytedance/sonic v1.12.6
+	github.com/bytedance/sonic v1.12.7
 	github.com/bytedance/sonic/loader v0.2.2
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.9.0
