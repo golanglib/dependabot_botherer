@@ -30,7 +30,7 @@ require (
 	code.gitea.io/sdk/gitea v0.19.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
-	connectrpc.com/connect v1.17.0
+	connectrpc.com/connect v1.18.0
 	dario.cat/mergo v1.0.1
 	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
 	deps.dev/util/maven v0.0.0-20241010035105-b3ba03369df1
