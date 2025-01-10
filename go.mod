@@ -294,7 +294,7 @@ require (
 	github.com/blevesearch/zap/v13 v13.0.6
 	github.com/blevesearch/zap/v14 v14.0.5
 	github.com/blevesearch/zap/v15 v15.0.3
-	github.com/blevesearch/zapx/v11 v11.3.10
+	github.com/blevesearch/zapx/v11 v11.3.11
 	github.com/blevesearch/zapx/v12 v12.3.11
 	github.com/blevesearch/zapx/v13 v13.3.11
 	github.com/blevesearch/zapx/v14 v14.3.10
