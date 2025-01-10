@@ -19,7 +19,7 @@ require (
 	cloud.google.com/go/datacatalog v1.24.2
 	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.3.1
-	cloud.google.com/go/kms v1.20.4
+	cloud.google.com/go/kms v1.20.5
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.4
 	cloud.google.com/go/monitoring v1.22.1
@@ -30,7 +30,7 @@ require (
 	code.gitea.io/sdk/gitea v0.19.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
-	connectrpc.com/connect v1.18.0
+	connectrpc.com/connect v1.18.1
 	dario.cat/mergo v1.0.1
 	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
 	deps.dev/util/maven v0.0.0-20241010035105-b3ba03369df1
@@ -225,14 +225,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.28.7
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.48
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.23
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.25
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.22
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.45
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.8
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.0
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.10
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.8
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.8
@@ -240,7 +240,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.8
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.8
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.3
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.9
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.10
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -576,7 +576,7 @@ require (
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.16.2
+	github.com/go-resty/resty/v2 v2.16.3
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
@@ -751,7 +751,7 @@ require (
 	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/hashicorp/logutils v1.0.0
-	github.com/hashicorp/memberlist v0.5.1
+	github.com/hashicorp/memberlist v0.5.2
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
 	github.com/hashicorp/serf v0.10.1
 	github.com/hashicorp/terraform-exec v0.21.0
@@ -1179,7 +1179,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.10.0
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.21.4
+	github.com/securego/gosec/v2 v2.22.0
 	github.com/segmentio/asm v1.2.0
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.47
@@ -1583,7 +1583,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.26 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.7 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.7 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.7 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
