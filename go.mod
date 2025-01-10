@@ -221,18 +221,18 @@ require (
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.5
-	github.com/aws/aws-sdk-go-v2 v1.32.7
+	github.com/aws/aws-sdk-go-v2 v1.32.8
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.28.7
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.48
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.23
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.25
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.22
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.45
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.8
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.0
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.10
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.8
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.8
@@ -576,7 +576,7 @@ require (
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.16.2
+	github.com/go-resty/resty/v2 v2.16.3
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
@@ -1179,7 +1179,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.10.0
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.21.4
+	github.com/securego/gosec/v2 v2.22.0
 	github.com/segmentio/asm v1.2.0
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.47
@@ -1577,13 +1577,13 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v2.4.2+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.26 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.26 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.27 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.27 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.26 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.7 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.7 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.7 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
