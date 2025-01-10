@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.9
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.3
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.10
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.8
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.2
@@ -294,11 +294,11 @@ require (
 	github.com/blevesearch/zap/v13 v13.0.6
 	github.com/blevesearch/zap/v14 v14.0.5
 	github.com/blevesearch/zap/v15 v15.0.3
-	github.com/blevesearch/zapx/v11 v11.3.10
+	github.com/blevesearch/zapx/v11 v11.3.11
 	github.com/blevesearch/zapx/v12 v12.3.11
-	github.com/blevesearch/zapx/v13 v13.3.10
+	github.com/blevesearch/zapx/v13 v13.3.11
 	github.com/blevesearch/zapx/v14 v14.3.10
-	github.com/blevesearch/zapx/v15 v15.3.17
+	github.com/blevesearch/zapx/v15 v15.3.18
 	github.com/blevesearch/zapx/v16 v16.1.10
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/blues/jsonata-go v1.5.4
@@ -1161,7 +1161,7 @@ require (
 	github.com/sagernet/sing-vmess v0.1.13
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
 	github.com/sagernet/wireguard-go v0.0.1-beta.5
-	github.com/sagikazarmark/locafero v0.6.0
+	github.com/sagikazarmark/locafero v0.7.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.47.0
 	github.com/sanity-io/litter v1.5.6
@@ -1273,7 +1273,7 @@ require (
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
 	github.com/terminalstatic/go-xsd-validate v0.1.6
 	github.com/testcontainers/testcontainers-go v0.35.0
-	github.com/testcontainers/testcontainers-go/modules/kafka v0.34.0
+	github.com/testcontainers/testcontainers-go/modules/kafka v0.35.0
 	github.com/tetafro/godot v1.4.20
 	github.com/tetratelabs/wazero v1.8.2
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
