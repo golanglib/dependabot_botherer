@@ -11,15 +11,15 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.2-20241127180247-a33202765966.1
 	cel.dev/expr v0.19.1
 	cloud.google.com/go v0.118.0
-	cloud.google.com/go/auth v0.13.0
+	cloud.google.com/go/auth v0.14.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.6
 	cloud.google.com/go/bigquery v1.65.0
 	cloud.google.com/go/compute v1.31.1
 	cloud.google.com/go/compute/metadata v0.6.0
-	cloud.google.com/go/datacatalog v1.24.2
+	cloud.google.com/go/datacatalog v1.24.3
 	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.3.1
-	cloud.google.com/go/kms v1.20.4
+	cloud.google.com/go/kms v1.20.5
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.4
 	cloud.google.com/go/monitoring v1.22.1
@@ -234,13 +234,13 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.198.1
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.8
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.10
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.8
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.8
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.7
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.8
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.3
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.9
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.10
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -295,7 +295,7 @@ require (
 	github.com/blevesearch/zap/v14 v14.0.5
 	github.com/blevesearch/zap/v15 v15.0.3
 	github.com/blevesearch/zapx/v11 v11.3.10
-	github.com/blevesearch/zapx/v12 v12.3.10
+	github.com/blevesearch/zapx/v12 v12.3.11
 	github.com/blevesearch/zapx/v13 v13.3.10
 	github.com/blevesearch/zapx/v14 v14.3.10
 	github.com/blevesearch/zapx/v15 v15.3.17
@@ -381,7 +381,7 @@ require (
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/containerd/cgroups/v3 v3.0.5
 	github.com/containerd/console v1.0.4
-	github.com/containerd/containerd v1.7.24
+	github.com/containerd/containerd v1.7.25
 	github.com/containerd/containerd/api v1.8.0
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
@@ -428,7 +428,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.5.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
-	github.com/digitalocean/godo v1.132.0
+	github.com/digitalocean/godo v1.133.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -456,7 +456,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
 	github.com/edsrzf/mmap-go v1.2.0
-	github.com/elazarl/goproxy v1.2.8
+	github.com/elazarl/goproxy v1.3.0
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
@@ -537,7 +537,7 @@ require (
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
-	github.com/go-git/go-billy/v5 v5.6.1
+	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.13.1
 	github.com/go-jose/go-jose/v3 v3.0.3
@@ -751,7 +751,7 @@ require (
 	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/hashicorp/logutils v1.0.0
-	github.com/hashicorp/memberlist v0.5.1
+	github.com/hashicorp/memberlist v0.5.2
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
 	github.com/hashicorp/serf v0.10.1
 	github.com/hashicorp/terraform-exec v0.21.0
@@ -910,7 +910,7 @@ require (
 	github.com/matoous/godox v0.0.0-20240105082147-c5b5e0e7c0c0
 	github.com/matryer/is v1.4.1
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
-	github.com/mattn/go-colorable v0.1.13
+	github.com/mattn/go-colorable v0.1.14
 	github.com/mattn/go-ieproxy v0.0.12
 	github.com/mattn/go-isatty v0.0.20
 	github.com/mattn/go-runewidth v0.0.16
@@ -1164,7 +1164,7 @@ require (
 	github.com/sagikazarmark/locafero v0.6.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.47.0
-	github.com/sanity-io/litter v1.5.5
+	github.com/sanity-io/litter v1.5.6
 	github.com/sanposhiho/wastedassign v1.0.0
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
@@ -1238,7 +1238,7 @@ require (
 	github.com/spacemonkeygo/monkit/v3 v3.0.24
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.5
-	github.com/spf13/afero v1.11.0
+	github.com/spf13/afero v1.12.0
 	github.com/spf13/cast v1.7.1
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/cobra-cli v1.3.0
@@ -1272,7 +1272,7 @@ require (
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
 	github.com/terminalstatic/go-xsd-validate v0.1.6
-	github.com/testcontainers/testcontainers-go v0.34.0
+	github.com/testcontainers/testcontainers-go v0.35.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.34.0
 	github.com/tetafro/godot v1.4.20
 	github.com/tetratelabs/wazero v1.8.2
@@ -1492,13 +1492,13 @@ require (
 	k8s.io/kube-openapi v0.0.0-20241105132330-32ad38e42d3f
 	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
-	libvirt.org/go/libvirtxml v1.10009.0
+	libvirt.org/go/libvirtxml v1.10010.0
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.10
+	modernc.org/ccgo/v4 v4.23.11
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
