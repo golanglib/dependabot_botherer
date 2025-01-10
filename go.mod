@@ -428,7 +428,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.5.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
-	github.com/digitalocean/godo v1.132.0
+	github.com/digitalocean/godo v1.133.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
