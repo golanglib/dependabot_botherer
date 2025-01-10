@@ -576,7 +576,7 @@ require (
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.16.2
+	github.com/go-resty/resty/v2 v2.16.3
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
@@ -1179,7 +1179,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.10.0
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.21.4
+	github.com/securego/gosec/v2 v2.22.0
 	github.com/segmentio/asm v1.2.0
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.47
