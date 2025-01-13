@@ -669,7 +669,7 @@ require (
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
 	github.com/golangci/plugin-module-register v0.1.1
-	github.com/golangci/revgrep v0.5.3
+	github.com/golangci/revgrep v0.6.0
 	github.com/golangci/unconvert v0.0.0-20240309020433-c5143eacb3ed
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
