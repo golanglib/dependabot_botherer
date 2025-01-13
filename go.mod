@@ -1378,7 +1378,7 @@ require (
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v4 v4.3.12
 	github.com/vmihailenco/msgpack/v5 v5.4.1
-	github.com/vmihailenco/tagparser v0.1.1
+	github.com/vmihailenco/tagparser v0.1.2
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.47.1
