@@ -1,4 +1,4 @@
-.PHONY: generate
+.PHONY: list
 
 list:
 	scripts/list.sh
