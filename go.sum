@@ -2310,8 +2310,8 @@ github.com/gin-contrib/timeout v1.0.2/go.mod h1:2nd5bn+1BdaPEKD6ksEkRJQhPCUM/keM
 github.com/gin-gonic/gin v1.6.3/go.mod h1:75u5sXoLsGZoRN5Sgbi1eraJ4GU3++wFwWzhwvtwp4M=
 github.com/gin-gonic/gin v1.10.0 h1:nTuyha1TYqgedzytsKYqna+DfLos46nTv2ygFy86HFU=
 github.com/gin-gonic/gin v1.10.0/go.mod h1:4PMNQiOhvDRa013RKVbsiNwoyezlm2rm0uX/T7kzp5Y=
-github.com/git-lfs/git-lfs/v3 v3.6.0 h1:GRHy8MvXkEHJHWfSUXJl9pDwxcWhuMREzRomevAs3I4=
-github.com/git-lfs/git-lfs/v3 v3.6.0/go.mod h1:1YO3nafGw2wKBR5LTZ7/LXJ7U7ELdvIGvcCBrLt6mfM=
+github.com/git-lfs/git-lfs/v3 v3.6.1 h1:0RA2HzkMVl69KE5zCGY1PxqkDSbd/f/O7Du6CNkTYtY=
+github.com/git-lfs/git-lfs/v3 v3.6.1/go.mod h1:1YO3nafGw2wKBR5LTZ7/LXJ7U7ELdvIGvcCBrLt6mfM=
 github.com/git-lfs/gitobj/v2 v2.1.1 h1:tf/VU6zL1kxa3he+nf6FO/syX+LGkm6WGDsMpfuXV7Q=
 github.com/git-lfs/gitobj/v2 v2.1.1/go.mod h1:q6aqxl6Uu3gWsip5GEKpw+7459F97er8COmU45ncAxw=
 github.com/git-lfs/go-netrc v0.0.0-20210914205454-f0c862dd687a h1:6pskVZacdMUL93pCpMAYnMDLjH1yDFhssPYGe32sjdk=
