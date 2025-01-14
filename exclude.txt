@@ -165,7 +165,7 @@ github.com/hashicorp/go-getter/gcs/v2
 //	google.golang.org/grpc v1.69.4 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.4/stats/opentelemetry)
 //	google.golang.org/grpc/stats/opentelemetry v0.0.0-20241028142157-ada6787961b3 (/gopath/pkg/mod/google.golang.org/grpc/stats/opentelemetry@v0.0.0-20241028142157-ada6787961b3)
 github.com/hashicorp/nomad
-//go: github.com/hashicorp/nomad@latest (v1.9.4) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
+//go: github.com/hashicorp/nomad@latest (v1.9.5) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
 //	module declares its path as: github.com/hashicorp/go-metrics
 //	        but was required as: github.com/armon/go-metrics
 github.com/hashicorp/vault
