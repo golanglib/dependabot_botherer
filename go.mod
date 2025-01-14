@@ -488,7 +488,7 @@ require (
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
-	github.com/emersion/go-message v0.18.1
+	github.com/emersion/go-message v0.18.2
 	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43
 	github.com/emersion/go-smtp v0.21.3
 	github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9
