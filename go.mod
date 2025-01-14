@@ -537,7 +537,7 @@ require (
 	github.com/gin-contrib/sse v1.0.0
 	github.com/gin-contrib/timeout v1.0.2
 	github.com/gin-gonic/gin v1.10.0
-	github.com/git-lfs/git-lfs/v3 v3.6.0
+	github.com/git-lfs/git-lfs/v3 v3.6.1
 	github.com/git-lfs/gitobj/v2 v2.1.1
 	github.com/git-lfs/pktline v0.0.0-20230103162542-ca444d533ef1
 	github.com/git-lfs/wildmatch/v2 v2.0.1
