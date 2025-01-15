@@ -1571,7 +1571,7 @@ require (
 	modernc.org/lexer v1.0.5
 	modernc.org/libc v1.61.7
 	modernc.org/mathutil v1.7.1
-	modernc.org/memory v1.8.1
+	modernc.org/memory v1.8.2
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
