@@ -131,7 +131,7 @@ require (
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
-	github.com/ProtonMail/go-crypto v1.1.4
+	github.com/ProtonMail/go-crypto v1.1.5
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
 	github.com/ProtonMail/gopenpgp/v2 v2.8.2
@@ -229,23 +229,23 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/aws/aws-sdk-go-v2 v1.32.8
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
-	github.com/aws/aws-sdk-go-v2/config v1.28.10
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.51
+	github.com/aws/aws-sdk-go-v2/config v1.28.11
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.52
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.25
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.23
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.48
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.49
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.6
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.3
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.9
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.13
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.10
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.10
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.2
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.9
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.8
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.6
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.7
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.10
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -362,7 +362,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
-	github.com/charmbracelet/x/ansi v0.6.0
+	github.com/charmbracelet/x/ansi v0.7.0
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
@@ -744,7 +744,7 @@ require (
 	github.com/grafana/pyroscope-go v1.2.0
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
-	github.com/gravitational/trace v1.4.0
+	github.com/gravitational/trace v1.5.0
 	github.com/grid-x/modbus v0.0.0-20241004123532-f6c6fb5201b3
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
@@ -1515,7 +1515,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241223144023-3abc09e42ca8
 	google.golang.org/grpc v1.68.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
-	google.golang.org/protobuf v1.36.2
+	google.golang.org/protobuf v1.36.3
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
@@ -1560,7 +1560,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.12
+	modernc.org/ccgo/v4 v4.23.13
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
@@ -1569,9 +1569,9 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.7
+	modernc.org/libc v1.61.8
 	modernc.org/mathutil v1.7.1
-	modernc.org/memory v1.8.1
+	modernc.org/memory v1.8.2
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
