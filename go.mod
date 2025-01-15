@@ -1385,7 +1385,7 @@ require (
 	github.com/volcengine/volc-sdk-golang v1.0.192
 	github.com/volcengine/volcengine-go-sdk v1.0.177
 	github.com/vulcand/oxy v1.4.2
-	github.com/vulcand/predicate v1.2.0
+	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
 	github.com/wavefronthq/wavefront-sdk-go v0.15.0
 	github.com/withlin/canal-go v1.1.2
