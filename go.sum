@@ -976,8 +976,8 @@ github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf/go.mod h1:o0ESU9
 github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e h1:lCsqUUACrcMC83lg5rTo9Y0PnPItE61JSfvMyIcANwk=
 github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e/go.mod h1:Og5/Dz1MiGpCJn51XujZwxiLG7WzvvjE5PRpZBQmAHo=
 github.com/ProtonMail/go-crypto v0.0.0-20230321155629-9a39f2531310/go.mod h1:8TI4H3IbrackdNgv+92dI+rhpCaLqM0IfpgCgenFvRE=
-github.com/ProtonMail/go-crypto v1.1.4 h1:G5U5asvD5N/6/36oIw3k2bOfBn5XVcZrb7PBjzzKKoE=
-github.com/ProtonMail/go-crypto v1.1.4/go.mod h1:rA3QumHc/FZ8pAHreoekgiAbzpNsfQAosU5td4SnOrE=
+github.com/ProtonMail/go-crypto v1.1.5 h1:eoAQfK2dwL+tFSFpr7TbOaPNUbPiJj4fLYwwGE1FQO4=
+github.com/ProtonMail/go-crypto v1.1.5/go.mod h1:rA3QumHc/FZ8pAHreoekgiAbzpNsfQAosU5td4SnOrE=
 github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f h1:tCbYj7/299ekTTXpdwKYF8eBlsYsDVoggDAuAjoK66k=
 github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f/go.mod h1:gcr0kNtGBqin9zDW9GOHcVntrwnjrK+qdJ06mWYBybw=
 github.com/ProtonMail/go-srp v0.0.7 h1:Sos3Qk+th4tQR64vsxGIxYpN3rdnG9Wf9K4ZloC1JrI=
@@ -1374,8 +1374,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodb v1.5.0/go.mod h1:XY5YhCS9SLul3JSQ0
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2 h1:XcdIh35yg1J8bAiUOLtL/PoPMSGsD72Zanwmim8jEXc=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2/go.mod h1:516U/KQM3zdcahNBjHUZKGWNfNnIYyt7sxLeqOx78b0=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.4.0/go.mod h1:bYsEP8w5YnbYyrx/Zi5hy4hTwRRQISSJS3RWrsGRijg=
-github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12 h1:/EeYqntHifxLw+uNaUTH/D099gCuy/TDDgLT3vNTLcM=
-github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12/go.mod h1:OcxFxP9wI2ye9HwlxawIcZ3DX0bHM196fjH3HNsoF5s=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.13 h1:K9qbm/WkNrfq0xFE9elFL9aowep+77Nj33u2kZmCVsg=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.13/go.mod h1:OcxFxP9wI2ye9HwlxawIcZ3DX0bHM196fjH3HNsoF5s=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.0 h1:5kOeqHgn9ku+gnk+tbCRyVDni9irMwjUf5kcv+/HXQU=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.0/go.mod h1:WAFpTnWeO2BNfwpQ8LTTTx9l9/bTztMPrA8gkh41PvI=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.3.0/go.mod h1:v8ygadNyATSm6elwJ/4gzJwcFhri9RqS8skgHKiwXPU=
@@ -1397,8 +1397,8 @@ github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.10 h1:czb9oIQ2irc121kiuW0kt/8
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.10/go.mod h1:3lVA1gq/xCUFFJQ2IP3fLzSGOH6Gwv8qJCoX/DTWZuw=
 github.com/aws/aws-sdk-go-v2/service/kms v1.37.10 h1:nqYgJ+twjn6hrhTS97j3tlpNXrw4E9N2zQBgw2FAQMg=
 github.com/aws/aws-sdk-go-v2/service/kms v1.37.10/go.mod h1:wHYtyttsH+A6d2MzXYl8cIf4O2Kw1Kg0qzromSX/wOs=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.72.2 h1:a7aQ3RW+ug4IbhoQp29NZdc7vqrzKZZfWZSaQAXOZvQ=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.72.2/go.mod h1:xMekrnhmJ5aqmyxtmALs7mlvXw5xRh+eYjOjvrIIFJ4=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3 h1:WZOmJfCDV+4tYacLxpiojoAdT5sxTfB3nTqQNtZu+J4=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3/go.mod h1:xMekrnhmJ5aqmyxtmALs7mlvXw5xRh+eYjOjvrIIFJ4=
 github.com/aws/aws-sdk-go-v2/service/sso v1.3.3/go.mod h1:Jgw5O+SK7MZ2Yi9Yvzb4PggAPYaFSliiQuWR0hNjexk=
 github.com/aws/aws-sdk-go-v2/service/sso v1.12.10/go.mod h1:ouy2P4z6sJN70fR3ka3wD3Ro3KezSxU6eKGQI2+2fjI=
 github.com/aws/aws-sdk-go-v2/service/sso v1.24.9 h1:YqtxripbjWb2QLyzRK9pByfEDvgg95gpC2AyDq4hFE8=
@@ -6584,8 +6584,8 @@ google.golang.org/protobuf v1.28.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqw
 google.golang.org/protobuf v1.28.1/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.29.1/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.30.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
-google.golang.org/protobuf v1.36.2 h1:R8FeyR1/eLmkutZOM5CWghmo5itiG9z0ktFlTVLuTmU=
-google.golang.org/protobuf v1.36.2/go.mod h1:9fA7Ob0pmnwhb644+1+CVWFRbNajQ6iRojtC/QF5bRE=
+google.golang.org/protobuf v1.36.3 h1:82DV7MYdb8anAVi3qge1wSnMDrnKK7ebr+I0hHRN1BU=
+google.golang.org/protobuf v1.36.3/go.mod h1:9fA7Ob0pmnwhb644+1+CVWFRbNajQ6iRojtC/QF5bRE=
 gopkg.in/AlecAivazis/survey.v1 v1.8.8 h1:5UtTowJZTz1j7NxVzDGKTz6Lm9IWm8DDF6b7a2wq9VY=
 gopkg.in/AlecAivazis/survey.v1 v1.8.8/go.mod h1:CaHjv79TCgAvXMSFJSVgonHXYWxnhzI3eoHtnX5UgUo=
 gopkg.in/alecthomas/kingpin.v2 v2.2.6/go.mod h1:FMv+mEhP44yOT+4EoQTLFTRgOQ1FBLkstjWtayDeSgw=

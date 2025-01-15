@@ -131,7 +131,7 @@ require (
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
-	github.com/ProtonMail/go-crypto v1.1.4
+	github.com/ProtonMail/go-crypto v1.1.5
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
 	github.com/ProtonMail/gopenpgp/v2 v2.8.2
@@ -238,11 +238,11 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.3
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.9
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.12
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.13
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.10
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.10
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.2
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.9
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.8
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.6
@@ -1515,7 +1515,7 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241223144023-3abc09e42ca8
 	google.golang.org/grpc v1.68.1
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20240907200651-3ffb98b2c93a
-	google.golang.org/protobuf v1.36.2
+	google.golang.org/protobuf v1.36.3
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
