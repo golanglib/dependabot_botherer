@@ -225,7 +225,7 @@ require (
 	github.com/awnumar/memcall v0.4.0
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
-	github.com/aws/aws-sdk-go v1.55.5
+	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.33.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.29.0
@@ -1542,7 +1542,7 @@ require (
 	honnef.co/go/tools v0.5.1
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.1
-	k8s.io/apiextensions-apiserver v0.32.0
+	k8s.io/apiextensions-apiserver v0.32.1
 	k8s.io/apimachinery v0.32.1
 	k8s.io/apiserver v0.32.1
 	k8s.io/client-go v0.32.1
