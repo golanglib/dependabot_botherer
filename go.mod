@@ -1381,7 +1381,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.47.1
-	github.com/volcengine/volc-sdk-golang v1.0.192
+	github.com/volcengine/volc-sdk-golang v1.0.193
 	github.com/volcengine/volcengine-go-sdk v1.0.178
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
