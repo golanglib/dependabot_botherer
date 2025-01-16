@@ -20,7 +20,6 @@ import (
 	_ "cloud.google.com/go/longrunning"
 	_ "cloud.google.com/go/monitoring/apiv3"
 	_ "cloud.google.com/go/pubsub"
-	_ "cloud.google.com/go/storage"
 	_ "cloud.google.com/go/trace/apiv1"
 	_ "code.gitea.io/actions-proto-go/ping/v1"
 	_ "code.gitea.io/sdk/gitea"

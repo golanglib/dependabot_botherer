@@ -24,7 +24,6 @@ require (
 	cloud.google.com/go/longrunning v0.6.4
 	cloud.google.com/go/monitoring v1.22.1
 	cloud.google.com/go/pubsub v1.45.3
-	cloud.google.com/go/storage v1.50.0
 	cloud.google.com/go/trace v1.11.3
 	code.gitea.io/actions-proto-go v0.4.0
 	code.gitea.io/sdk/gitea v0.20.0
@@ -1612,6 +1611,7 @@ require (
 
 require (
 	cloud.google.com/go/spanner v1.73.0 // indirect
+	cloud.google.com/go/storage v1.50.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
