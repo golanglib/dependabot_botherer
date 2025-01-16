@@ -64,8 +64,8 @@ require (
 	github.com/Azure/azure-kusto-go v0.16.1
 	github.com/Azure/azure-pipeline-go v0.2.3
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.17.0
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.8.0
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity/cache v0.3.1
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.8.1
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity/cache v0.3.2
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute v1.0.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute/v5 v5.7.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/managementgroups/armmanagementgroups v1.2.0
@@ -230,22 +230,22 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.29.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.53
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.26
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.27
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.24
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.49
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.7
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.4
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.5
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.9
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.3
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.14
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.1
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.11
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.12
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.12
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.10
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.9
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.8
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.10
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.11
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -454,7 +454,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.5.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
-	github.com/digitalocean/godo v1.133.0
+	github.com/digitalocean/godo v1.134.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -630,7 +630,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.4
-	github.com/goccy/go-yaml v1.15.13
+	github.com/goccy/go-yaml v1.15.14
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -646,7 +646,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.3.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.140.2
+	github.com/gohugoio/hugo v0.141.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.2.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -680,7 +680,7 @@ require (
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-configfs-tsm v0.3.2
-	github.com/google/go-containerregistry v0.20.2
+	github.com/google/go-containerregistry v0.20.3
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/go-github/v45 v45.2.0
@@ -772,7 +772,7 @@ require (
 	github.com/hashicorp/go-rootcerts v1.0.2
 	github.com/hashicorp/go-safetemp v1.0.0
 	github.com/hashicorp/go-secure-stdlib/awsutil v0.3.0
-	github.com/hashicorp/go-secure-stdlib/parseutil v0.1.8
+	github.com/hashicorp/go-secure-stdlib/parseutil v0.1.9
 	github.com/hashicorp/go-secure-stdlib/strutil v0.1.2
 	github.com/hashicorp/go-sockaddr v1.0.7
 	github.com/hashicorp/go-uuid v1.0.3
@@ -912,7 +912,7 @@ require (
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
 	github.com/larksuite/oapi-sdk-go v1.1.48
-	github.com/larksuite/oapi-sdk-go/v3 v3.4.6
+	github.com/larksuite/oapi-sdk-go/v3 v3.4.7
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.0
 	github.com/ldez/tagliatelle v0.7.1
@@ -1546,14 +1546,14 @@ require (
 	k8s.io/apimachinery v0.32.1
 	k8s.io/apiserver v0.32.0
 	k8s.io/client-go v0.32.1
-	k8s.io/code-generator v0.32.0
+	k8s.io/code-generator v0.32.1
 	k8s.io/component-base v0.32.1
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
 	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
-	libvirt.org/go/libvirtxml v1.10010.0
+	libvirt.org/go/libvirtxml v1.11000.0
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
@@ -1574,7 +1574,7 @@ require (
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.34.4
+	modernc.org/sqlite v1.34.5
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
@@ -1587,7 +1587,7 @@ require (
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
-	sigs.k8s.io/controller-runtime v0.19.4
+	sigs.k8s.io/controller-runtime v0.20.0
 	sigs.k8s.io/controller-tools v0.17.1
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.19.0
@@ -1648,7 +1648,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.27 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.8 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.8 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.8 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
@@ -1670,9 +1670,9 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v27.4.1+incompatible // indirect
+	github.com/docker/cli v27.5.0+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v27.4.1+incompatible // indirect
+	github.com/docker/docker v27.5.0+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
