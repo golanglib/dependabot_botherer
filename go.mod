@@ -232,7 +232,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.53
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.27
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.24
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.49
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.50
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.7
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.5
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.9
@@ -241,11 +241,11 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.2
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.12
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.12
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.73.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.10
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.9
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.8
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.10
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.11
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -1381,7 +1381,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.47.1
-	github.com/volcengine/volc-sdk-golang v1.0.192
+	github.com/volcengine/volc-sdk-golang v1.0.193
 	github.com/volcengine/volcengine-go-sdk v1.0.178
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
@@ -1645,12 +1645,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.28 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.28 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.27 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.28 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.8 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.9 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.8 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.9 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
