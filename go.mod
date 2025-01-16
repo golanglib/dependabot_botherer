@@ -228,10 +228,10 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/aws/aws-sdk-go-v2 v1.33.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
-	github.com/aws/aws-sdk-go-v2/config v1.28.11
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.52
+	github.com/aws/aws-sdk-go-v2/config v1.29.0
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.53
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.26
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.23
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.24
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.49
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.7
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.4
@@ -242,9 +242,9 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.11
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.12
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.72.3
-	github.com/aws/aws-sdk-go-v2/service/sso v1.24.9
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.8
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.7
+	github.com/aws/aws-sdk-go-v2/service/sso v1.24.10
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.9
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.8
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.10
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -1541,13 +1541,13 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.5.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.32.0
+	k8s.io/api v0.32.1
 	k8s.io/apiextensions-apiserver v0.32.0
-	k8s.io/apimachinery v0.32.0
+	k8s.io/apimachinery v0.32.1
 	k8s.io/apiserver v0.32.0
-	k8s.io/client-go v0.32.0
+	k8s.io/client-go v0.32.1
 	k8s.io/code-generator v0.32.0
-	k8s.io/component-base v0.32.0
+	k8s.io/component-base v0.32.1
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
@@ -1649,7 +1649,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.4.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.8 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.8 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.8 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
