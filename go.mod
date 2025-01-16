@@ -245,7 +245,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.10
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.9
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.8
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.10
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.11
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -1381,7 +1381,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.47.1
-	github.com/volcengine/volc-sdk-golang v1.0.192
+	github.com/volcengine/volc-sdk-golang v1.0.193
 	github.com/volcengine/volcengine-go-sdk v1.0.178
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
@@ -1546,7 +1546,7 @@ require (
 	k8s.io/apimachinery v0.32.1
 	k8s.io/apiserver v0.32.0
 	k8s.io/client-go v0.32.1
-	k8s.io/code-generator v0.32.0
+	k8s.io/code-generator v0.32.1
 	k8s.io/component-base v0.32.1
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
