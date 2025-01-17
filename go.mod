@@ -914,7 +914,7 @@ require (
 	github.com/larksuite/oapi-sdk-go v1.1.48
 	github.com/larksuite/oapi-sdk-go/v3 v3.4.7
 	github.com/lasiar/canonicalheader v1.1.2
-	github.com/ldez/gomoddirectives v0.6.0
+	github.com/ldez/gomoddirectives v0.6.1
 	github.com/ldez/tagliatelle v0.7.1
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
@@ -1719,7 +1719,7 @@ require (
 	github.com/knz/go-libedit v1.10.1 // indirect
 	github.com/koron-go/gqlcost v0.2.2 // indirect
 	github.com/ldez/exptostd v0.3.1 // indirect
-	github.com/ldez/grignotin v0.7.0 // indirect
+	github.com/ldez/grignotin v0.9.0 // indirect
 	github.com/ldez/usetesting v0.4.2 // indirect
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
