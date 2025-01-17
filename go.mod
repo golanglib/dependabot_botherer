@@ -99,7 +99,7 @@ require (
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
 	github.com/CloudyKit/jet/v6 v6.2.0
 	github.com/Code-Hex/go-generics-cache v1.5.1
-	github.com/Crocmagnon/fatcontext v0.6.0
+	github.com/Crocmagnon/fatcontext v0.7.1
 	github.com/CycloneDX/cyclonedx-go v0.9.2
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/DataDog/zstd v1.5.6
@@ -241,7 +241,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.2
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.12
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.12
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.73.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.73.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.10
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.9
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.8
@@ -342,7 +342,7 @@ require (
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.9.1
-	github.com/caddyserver/certmagic v0.21.6
+	github.com/caddyserver/certmagic v0.21.7
 	github.com/caddyserver/xcaddy v0.4.4
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
@@ -483,7 +483,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
 	github.com/edsrzf/mmap-go v1.2.0
-	github.com/elazarl/goproxy v1.4.0
+	github.com/elazarl/goproxy v1.5.0
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
@@ -630,7 +630,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.4
-	github.com/goccy/go-yaml v1.15.14
+	github.com/goccy/go-yaml v1.15.15
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -914,7 +914,7 @@ require (
 	github.com/larksuite/oapi-sdk-go v1.1.48
 	github.com/larksuite/oapi-sdk-go/v3 v3.4.7
 	github.com/lasiar/canonicalheader v1.1.2
-	github.com/ldez/gomoddirectives v0.6.0
+	github.com/ldez/gomoddirectives v0.6.1
 	github.com/ldez/tagliatelle v0.7.1
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
@@ -1152,7 +1152,7 @@ require (
 	github.com/prometheus-community/pro-bing v0.5.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/client_model v0.6.1
-	github.com/prometheus/common v0.61.0
+	github.com/prometheus/common v0.62.0
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.15.1
 	github.com/prometheus/prom2json v1.4.1
@@ -1162,7 +1162,7 @@ require (
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
 	github.com/puzpuzpuz/xsync/v3 v3.4.0
-	github.com/qiniu/go-sdk/v7 v7.25.1
+	github.com/qiniu/go-sdk/v7 v7.25.2
 	github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/quasilyte/go-ruleguard/rules v0.0.0-20211022131956-028d6511ab71
@@ -1426,7 +1426,7 @@ require (
 	github.com/zerobounce/zerobouncego v1.1.0
 	github.com/zitadel/logging v0.6.1
 	github.com/zitadel/oidc/v2 v2.12.2
-	github.com/zitadel/oidc/v3 v3.34.0
+	github.com/zitadel/oidc/v3 v3.34.1
 	github.com/zitadel/schema v1.3.0
 	gitlab.com/bosi/decorder v0.4.2
 	gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7
@@ -1462,11 +1462,11 @@ require (
 	go.opentelemetry.io/contrib/propagators/b3 v1.33.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.33.0
 	go.opentelemetry.io/contrib/propagators/ot v1.33.0
-	go.opentelemetry.io/otel v1.33.0
-	go.opentelemetry.io/otel/metric v1.33.0
+	go.opentelemetry.io/otel v1.34.0
+	go.opentelemetry.io/otel/metric v1.34.0
 	go.opentelemetry.io/otel/sdk v1.33.0
 	go.opentelemetry.io/otel/sdk/metric v1.33.0
-	go.opentelemetry.io/otel/trace v1.33.0
+	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.4.0
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
 	go.step.sm/crypto v0.55.0
@@ -1496,7 +1496,7 @@ require (
 	golang.org/x/sync v0.10.0
 	golang.org/x/sys v0.29.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
-	golang.org/x/telemetry/config v0.36.0
+	golang.org/x/telemetry/config v0.37.0
 	golang.org/x/term v0.28.0
 	golang.org/x/text v0.21.0
 	golang.org/x/time v0.9.0
@@ -1553,7 +1553,7 @@ require (
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
 	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
-	libvirt.org/go/libvirtxml v1.11000.0
+	libvirt.org/go/libvirtxml v1.11000.1
 	lukechampine.com/blake3 v1.3.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
@@ -1647,7 +1647,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.28 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.9 // indirect
@@ -1719,7 +1719,7 @@ require (
 	github.com/knz/go-libedit v1.10.1 // indirect
 	github.com/koron-go/gqlcost v0.2.2 // indirect
 	github.com/ldez/exptostd v0.3.1 // indirect
-	github.com/ldez/grignotin v0.7.0 // indirect
+	github.com/ldez/grignotin v0.9.0 // indirect
 	github.com/ldez/usetesting v0.4.2 // indirect
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
@@ -1728,7 +1728,7 @@ require (
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
-	github.com/mholt/acmez/v3 v3.0.0 // indirect
+	github.com/mholt/acmez/v3 v3.0.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/mmcloughlin/avo v0.6.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
