@@ -385,7 +385,7 @@ require (
 	github.com/cloudflare/cfssl v1.6.5
 	github.com/cloudflare/circl v1.5.0
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
-	github.com/cloudwego/base64x v0.1.4
+	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.0
 	github.com/cloudwego/fastpb v0.0.5
