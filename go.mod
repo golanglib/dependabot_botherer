@@ -241,10 +241,10 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.199.2
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.12
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.13
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.73.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.73.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.10
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.9
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.8
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.9
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.12
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -998,7 +998,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.83
+	github.com/minio/minio-go/v7 v7.0.84
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1455,12 +1455,12 @@ require (
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib v1.34.0
-	go.opentelemetry.io/contrib/detectors/gcp v1.33.0
+	go.opentelemetry.io/contrib/detectors/gcp v1.34.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.58.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.58.0
-	go.opentelemetry.io/contrib/propagators/aws v1.33.0
+	go.opentelemetry.io/contrib/propagators/aws v1.34.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.34.0
-	go.opentelemetry.io/contrib/propagators/jaeger v1.33.0
+	go.opentelemetry.io/contrib/propagators/jaeger v1.34.0
 	go.opentelemetry.io/contrib/propagators/ot v1.34.0
 	go.opentelemetry.io/otel v1.34.0
 	go.opentelemetry.io/otel/metric v1.34.0
@@ -1647,7 +1647,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.28 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.9 // indirect
