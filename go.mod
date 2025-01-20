@@ -151,7 +151,7 @@ require (
 	github.com/agext/levenshtein v1.2.3
 	github.com/agiledragon/gomonkey/v2 v2.12.0
 	github.com/agnivade/levenshtein v1.2.0
-	github.com/air-verse/air v1.61.5
+	github.com/air-verse/air v1.61.7
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0
 	github.com/akavel/rsrc v0.10.2
 	github.com/alecthomas/assert v1.0.0
@@ -234,7 +234,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.24
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.51
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.8
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.5
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.6
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.10
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.14
@@ -245,7 +245,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.10
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.9
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.8
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.11
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.12
 	github.com/aws/smithy-go v1.22.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -668,7 +668,7 @@ require (
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
 	github.com/golangci/plugin-module-register v0.1.1
-	github.com/golangci/revgrep v0.6.0
+	github.com/golangci/revgrep v0.7.0
 	github.com/golangci/unconvert v0.0.0-20240309020433-c5143eacb3ed
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
@@ -1161,7 +1161,7 @@ require (
 	github.com/putdotio/go-putio v1.7.2
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
-	github.com/puzpuzpuz/xsync/v3 v3.4.0
+	github.com/puzpuzpuz/xsync/v3 v3.4.1
 	github.com/qiniu/go-sdk/v7 v7.25.2
 	github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
@@ -1369,9 +1369,9 @@ require (
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
-	github.com/vbatts/tar-split v0.11.6
+	github.com/vbatts/tar-split v0.11.7
 	github.com/vektah/gqlparser/v2 v2.5.21
-	github.com/vektra/mockery/v2 v2.51.0
+	github.com/vektra/mockery/v2 v2.51.1
 	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1461,7 +1461,7 @@ require (
 	go.opentelemetry.io/contrib/propagators/aws v1.33.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.33.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.33.0
-	go.opentelemetry.io/contrib/propagators/ot v1.33.0
+	go.opentelemetry.io/contrib/propagators/ot v1.34.0
 	go.opentelemetry.io/otel v1.34.0
 	go.opentelemetry.io/otel/metric v1.34.0
 	go.opentelemetry.io/otel/sdk v1.34.0
