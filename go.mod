@@ -605,7 +605,7 @@ require (
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.16.3
+	github.com/go-resty/resty/v2 v2.16.4
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
@@ -786,7 +786,7 @@ require (
 	github.com/hashicorp/memberlist v0.5.2
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
 	github.com/hashicorp/serf v0.10.2
-	github.com/hashicorp/terraform-exec v0.21.0
+	github.com/hashicorp/terraform-exec v0.22.0
 	github.com/hashicorp/terraform-json v0.24.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
@@ -1138,7 +1138,7 @@ require (
 	github.com/pion/udp v0.1.4
 	github.com/pion/webrtc/v3 v3.3.5
 	github.com/pires/go-proxyproto v0.8.0
-	github.com/pjbgf/sha1cd v0.3.1
+	github.com/pjbgf/sha1cd v0.3.2
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/sftp v1.13.7
 	github.com/pkg/xattr v0.4.10
@@ -1149,7 +1149,7 @@ require (
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.24.1
-	github.com/prometheus-community/pro-bing v0.5.0
+	github.com/prometheus-community/pro-bing v0.6.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.62.0
@@ -1730,7 +1730,6 @@ require (
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.0.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
-	github.com/mmcloughlin/avo v0.6.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 // indirect
