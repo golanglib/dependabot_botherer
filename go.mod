@@ -76,7 +76,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.5.0
-	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.4.0
+	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
 	github.com/Azure/go-amqp v1.3.0
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c
@@ -494,7 +494,7 @@ require (
 	github.com/emicklei/go-restful/v3 v3.12.1
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane/contrib v1.32.3
-	github.com/envoyproxy/protoc-gen-validate v1.1.0
+	github.com/envoyproxy/protoc-gen-validate v1.2.1
 	github.com/ericlagergren/aegis v0.0.0-20230312195928-b4ce538b56f9
 	github.com/ericlagergren/polyval v0.0.0-20230805202542-18692a1b76f9
 	github.com/ericlagergren/saferand v0.0.0-20220206064634-960a4dd2bc5c
@@ -566,7 +566,7 @@ require (
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
 	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
-	github.com/go-git/go-git/v5 v5.13.1
+	github.com/go-git/go-git/v5 v5.13.2
 	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/go-jose/go-jose/v4 v4.0.4
 	github.com/go-kit/kit v0.13.0
@@ -1382,7 +1382,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.47.1
 	github.com/volcengine/volc-sdk-golang v1.0.193
-	github.com/volcengine/volcengine-go-sdk v1.0.178
+	github.com/volcengine/volcengine-go-sdk v1.0.179
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
