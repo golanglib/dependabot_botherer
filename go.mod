@@ -76,7 +76,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.5.0
-	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.4.0
+	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
 	github.com/Azure/go-amqp v1.3.0
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c
@@ -566,7 +566,7 @@ require (
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
 	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
-	github.com/go-git/go-git/v5 v5.13.1
+	github.com/go-git/go-git/v5 v5.13.2
 	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/go-jose/go-jose/v4 v4.0.4
 	github.com/go-kit/kit v0.13.0
