@@ -796,8 +796,8 @@ github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.1.0 h1:eXnN9
 github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.1.0/go.mod h1:XIpam8wumeZ5rVMuhdDQLMfIPDf1WO3IzrCRO3e3e3o=
 github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.5.0 h1:mlmW46Q0B79I+Aj4azKC6xDMFN9a9SyZWESlGWYXbFs=
 github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.5.0/go.mod h1:PXe2h+LKcWTX9afWdZoHyODqR4fBa5boUM/8uJfZ0Jo=
-github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.4.0 h1:mJVYrRyo7/ISs3MLMHphqssqbS1vLJ3uiwo1+fY8OUQ=
-github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.4.0/go.mod h1:QXy84HaR0FHLPWaGQDBrZZbdCPTshwGl3gQ64uR/Zrc=
+github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0 h1:e9xtx1cr8pQ97G1tKx79ZXrMeZhB17+c4ePwQTE+0tQ=
+github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0/go.mod h1:21flTFA/qiadQXsnwkd2ZpbGG9HJh7pIwuS5or2cJdE=
 github.com/Azure/azure-storage-blob-go v0.0.0-20181023070848-cf01652132cc/go.mod h1:oGfmITT1V6x//CswqY2gtAHND+xIP64/qL7a5QJix0Y=
 github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2 h1:G6pzVaX36QLfGvbLSAt8Leb81MiONYT0L03lhABjrPg=
 github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2/go.mod h1:K6am8mT+5iFXgingS9LUc7TmbsW6XBw3nxaRyaMyWc8=
@@ -2394,8 +2394,8 @@ github.com/go-git/go-billy/v5 v5.6.2 h1:6Q86EsPXMa7c3YZ3aLAQsMA0VlWmy43r6FHqa/UN
 github.com/go-git/go-billy/v5 v5.6.2/go.mod h1:rcFC2rAsp/erv7CMz9GczHcuD0D32fWzH+MJAU+jaUU=
 github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399 h1:eMje31YglSBqCdIqdhKBW8lokaMrL3uTkpGYlE2OOT4=
 github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399/go.mod h1:1OCfN199q1Jm3HZlxleg+Dw/mwps2Wbk9frAWm+4FII=
-github.com/go-git/go-git/v5 v5.13.1 h1:DAQ9APonnlvSWpvolXWIuV6Q6zXy2wHbN4cVlNR5Q+M=
-github.com/go-git/go-git/v5 v5.13.1/go.mod h1:qryJB4cSBoq3FRoBRf5A77joojuBcmPJ0qu3XXXVixc=
+github.com/go-git/go-git/v5 v5.13.2 h1:7O7xvsK7K+rZPKW6AQR1YyNhfywkv7B8/FsP3ki6Zv0=
+github.com/go-git/go-git/v5 v5.13.2/go.mod h1:hWdW5P4YZRjmpGHwRH2v3zkWcNl6HeXaXQEMGb3NJ9A=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20191125211704-12ad95a8df72/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200222043503-6f7a984d4dc4/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
@@ -5210,8 +5210,8 @@ github.com/vmware/govmomi v0.47.1/go.mod h1:bYwUHpGpisE4AOlDl5eph90T+cjJMIcKx/ka
 github.com/volcengine/volc-sdk-golang v1.0.23/go.mod h1:AfG/PZRUkHJ9inETvbjNifTDgut25Wbkm2QoYBTbvyU=
 github.com/volcengine/volc-sdk-golang v1.0.193 h1:mL1rlk+m9SaqF2MSGFWfigEaz10ZVJiYDnFuWfj65Ww=
 github.com/volcengine/volc-sdk-golang v1.0.193/go.mod h1:u0VtPvlXWpXDTmc9IHkaW1q+5Jjwus4oAqRhNMDRInE=
-github.com/volcengine/volcengine-go-sdk v1.0.178 h1:lCu2JuWOoIZAjNfJSBi/KLTWVFdvejLXsBrNE1wgCIU=
-github.com/volcengine/volcengine-go-sdk v1.0.178/go.mod h1:gfEDc1s7SYaGoY+WH2dRrS3qiuDJMkwqyfXWCa7+7oA=
+github.com/volcengine/volcengine-go-sdk v1.0.179 h1:jYVfrw9Fw3I2jQTNogu19gs7TI+3569PLXyiDnYXJOc=
+github.com/volcengine/volcengine-go-sdk v1.0.179/go.mod h1:gfEDc1s7SYaGoY+WH2dRrS3qiuDJMkwqyfXWCa7+7oA=
 github.com/vulcand/oxy v1.4.2 h1:KibUVdKrwy7eXR3uHS2pYoZ9dCzKVcgDNHD2jkPZmxU=
 github.com/vulcand/oxy v1.4.2/go.mod h1:Yq8OBb0XWU/7nPSglwUH5LS2Pcp4yvad8SVayobZbSo=
 github.com/vulcand/predicate v1.3.0 h1:jtNe4PHbLJ649dR7Gl+MSAzUhLGtLspAkWlSjoOiXg8=
