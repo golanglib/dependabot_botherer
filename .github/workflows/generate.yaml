@@ -60,7 +60,7 @@ jobs:
 
       - name: Tidy
         run: |
-          rm -rf /gopath/*
+          sudo rm -rf /gopath/*
           go mod tidy
 
       - name: Commit
