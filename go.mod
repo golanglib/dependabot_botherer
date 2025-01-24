@@ -24,6 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.4
 	cloud.google.com/go/monitoring v1.23.0
 	cloud.google.com/go/pubsub v1.45.3
+	cloud.google.com/go/storage v1.50.0
 	cloud.google.com/go/trace v1.11.3
 	code.gitea.io/actions-proto-go v0.4.0
 	code.gitea.io/sdk/gitea v0.20.0
@@ -388,6 +389,10 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.0
+	github.com/cloudwego/eino v0.3.7
+	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.3
@@ -760,6 +765,7 @@ require (
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
+	github.com/hashicorp/go-getter/gcs/v2 v2.2.3
 	github.com/hashicorp/go-getter/s3/v2 v2.2.3
 	github.com/hashicorp/go-getter/v2 v2.2.3
 	github.com/hashicorp/go-hclog v1.6.3
@@ -1216,6 +1222,8 @@ require (
 	github.com/sagikazarmark/locafero v0.7.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.47.0
+	github.com/samber/slog-betterstack v1.4.2
+	github.com/samber/slog-common v0.18.1
 	github.com/sanity-io/litter v1.5.6
 	github.com/sanposhiho/wastedassign v1.0.0
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
@@ -1365,6 +1373,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
+	github.com/v2fly/v2ray-core/v5 v5.25.1
 	github.com/valyala/fasthttp v1.58.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
@@ -1610,7 +1619,6 @@ require (
 
 require (
 	cloud.google.com/go/spanner v1.73.0 // indirect
-	cloud.google.com/go/storage v1.50.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
@@ -1700,7 +1708,6 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hashicorp/consul/api v1.29.4 // indirect
-	github.com/hashicorp/go-getter/gcs/v2 v2.2.3 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
 	github.com/hashicorp/vault/api v1.15.0 // indirect
 	github.com/hpcloud/tail v1.0.0 // indirect

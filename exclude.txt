@@ -1,8 +1,3 @@
-cloud.google.com/go/storage
-//go: cloud.google.com/go/storage imports
-//	google.golang.org/grpc/stats/opentelemetry: ambiguous import: found package google.golang.org/grpc/stats/opentelemetry in multiple modules:
-//	google.golang.org/grpc v1.69.4 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.4/stats/opentelemetry)
-//	google.golang.org/grpc/stats/opentelemetry v0.0.0-20241028142157-ada6787961b3 (/gopath/pkg/mod/google.golang.org/grpc/stats/opentelemetry@v0.0.0-20241028142157-ada6787961b3)
 code.gitea.io/gitea
 //go: code.gitea.io/gitea@latest (v1.23.1) requires github.com/charmbracelet/git-lfs-transfer@v0.2.0: reading github.com/charmbracelet/git-lfs-transfer/go.mod at revision v0.2.0: unknown revision v0.2.0
 github.com/Azure/azure-sdk-for-go/sdk/internal
@@ -58,7 +53,7 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared
 //[github.com/aws/aws-sdk-go-v2/service/internal/s3shared] module is internal
 github.com/cosmtrek/air
-//go: github.com/cosmtrek/air@latest (v1.61.5) requires github.com/cosmtrek/air@v1.61.5: parsing go.mod:
+//go: github.com/cosmtrek/air@latest (v1.61.7) requires github.com/cosmtrek/air@v1.61.7: parsing go.mod:
 //	module declares its path as: github.com/air-verse/air
 //	        but was required as: github.com/cosmtrek/air
 github.com/davidmz/go-pageant
@@ -163,27 +158,13 @@ github.com/hashicorp/consul
 //go: warning: github.com/hashicorp/go-msgpack@v1.1.5: retracted by module author: v1.1.5 merged upstream ugorji/go which breaks compatibility with previous versions.
 //go: to switch to the latest unretracted version, run:
 //	go get github.com/hashicorp/go-msgpack@latest
-github.com/hashicorp/go-getter/gcs/v2
-//go: github.com/hashicorp/go-getter/gcs/v2 imports
-//	cloud.google.com/go/storage imports
-//	google.golang.org/grpc/stats/opentelemetry: ambiguous import: found package google.golang.org/grpc/stats/opentelemetry in multiple modules:
-//	google.golang.org/grpc v1.69.4 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.4/stats/opentelemetry)
-//	google.golang.org/grpc/stats/opentelemetry v0.0.0-20241028142157-ada6787961b3 (/gopath/pkg/mod/google.golang.org/grpc/stats/opentelemetry@v0.0.0-20241028142157-ada6787961b3)
 github.com/hashicorp/nomad
 //go: github.com/hashicorp/nomad@latest (v1.9.5) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
 //	module declares its path as: github.com/hashicorp/go-metrics
 //	        but was required as: github.com/armon/go-metrics
 github.com/hashicorp/vault
-//go: github.com/hashicorp/vault imports
-//	github.com/hashicorp/vault/command imports
-//	github.com/hashicorp/vault/physical/gcs imports
-//	cloud.google.com/go/storage imports
-//	google.golang.org/grpc/stats/opentelemetry: ambiguous import: found package google.golang.org/grpc/stats/opentelemetry in multiple modules:
-//	google.golang.org/grpc v1.69.4 (/gopath/pkg/mod/google.golang.org/grpc@v1.69.4/stats/opentelemetry)
-//	google.golang.org/grpc/stats/opentelemetry v0.0.0-20241028142157-ada6787961b3 (/gopath/pkg/mod/google.golang.org/grpc/stats/opentelemetry@v0.0.0-20241028142157-ada6787961b3)
-//go: module github.com/Azure/go-autorest/autorest/adal is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
-//go: module github.com/Azure/go-autorest/autorest/azure/auth is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
-//go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
+//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.18.3
+//[github.com/hashicorp/vault] module has replace
 github.com/henrylee2cn/ameda
 //go: github.com/henrylee2cn/ameda@latest (v1.5.3) requires github.com/henrylee2cn/ameda@v1.5.3: parsing go.mod:
 //	module declares its path as: github.com/andeya/ameda
@@ -206,7 +187,7 @@ github.com/junk1tm/musttag
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go
-//go: github.com/lucas-clemente/quic-go@latest (v0.48.2) requires github.com/lucas-clemente/quic-go@v0.48.2: parsing go.mod:
+//go: github.com/lucas-clemente/quic-go@latest (v0.49.0) requires github.com/lucas-clemente/quic-go@v0.49.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/lucas-clemente/quic-go
 github.com/marten-seemann/qpack
@@ -244,7 +225,7 @@ github.com/mozillazg/go-pinyin/cli/pinyin
 github.com/nats-io/nats.go
 //stat github.com/nats-io/nats.go: no such file or directory
 github.com/open-telemetry/opentelemetry-collector-contrib
-//[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.117.0
+//[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.118.0
 //[github.com/open-telemetry/opentelemetry-collector-contrib] module has replace
 github.com/smallstep/go-attestation
 //go: github.com/smallstep/go-attestation@latest (v0.4.3) requires github.com/smallstep/go-attestation@v0.4.3: parsing go.mod:
@@ -254,9 +235,6 @@ github.com/smartystreets/assertions
 //go: github.com/smartystreets/assertions@latest (v1.16.0) requires github.com/smartystreets/assertions@v1.16.0: parsing go.mod:
 //	module declares its path as: github.com/smarty/assertions
 //	        but was required as: github.com/smartystreets/assertions
-github.com/v2fly/v2ray-core/v5
-//[github.com/v2fly/v2ray-core/v5] dir: /gopath/pkg/mod/github.com/v2fly/v2ray-core/v5@v5.24.0
-//[github.com/v2fly/v2ray-core/v5] module has replace
 github.com/xiaokangwang/VSign
 //go: github.com/xiaokangwang/VSign@latest (v0.0.0-20201108000810-e2adc24bf848) requires github.com/xiaokangwang/VSign@v0.0.0-20201108000810-e2adc24bf848: parsing go.mod:
 //	module declares its path as: github.com/v2fly/VSign
