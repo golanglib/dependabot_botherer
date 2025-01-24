@@ -32,8 +32,8 @@ require (
 	connectrpc.com/connect v1.18.1
 	dario.cat/mergo v1.0.1
 	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
-	deps.dev/util/maven v0.0.0-20241010035105-b3ba03369df1
-	deps.dev/util/resolve v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
+	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
 	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.11
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.15
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.200.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.13
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.13
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.74.0
@@ -705,7 +705,7 @@ require (
 	github.com/google/licenseclassifier/v2 v2.0.0
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
-	github.com/google/osv-scanner v1.9.1
+	github.com/google/osv-scanner v1.9.2
 	github.com/google/pprof v0.0.0-20241210010833-40e02aabc2ad
 	github.com/google/s2a-go v0.1.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -991,10 +991,10 @@ require (
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/mholt/caddy-ratelimit v0.1.0
 	github.com/microcosm-cc/bluemonday v1.0.27
-	github.com/micromdm/scep/v2 v2.2.0
+	github.com/micromdm/scep/v2 v2.3.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
 	github.com/microsoft/go-mssqldb v1.8.0
-	github.com/miekg/dns v1.1.62
+	github.com/miekg/dns v1.1.63
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
@@ -1276,7 +1276,7 @@ require (
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
 	github.com/smallstep/pkcs7 v0.1.1
-	github.com/smallstep/scep v0.0.0-20240926084937-8cf1ca453101
+	github.com/smallstep/scep v0.0.0-20241223071629-a37a330173bc
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
