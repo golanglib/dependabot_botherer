@@ -1513,7 +1513,7 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20250102185135-69823020774d
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250122153221-138b5a5a4fd4
 	google.golang.org/grpc v1.70.0
-	google.golang.org/protobuf v1.36.3
+	google.golang.org/protobuf v1.36.4
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
