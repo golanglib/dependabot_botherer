@@ -1510,7 +1510,6 @@ import (
 	_ "google.golang.org/genproto/googleapis/api"
 	_ "google.golang.org/genproto/googleapis/rpc/code"
 	_ "google.golang.org/grpc"
-	_ "google.golang.org/grpc/stats/opentelemetry"
 	_ "google.golang.org/protobuf/cmd/protoc-gen-go/builder_test"
 	_ "gopkg.in/AlecAivazis/survey.v1"
 	_ "gopkg.in/check.v1"
