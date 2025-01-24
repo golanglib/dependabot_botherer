@@ -674,7 +674,7 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.22.1
-	github.com/google/certificate-transparency-go v1.3.0
+	github.com/google/certificate-transparency-go v1.3.1
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
@@ -985,7 +985,7 @@ require (
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
-	github.com/mgechev/revive v1.5.1
+	github.com/mgechev/revive v1.6.0
 	github.com/mholt/acmez v1.2.0
 	github.com/mholt/acmez/v2 v2.0.3
 	github.com/mholt/archiver/v3 v3.5.1
@@ -1046,7 +1046,7 @@ require (
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.3
-	github.com/nats-io/nats-server/v2 v2.10.24
+	github.com/nats-io/nats-server/v2 v2.10.25
 	github.com/nats-io/nkeys v0.4.9
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
@@ -1507,13 +1507,13 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.216.0
+	google.golang.org/api v0.218.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
 	google.golang.org/genproto/googleapis/api v0.0.0-20250115164207-1a7da9e5054f
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250122153221-138b5a5a4fd4
 	google.golang.org/grpc v1.70.0
-	google.golang.org/protobuf v1.36.3
+	google.golang.org/protobuf v1.36.4
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
