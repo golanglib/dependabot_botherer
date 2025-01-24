@@ -32,8 +32,8 @@ require (
 	connectrpc.com/connect v1.18.1
 	dario.cat/mergo v1.0.1
 	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
-	deps.dev/util/maven v0.0.0-20241010035105-b3ba03369df1
-	deps.dev/util/resolve v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
+	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
 	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
@@ -705,7 +705,7 @@ require (
 	github.com/google/licenseclassifier/v2 v2.0.0
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
-	github.com/google/osv-scanner v1.9.1
+	github.com/google/osv-scanner v1.9.2
 	github.com/google/pprof v0.0.0-20241210010833-40e02aabc2ad
 	github.com/google/s2a-go v0.1.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -991,7 +991,7 @@ require (
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/mholt/caddy-ratelimit v0.1.0
 	github.com/microcosm-cc/bluemonday v1.0.27
-	github.com/micromdm/scep/v2 v2.2.0
+	github.com/micromdm/scep/v2 v2.3.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
 	github.com/microsoft/go-mssqldb v1.8.0
 	github.com/miekg/dns v1.1.63
@@ -1276,7 +1276,7 @@ require (
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
 	github.com/smallstep/pkcs7 v0.1.1
-	github.com/smallstep/scep v0.0.0-20240926084937-8cf1ca453101
+	github.com/smallstep/scep v0.0.0-20241223071629-a37a330173bc
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
@@ -1469,7 +1469,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
-	go.step.sm/crypto v0.55.0
+	go.step.sm/crypto v0.57.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.0
@@ -1507,12 +1507,12 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.215.0
+	google.golang.org/api v0.216.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
 	google.golang.org/genproto/googleapis/api v0.0.0-20250102185135-69823020774d
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250102185135-69823020774d
-	google.golang.org/grpc v1.69.2
+	google.golang.org/grpc v1.69.4
 	google.golang.org/protobuf v1.36.3
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
