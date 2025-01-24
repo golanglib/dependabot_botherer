@@ -58,6 +58,11 @@ jobs:
       - name: Generate
         run: scripts/generate.sh
 
+      - name: Tidy
+        run: |
+          rm -rf /gopath/*
+          go mod tidy
+
       - name: Commit
         run: |
           git config user.name 'github-actions[bot]'
