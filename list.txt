@@ -1604,7 +1604,6 @@ google.golang.org/genproto
 google.golang.org/genproto/googleapis/api
 google.golang.org/genproto/googleapis/rpc
 google.golang.org/grpc
-google.golang.org/grpc/stats/opentelemetry
 google.golang.org/protobuf
 gopkg.in/AlecAivazis/survey.v1
 gopkg.in/check.v1
