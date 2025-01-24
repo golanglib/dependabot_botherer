@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.11
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.15
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.200.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.13
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.13
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.74.0
@@ -453,7 +453,7 @@ require (
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/dgraph-io/badger/v4 v4.5.1
 	github.com/dgraph-io/ristretto v1.0.0
-	github.com/digitalocean/go-libvirt v0.0.0-20241112162257-c54891ad610b
+	github.com/digitalocean/go-libvirt v0.0.0-20241216201552-9fbdb61a21af
 	github.com/digitalocean/godo v1.134.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
@@ -819,7 +819,7 @@ require (
 	github.com/influxdata/line-protocol-corpus v0.0.0-20210922080147-aa28ccfb8937
 	github.com/influxdata/line-protocol/v2 v2.2.1
 	github.com/influxdata/tail v1.0.0
-	github.com/insomniacslk/dhcp v0.0.0-20240829085014-a3a4c1f04475
+	github.com/insomniacslk/dhcp v0.0.0-20250109001534-8abf58130905
 	github.com/intel/iaevents v1.1.0
 	github.com/intel/powertelemetry v1.0.2
 	github.com/invopop/yaml v0.3.1
@@ -932,7 +932,7 @@ require (
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
-	github.com/lxc/incus/v6 v6.7.0
+	github.com/lxc/incus/v6 v6.9.0
 	github.com/lyft/protoc-gen-star/v2 v2.0.4-0.20230330145011-496ad1ac90a4
 	github.com/macabu/inamedparam v0.1.3
 	github.com/magefile/mage v1.15.0
@@ -991,10 +991,10 @@ require (
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/mholt/caddy-ratelimit v0.1.0
 	github.com/microcosm-cc/bluemonday v1.0.27
-	github.com/micromdm/scep/v2 v2.2.0
+	github.com/micromdm/scep/v2 v2.3.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
 	github.com/microsoft/go-mssqldb v1.8.0
-	github.com/miekg/dns v1.1.62
+	github.com/miekg/dns v1.1.63
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
@@ -1276,7 +1276,7 @@ require (
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
 	github.com/smallstep/pkcs7 v0.1.1
-	github.com/smallstep/scep v0.0.0-20240926084937-8cf1ca453101
+	github.com/smallstep/scep v0.0.0-20241223071629-a37a330173bc
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
@@ -1468,7 +1468,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.34.0
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.5.0
-	go.starlark.net v0.0.0-20240925182052-1207426daebd
+	go.starlark.net v0.0.0-20241226192728-8dfa5b98479f
 	go.step.sm/crypto v0.57.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
@@ -1485,7 +1485,7 @@ require (
 	golang.org/x/arch v0.13.0
 	golang.org/x/crypto v0.32.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
-	golang.org/x/exp v0.0.0-20241204233417-43b7b7cde48d
+	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/image v0.23.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
@@ -1511,8 +1511,8 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
 	google.golang.org/genproto/googleapis/api v0.0.0-20250102185135-69823020774d
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250102185135-69823020774d
-	google.golang.org/grpc v1.69.4
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250122153221-138b5a5a4fd4
+	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.3
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
@@ -1550,7 +1550,7 @@ require (
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
-	k8s.io/utils v0.0.0-20241104163129-6fe5fd82f078
+	k8s.io/utils v0.0.0-20241210054802-24370beab758
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11000.1
 	lukechampine.com/blake3 v1.3.0
