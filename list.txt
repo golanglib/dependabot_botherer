@@ -405,6 +405,10 @@ github.com/cloudsoda/go-smb2
 github.com/cloudwego/base64x
 github.com/cloudwego/configmanager
 github.com/cloudwego/dynamicgo
+github.com/cloudwego/eino
+github.com/cloudwego/eino-ext/components/model/ark
+github.com/cloudwego/eino-ext/components/model/openai
+github.com/cloudwego/eino-ext/libs/acl/openai
 github.com/cloudwego/fastpb
 github.com/cloudwego/frugal
 github.com/cloudwego/gopkg
@@ -1274,6 +1278,8 @@ github.com/sagernet/wireguard-go
 github.com/sagikazarmark/locafero
 github.com/sagikazarmark/slog-shim
 github.com/samber/lo
+github.com/samber/slog-betterstack
+github.com/samber/slog-common
 github.com/sanity-io/litter
 github.com/sanposhiho/wastedassign
 github.com/sanposhiho/wastedassign/v2
