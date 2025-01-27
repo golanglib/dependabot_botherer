@@ -9,7 +9,7 @@ require (
 	4d63.com/gochecknoglobals v0.2.1
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20241127180247-a33202765966.1
-	cel.dev/expr v0.19.1
+	cel.dev/expr v0.19.2
 	cloud.google.com/go v0.118.0
 	cloud.google.com/go/auth v0.14.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
@@ -228,7 +228,7 @@ require (
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.34.0
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.54
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.28
@@ -236,17 +236,17 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.53
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.9
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.7
-	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.11
+	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.12
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.6
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.15
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.13
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.13
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.74.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.11
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.11
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.9
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.12
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.13
 	github.com/aws/smithy-go v1.22.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -362,7 +362,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
-	github.com/charmbracelet/x/ansi v0.7.0
+	github.com/charmbracelet/x/ansi v0.8.0
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
@@ -1373,7 +1373,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.25.1
+	github.com/v2fly/v2ray-core/v5 v5.26.0
 	github.com/valyala/fasthttp v1.58.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
@@ -1447,13 +1447,13 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.3.11
-	go.etcd.io/etcd/api/v3 v3.5.17
+	go.etcd.io/etcd/api/v3 v3.5.18
 	go.etcd.io/etcd/client/pkg/v3 v3.5.18
-	go.etcd.io/etcd/client/v2 v2.305.17
+	go.etcd.io/etcd/client/v2 v2.305.18
 	go.etcd.io/etcd/client/v3 v3.5.17
 	go.etcd.io/etcd/etcdctl/v3 v3.5.17
 	go.etcd.io/etcd/etcdutl/v3 v3.5.17
-	go.etcd.io/etcd/pkg/v3 v3.5.17
+	go.etcd.io/etcd/pkg/v3 v3.5.18
 	go.etcd.io/etcd/raft/v3 v3.5.18
 	go.etcd.io/etcd/server/v3 v3.5.17
 	go.etcd.io/etcd/tests/v3 v3.5.17
