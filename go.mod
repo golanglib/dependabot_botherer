@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.2.1
 	4d63.com/gochecknoglobals v0.2.1
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.3-20241127180247-a33202765966.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20241127180247-a33202765966.1
 	cel.dev/expr v0.19.1
 	cloud.google.com/go v0.118.0
 	cloud.google.com/go/auth v0.14.0
@@ -227,7 +227,7 @@ require (
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.6
-	github.com/aws/aws-sdk-go-v2 v1.33.0
+	github.com/aws/aws-sdk-go-v2 v1.34.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
 	github.com/aws/aws-sdk-go-v2/config v1.29.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.54
@@ -237,14 +237,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.9
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.7
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.11
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.5
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.6
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.15
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.13
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.13
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.74.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.11
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.10
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.11
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.9
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.12
 	github.com/aws/smithy-go v1.22.2
@@ -311,7 +311,7 @@ require (
 	github.com/blues/jsonata-go v1.5.4
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/bmatcuk/doublestar/v3 v3.0.0
-	github.com/bmatcuk/doublestar/v4 v4.8.0
+	github.com/bmatcuk/doublestar/v4 v4.8.1
 	github.com/boj/redistore v1.3.0
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
@@ -389,7 +389,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.0
-	github.com/cloudwego/eino v0.3.7
+	github.com/cloudwego/eino v0.3.8
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
@@ -536,7 +536,7 @@ require (
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.128.0
 	github.com/ghostiam/protogetter v0.3.9
-	github.com/gin-contrib/gzip v1.2.0
+	github.com/gin-contrib/gzip v1.2.2
 	github.com/gin-contrib/sessions v1.0.2
 	github.com/gin-contrib/sse v1.0.0
 	github.com/gin-contrib/timeout v1.0.2
@@ -678,7 +678,7 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.22.1
+	github.com/google/cel-go v0.23.0
 	github.com/google/certificate-transparency-go v1.3.1
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
@@ -1126,7 +1126,7 @@ require (
 	github.com/pion/ice v0.7.18
 	github.com/pion/ice/v2 v2.3.37
 	github.com/pion/interceptor v0.1.37
-	github.com/pion/logging v0.2.2
+	github.com/pion/logging v0.2.3
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
@@ -1167,7 +1167,7 @@ require (
 	github.com/putdotio/go-putio v1.7.2
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
-	github.com/puzpuzpuz/xsync/v3 v3.4.1
+	github.com/puzpuzpuz/xsync/v3 v3.5.0
 	github.com/qiniu/go-sdk/v7 v7.25.2
 	github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
@@ -1448,13 +1448,13 @@ require (
 	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.3.11
 	go.etcd.io/etcd/api/v3 v3.5.17
-	go.etcd.io/etcd/client/pkg/v3 v3.5.17
+	go.etcd.io/etcd/client/pkg/v3 v3.5.18
 	go.etcd.io/etcd/client/v2 v2.305.17
 	go.etcd.io/etcd/client/v3 v3.5.17
 	go.etcd.io/etcd/etcdctl/v3 v3.5.17
 	go.etcd.io/etcd/etcdutl/v3 v3.5.17
 	go.etcd.io/etcd/pkg/v3 v3.5.17
-	go.etcd.io/etcd/raft/v3 v3.5.17
+	go.etcd.io/etcd/raft/v3 v3.5.18
 	go.etcd.io/etcd/server/v3 v3.5.17
 	go.etcd.io/etcd/tests/v3 v3.5.17
 	go.etcd.io/etcd/v3 v3.5.17
@@ -1567,11 +1567,11 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.14
+	modernc.org/ccgo/v4 v4.23.15
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
-	modernc.org/gc/v2 v2.6.2
+	modernc.org/gc/v2 v2.6.3
 	modernc.org/gc/v3 v3.0.0-20241004144649-1aea3fae8852
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
@@ -1649,13 +1649,13 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.28 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.28 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.29 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.29 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.1 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.28 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.9 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.10 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.9 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
