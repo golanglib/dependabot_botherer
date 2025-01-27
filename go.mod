@@ -110,7 +110,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.25.0
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.49.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.50.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
 	github.com/IBM/sarama v1.45.0
@@ -1518,7 +1518,7 @@ require (
 	gonum.org/v1/gonum v0.15.1
 	google.golang.org/api v0.218.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697
+	google.golang.org/genproto v0.0.0-20250106144421-5f5ef82da422
 	google.golang.org/genproto/googleapis/api v0.0.0-20250115164207-1a7da9e5054f
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250122153221-138b5a5a4fd4
 	google.golang.org/grpc v1.70.0
@@ -1630,7 +1630,7 @@ require (
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
 	github.com/GoogleCloudPlatform/grpc-gcp-go/grpcgcp v1.5.0 // indirect
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.49.0 // indirect
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.50.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
 	github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
