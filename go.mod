@@ -228,7 +228,7 @@ require (
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.34.0
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.7
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.54
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.28
@@ -240,7 +240,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.6
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.15
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.13
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.13
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.74.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.11
