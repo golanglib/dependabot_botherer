@@ -9,7 +9,7 @@ require (
 	4d63.com/gochecknoglobals v0.2.1
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20241127180247-a33202765966.1
-	cel.dev/expr v0.19.1
+	cel.dev/expr v0.19.2
 	cloud.google.com/go v0.118.0
 	cloud.google.com/go/auth v0.14.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
@@ -109,7 +109,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct v1.0.0
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.0
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.25.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.26.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.50.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
@@ -231,17 +231,17 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.54
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.28
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.16.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.25
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.53
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.9
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.7
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.8
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.12
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.6
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.15
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.16
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14
-	github.com/aws/aws-sdk-go-v2/service/kms v1.37.13
+	github.com/aws/aws-sdk-go-v2/service/kms v1.37.14
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.74.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.11
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.11
@@ -1450,12 +1450,12 @@ require (
 	go.etcd.io/etcd/api/v3 v3.5.18
 	go.etcd.io/etcd/client/pkg/v3 v3.5.18
 	go.etcd.io/etcd/client/v2 v2.305.18
-	go.etcd.io/etcd/client/v3 v3.5.17
+	go.etcd.io/etcd/client/v3 v3.5.18
 	go.etcd.io/etcd/etcdctl/v3 v3.5.17
-	go.etcd.io/etcd/etcdutl/v3 v3.5.17
+	go.etcd.io/etcd/etcdutl/v3 v3.5.18
 	go.etcd.io/etcd/pkg/v3 v3.5.18
 	go.etcd.io/etcd/raft/v3 v3.5.18
-	go.etcd.io/etcd/server/v3 v3.5.17
+	go.etcd.io/etcd/server/v3 v3.5.18
 	go.etcd.io/etcd/tests/v3 v3.5.17
 	go.etcd.io/etcd/v3 v3.5.17
 	go.etcd.io/gofail v0.2.0
