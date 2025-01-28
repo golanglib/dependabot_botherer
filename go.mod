@@ -459,7 +459,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.5.1
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241216201552-9fbdb61a21af
-	github.com/digitalocean/godo v1.134.0
+	github.com/digitalocean/godo v1.135.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -510,7 +510,7 @@ require (
 	github.com/esimonov/ifshort v1.0.4
 	github.com/ethantkoenig/rupture v1.0.1
 	github.com/ettle/strcase v0.2.0
-	github.com/evanphx/json-patch v5.9.0+incompatible
+	github.com/evanphx/json-patch v5.9.10+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.10
 	github.com/evanw/esbuild v0.24.2
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
@@ -634,7 +634,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
-	github.com/goccy/go-json v0.10.4
+	github.com/goccy/go-json v0.10.5
 	github.com/goccy/go-yaml v1.15.15
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
@@ -1096,7 +1096,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.81.3
+	github.com/oracle/oci-go-sdk/v65 v65.82.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.1
