@@ -49,7 +49,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.4.1
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.63
+	github.com/99designs/gqlgen v0.17.64
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -141,7 +141,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.2
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.12.10
+	github.com/SAP/go-hdb v1.12.11
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -151,7 +151,7 @@ require (
 	github.com/aerospike/aerospike-client-go/v5 v5.11.0
 	github.com/agext/levenshtein v1.2.3
 	github.com/agiledragon/gomonkey/v2 v2.12.0
-	github.com/agnivade/levenshtein v1.2.0
+	github.com/agnivade/levenshtein v1.2.1
 	github.com/air-verse/air v1.61.7
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0
 	github.com/akavel/rsrc v0.10.2
@@ -375,7 +375,7 @@ require (
 	github.com/chzyer/logex v1.2.1
 	github.com/chzyer/readline v1.5.1
 	github.com/chzyer/test v1.0.0
-	github.com/cilium/ebpf v0.17.1
+	github.com/cilium/ebpf v0.17.2
 	github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df
 	github.com/ckaznocha/intrange v0.3.0
 	github.com/clarify/clarify-go v0.3.1
@@ -441,7 +441,7 @@ require (
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.3.0
-	github.com/cyphar/filepath-securejoin v0.4.0
+	github.com/cyphar/filepath-securejoin v0.4.1
 	github.com/daixiang0/gci v0.13.5
 	github.com/danielgtaylor/huma v1.14.3
 	github.com/danieljoos/wincred v1.2.2
@@ -511,7 +511,7 @@ require (
 	github.com/ethantkoenig/rupture v1.0.1
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.0+incompatible
-	github.com/evanphx/json-patch/v5 v5.9.0
+	github.com/evanphx/json-patch/v5 v5.9.10
 	github.com/evanw/esbuild v0.24.2
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
 	github.com/fatih/color v1.18.0
@@ -634,7 +634,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
-	github.com/goccy/go-json v0.10.4
+	github.com/goccy/go-json v0.10.5
 	github.com/goccy/go-yaml v1.15.15
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
@@ -789,7 +789,7 @@ require (
 	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/hashicorp/logutils v1.0.0
-	github.com/hashicorp/memberlist v0.5.2
+	github.com/hashicorp/memberlist v0.5.3
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
 	github.com/hashicorp/serf v0.10.2
 	github.com/hashicorp/terraform-exec v0.22.0
@@ -1221,7 +1221,7 @@ require (
 	github.com/sagernet/wireguard-go v0.0.1-beta.5
 	github.com/sagikazarmark/locafero v0.7.0
 	github.com/sagikazarmark/slog-shim v0.1.0
-	github.com/samber/lo v1.49.0
+	github.com/samber/lo v1.49.1
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
 	github.com/sanity-io/litter v1.5.6
@@ -1379,7 +1379,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.7
-	github.com/vektah/gqlparser/v2 v2.5.21
+	github.com/vektah/gqlparser/v2 v2.5.22
 	github.com/vektra/mockery/v2 v2.51.1
 	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
 	github.com/vishvananda/netns v0.0.5
@@ -1389,7 +1389,7 @@ require (
 	github.com/vmihailenco/tagparser v0.1.2
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
-	github.com/vmware/govmomi v0.47.1
+	github.com/vmware/govmomi v0.48.0
 	github.com/volcengine/volc-sdk-golang v1.0.194
 	github.com/volcengine/volcengine-go-sdk v1.0.179
 	github.com/vulcand/oxy v1.4.2
