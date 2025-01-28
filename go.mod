@@ -459,7 +459,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.5.1
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241216201552-9fbdb61a21af
-	github.com/digitalocean/godo v1.134.0
+	github.com/digitalocean/godo v1.135.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -634,7 +634,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
-	github.com/goccy/go-json v0.10.4
+	github.com/goccy/go-json v0.10.5
 	github.com/goccy/go-yaml v1.15.15
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
@@ -789,7 +789,7 @@ require (
 	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/hashicorp/logutils v1.0.0
-	github.com/hashicorp/memberlist v0.5.2
+	github.com/hashicorp/memberlist v0.5.3
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
 	github.com/hashicorp/serf v0.10.2
 	github.com/hashicorp/terraform-exec v0.22.0
@@ -1096,7 +1096,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.81.3
+	github.com/oracle/oci-go-sdk/v65 v65.82.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.1
@@ -1221,7 +1221,7 @@ require (
 	github.com/sagernet/wireguard-go v0.0.1-beta.5
 	github.com/sagikazarmark/locafero v0.7.0
 	github.com/sagikazarmark/slog-shim v0.1.0
-	github.com/samber/lo v1.49.0
+	github.com/samber/lo v1.49.1
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
 	github.com/sanity-io/litter v1.5.6
@@ -1389,7 +1389,7 @@ require (
 	github.com/vmihailenco/tagparser v0.1.2
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
-	github.com/vmware/govmomi v0.47.1
+	github.com/vmware/govmomi v0.48.0
 	github.com/volcengine/volc-sdk-golang v1.0.194
 	github.com/volcengine/volcengine-go-sdk v1.0.179
 	github.com/vulcand/oxy v1.4.2
