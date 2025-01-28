@@ -49,7 +49,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.4.1
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.63
+	github.com/99designs/gqlgen v0.17.64
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -141,7 +141,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.2
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.12.10
+	github.com/SAP/go-hdb v1.12.11
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -375,7 +375,7 @@ require (
 	github.com/chzyer/logex v1.2.1
 	github.com/chzyer/readline v1.5.1
 	github.com/chzyer/test v1.0.0
-	github.com/cilium/ebpf v0.17.1
+	github.com/cilium/ebpf v0.17.2
 	github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df
 	github.com/ckaznocha/intrange v0.3.0
 	github.com/clarify/clarify-go v0.3.1
@@ -441,7 +441,7 @@ require (
 	github.com/crewjam/saml v0.4.14
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.3.0
-	github.com/cyphar/filepath-securejoin v0.4.0
+	github.com/cyphar/filepath-securejoin v0.4.1
 	github.com/daixiang0/gci v0.13.5
 	github.com/danielgtaylor/huma v1.14.3
 	github.com/danieljoos/wincred v1.2.2
@@ -1379,7 +1379,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.11.7
-	github.com/vektah/gqlparser/v2 v2.5.21
+	github.com/vektah/gqlparser/v2 v2.5.22
 	github.com/vektra/mockery/v2 v2.51.1
 	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
 	github.com/vishvananda/netns v0.0.5
