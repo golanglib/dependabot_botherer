@@ -1308,7 +1308,7 @@ require (
 	github.com/spf13/viper v1.19.0
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.2
-	github.com/srebhan/protobufquery v1.0.2
+	github.com/srebhan/protobufquery v1.0.3
 	github.com/ssgelm/cookiejarparser v1.0.1
 	github.com/ssgreg/nlreturn/v2 v2.2.1
 	github.com/stbenjam/no-sprintf-host-port v0.2.0
