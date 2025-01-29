@@ -11,7 +11,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20241127180247-a33202765966.1
 	cel.dev/expr v0.19.2
 	cloud.google.com/go v0.118.0
-	cloud.google.com/go/auth v0.14.0
+	cloud.google.com/go/auth v0.14.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
 	cloud.google.com/go/bigquery v1.66.0
 	cloud.google.com/go/compute v1.31.1
