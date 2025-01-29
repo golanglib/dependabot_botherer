@@ -81,10 +81,10 @@ require (
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
 	github.com/Azure/go-amqp v1.3.0
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c
-	github.com/Azure/go-autorest/autorest v0.11.29
+	github.com/Azure/go-autorest/autorest v0.11.30
 	github.com/Azure/go-autorest/autorest/adal v0.9.24
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.13
-	github.com/Azure/go-autorest/autorest/azure/cli v0.4.6
+	github.com/Azure/go-autorest/autorest/azure/cli v0.4.7
 	github.com/Azure/go-autorest/autorest/date v0.3.1
 	github.com/Azure/go-autorest/autorest/mocks v0.4.2
 	github.com/Azure/go-autorest/autorest/to v0.4.0
