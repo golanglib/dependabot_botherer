@@ -84,7 +84,7 @@ require (
 	github.com/Azure/go-autorest/autorest v0.11.30
 	github.com/Azure/go-autorest/autorest/adal v0.9.24
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.13
-	github.com/Azure/go-autorest/autorest/azure/cli v0.4.6
+	github.com/Azure/go-autorest/autorest/azure/cli v0.4.7
 	github.com/Azure/go-autorest/autorest/date v0.3.1
 	github.com/Azure/go-autorest/autorest/mocks v0.4.2
 	github.com/Azure/go-autorest/autorest/to v0.4.0
