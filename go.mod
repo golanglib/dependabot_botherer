@@ -11,7 +11,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20241127180247-a33202765966.1
 	cel.dev/expr v0.19.2
 	cloud.google.com/go v0.118.0
-	cloud.google.com/go/auth v0.14.0
+	cloud.google.com/go/auth v0.14.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
 	cloud.google.com/go/bigquery v1.66.0
 	cloud.google.com/go/compute v1.31.1
@@ -88,11 +88,11 @@ require (
 	github.com/Azure/go-autorest/autorest/date v0.3.1
 	github.com/Azure/go-autorest/autorest/mocks v0.4.2
 	github.com/Azure/go-autorest/autorest/to v0.4.0
-	github.com/Azure/go-autorest/autorest/validation v0.3.1
+	github.com/Azure/go-autorest/autorest/validation v0.3.2
 	github.com/Azure/go-autorest/logger v0.2.1
 	github.com/Azure/go-autorest/tracing v0.6.0
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.2
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.3
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.63.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
@@ -511,7 +511,7 @@ require (
 	github.com/ethantkoenig/rupture v1.0.1
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.10+incompatible
-	github.com/evanphx/json-patch/v5 v5.9.10
+	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.24.2
 	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
 	github.com/fatih/color v1.18.0
@@ -534,7 +534,7 @@ require (
 	github.com/gaissmai/bart v0.17.8
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
-	github.com/getkin/kin-openapi v0.128.0
+	github.com/getkin/kin-openapi v0.129.0
 	github.com/ghostiam/protogetter v0.3.9
 	github.com/gin-contrib/gzip v1.2.2
 	github.com/gin-contrib/sessions v1.0.2
@@ -1308,7 +1308,7 @@ require (
 	github.com/spf13/viper v1.19.0
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.2
-	github.com/srebhan/protobufquery v1.0.2
+	github.com/srebhan/protobufquery v1.0.3
 	github.com/ssgelm/cookiejarparser v1.0.1
 	github.com/ssgreg/nlreturn/v2 v2.2.1
 	github.com/stbenjam/no-sprintf-host-port v0.2.0
@@ -1328,7 +1328,7 @@ require (
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.3.0
 	github.com/tdewolff/minify/v2 v2.21.3
-	github.com/tdewolff/parse/v2 v2.7.19
+	github.com/tdewolff/parse/v2 v2.7.20
 	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
@@ -1516,11 +1516,11 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.218.0
+	google.golang.org/api v0.219.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250106144421-5f5ef82da422
 	google.golang.org/genproto/googleapis/api v0.0.0-20250115164207-1a7da9e5054f
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250122153221-138b5a5a4fd4
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250124145028-65684f501c47
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.4
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
@@ -1745,6 +1745,8 @@ require (
 	github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86 // indirect
 	github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c // indirect
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
+	github.com/oasdiff/yaml v0.0.0-20241210131133-6b86fb107d80 // indirect
+	github.com/oasdiff/yaml3 v0.0.0-20241210130736-a94c01f36349 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.111.0 // indirect
