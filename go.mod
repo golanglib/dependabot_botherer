@@ -90,7 +90,7 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.4.0
 	github.com/Azure/go-autorest/autorest/validation v0.3.2
 	github.com/Azure/go-autorest/logger v0.2.2
-	github.com/Azure/go-autorest/tracing v0.6.0
+	github.com/Azure/go-autorest/tracing v0.6.1
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.3
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
