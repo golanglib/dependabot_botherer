@@ -958,7 +958,7 @@ require (
 	github.com/maruel/natural v1.1.1
 	github.com/mastercactapus/proxyprotocol v0.0.4
 	github.com/masterzen/winrm v0.0.0-20210623064412-3b76017826b0
-	github.com/matoous/godox v0.0.0-20240105082147-c5b5e0e7c0c0
+	github.com/matoous/godox v1.1.0
 	github.com/matryer/is v1.4.1
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
 	github.com/mattn/go-colorable v0.1.14
