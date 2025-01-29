@@ -92,7 +92,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.1
 	github.com/Azure/go-autorest/tracing v0.6.0
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.2
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.3
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.63.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
@@ -1308,7 +1308,7 @@ require (
 	github.com/spf13/viper v1.19.0
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.2
-	github.com/srebhan/protobufquery v1.0.2
+	github.com/srebhan/protobufquery v1.0.3
 	github.com/ssgelm/cookiejarparser v1.0.1
 	github.com/ssgreg/nlreturn/v2 v2.2.1
 	github.com/stbenjam/no-sprintf-host-port v0.2.0
@@ -1328,7 +1328,7 @@ require (
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.3.0
 	github.com/tdewolff/minify/v2 v2.21.3
-	github.com/tdewolff/parse/v2 v2.7.19
+	github.com/tdewolff/parse/v2 v2.7.20
 	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
@@ -1516,11 +1516,11 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.218.0
+	google.golang.org/api v0.219.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250106144421-5f5ef82da422
 	google.golang.org/genproto/googleapis/api v0.0.0-20250115164207-1a7da9e5054f
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250122153221-138b5a5a4fd4
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250124145028-65684f501c47
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.4
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
