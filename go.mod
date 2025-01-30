@@ -94,7 +94,7 @@ require (
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.3
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
-	github.com/ClickHouse/ch-go v0.63.1
+	github.com/ClickHouse/ch-go v0.64.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
 	github.com/ClickHouse/clickhouse-go/v2 v2.30.1
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
@@ -1478,7 +1478,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20241226192728-8dfa5b98479f
-	go.step.sm/crypto v0.57.0
+	go.step.sm/crypto v0.57.1
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.0
