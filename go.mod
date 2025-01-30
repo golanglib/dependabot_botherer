@@ -1,8 +1,7 @@
 module dependabot_botherer
 
 go 1.23.1
-
-toolchain go1.23.2
+toolchain go1.23.5
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.2.1
@@ -1085,7 +1084,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.22.2
 	github.com/onsi/gomega v1.36.2
 	github.com/openacid/low v0.1.21
-	github.com/openconfig/gnmi v0.12.0
+	github.com/openconfig/gnmi v0.13.0
 	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
