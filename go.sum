@@ -873,8 +873,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/ChrisTrenkamp/goxpath v0.0.0-20170922090931-c385f95c6022/go.mod h1:nuWgzSkT5PnyOd+272uUmV0dnAnAn42Mk7PiQC5VzN4=
 github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 h1:w0E0fgc1YafGEh5cROhlROMWXiNoZqApk2PDN0M1+Ns=
 github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6/go.mod h1:nuWgzSkT5PnyOd+272uUmV0dnAnAn42Mk7PiQC5VzN4=
-github.com/ClickHouse/ch-go v0.63.1 h1:s2JyZvWLTCSAGdtjMBBmAgQQHMco6pawLJMOXi0FODM=
-github.com/ClickHouse/ch-go v0.63.1/go.mod h1:I1kJJCL3WJcBMGe1m+HVK0+nREaG+JOYYBWjrDrF3R0=
+github.com/ClickHouse/ch-go v0.64.0 h1:+MByORSlUvgPwmitmQi7OH/zuC/9Pk87Mulbq1eKa2s=
+github.com/ClickHouse/ch-go v0.64.0/go.mod h1:RBUynvczWwVzhS6Up9lPKlH1mrk4UAmle6uzCiW4Pkc=
 github.com/ClickHouse/clickhouse-go v1.5.4 h1:cKjXeYLNWVJIx2J1K6H2CqyRmfwVJVY1OV1coaaFcI0=
 github.com/ClickHouse/clickhouse-go v1.5.4/go.mod h1:EaI/sW7Azgz9UATzd5ZdZHRUhHgv5+JMS9NSr2smCJI=
 github.com/ClickHouse/clickhouse-go/v2 v2.30.1 h1:Dy0n0l+cMbPXs8hFkeeWGaPKrB+MDByUNQBSmRO3W6k=
@@ -1404,8 +1404,8 @@ github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14 h1:ew6guetf+zvIAR6rjTQ38Qm
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14/go.mod h1:qe3ru/iVyeiM+cNSLzMubPsYnJxIgd/rpuse1NuC7DU=
 github.com/aws/aws-sdk-go-v2/service/kms v1.37.14 h1:IvhYu4W4wKMqN6DqtuVD7obkFflgTv1wmnZMjlSeDAA=
 github.com/aws/aws-sdk-go-v2/service/kms v1.37.14/go.mod h1:yqUt1GZH4uf7HUNT2Kd7qk6P+Vi5z+C5+NjNSNRO1L4=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.74.1 h1:9LawY3cDJ3HE+v2GMd5SOkNLDwgN4K7TsCjyVBYu/L4=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.74.1/go.mod h1:hHnELVnIHltd8EOF3YzahVX6F6y2C6dNqpRj1IMkS5I=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.75.0 h1:UPQJDyqUXICUt60X4PwbiEf+2QQ4VfXUhDk8OEiGtik=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.75.0/go.mod h1:hHnELVnIHltd8EOF3YzahVX6F6y2C6dNqpRj1IMkS5I=
 github.com/aws/aws-sdk-go-v2/service/sso v1.3.3/go.mod h1:Jgw5O+SK7MZ2Yi9Yvzb4PggAPYaFSliiQuWR0hNjexk=
 github.com/aws/aws-sdk-go-v2/service/sso v1.12.10/go.mod h1:ouy2P4z6sJN70fR3ka3wD3Ro3KezSxU6eKGQI2+2fjI=
 github.com/aws/aws-sdk-go-v2/service/sso v1.24.12 h1:kznaW4f81mNMlREkU9w3jUuJvU5g/KsqDV43ab7Rp6s=
@@ -5549,8 +5549,8 @@ go.opentelemetry.io/proto/otlp v1.5.0/go.mod h1:keN8WnHxOy8PG0rQZjJJ5A2ebUoafqWp
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 go.starlark.net v0.0.0-20241226192728-8dfa5b98479f h1:Zs/py28HDFATSDzPcfIzrBFjVsV7HzDEGNNVZIGsjm0=
 go.starlark.net v0.0.0-20241226192728-8dfa5b98479f/go.mod h1:YKMCv9b1WrfWmeqdV5MAuEHWsu5iC+fe6kYl2sQjdI8=
-go.step.sm/crypto v0.57.0 h1:YjoRQDaJYAxHLVwjst0Bl0xcnoKzVwuHCJtEo2VSHYU=
-go.step.sm/crypto v0.57.0/go.mod h1:+Lwp5gOVPaTa3H/Ul/TzGbxQPXZZcKIUGMS0lG6n9Go=
+go.step.sm/crypto v0.57.1 h1:bt7ugfc0m2/nJ9/uhQOtXRW3xQr8zJwL087FLQk9mvc=
+go.step.sm/crypto v0.57.1/go.mod h1:wL25/Mh7edmo36AA93hf9agP493Zt3y4QBzB1wzwOjc=
 go.step.sm/linkedca v0.22.2 h1:zmFIyDC77gFHo6FLQJ8OIXYpLYDIsgDWaYqtYs6A9/Q=
 go.step.sm/linkedca v0.22.2/go.mod h1:ESY8r5VfhJA8ZVzI6hXIQcEX9LwaY3aoPnT+Hb9jpbw=
 go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
