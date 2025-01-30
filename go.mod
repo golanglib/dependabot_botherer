@@ -242,7 +242,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.14
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.74.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.12
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.11
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.10
