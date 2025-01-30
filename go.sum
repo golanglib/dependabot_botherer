@@ -5549,8 +5549,8 @@ go.opentelemetry.io/proto/otlp v1.5.0/go.mod h1:keN8WnHxOy8PG0rQZjJJ5A2ebUoafqWp
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 go.starlark.net v0.0.0-20241226192728-8dfa5b98479f h1:Zs/py28HDFATSDzPcfIzrBFjVsV7HzDEGNNVZIGsjm0=
 go.starlark.net v0.0.0-20241226192728-8dfa5b98479f/go.mod h1:YKMCv9b1WrfWmeqdV5MAuEHWsu5iC+fe6kYl2sQjdI8=
-go.step.sm/crypto v0.57.0 h1:YjoRQDaJYAxHLVwjst0Bl0xcnoKzVwuHCJtEo2VSHYU=
-go.step.sm/crypto v0.57.0/go.mod h1:+Lwp5gOVPaTa3H/Ul/TzGbxQPXZZcKIUGMS0lG6n9Go=
+go.step.sm/crypto v0.57.1 h1:bt7ugfc0m2/nJ9/uhQOtXRW3xQr8zJwL087FLQk9mvc=
+go.step.sm/crypto v0.57.1/go.mod h1:wL25/Mh7edmo36AA93hf9agP493Zt3y4QBzB1wzwOjc=
 go.step.sm/linkedca v0.22.2 h1:zmFIyDC77gFHo6FLQJ8OIXYpLYDIsgDWaYqtYs6A9/Q=
 go.step.sm/linkedca v0.22.2/go.mod h1:ESY8r5VfhJA8ZVzI6hXIQcEX9LwaY3aoPnT+Hb9jpbw=
 go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
