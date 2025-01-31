@@ -241,7 +241,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.14
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.12
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.12
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.10
@@ -1272,7 +1272,7 @@ require (
 	github.com/sivchari/containedctx v1.0.3
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.12.1
-	github.com/skeema/knownhosts v1.3.0
+	github.com/skeema/knownhosts v1.3.1
 	github.com/slack-go/slack v0.15.0
 	github.com/slackhq/nebula v1.9.5
 	github.com/sleepinggenius2/gosmi v0.4.4
@@ -1651,12 +1651,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.30 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.30 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.2 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.29 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.30 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.3 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.10 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.10 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.10 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.11 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.11 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
