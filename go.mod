@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.12
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.7
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.17
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.15
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.15
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.1
