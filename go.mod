@@ -245,7 +245,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.12
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.12
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.11
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.13
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.14
 	github.com/aws/smithy-go v1.22.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
