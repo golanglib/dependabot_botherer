@@ -7,13 +7,13 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.2.1
 	4d63.com/gochecknoglobals v0.2.1
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20241127180247-a33202765966.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.19.2
 	cloud.google.com/go v0.118.0
 	cloud.google.com/go/auth v0.14.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
 	cloud.google.com/go/bigquery v1.66.0
-	cloud.google.com/go/compute v1.31.1
+	cloud.google.com/go/compute v1.32.0
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.3
 	cloud.google.com/go/firestore v1.18.0
@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.4
 	cloud.google.com/go/monitoring v1.23.0
-	cloud.google.com/go/pubsub v1.45.3
+	cloud.google.com/go/pubsub v1.46.0
 	cloud.google.com/go/storage v1.50.0
 	cloud.google.com/go/trace v1.11.3
 	code.gitea.io/actions-proto-go v0.4.0
@@ -95,7 +95,7 @@ require (
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.64.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
-	github.com/ClickHouse/clickhouse-go/v2 v2.30.1
+	github.com/ClickHouse/clickhouse-go/v2 v2.30.2
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
 	github.com/CloudyKit/jet/v6 v6.2.0
 	github.com/Code-Hex/go-generics-cache v1.5.1
@@ -230,21 +230,21 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.2
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.55
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.16.0
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.17.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.25
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.55
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.11
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.9
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.12
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.6
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.16
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.7
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.17
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.14
-	github.com/aws/aws-sdk-go-v2/service/kms v1.37.14
+	github.com/aws/aws-sdk-go-v2/service/kms v1.37.15
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.12
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.12
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.10
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.11
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.13
 	github.com/aws/smithy-go v1.22.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -634,7 +634,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.5
-	github.com/goccy/go-yaml v1.15.15
+	github.com/goccy/go-yaml v1.15.16
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -672,7 +672,7 @@ require (
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
 	github.com/golangci/plugin-module-register v0.1.1
-	github.com/golangci/revgrep v0.7.0
+	github.com/golangci/revgrep v0.8.0
 	github.com/golangci/unconvert v0.0.0-20240309020433-c5143eacb3ed
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
@@ -1377,7 +1377,7 @@ require (
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
-	github.com/vbatts/tar-split v0.11.7
+	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.22
 	github.com/vektra/mockery/v2 v2.51.1
 	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
@@ -1517,8 +1517,8 @@ require (
 	gonum.org/v1/gonum v0.15.1
 	google.golang.org/api v0.219.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20250106144421-5f5ef82da422
-	google.golang.org/genproto/googleapis/api v0.0.0-20250115164207-1a7da9e5054f
+	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4
+	google.golang.org/genproto/googleapis/api v0.0.0-20250124145028-65684f501c47
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250124145028-65684f501c47
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.4
@@ -1654,7 +1654,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.30 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.4 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.10 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.11 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.11 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.11 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
