@@ -1336,8 +1336,8 @@ github.com/aws/aws-sdk-go-v2 v1.9.0/go.mod h1:cK/D0BBs0b/oWPIcX/Z/obahJK1TT7IPVj
 github.com/aws/aws-sdk-go-v2 v1.9.1/go.mod h1:cK/D0BBs0b/oWPIcX/Z/obahJK1TT7IPVjy53i/mX/4=
 github.com/aws/aws-sdk-go-v2 v1.11.2/go.mod h1:SQfA+m2ltnu1cA0soUkj4dRSsmITiVQUJvBIZjzfPyQ=
 github.com/aws/aws-sdk-go-v2 v1.18.0/go.mod h1:uzbQtefpm44goOPmdKyAlXSNcwlRgF3ePWVW6EtJvvw=
-github.com/aws/aws-sdk-go-v2 v1.35.0 h1:jTPxEJyzjSuuz0wB+302hr8Eu9KUI+Zv8zlujMGJpVI=
-github.com/aws/aws-sdk-go-v2 v1.35.0/go.mod h1:JgstGg0JjWU1KpVJjD5H0y0yyAIpSdKEq556EI6yOOM=
+github.com/aws/aws-sdk-go-v2 v1.36.0 h1:b1wM5CcE65Ujwn565qcwgtOTT1aT4ADOHHgglKjG7fk=
+github.com/aws/aws-sdk-go-v2 v1.36.0/go.mod h1:5PMILGVKiW32oDzjj6RU52yrNrDPUHcbZQYr1sM7qmM=
 github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8 h1:zAxi9p3wsZMIaVCdoiQp2uZ9k1LsZvmAnoTBeZPXom0=
 github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8/go.mod h1:3XkePX5dSaxveLAYY7nsbsZZrKxCyEuE5pM4ziFxyGg=
 github.com/aws/aws-sdk-go-v2/config v1.6.1/go.mod h1:t/y3UPu0XEDy0cEw6mvygaBQaPzWiYAxfP2SzgtvclA=
@@ -1359,11 +1359,11 @@ github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.56 h1:HcdORgkGzutGk89ANc5e
 github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.56/go.mod h1:ieBcO2kMlND/68XrpzLUWI9yc5gsJU8SyFApKO2dpj0=
 github.com/aws/aws-sdk-go-v2/internal/configsources v1.0.4/go.mod h1:W5gGbtNXFpF9/ssYZTaItzG/B+j0bjTnwStiCP2AtWU=
 github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.33/go.mod h1:7i0PF1ME/2eUPFcjkVIwq+DOygHEoK92t5cDqNgYbIw=
-github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.30 h1:+7AzSGNhHoY53di13lvztf9Dyd/9ofzoYGBllkWp3a0=
-github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.30/go.mod h1:Jxd/FrCny99yURiQiMywgXvBhd7tmgdv6KdlUTNzMSo=
+github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.31 h1:lWm9ucLSRFiI4dQQafLrEOmEDGry3Swrz0BIRdiHJqQ=
+github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.31/go.mod h1:Huu6GG0YTfbPphQkDSo4dEGmQRTKb9k9G7RdtyQWxuI=
 github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.27/go.mod h1:UrHnn3QV/d0pBZ6QBAEQcqFLf8FAzLmoUfPVIueOvoM=
-github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.30 h1:Ex06eY6I5rO7IX0HalGfa5nGjpBoOsS1Qm3xfjkuszs=
-github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.30/go.mod h1:AvyEMA9QcX59kFhVizBpIBpEMThUTXssuJe+emBdcGM=
+github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.31 h1:ACxDklUKKXb48+eg5ROZXi1vDgfMyfIA/WyvqHcHI0o=
+github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.31/go.mod h1:yadnfsDwqXeVaohbGc/RaD287PuyRw2wugkh5ZL2J6k=
 github.com/aws/aws-sdk-go-v2/internal/ini v1.2.1/go.mod h1:Pv3WenDjI0v2Jl7UaMFIIbPOBbhn33RmmAmGgkXDoqY=
 github.com/aws/aws-sdk-go-v2/internal/ini v1.3.34/go.mod h1:Etz2dj6UHYuw+Xw830KfzCfWGMzqvUTCjUj5b76GVDc=
 github.com/aws/aws-sdk-go-v2/internal/ini v1.8.2 h1:Pg9URiobXy85kgFev3og2CuOZ8JZUBENF+dcgWBaYNk=
@@ -1402,8 +1402,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.11/go.mod h1:9yp5x5
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.6.0/go.mod h1:9O7UG2pELnP0hq35+Gd7XDjOLBkg7tmgRQ0y14ZjoJI=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.15 h1:aKixLYRBjTivv0tC8N8agaOk+U2XJM96SvA1CEKhdYE=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.15/go.mod h1:mhmf3dZp7OtcjH9zQpohoMiKU076b5aMbk7xhE5ZXEU=
-github.com/aws/aws-sdk-go-v2/service/kms v1.37.15 h1:Xb0qoeF65N/tLaKCam0Axf5A6kBGFykLsfygvzaLfcg=
-github.com/aws/aws-sdk-go-v2/service/kms v1.37.15/go.mod h1:TPPzLsllinZDPmd7Yqvgt5do8hIzDTjTuxk1KTxdR9I=
+github.com/aws/aws-sdk-go-v2/service/kms v1.37.16 h1:DasFbYMIEAOh0QNbGTsJnTeVPualnAc6UR74Fs0Z9ME=
+github.com/aws/aws-sdk-go-v2/service/kms v1.37.16/go.mod h1:rtC85vnVnYbYWQWtm2tPHPnZ/JOPa5+iuUDip9XDa1Q=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.75.1 h1:hbTWOPUgAnPpk5+G1jZjYnq4eKCAePwRJEqLN1Tj7Bg=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.75.1/go.mod h1:Mo2xdnRzOyZQkGHEbhOgooG0eIV+GqS/g8LU4B5iftI=
 github.com/aws/aws-sdk-go-v2/service/sso v1.3.3/go.mod h1:Jgw5O+SK7MZ2Yi9Yvzb4PggAPYaFSliiQuWR0hNjexk=
