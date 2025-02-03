@@ -1566,7 +1566,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.15
+	modernc.org/ccgo/v4 v4.23.16
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
@@ -1575,7 +1575,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.10
+	modernc.org/libc v1.61.11
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.8.2
 	modernc.org/opt v0.1.4
