@@ -1149,7 +1149,7 @@ require (
 	github.com/pkg/xattr v0.4.10
 	github.com/pkoukk/tiktoken-go v0.1.7
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
-	github.com/polyfloyd/go-errorlint v1.7.0
+	github.com/polyfloyd/go-errorlint v1.7.1
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
@@ -1232,7 +1232,7 @@ require (
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.28.0
 	github.com/sassoftware/go-rpmutils v0.4.0
-	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.31
+	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.32
 	github.com/seancfoley/bintree v1.3.1
 	github.com/seancfoley/ipaddress-go v1.7.0
 	github.com/seccomp/libseccomp-golang v0.10.0
