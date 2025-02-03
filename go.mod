@@ -230,14 +230,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.3
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.56
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.17.0
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.56
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.11
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.12
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.9
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.13
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.8
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.17
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.18
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.15
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.16
@@ -329,7 +329,7 @@ require (
 	github.com/bsm/gomega v1.27.10
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
-	github.com/bufbuild/protovalidate-go v0.8.2
+	github.com/bufbuild/protovalidate-go v0.9.1
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.4
 	github.com/butuzov/ireturn v0.3.1
@@ -650,7 +650,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.3.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.142.0
+	github.com/gohugoio/hugo v0.143.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.2.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -677,7 +677,7 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.23.1
+	github.com/google/cel-go v0.23.2
 	github.com/google/certificate-transparency-go v1.3.1
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
@@ -1109,7 +1109,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.20.0
+	github.com/pb33f/libopenapi v0.21.2
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pelletier/go-toml v1.9.5
@@ -1566,7 +1566,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.23.15
+	modernc.org/ccgo/v4 v4.23.16
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
@@ -1785,7 +1785,7 @@ require (
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/speakeasy-api/jsonpath v0.3.1 // indirect
+	github.com/speakeasy-api/jsonpath v0.6.1 // indirect
 	github.com/src-d/gcfg v1.4.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
