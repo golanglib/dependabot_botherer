@@ -1109,7 +1109,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.20.0
+	github.com/pb33f/libopenapi v0.21.2
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pelletier/go-toml v1.9.5
@@ -1785,7 +1785,7 @@ require (
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/speakeasy-api/jsonpath v0.3.1 // indirect
+	github.com/speakeasy-api/jsonpath v0.6.1 // indirect
 	github.com/src-d/gcfg v1.4.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
