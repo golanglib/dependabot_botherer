@@ -229,7 +229,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.36.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.3
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.56
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.57
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.56
@@ -242,9 +242,9 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.15
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.16
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.1
-	github.com/aws/aws-sdk-go-v2/service/sso v1.24.13
+	github.com/aws/aws-sdk-go-v2/service/sso v1.24.14
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.13
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.11
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.12
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.15
 	github.com/aws/smithy-go v1.22.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -1655,7 +1655,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.12 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.11 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.12 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.11 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
