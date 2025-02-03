@@ -234,7 +234,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.56
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.12
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.9
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.10
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.13
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.8
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.18
@@ -243,7 +243,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.16
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.13
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.12
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.13
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.11
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.15
 	github.com/aws/smithy-go v1.22.2
