@@ -1000,8 +1000,8 @@ github.com/RoaringBitmap/roaring v0.4.23/go.mod h1:D0gp8kJQgE1A4LQ5wFLggQEyvDi06
 github.com/RoaringBitmap/roaring v0.7.1/go.mod h1:jdT9ykXwHFNdJbEtxePexlFYH9LXucApeS0/+/g+p1I=
 github.com/RoaringBitmap/roaring v1.9.4 h1:yhEIoH4YezLYT04s1nHehNO64EKFTop/wBhxv2QzDdQ=
 github.com/RoaringBitmap/roaring v1.9.4/go.mod h1:6AXUsoIEzDTFFQCe1RbGA6uFONMhvejWj5rqITANK90=
-github.com/RoaringBitmap/roaring/v2 v2.4.3 h1:McS6DMZVPnu6N0KnVFwSanU4LPBCTqmclXDqbsO49vw=
-github.com/RoaringBitmap/roaring/v2 v2.4.3/go.mod h1:FiJcsfkGje/nZBZgCu0ZxCPOKD/hVXDS2dXi7/eUFE0=
+github.com/RoaringBitmap/roaring/v2 v2.4.4 h1:a4k7LUbtIfERkheZ0Or/k5nNxnsnzmKiue+Ac1rljZA=
+github.com/RoaringBitmap/roaring/v2 v2.4.4/go.mod h1:FiJcsfkGje/nZBZgCu0ZxCPOKD/hVXDS2dXi7/eUFE0=
 github.com/RyuaNerin/go-krypto v1.3.0 h1:smavTzSMAx8iuVlGb4pEwl9MD2qicqMzuXR2QWp2/Pg=
 github.com/RyuaNerin/go-krypto v1.3.0/go.mod h1:9R9TU936laAIqAmjcHo/LsaXYOZlymudOAxjaBf62UM=
 github.com/RyuaNerin/testingutil v0.1.3 h1:ZFa6xkIC8FWgTjzgzeis/RaXozdfp5SfK8a2iHaS4RQ=
@@ -1542,8 +1542,8 @@ github.com/blevesearch/mmap-go v1.0.4/go.mod h1:EWmEAOmdAS9z/pi/+Toxu99DnsbhG1TI
 github.com/blevesearch/scorch_segment_api v1.0.0 h1:BUkCPWDg2gimTEyVDXf85I2buqqt4lh28uaVMiJsIYk=
 github.com/blevesearch/scorch_segment_api v1.0.0/go.mod h1:KgRYmlfYC27NeM6cXOHx8LBgq7jn0atpV8mVWoBKBng=
 github.com/blevesearch/scorch_segment_api/v2 v2.0.1/go.mod h1:lq7yK2jQy1yQjtjTfU931aVqz7pYxEudHaDwOt1tXfU=
-github.com/blevesearch/scorch_segment_api/v2 v2.3.1 h1:jjexIzwOdBtC9MlUceNErYHepLvoKxTdA5atbeZSRWE=
-github.com/blevesearch/scorch_segment_api/v2 v2.3.1/go.mod h1:Np3Y03rsemM5TsyFxQ3wy+tG97EcviLTbp2S5W0tpRY=
+github.com/blevesearch/scorch_segment_api/v2 v2.3.2 h1:hvcBElgN+u0aRybfKPCFLjwiOPdT54J9PZVqZjJm170=
+github.com/blevesearch/scorch_segment_api/v2 v2.3.2/go.mod h1:eDTO6kPkiiZRT1jH3UDuHXSYos/G+G8VN5xHG+BPLKM=
 github.com/blevesearch/segment v0.9.0/go.mod h1:9PfHYUdQCgHktBgvtUOF4x+pc4/l8rdH0u5spnW85UQ=
 github.com/blevesearch/segment v0.9.1 h1:+dThDy+Lvgj5JMxhmOVlgFfkUtZV2kw49xax4+jTfSU=
 github.com/blevesearch/segment v0.9.1/go.mod h1:zN21iLm7+GnBHWTao9I+Au/7MBiL8pPFtJBJTsk6kQw=
