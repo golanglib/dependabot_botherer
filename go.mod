@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.9
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.19
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.3
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.16
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.17
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.17
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.14
@@ -1500,14 +1500,14 @@ require (
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.23.0
 	golang.org/x/net v0.34.0
-	golang.org/x/oauth2 v0.25.0
+	golang.org/x/oauth2 v0.26.0
 	golang.org/x/sync v0.11.0
 	golang.org/x/sys v0.30.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.37.0
 	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
-	golang.org/x/time v0.9.0
+	golang.org/x/time v0.10.0
 	golang.org/x/tools v0.29.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
