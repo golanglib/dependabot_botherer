@@ -95,7 +95,7 @@ require (
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.64.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
-	github.com/ClickHouse/clickhouse-go/v2 v2.30.2
+	github.com/ClickHouse/clickhouse-go/v2 v2.30.3
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
 	github.com/CloudyKit/jet/v6 v6.2.0
 	github.com/Code-Hex/go-generics-cache v1.5.1
@@ -228,23 +228,23 @@ require (
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.36.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
-	github.com/aws/aws-sdk-go-v2/config v1.29.4
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.57
+	github.com/aws/aws-sdk-go-v2/config v1.29.5
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.58
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.1
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.57
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.12
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.10
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.11
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.14
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.9
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.19
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.2
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.3
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.16
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.17
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.14
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.13
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.12
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.13
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.15
 	github.com/aws/smithy-go v1.22.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -268,7 +268,7 @@ require (
 	github.com/bep/godartsass/v2 v2.3.2
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
-	github.com/bep/imagemeta v0.8.3
+	github.com/bep/imagemeta v0.8.4
 	github.com/bep/lazycache v0.7.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.9.2
@@ -347,7 +347,7 @@ require (
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
 	github.com/calebcase/tmpfile v1.0.3
-	github.com/catenacyber/perfsprint v0.7.1
+	github.com/catenacyber/perfsprint v0.8.0
 	github.com/cch123/supermonkey v1.0.1
 	github.com/ccojocar/zxcvbn-go v1.0.2
 	github.com/cenkalti/backoff/v3 v3.2.2
@@ -583,7 +583,7 @@ require (
 	github.com/go-lark/lark v1.15.1
 	github.com/go-lark/lark-hertz v1.1.1
 	github.com/go-ldap/ldap/v3 v3.4.10
-	github.com/go-llsqlite/adapter v0.1.0
+	github.com/go-llsqlite/adapter v0.2.0
 	github.com/go-llsqlite/crawshaw v0.5.5
 	github.com/go-logfmt/logfmt v0.6.0
 	github.com/go-logr/logr v1.4.2
@@ -804,7 +804,7 @@ require (
 	github.com/hertz-contrib/localsession v0.1.0
 	github.com/hertz-contrib/sse v0.0.5
 	github.com/hetznercloud/hcloud-go v1.59.2
-	github.com/hetznercloud/hcloud-go/v2 v2.19.0
+	github.com/hetznercloud/hcloud-go/v2 v2.19.1
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/hinshun/vt10x v0.0.0-20220301184237-5011da428d02
 	github.com/huandu/go-assert v1.1.6
@@ -917,7 +917,7 @@ require (
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
 	github.com/larksuite/oapi-sdk-go v1.1.48
-	github.com/larksuite/oapi-sdk-go/v3 v3.4.7
+	github.com/larksuite/oapi-sdk-go/v3 v3.4.8
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.1
 	github.com/ldez/tagliatelle v0.7.1
@@ -1095,7 +1095,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.82.0
+	github.com/oracle/oci-go-sdk/v65 v65.83.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.1
@@ -1445,7 +1445,7 @@ require (
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.68.1
-	go.etcd.io/bbolt v1.3.11
+	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.18
 	go.etcd.io/etcd/client/pkg/v3 v3.5.18
 	go.etcd.io/etcd/client/v2 v2.305.18
@@ -1490,7 +1490,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
-	golang.org/x/arch v0.13.0
+	golang.org/x/arch v0.14.0
 	golang.org/x/crypto v0.32.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8
@@ -1502,10 +1502,10 @@ require (
 	golang.org/x/net v0.34.0
 	golang.org/x/oauth2 v0.25.0
 	golang.org/x/sync v0.11.0
-	golang.org/x/sys v0.29.0
+	golang.org/x/sys v0.30.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.37.0
-	golang.org/x/term v0.28.0
+	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
 	golang.org/x/time v0.9.0
 	golang.org/x/tools v0.29.0
@@ -1515,11 +1515,11 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.219.0
+	google.golang.org/api v0.220.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4
 	google.golang.org/genproto/googleapis/api v0.0.0-20250124145028-65684f501c47
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250124145028-65684f501c47
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250127172529-29210b9bc287
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.4
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
