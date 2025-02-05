@@ -1495,18 +1495,18 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
-	golang.org/x/image v0.23.0
+	golang.org/x/image v0.24.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.22.0
 	golang.org/x/net v0.34.0
 	golang.org/x/oauth2 v0.25.0
-	golang.org/x/sync v0.10.0
+	golang.org/x/sync v0.11.0
 	golang.org/x/sys v0.29.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.37.0
 	golang.org/x/term v0.28.0
-	golang.org/x/text v0.21.0
+	golang.org/x/text v0.22.0
 	golang.org/x/time v0.9.0
 	golang.org/x/tools v0.29.0
 	golang.org/x/vuln v1.1.4
