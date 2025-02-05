@@ -2457,8 +2457,8 @@ github.com/go-latex/latex v0.0.0-20210118124228-b3d85cf34e07/go.mod h1:CO1AlKB2C
 github.com/go-latex/latex v0.0.0-20210823091927-c0d11ff05a81/go.mod h1:SX0U8uGpxhq9o2S/CELCSUxEWWAuoCUcVCQWv7G2OCk=
 github.com/go-ldap/ldap/v3 v3.4.10 h1:ot/iwPOhfpNVgB1o+AVXljizWZ9JTp7YF5oeyONmcJU=
 github.com/go-ldap/ldap/v3 v3.4.10/go.mod h1:JXh4Uxgi40P6E9rdsYqpUtbW46D9UTjJ9QSwGRznplY=
-github.com/go-llsqlite/adapter v0.1.0 h1:wGSQNsu/rtYeu/lqZNZQMjwUdEF3OW66xTLvsFwJQUw=
-github.com/go-llsqlite/adapter v0.1.0/go.mod h1:DADrR88ONKPPeSGjFp5iEN55Arx3fi2qXZeKCYDpbmU=
+github.com/go-llsqlite/adapter v0.2.0 h1:6k4dmTSTg1eKIeH+2kBWaoohn9SFNZeg4LWayZweevI=
+github.com/go-llsqlite/adapter v0.2.0/go.mod h1:tcIEbwjdknnizwMsq9ogjMW6246aIjk97cRywjkbqZ0=
 github.com/go-llsqlite/crawshaw v0.5.5 h1:sXnRkiV26MBv++lbPbzp+ZzFcTqzVMxftO8yHyFvwUA=
 github.com/go-llsqlite/crawshaw v0.5.5/go.mod h1:/YJdV7uBQaYDE0fwe4z3wwJIZBJxdYzd38ICggWqtaE=
 github.com/go-logfmt/logfmt v0.3.0/go.mod h1:Qt1PoO58o5twSAckw1HlFXLmHsOX5/0LbT9GBnD5lWE=
