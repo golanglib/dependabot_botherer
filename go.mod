@@ -233,15 +233,15 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.1
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.57
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.12
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.13
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.11
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.14
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.9
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.19
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.3
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.16
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.17
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.17
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.2
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.14
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.13
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.13
@@ -1507,7 +1507,7 @@ require (
 	golang.org/x/telemetry/config v0.37.0
 	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
-	golang.org/x/time v0.9.0
+	golang.org/x/time v0.10.0
 	golang.org/x/tools v0.29.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
