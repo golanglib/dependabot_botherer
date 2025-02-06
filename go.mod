@@ -230,19 +230,19 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.5
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.58
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.1
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.2
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.58
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.14
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.12
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.0
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.19
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.20
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.3
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.18
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.18
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.4
-	github.com/aws/aws-sdk-go-v2/service/sso v1.24.14
+	github.com/aws/aws-sdk-go-v2/service/sso v1.24.15
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.14
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.14
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.16
@@ -289,7 +289,7 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.3.2
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.3
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
@@ -300,11 +300,11 @@ require (
 	github.com/blevesearch/zap/v14 v14.0.5
 	github.com/blevesearch/zap/v15 v15.0.3
 	github.com/blevesearch/zapx/v11 v11.4.0
-	github.com/blevesearch/zapx/v12 v12.3.11
+	github.com/blevesearch/zapx/v12 v12.4.1
 	github.com/blevesearch/zapx/v13 v13.4.0
 	github.com/blevesearch/zapx/v14 v14.4.0
 	github.com/blevesearch/zapx/v15 v15.4.0
-	github.com/blevesearch/zapx/v16 v16.1.10
+	github.com/blevesearch/zapx/v16 v16.2.1
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
 	github.com/blues/jsonata-go v1.5.4
