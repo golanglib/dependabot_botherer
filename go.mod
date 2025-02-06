@@ -21,7 +21,7 @@ require (
 	cloud.google.com/go/kms v1.20.5
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.4
-	cloud.google.com/go/monitoring v1.23.0
+	cloud.google.com/go/monitoring v1.24.0
 	cloud.google.com/go/pubsub v1.47.0
 	cloud.google.com/go/storage v1.50.0
 	cloud.google.com/go/trace v1.11.3
@@ -137,7 +137,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.10.1
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
-	github.com/RoaringBitmap/roaring/v2 v2.4.4
+	github.com/RoaringBitmap/roaring/v2 v2.4.5
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.12.12
@@ -231,21 +231,21 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.29.5
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.58
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.1
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.58
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.13
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.14
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.12
-	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.14
+	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.19
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.3
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.17
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.18
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.18
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.14
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.13
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.13
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.15
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.16
 	github.com/aws/smithy-go v1.22.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -301,7 +301,7 @@ require (
 	github.com/blevesearch/zap/v15 v15.0.3
 	github.com/blevesearch/zapx/v11 v11.4.0
 	github.com/blevesearch/zapx/v12 v12.3.11
-	github.com/blevesearch/zapx/v13 v13.3.11
+	github.com/blevesearch/zapx/v13 v13.4.0
 	github.com/blevesearch/zapx/v14 v14.4.0
 	github.com/blevesearch/zapx/v15 v15.3.18
 	github.com/blevesearch/zapx/v16 v16.1.10
@@ -428,7 +428,7 @@ require (
 	github.com/coreos/go-oidc/v3 v3.12.0
 	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.5.0
-	github.com/couchbase/cbauth v0.1.12
+	github.com/couchbase/cbauth v0.1.13
 	github.com/couchbase/go-couchbase v0.1.1
 	github.com/couchbase/gomemcached v0.3.2
 	github.com/couchbase/goutils v0.1.2
@@ -648,7 +648,7 @@ require (
 	github.com/gofrs/uuid/v5 v5.3.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
-	github.com/gohugoio/hashstructure v0.3.0
+	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
 	github.com/gohugoio/hugo v0.143.1
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.2.0
@@ -802,7 +802,7 @@ require (
 	github.com/henrylee2cn/goutil v1.0.1
 	github.com/hertz-contrib/http2 v0.1.8
 	github.com/hertz-contrib/localsession v0.1.0
-	github.com/hertz-contrib/sse v0.0.5
+	github.com/hertz-contrib/sse v0.0.6
 	github.com/hetznercloud/hcloud-go v1.59.2
 	github.com/hetznercloud/hcloud-go/v2 v2.19.1
 	github.com/hexops/gotextdiff v1.0.3
@@ -1213,7 +1213,7 @@ require (
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.3.0-beta.4
 	github.com/sagernet/sing v0.6.0
-	github.com/sagernet/sing-mux v0.2.1
+	github.com/sagernet/sing-mux v0.3.1
 	github.com/sagernet/sing-shadowtls v0.1.5
 	github.com/sagernet/sing-vmess v0.2.0
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
@@ -1390,7 +1390,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.48.0
 	github.com/volcengine/volc-sdk-golang v1.0.194
-	github.com/volcengine/volcengine-go-sdk v1.0.179
+	github.com/volcengine/volcengine-go-sdk v1.0.180
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1504,7 +1504,7 @@ require (
 	golang.org/x/sync v0.11.0
 	golang.org/x/sys v0.30.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
-	golang.org/x/telemetry/config v0.37.0
+	golang.org/x/telemetry/config v0.39.0
 	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
 	golang.org/x/time v0.10.0
