@@ -302,7 +302,7 @@ require (
 	github.com/blevesearch/zapx/v11 v11.3.11
 	github.com/blevesearch/zapx/v12 v12.3.11
 	github.com/blevesearch/zapx/v13 v13.3.11
-	github.com/blevesearch/zapx/v14 v14.3.11
+	github.com/blevesearch/zapx/v14 v14.4.0
 	github.com/blevesearch/zapx/v15 v15.3.18
 	github.com/blevesearch/zapx/v16 v16.1.10
 	github.com/blizzy78/varnamelen v0.8.0
