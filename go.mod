@@ -231,11 +231,11 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.29.5
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.58
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.1
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.58
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.13
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.14
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.12
-	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.14
+	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.19
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.3
@@ -243,7 +243,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.18
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.4
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.14
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.13
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.14
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.13
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.16
 	github.com/aws/smithy-go v1.22.2
@@ -299,11 +299,11 @@ require (
 	github.com/blevesearch/zap/v13 v13.0.6
 	github.com/blevesearch/zap/v14 v14.0.5
 	github.com/blevesearch/zap/v15 v15.0.3
-	github.com/blevesearch/zapx/v11 v11.3.11
+	github.com/blevesearch/zapx/v11 v11.4.0
 	github.com/blevesearch/zapx/v12 v12.3.11
-	github.com/blevesearch/zapx/v13 v13.3.11
+	github.com/blevesearch/zapx/v13 v13.4.0
 	github.com/blevesearch/zapx/v14 v14.4.0
-	github.com/blevesearch/zapx/v15 v15.3.18
+	github.com/blevesearch/zapx/v15 v15.4.0
 	github.com/blevesearch/zapx/v16 v16.1.10
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
@@ -1213,7 +1213,7 @@ require (
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.3.0-beta.4
 	github.com/sagernet/sing v0.6.0
-	github.com/sagernet/sing-mux v0.2.1
+	github.com/sagernet/sing-mux v0.3.1
 	github.com/sagernet/sing-shadowtls v0.1.5
 	github.com/sagernet/sing-vmess v0.2.0
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
