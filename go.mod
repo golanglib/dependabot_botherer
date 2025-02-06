@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.13
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.11
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.14
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.39.9
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.19
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.3
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.17
@@ -1654,7 +1654,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.31 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.5 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.12 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.13 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.12 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.12 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
