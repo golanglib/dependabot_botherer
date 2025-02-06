@@ -12,7 +12,7 @@ require (
 	cloud.google.com/go v0.118.1
 	cloud.google.com/go/auth v0.14.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
-	cloud.google.com/go/bigquery v1.66.0
+	cloud.google.com/go/bigquery v1.66.2
 	cloud.google.com/go/compute v1.32.0
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.3
@@ -404,7 +404,7 @@ require (
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thriftgo v0.3.18
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
-	github.com/cncf/xds/go v0.0.0-20240905190251-b4127c9b8d78
+	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42
 	github.com/cockroachdb/datadriven v1.0.2
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
@@ -1518,7 +1518,7 @@ require (
 	google.golang.org/api v0.220.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4
-	google.golang.org/genproto/googleapis/api v0.0.0-20250124145028-65684f501c47
+	google.golang.org/genproto/googleapis/api v0.0.0-20250127172529-29210b9bc287
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250127172529-29210b9bc287
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
