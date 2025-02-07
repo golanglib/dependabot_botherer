@@ -230,7 +230,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
 	github.com/aws/aws-sdk-go-v2/config v1.29.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.59
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.2
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.3
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.60
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.14
@@ -561,7 +561,7 @@ require (
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
 	github.com/go-critic/go-critic v0.11.5
-	github.com/go-enry/go-enry/v2 v2.9.1
+	github.com/go-enry/go-enry/v2 v2.9.2
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-errors/errors v1.5.1
 	github.com/go-faster/city v1.0.1
@@ -580,7 +580,7 @@ require (
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
 	github.com/go-kratos/kratos/v2 v2.8.3
-	github.com/go-lark/lark v1.15.1
+	github.com/go-lark/lark v1.16.0
 	github.com/go-lark/lark-hertz v1.1.1
 	github.com/go-ldap/ldap/v3 v3.4.10
 	github.com/go-llsqlite/adapter v0.2.0
@@ -1372,7 +1372,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.26.0
+	github.com/v2fly/v2ray-core/v5 v5.27.0
 	github.com/valyala/fasthttp v1.58.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
@@ -1441,7 +1441,7 @@ require (
 	gitlab.com/yawning/bsaes.git v0.0.0-20190805113838-0a714cd429ec
 	go-simpler.org/assert v0.9.0
 	go-simpler.org/musttag v0.13.0
-	go-simpler.org/sloglint v0.7.2
+	go-simpler.org/sloglint v0.8.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.68.1
@@ -1575,7 +1575,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.11
+	modernc.org/libc v1.61.12
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.8.2
 	modernc.org/opt v0.1.4
