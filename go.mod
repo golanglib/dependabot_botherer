@@ -580,7 +580,7 @@ require (
 	github.com/go-kratos/kratos v1.0.1
 	github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a
 	github.com/go-kratos/kratos/v2 v2.8.3
-	github.com/go-lark/lark v1.15.1
+	github.com/go-lark/lark v1.16.0
 	github.com/go-lark/lark-hertz v1.1.1
 	github.com/go-ldap/ldap/v3 v3.4.10
 	github.com/go-llsqlite/adapter v0.2.0
