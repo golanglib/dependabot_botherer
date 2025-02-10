@@ -1058,7 +1058,7 @@ require (
 	github.com/ncruces/go-strftime v0.1.9
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.3
-	github.com/nektos/act v0.2.72
+	github.com/nektos/act v0.2.74
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.1
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
@@ -1543,7 +1543,7 @@ require (
 	gorm.io/hints v1.1.2
 	gorm.io/plugin/dbresolver v1.5.3
 	gortc.io/stun v1.23.0
-	gotest.tools/v3 v3.5.1
+	gotest.tools/v3 v3.5.2
 	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.5.1
