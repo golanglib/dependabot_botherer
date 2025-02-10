@@ -1780,8 +1780,8 @@ github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df h1:Gmr
 github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df/go.mod h1:rJDd05J5hqWVU9MjJ+5jw1CuLn/jRhvU0xtFEzzqjwM=
 github.com/ckaznocha/intrange v0.3.0 h1:VqnxtK32pxgkhJgYQEeOArVidIPg+ahLP7WBOXZd5ZY=
 github.com/ckaznocha/intrange v0.3.0/go.mod h1:+I/o2d2A1FBHgGELbGxzIcyd3/9l9DuwjM8FsbSS3Lo=
-github.com/clarify/clarify-go v0.3.1 h1:MsEyTqm6uy3BII/iuoxG/aelb6T8weCmWOzccR0OybA=
-github.com/clarify/clarify-go v0.3.1/go.mod h1:KTJhzy5sv8hL3jz7usUrtqvAEZhZn5p65BNj1NldiNQ=
+github.com/clarify/clarify-go v0.4.0 h1:t03lAE1fs6IBtrLhSC5ED/rJt0N4cDYhEfdcfSsfkf8=
+github.com/clarify/clarify-go v0.4.0/go.mod h1:OTg3S1qDSzKnFG2igTQTZ5xiDUlGj6NmQJV15SMOmQY=
 github.com/clbanning/mxj v1.8.4/go.mod h1:BVjHeAH+rl9rs6f+QIpeRl0tfu10SXn1pUSa5PVGJng=
 github.com/clbanning/mxj/v2 v2.7.0 h1:WA/La7UGCanFe5NpHF0Q3DNtnCsVoxbPKuyBNHWRyME=
 github.com/clbanning/mxj/v2 v2.7.0/go.mod h1:hNiWqW14h+kc+MdF9C6/YoRfjEJoR3ou6tn/Qo+ve2s=
