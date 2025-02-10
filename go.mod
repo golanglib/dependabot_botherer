@@ -530,7 +530,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.17.8
+	github.com/gaissmai/bart v0.17.10
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.129.0
@@ -634,7 +634,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.5
-	github.com/goccy/go-yaml v1.15.17
+	github.com/goccy/go-yaml v1.15.19
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -1273,7 +1273,7 @@ require (
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.12.1
 	github.com/skeema/knownhosts v1.3.1
-	github.com/slack-go/slack v0.15.0
+	github.com/slack-go/slack v0.16.0
 	github.com/slackhq/nebula v1.9.5
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
