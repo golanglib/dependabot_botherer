@@ -1543,7 +1543,7 @@ require (
 	gorm.io/hints v1.1.2
 	gorm.io/plugin/dbresolver v1.5.3
 	gortc.io/stun v1.23.0
-	gotest.tools/v3 v3.5.1
+	gotest.tools/v3 v3.5.2
 	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.5.1
