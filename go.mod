@@ -402,7 +402,7 @@ require (
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.6.5
 	github.com/cloudwego/runtimex v0.1.1
-	github.com/cloudwego/thriftgo v0.3.18
+	github.com/cloudwego/thriftgo v0.3.19
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
 	github.com/cncf/xds/go v0.0.0-20240905190251-b4127c9b8d78
 	github.com/cockroachdb/datadriven v1.0.2
