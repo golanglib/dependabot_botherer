@@ -347,7 +347,7 @@ require (
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
 	github.com/calebcase/tmpfile v1.0.3
-	github.com/catenacyber/perfsprint v0.8.0
+	github.com/catenacyber/perfsprint v0.8.1
 	github.com/cch123/supermonkey v1.0.1
 	github.com/ccojocar/zxcvbn-go v1.0.2
 	github.com/cenkalti/backoff/v3 v3.2.2
@@ -388,7 +388,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.0
-	github.com/cloudwego/eino v0.3.8
+	github.com/cloudwego/eino v0.3.9
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
@@ -530,7 +530,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.17.8
+	github.com/gaissmai/bart v0.17.10
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.129.0
@@ -634,7 +634,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.5
-	github.com/goccy/go-yaml v1.15.17
+	github.com/goccy/go-yaml v1.15.19
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -1212,7 +1212,7 @@ require (
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
 	github.com/sagernet/nftables v0.3.0-beta.4
-	github.com/sagernet/sing v0.6.0
+	github.com/sagernet/sing v0.6.1
 	github.com/sagernet/sing-mux v0.3.1
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.0
@@ -1273,7 +1273,7 @@ require (
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.12.1
 	github.com/skeema/knownhosts v1.3.1
-	github.com/slack-go/slack v0.15.0
+	github.com/slack-go/slack v0.16.0
 	github.com/slackhq/nebula v1.9.5
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
@@ -1491,7 +1491,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.14.0
-	golang.org/x/crypto v0.32.0
+	golang.org/x/crypto v0.33.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8
 	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
@@ -1595,7 +1595,7 @@ require (
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.1
 	sigs.k8s.io/controller-runtime v0.20.1
-	sigs.k8s.io/controller-tools v0.17.1
+	sigs.k8s.io/controller-tools v0.17.2
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.19.0
 	sigs.k8s.io/kustomize/cmd/config v0.19.0
