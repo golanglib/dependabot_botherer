@@ -1508,7 +1508,7 @@ require (
 	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
 	golang.org/x/time v0.10.0
-	golang.org/x/tools v0.29.0
+	golang.org/x/tools v0.30.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
