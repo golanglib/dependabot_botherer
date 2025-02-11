@@ -95,7 +95,7 @@ require (
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.64.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
-	github.com/ClickHouse/clickhouse-go/v2 v2.30.3
+	github.com/ClickHouse/clickhouse-go/v2 v2.31.0
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
 	github.com/CloudyKit/jet/v6 v6.2.0
 	github.com/Code-Hex/go-generics-cache v1.5.1
@@ -357,7 +357,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.20.0
-	github.com/charmbracelet/bubbletea v1.3.0
+	github.com/charmbracelet/bubbletea v1.3.3
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
@@ -645,7 +645,7 @@ require (
 	github.com/godbus/dbus v4.1.0+incompatible
 	github.com/godbus/dbus/v5 v5.1.0
 	github.com/gofrs/flock v0.12.1
-	github.com/gofrs/uuid/v5 v5.3.0
+	github.com/gofrs/uuid/v5 v5.3.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
@@ -1508,7 +1508,7 @@ require (
 	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
 	golang.org/x/time v0.10.0
-	golang.org/x/tools v0.29.0
+	golang.org/x/tools v0.30.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
