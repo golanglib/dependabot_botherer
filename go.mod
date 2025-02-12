@@ -1282,7 +1282,7 @@ require (
 	github.com/smallstep/cli v0.28.2
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
-	github.com/smallstep/pkcs7 v0.1.1
+	github.com/smallstep/pkcs7 v0.2.0
 	github.com/smallstep/scep v0.0.0-20241223071629-a37a330173bc
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
