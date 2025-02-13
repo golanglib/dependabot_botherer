@@ -64,7 +64,7 @@ require (
 	github.com/Azure/azure-kusto-go v0.16.1
 	github.com/Azure/azure-pipeline-go v0.2.3
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.17.0
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.8.1
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.8.2
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity/cache v0.3.2
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute v1.0.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute/v5 v5.7.0
@@ -740,7 +740,7 @@ require (
 	github.com/gosnmp/gosnmp v1.38.0
 	github.com/gostaticanalysis/analysisutil v0.7.1
 	github.com/gostaticanalysis/comment v1.5.0
-	github.com/gostaticanalysis/forcetypeassert v0.1.0
+	github.com/gostaticanalysis/forcetypeassert v0.2.0
 	github.com/gostaticanalysis/nilerr v0.1.1
 	github.com/gostaticanalysis/testutil v0.5.2
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
