@@ -740,7 +740,7 @@ require (
 	github.com/gosnmp/gosnmp v1.38.0
 	github.com/gostaticanalysis/analysisutil v0.7.1
 	github.com/gostaticanalysis/comment v1.5.0
-	github.com/gostaticanalysis/forcetypeassert v0.1.0
+	github.com/gostaticanalysis/forcetypeassert v0.2.0
 	github.com/gostaticanalysis/nilerr v0.1.1
 	github.com/gostaticanalysis/testutil v0.5.2
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
