@@ -8,7 +8,7 @@ require (
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
-	cel.dev/expr v0.19.2
+	cel.dev/expr v0.20.0
 	cloud.google.com/go v0.118.2
 	cloud.google.com/go/auth v0.14.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
