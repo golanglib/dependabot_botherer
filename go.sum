@@ -2745,8 +2745,8 @@ github.com/golangci/go-printf-func-name v0.1.0 h1:dVokQP+NMTO7jwO4bwsRwLWeudOVUP
 github.com/golangci/go-printf-func-name v0.1.0/go.mod h1:wqhWFH5mUdJQhweRnldEywnR5021wTdZSNgwYceV14s=
 github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d h1:viFft9sS/dxoYY0aiOTsLKO2aZQAPT4nlQCsimGcSGE=
 github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d/go.mod h1:ivJ9QDg0XucIkmwhzCDsqcnxxlDStoTl89jDMIoNxKY=
-github.com/golangci/golangci-lint v1.64.2 h1:+os/Y7xzFKmVfYRzYayEpVItp/8eTR4VDODaCgcGOHA=
-github.com/golangci/golangci-lint v1.64.2/go.mod h1:NTiG5Pmn7rkG6TuTPLcyT18Qbfijzcwir4NRiOoVcpw=
+github.com/golangci/golangci-lint v1.64.5 h1:5omC86XFBKXZgCrVdUWU+WNHKd+CWCxNx717KXnzKZY=
+github.com/golangci/golangci-lint v1.64.5/go.mod h1:WZnwq8TF0z61h3jLQ7Sk5trcP7b3kUFxLD6l1ivtdvU=
 github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219 h1:utua3L2IbQJmauC5IXdEA547bcoU5dozgQAfc8Onsg4=
 github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219/go.mod h1:/X8TswGSh1pIozq4ZwCfxS0WA5JGXguxk94ar/4c87Y=
 github.com/golangci/misspell v0.6.0 h1:JCle2HUTNWirNlDIAUO44hUsKhOFqGPoC4LZxlaSXDs=
