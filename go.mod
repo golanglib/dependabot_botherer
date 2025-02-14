@@ -17,7 +17,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.3
 	cloud.google.com/go/firestore v1.18.0
-	cloud.google.com/go/iam v1.3.1
+	cloud.google.com/go/iam v1.4.0
 	cloud.google.com/go/kms v1.20.5
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.4
@@ -91,7 +91,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.2
 	github.com/Azure/go-autorest/tracing v0.6.1
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.3.3
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.4.0
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.64.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
@@ -329,7 +329,7 @@ require (
 	github.com/bsm/gomega v1.27.10
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
-	github.com/bufbuild/protovalidate-go v0.9.1
+	github.com/bufbuild/protovalidate-go v0.9.2
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.5
 	github.com/butuzov/ireturn v0.3.1
@@ -387,7 +387,7 @@ require (
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
-	github.com/cloudwego/dynamicgo v0.5.0
+	github.com/cloudwego/dynamicgo v0.5.2
 	github.com/cloudwego/eino v0.3.9
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893
@@ -458,7 +458,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.5.1
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20241216201552-9fbdb61a21af
-	github.com/digitalocean/godo v1.136.0
+	github.com/digitalocean/godo v1.137.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -978,7 +978,7 @@ require (
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meilisearch/meilisearch-go v0.30.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
-	github.com/metacubex/chacha v0.1.0
+	github.com/metacubex/chacha v0.1.1
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20240827003841-cd97758ed8b4
 	github.com/metacubex/sing-shadowsocks v0.2.8
@@ -1088,7 +1088,7 @@ require (
 	github.com/openconfig/goyang v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
-	github.com/opencontainers/runc v1.2.4
+	github.com/opencontainers/runc v1.2.5
 	github.com/opencontainers/selinux v1.11.1
 	github.com/opensearch-project/opensearch-go v1.1.0
 	github.com/opensearch-project/opensearch-go/v2 v2.3.0
@@ -1182,7 +1182,7 @@ require (
 	github.com/quic-go/quic-go v0.49.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/rclone/rclone v1.69.0
+	github.com/rclone/rclone v1.69.1
 	github.com/redis/go-redis/v9 v9.7.0
 	github.com/redis/rueidis v1.0.54
 	github.com/refraction-networking/utls v1.6.7
@@ -1223,7 +1223,7 @@ require (
 	github.com/samber/lo v1.49.1
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
-	github.com/sanity-io/litter v1.5.6
+	github.com/sanity-io/litter v1.5.7
 	github.com/sanposhiho/wastedassign v1.0.0
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
@@ -1282,7 +1282,7 @@ require (
 	github.com/smallstep/cli v0.28.2
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
-	github.com/smallstep/pkcs7 v0.2.0
+	github.com/smallstep/pkcs7 v0.2.1
 	github.com/smallstep/scep v0.0.0-20241223071629-a37a330173bc
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
@@ -1325,7 +1325,7 @@ require (
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
-	github.com/tdakkota/asciicheck v0.3.0
+	github.com/tdakkota/asciicheck v0.4.0
 	github.com/tdewolff/minify/v2 v2.21.3
 	github.com/tdewolff/parse/v2 v2.7.20
 	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
@@ -1389,7 +1389,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.48.1
-	github.com/volcengine/volc-sdk-golang v1.0.194
+	github.com/volcengine/volc-sdk-golang v1.0.195
 	github.com/volcengine/volcengine-go-sdk v1.0.180
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
@@ -1518,7 +1518,7 @@ require (
 	google.golang.org/api v0.220.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4
-	google.golang.org/genproto/googleapis/api v0.0.0-20250204164813-702378808489
+	google.golang.org/genproto/googleapis/api v0.0.0-20250207221924-e9438ea467c6
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250204164813-702378808489
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
@@ -1548,11 +1548,11 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.6.0
 	howett.net/plist v1.0.1
-	k8s.io/api v0.32.1
+	k8s.io/api v0.32.2
 	k8s.io/apiextensions-apiserver v0.32.1
-	k8s.io/apimachinery v0.32.1
+	k8s.io/apimachinery v0.32.2
 	k8s.io/apiserver v0.32.1
-	k8s.io/client-go v0.32.1
+	k8s.io/client-go v0.32.2
 	k8s.io/code-generator v0.32.1
 	k8s.io/component-base v0.32.1
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
