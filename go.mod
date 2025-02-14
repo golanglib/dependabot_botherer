@@ -17,7 +17,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.3
 	cloud.google.com/go/firestore v1.18.0
-	cloud.google.com/go/iam v1.3.1
+	cloud.google.com/go/iam v1.4.0
 	cloud.google.com/go/kms v1.20.5
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.4
@@ -1518,7 +1518,7 @@ require (
 	google.golang.org/api v0.220.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4
-	google.golang.org/genproto/googleapis/api v0.0.0-20250204164813-702378808489
+	google.golang.org/genproto/googleapis/api v0.0.0-20250207221924-e9438ea467c6
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250204164813-702378808489
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
