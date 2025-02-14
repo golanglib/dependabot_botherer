@@ -1554,7 +1554,7 @@ require (
 	k8s.io/apiserver v0.32.1
 	k8s.io/client-go v0.32.2
 	k8s.io/code-generator v0.32.1
-	k8s.io/component-base v0.32.1
+	k8s.io/component-base v0.32.2
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
