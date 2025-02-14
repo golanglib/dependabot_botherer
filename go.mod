@@ -1223,7 +1223,7 @@ require (
 	github.com/samber/lo v1.49.1
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
-	github.com/sanity-io/litter v1.5.6
+	github.com/sanity-io/litter v1.5.7
 	github.com/sanposhiho/wastedassign v1.0.0
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
