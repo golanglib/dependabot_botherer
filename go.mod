@@ -667,7 +667,7 @@ require (
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
-	github.com/golangci/golangci-lint v1.64.2
+	github.com/golangci/golangci-lint v1.64.5
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
@@ -1069,7 +1069,7 @@ require (
 	github.com/nishanths/exhaustive v0.12.0
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/nunnatsa/ginkgolinter v0.18.4
+	github.com/nunnatsa/ginkgolinter v0.19.0
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
@@ -1325,7 +1325,7 @@ require (
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
-	github.com/tdakkota/asciicheck v0.3.0
+	github.com/tdakkota/asciicheck v0.4.0
 	github.com/tdewolff/minify/v2 v2.21.3
 	github.com/tdewolff/parse/v2 v2.7.20
 	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
@@ -1494,7 +1494,7 @@ require (
 	golang.org/x/crypto v0.33.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250210185358-939b2ce775ac
-	golang.org/x/exp/typeparams v0.0.0-20241108190413-2d47ceb2692f
+	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.24.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
