@@ -924,7 +924,7 @@ require (
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
-	github.com/leonelquinteros/gotext v1.7.0
+	github.com/leonelquinteros/gotext v1.7.1
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.3
