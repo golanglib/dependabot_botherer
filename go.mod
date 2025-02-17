@@ -927,7 +927,7 @@ require (
 	github.com/leonelquinteros/gotext v1.7.0
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
-	github.com/libdns/libdns v0.2.2
+	github.com/libdns/libdns v0.2.3
 	github.com/linkedin/goavro/v2 v2.13.1
 	github.com/linode/linodego v1.47.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
