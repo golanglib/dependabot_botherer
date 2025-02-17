@@ -234,12 +234,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.62
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.14
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.12
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.13
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.20
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.203.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.18
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.19
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.18
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.77.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.15
@@ -546,7 +546,7 @@ require (
 	github.com/git-lfs/wildmatch/v2 v2.0.1
 	github.com/gkampitakis/ciinfo v0.3.2
 	github.com/gkampitakis/go-diff v1.3.2
-	github.com/gkampitakis/go-snaps v0.5.10
+	github.com/gkampitakis/go-snaps v0.5.11
 	github.com/glebarez/go-sqlite v1.22.0
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
@@ -605,7 +605,7 @@ require (
 	github.com/go-playground/form/v4 v4.2.1
 	github.com/go-playground/locales v0.14.1
 	github.com/go-playground/universal-translator v0.18.1
-	github.com/go-playground/validator/v10 v10.24.0
+	github.com/go-playground/validator/v10 v10.25.0
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
@@ -924,7 +924,7 @@ require (
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
-	github.com/leonelquinteros/gotext v1.7.0
+	github.com/leonelquinteros/gotext v1.7.1
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.3
@@ -990,7 +990,7 @@ require (
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
-	github.com/mgechev/revive v1.6.1
+	github.com/mgechev/revive v1.7.0
 	github.com/mholt/acmez v1.2.0
 	github.com/mholt/acmez/v2 v2.0.3
 	github.com/mholt/archiver/v3 v3.5.1
@@ -1109,7 +1109,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.21.3
+	github.com/pb33f/libopenapi v0.21.5
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pelletier/go-toml v1.9.5
@@ -1325,7 +1325,7 @@ require (
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
-	github.com/tdakkota/asciicheck v0.4.0
+	github.com/tdakkota/asciicheck v0.4.1
 	github.com/tdewolff/minify/v2 v2.21.3
 	github.com/tdewolff/parse/v2 v2.7.20
 	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
@@ -1390,7 +1390,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.48.1
 	github.com/volcengine/volc-sdk-golang v1.0.195
-	github.com/volcengine/volcengine-go-sdk v1.0.181
+	github.com/volcengine/volcengine-go-sdk v1.0.182
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
