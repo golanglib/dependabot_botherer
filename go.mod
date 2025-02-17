@@ -650,7 +650,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.143.1
+	github.com/gohugoio/hugo v0.144.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -1223,7 +1223,7 @@ require (
 	github.com/samber/lo v1.49.1
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
-	github.com/sanity-io/litter v1.5.7
+	github.com/sanity-io/litter v1.5.8
 	github.com/sanposhiho/wastedassign v1.0.0
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
@@ -1300,7 +1300,7 @@ require (
 	github.com/spdx/tools-golang v0.5.5
 	github.com/spf13/afero v1.12.0
 	github.com/spf13/cast v1.7.1
-	github.com/spf13/cobra v1.8.1
+	github.com/spf13/cobra v1.9.1
 	github.com/spf13/cobra-cli v1.3.0
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.6
