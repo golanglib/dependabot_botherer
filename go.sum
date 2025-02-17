@@ -5049,8 +5049,8 @@ github.com/tailscale/depaware v0.0.0-20210622194025-720c4b409502/go.mod h1:p9lPs
 github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53 h1:uxMgm0C+EjytfAqyfBG55ZONKQ7mvd7x4YYCWsf8QHQ=
 github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53/go.mod h1:kNGUQ3VESx3VZwRwA9MSCUegIl6+saPL8Noq82ozCaU=
 github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
-github.com/tdakkota/asciicheck v0.4.0 h1:VZ13Itw4k1i7d+dpDSNS8Op645XgGHpkCEh/WHicgWw=
-github.com/tdakkota/asciicheck v0.4.0/go.mod h1:0k7M3rCfRXb0Z6bwgvkEIMleKH3kXNz9UqJ9Xuqopr8=
+github.com/tdakkota/asciicheck v0.4.1 h1:bm0tbcmi0jezRA2b5kg4ozmMuGAFotKI3RZfrhfovg8=
+github.com/tdakkota/asciicheck v0.4.1/go.mod h1:0k7M3rCfRXb0Z6bwgvkEIMleKH3kXNz9UqJ9Xuqopr8=
 github.com/tdewolff/minify/v2 v2.21.3 h1:KmhKNGrN/dGcvb2WDdB5yA49bo37s+hcD8RiF+lioV8=
 github.com/tdewolff/minify/v2 v2.21.3/go.mod h1:iGxHaGiONAnsYuo8CRyf8iPUcqRJVB/RhtEcTpqS7xw=
 github.com/tdewolff/parse/v2 v2.7.20 h1:Y33JmRLjyGhX5JRvYh+CO6Sk6pGMw3iO5eKGhUhx8JE=
