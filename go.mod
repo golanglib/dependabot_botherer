@@ -95,7 +95,7 @@ require (
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c
 	github.com/ClickHouse/ch-go v0.65.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
-	github.com/ClickHouse/clickhouse-go/v2 v2.31.0
+	github.com/ClickHouse/clickhouse-go/v2 v2.32.0
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
 	github.com/CloudyKit/jet/v6 v6.2.0
 	github.com/Code-Hex/go-generics-cache v1.5.1
@@ -140,7 +140,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.5
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.13.0
+	github.com/SAP/go-hdb v1.13.2
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -180,7 +180,7 @@ require (
 	github.com/anacrolix/envpprof v1.4.0
 	github.com/anacrolix/fuse v0.4.0
 	github.com/anacrolix/generics v0.0.3-0.20240902042256-7fb2702ef0ca
-	github.com/anacrolix/go-libutp v1.3.1
+	github.com/anacrolix/go-libutp v1.3.2
 	github.com/anacrolix/log v0.16.0
 	github.com/anacrolix/lsan v0.0.0-20240902033017-52047d0c8aa2
 	github.com/anacrolix/missinggo v1.3.0
@@ -193,7 +193,7 @@ require (
 	github.com/anacrolix/stm v0.5.0
 	github.com/anacrolix/sync v0.5.3
 	github.com/anacrolix/tagflag v1.4.0
-	github.com/anacrolix/torrent v1.58.0
+	github.com/anacrolix/torrent v1.58.1
 	github.com/anacrolix/upnp v0.1.4
 	github.com/anchore/go-struct-converter v0.0.0-20240925125616-a0883641c664
 	github.com/andeya/ameda v1.5.3
@@ -227,12 +227,12 @@ require (
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.36.1
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.9
 	github.com/aws/aws-sdk-go-v2/config v1.29.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.59
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.4
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.61
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.62
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.14
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.12
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15
@@ -241,7 +241,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.203.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.18
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.18
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.76.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.77.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.15
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.14
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.14
@@ -634,7 +634,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/goccy/go-json v0.10.5
-	github.com/goccy/go-yaml v1.15.22
+	github.com/goccy/go-yaml v1.15.23
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -650,7 +650,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.143.1
+	github.com/gohugoio/hugo v0.144.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -927,7 +927,7 @@ require (
 	github.com/leonelquinteros/gotext v1.7.0
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
-	github.com/libdns/libdns v0.2.2
+	github.com/libdns/libdns v0.2.3
 	github.com/linkedin/goavro/v2 v2.13.1
 	github.com/linode/linodego v1.47.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
@@ -1003,7 +1003,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.85
+	github.com/minio/minio-go/v7 v7.0.86
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1223,7 +1223,7 @@ require (
 	github.com/samber/lo v1.49.1
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
-	github.com/sanity-io/litter v1.5.7
+	github.com/sanity-io/litter v1.5.8
 	github.com/sanposhiho/wastedassign v1.0.0
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
@@ -1300,7 +1300,7 @@ require (
 	github.com/spdx/tools-golang v0.5.5
 	github.com/spf13/afero v1.12.0
 	github.com/spf13/cast v1.7.1
-	github.com/spf13/cobra v1.8.1
+	github.com/spf13/cobra v1.9.1
 	github.com/spf13/cobra-cli v1.3.0
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.6
@@ -1334,7 +1334,7 @@ require (
 	github.com/terminalstatic/go-xsd-validate v0.1.6
 	github.com/testcontainers/testcontainers-go v0.35.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.35.0
-	github.com/tetafro/godot v1.4.20
+	github.com/tetafro/godot v1.5.0
 	github.com/tetratelabs/wazero v1.8.2
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
 	github.com/tidwall/btree v1.7.0
@@ -1372,7 +1372,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.28.0
+	github.com/v2fly/v2ray-core/v5 v5.29.0
 	github.com/valyala/fasthttp v1.58.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
@@ -1678,7 +1678,7 @@ require (
 	github.com/dmarkham/enumer v1.5.10 // indirect
 	github.com/docker/cli v27.5.1+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v27.5.0+incompatible // indirect
+	github.com/docker/docker v27.5.1+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
@@ -1734,6 +1734,7 @@ require (
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.0.1 // indirect
+	github.com/minio/crc64nvme v1.0.0 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
