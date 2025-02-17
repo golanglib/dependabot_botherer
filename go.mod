@@ -180,7 +180,7 @@ require (
 	github.com/anacrolix/envpprof v1.4.0
 	github.com/anacrolix/fuse v0.4.0
 	github.com/anacrolix/generics v0.0.3-0.20240902042256-7fb2702ef0ca
-	github.com/anacrolix/go-libutp v1.3.1
+	github.com/anacrolix/go-libutp v1.3.2
 	github.com/anacrolix/log v0.16.0
 	github.com/anacrolix/lsan v0.0.0-20240902033017-52047d0c8aa2
 	github.com/anacrolix/missinggo v1.3.0
@@ -193,7 +193,7 @@ require (
 	github.com/anacrolix/stm v0.5.0
 	github.com/anacrolix/sync v0.5.3
 	github.com/anacrolix/tagflag v1.4.0
-	github.com/anacrolix/torrent v1.58.0
+	github.com/anacrolix/torrent v1.58.1
 	github.com/anacrolix/upnp v0.1.4
 	github.com/anchore/go-struct-converter v0.0.0-20240925125616-a0883641c664
 	github.com/andeya/ameda v1.5.3
