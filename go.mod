@@ -610,7 +610,7 @@ require (
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-resty/resty/v2 v2.16.5
-	github.com/go-sql-driver/mysql v1.8.1
+	github.com/go-sql-driver/mysql v1.9.0
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
 	github.com/go-task/slim-sprig v2.20.0+incompatible
@@ -650,7 +650,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.144.0
+	github.com/gohugoio/hugo v0.144.1
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -1069,7 +1069,7 @@ require (
 	github.com/nishanths/exhaustive v0.12.0
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/nunnatsa/ginkgolinter v0.19.0
+	github.com/nunnatsa/ginkgolinter v0.19.1
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
@@ -1335,7 +1335,7 @@ require (
 	github.com/testcontainers/testcontainers-go v0.35.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.35.0
 	github.com/tetafro/godot v1.5.0
-	github.com/tetratelabs/wazero v1.8.2
+	github.com/tetratelabs/wazero v1.9.0
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
 	github.com/tidwall/btree v1.7.0
 	github.com/tidwall/gjson v1.18.0
