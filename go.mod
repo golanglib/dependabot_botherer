@@ -394,10 +394,10 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
-	github.com/cloudwego/gopkg v0.1.3
+	github.com/cloudwego/gopkg v0.1.4-0.20241217093255-8980b14172b7
 	github.com/cloudwego/hertz v0.9.5
 	github.com/cloudwego/iasm v0.2.0
-	github.com/cloudwego/kitex v0.12.1
+	github.com/cloudwego/kitex v0.12.2
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250110061237-7306cc836e08
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.6.5
