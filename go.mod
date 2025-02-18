@@ -1069,7 +1069,7 @@ require (
 	github.com/nishanths/exhaustive v0.12.0
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/nunnatsa/ginkgolinter v0.19.0
+	github.com/nunnatsa/ginkgolinter v0.19.1
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
