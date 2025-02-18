@@ -1006,8 +1006,8 @@ github.com/RyuaNerin/go-krypto v1.3.0 h1:smavTzSMAx8iuVlGb4pEwl9MD2qicqMzuXR2QWp
 github.com/RyuaNerin/go-krypto v1.3.0/go.mod h1:9R9TU936laAIqAmjcHo/LsaXYOZlymudOAxjaBf62UM=
 github.com/RyuaNerin/testingutil v0.1.3 h1:ZFa6xkIC8FWgTjzgzeis/RaXozdfp5SfK8a2iHaS4RQ=
 github.com/RyuaNerin/testingutil v0.1.3/go.mod h1:yTqj6Ta/ycHMPJHRyO12Mz3VrvTloWOsy23WOZH19AA=
-github.com/SAP/go-hdb v1.13.2 h1:bVvhGolTneVjsW7uiWMPT4UVbC6X46WBQCktA7ZENmo=
-github.com/SAP/go-hdb v1.13.2/go.mod h1:ghSRSuu6n65+M6exMu/P7jwkt6HHnc/Wstrf6ai2Qas=
+github.com/SAP/go-hdb v1.13.3 h1:T7ArXTKNytDWms4+NvmtIt9HFiaz4hSjvBIikfgVZis=
+github.com/SAP/go-hdb v1.13.3/go.mod h1:ghSRSuu6n65+M6exMu/P7jwkt6HHnc/Wstrf6ai2Qas=
 github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3 h1:BP0HiyNT3AQEYi+if3wkRcIdQFHtsw6xX3Kx0glckgA=
 github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3/go.mod h1:hMNtySovKkn2gdDuLqnqveP+mfhUSaBdoBcr2I7Zt0E=
 github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06 h1:KkH3I3sJuOLP3TjA/dfr4NAY8bghDwnXiU7cTKxQqo0=
