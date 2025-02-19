@@ -226,24 +226,24 @@ require (
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
 	github.com/aws/aws-sdk-go v1.55.6
-	github.com/aws/aws-sdk-go-v2 v1.36.1
+	github.com/aws/aws-sdk-go-v2 v1.36.2
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.9
 	github.com/aws/aws-sdk-go-v2/config v1.29.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.59
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.4
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.29
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.62
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.14
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.13
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.20
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.203.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.203.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.19
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.18
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.77.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.24.15
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.14
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.28.15
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.14
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.16
 	github.com/aws/smithy-go v1.22.3
@@ -337,7 +337,7 @@ require (
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.1
 	github.com/bytedance/mockey v1.2.14
-	github.com/bytedance/sonic v1.12.8
+	github.com/bytedance/sonic v1.12.9
 	github.com/bytedance/sonic/loader v0.2.3
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
@@ -814,7 +814,7 @@ require (
 	github.com/ianlancetaylor/demangle v0.0.0-20240912202439-0a2b6291aafd
 	github.com/inconshreveable/mousetrap v1.1.0
 	github.com/incu6us/goimports-reviser v0.1.6
-	github.com/incu6us/goimports-reviser/v3 v3.8.2
+	github.com/incu6us/goimports-reviser/v3 v3.9.0
 	github.com/influxdata/influxdb-client-go v1.4.0
 	github.com/influxdata/influxdb-client-go/v2 v2.14.0
 	github.com/influxdata/influxdb-observability/common v0.5.12
@@ -895,7 +895,7 @@ require (
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
 	github.com/keybase/go-keychain v0.0.0-20231219164618-57a3676c3af6
-	github.com/kisielk/errcheck v1.8.0
+	github.com/kisielk/errcheck v1.9.0
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.5
 	github.com/klauspost/asmfmt v1.3.2
@@ -1095,7 +1095,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.83.1
+	github.com/oracle/oci-go-sdk/v65 v65.83.2
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.1
@@ -1155,7 +1155,7 @@ require (
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.24.1
 	github.com/prometheus-community/pro-bing v0.6.1
-	github.com/prometheus/client_golang v1.21.0-rc.0
+	github.com/prometheus/client_golang v1.21.0
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.62.0
 	github.com/prometheus/common/sigv4 v0.1.0
@@ -1515,11 +1515,11 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.221.0
+	google.golang.org/api v0.222.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4
 	google.golang.org/genproto/googleapis/api v0.0.0-20250207221924-e9438ea467c6
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250207221924-e9438ea467c6
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250212204824-5a70512c5d8b
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
@@ -1648,14 +1648,14 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.32 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.32 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.33 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.33 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.2 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.32 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.6.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.13 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.13 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.14 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.13 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
