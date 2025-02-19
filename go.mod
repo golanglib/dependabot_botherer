@@ -899,7 +899,7 @@ require (
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.5
 	github.com/klauspost/asmfmt v1.3.2
-	github.com/klauspost/compress v1.17.11
+	github.com/klauspost/compress v1.18.0
 	github.com/klauspost/cpuid v1.3.1
 	github.com/klauspost/cpuid/v2 v2.2.9
 	github.com/klauspost/reedsolomon v1.12.4
