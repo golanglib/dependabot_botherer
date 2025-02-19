@@ -1690,8 +1690,8 @@ github.com/caio/go-tdigest/v4 v4.0.1/go.mod h1:Wsa+f0EZnV2gShdj1adgl0tQSoXRxtM0Q
 github.com/calebcase/tmpfile v1.0.3 h1:BZrOWZ79gJqQ3XbAQlihYZf/YCV0H4KPIdM5K5oMpJo=
 github.com/calebcase/tmpfile v1.0.3/go.mod h1:UAUc01aHeC+pudPagY/lWvt2qS9ZO5Zzof6/tIUzqeI=
 github.com/casbin/casbin/v2 v2.37.0/go.mod h1:vByNa/Fchek0KZUgG5wEsl7iFsiviAYKRtgrQfcJqHg=
-github.com/catenacyber/perfsprint v0.8.1 h1:bGOHuzHe0IkoGeY831RW4aSlt1lPRd3WRAScSWOaV7E=
-github.com/catenacyber/perfsprint v0.8.1/go.mod h1:/wclWYompEyjUD2FuIIDVKNkqz7IgBIWXIH3V0Zol50=
+github.com/catenacyber/perfsprint v0.8.2 h1:+o9zVmCSVa7M4MvabsWvESEhpsMkhfE7k0sHNGL95yw=
+github.com/catenacyber/perfsprint v0.8.2/go.mod h1:q//VWC2fWbcdSLEY1R3l8n0zQCDPdE4IjZwyY1HMunM=
 github.com/cch123/supermonkey v1.0.1 h1:sPNQhaqMpfpERGb1oNoPcYV5tGln72SLlG2q2ozpzqg=
 github.com/cch123/supermonkey v1.0.1/go.mod h1:d5jXTCyG6nu/pu0vYmoC0P/l0eBGesv3oQQ315uNBOA=
 github.com/ccojocar/zxcvbn-go v1.0.2 h1:na/czXU8RrhXO4EZme6eQJLR4PzcGsahsBOAwU6I3Vg=
