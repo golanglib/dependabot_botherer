@@ -1376,8 +1376,8 @@ github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.15 h1:+a0SqOtbhFDifEnt2/9I
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.15/go.mod h1:jBiy3OFpD0L9Te+9hx9vcRwz4WEKH2eYSmM7qvH0Q7E=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.14 h1:Xc90sglbEnAC1X4d4ui422Ppw0HWjyNoqGAE1Dq+Rcg=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.14/go.mod h1:IbPFVuHnR+Klb3rrZHai890N1dnMCJZ0GeRfG0fj+ys=
-github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15 h1:62N5DMYHugf9bA/Vm7ycH/ete0v8K0I6yu9B9hNIaa0=
-github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.15/go.mod h1:jRNw/WW33oPh8sHNzNGGyeKGgCi/HDuNs4C0j4SYGVs=
+github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.16 h1:DodiGgET+sAVT1Wsx9lHDpEPxzoY7Y6wCpYh6LsGTWQ=
+github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.16/go.mod h1:FyuFDtt95CXzQCClFbkb9rqKDX8+IRvSzmjFSkQOX4g=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.5.0/go.mod h1:XY5YhCS9SLul3JSQ08XG/nfxXxrkh6RR21XPq/J//NY=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.2 h1:lT4US8VW4CAsCzJy0JpH/vPuJD9nG/73ioLHDlKQDU8=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.2/go.mod h1:QwexjOlSUV85+ct6LohHmsaFTiW2j1s+9SQZNVjhAV0=
@@ -1403,8 +1403,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.14/go.mod h1:wMxQ3O
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.6.0/go.mod h1:9O7UG2pELnP0hq35+Gd7XDjOLBkg7tmgRQ0y14ZjoJI=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.20 h1:lsoc2MRqua5r5vO8fD0sKfAQBnI3Ml2GYsYovytvApc=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.20/go.mod h1:+1jPu+qX/SsmClLRhJ94PYAtYKv6jRxX7UgT31Uvo7g=
-github.com/aws/aws-sdk-go-v2/service/kms v1.37.18 h1:pi9M/9n1PLayBXjia7LfwgXwcpFdFO7Q2cqKOZa1ZmM=
-github.com/aws/aws-sdk-go-v2/service/kms v1.37.18/go.mod h1:vZXvmzfhdsPj/axc8+qk/2fSCP4hGyaZ1MAduWEHAxM=
+github.com/aws/aws-sdk-go-v2/service/kms v1.37.19 h1:QxVwGw8i/uiI9uXWwvS/m76wCJiiEV6xssBTvs3rwTw=
+github.com/aws/aws-sdk-go-v2/service/kms v1.37.19/go.mod h1:Lcpx4mFS+YjFuKvFaS3GM8qSFQIvRmItZEghMD8evRo=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.77.1 h1:5bI9tJL2Z0FGFtp/LPDv0eyliFBHCn7LAhqpQuL+7kk=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.77.1/go.mod h1:njj3tSJONkfdLt4y6X8pyqeM6sJLNZxmzctKKV+n1GM=
 github.com/aws/aws-sdk-go-v2/service/sso v1.3.3/go.mod h1:Jgw5O+SK7MZ2Yi9Yvzb4PggAPYaFSliiQuWR0hNjexk=
