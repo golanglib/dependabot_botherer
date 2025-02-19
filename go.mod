@@ -814,7 +814,7 @@ require (
 	github.com/ianlancetaylor/demangle v0.0.0-20240912202439-0a2b6291aafd
 	github.com/inconshreveable/mousetrap v1.1.0
 	github.com/incu6us/goimports-reviser v0.1.6
-	github.com/incu6us/goimports-reviser/v3 v3.8.2
+	github.com/incu6us/goimports-reviser/v3 v3.9.0
 	github.com/influxdata/influxdb-client-go v1.4.0
 	github.com/influxdata/influxdb-client-go/v2 v2.14.0
 	github.com/influxdata/influxdb-observability/common v0.5.12
