@@ -316,6 +316,8 @@ require (
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
 	github.com/bombsimon/wsl/v4 v4.5.0
+	github.com/bool64/dev v0.2.39
+	github.com/bool64/shared v0.1.5
 	github.com/boombuler/barcode v1.0.2
 	github.com/boschrexroth/ctrlx-datalayer-golang v1.3.1
 	github.com/bradenaw/juniper v0.15.3
@@ -392,6 +394,8 @@ require (
 	github.com/cloudwego/eino v0.3.10
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250219143835-900b869c6c7c
+	github.com/cloudwego/eino-ext/devops v0.1.0
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
@@ -634,6 +638,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
+	github.com/gocarina/gocsv v0.0.0-20240520201108-78e41c74b4b1
 	github.com/goccy/go-json v0.10.5
 	github.com/goccy/go-yaml v1.15.23
 	github.com/gochore/boltutil v0.2.0
@@ -811,6 +816,7 @@ require (
 	github.com/huandu/go-assert v1.1.6
 	github.com/huandu/skiplist v1.2.1
 	github.com/huandu/xstrings v1.5.0
+	github.com/iancoleman/orderedmap v0.3.0
 	github.com/iancoleman/strcase v0.3.0
 	github.com/ianlancetaylor/demangle v0.0.0-20240912202439-0a2b6291aafd
 	github.com/inconshreveable/mousetrap v1.1.0
@@ -1149,6 +1155,7 @@ require (
 	github.com/pkg/sftp v1.13.7
 	github.com/pkg/xattr v0.4.10
 	github.com/pkoukk/tiktoken-go v0.1.7
+	github.com/pkoukk/tiktoken-go-loader v0.0.1
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
 	github.com/polyfloyd/go-errorlint v1.7.1
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
@@ -1194,6 +1201,7 @@ require (
 	github.com/rhysd/actionlint v1.7.7
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/rivo/uniseg v0.4.7
+	github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/robinson/gos7 v0.0.0-20240315073918-1f14519e4846
 	github.com/rogpeppe/go-internal v1.13.2-0.20241226121412-a5dc8ff20d0a
@@ -1320,6 +1328,10 @@ require (
 	github.com/stripe/stripe-go/v76 v76.25.0
 	github.com/stripe/stripe-go/v78 v78.12.0
 	github.com/subosito/gotenv v1.6.0
+	github.com/swaggest/assertjson v1.9.0
+	github.com/swaggest/jsonschema-go v0.3.73
+	github.com/swaggest/openapi-go v0.2.57
+	github.com/swaggest/refl v1.3.1
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
 	github.com/swaggo/swag v1.16.4
@@ -1770,7 +1782,6 @@ require (
 	github.com/raeperd/recvcheck v0.2.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
-	github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff // indirect
 	github.com/rubyist/tracerx v0.0.0-20170927163412-787959303086 // indirect
 	github.com/ryszard/goskiplist v0.0.0-20150312221310-2dfbae5fcf46 // indirect
 	github.com/sahilm/fuzzy v0.1.1 // indirect
