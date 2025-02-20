@@ -1815,8 +1815,8 @@ github.com/cloudwego/configmanager v0.2.2 h1:sVrJB8gWYTlPV2OS3wcgJSO9F2/9Zbkmcm1
 github.com/cloudwego/configmanager v0.2.2/go.mod h1:ppiyU+5TPLonE8qMVi/pFQk2eL3Q4P7d4hbiNJn6jwI=
 github.com/cloudwego/dynamicgo v0.5.2 h1:hw4AUvaQP49TOI6hqIhyDd4N1nbaKTH3vOOgiaEftyU=
 github.com/cloudwego/dynamicgo v0.5.2/go.mod h1:DknfxjIMuGvXow409bS/AWycXONdc02HECBL0qpNqTY=
-github.com/cloudwego/eino v0.3.10 h1:KQoc+FXt+5VkoStAxkle0J21HjHumu6+cdVHjBT7BuA=
-github.com/cloudwego/eino v0.3.10/go.mod h1:+kmJimGEcKuSI6OKhet7kBedkm1WUZS3H1QRazxgWUo=
+github.com/cloudwego/eino v0.3.11 h1:735FT66dAOTr6TSS2yUXFe5ide1D7YePlVi6j4ioUwg=
+github.com/cloudwego/eino v0.3.11/go.mod h1:+kmJimGEcKuSI6OKhet7kBedkm1WUZS3H1QRazxgWUo=
 github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893 h1:Q3JfjLhQsZntFAGsv7xlwHHrMhtfxYw3E4NdAUg/tSg=
 github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893/go.mod h1:IsJWoBbHFMqHgDahWe2qot4akEkaujv5wmX4/S74PZE=
 github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893 h1:vqpmAR3mKURFIcqqrprrHu6XJOEBnHghV5dkHKkgmKg=
@@ -4294,8 +4294,8 @@ github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTK
 github.com/paulmach/orb v0.11.1 h1:3koVegMC4X/WeiXYz9iswopaTwMem53NzTJuTF20JzU=
 github.com/paulmach/orb v0.11.1/go.mod h1:5mULz1xQfs3bmQm63QEJA6lNGujuRafwA5S/EnuLaLU=
 github.com/paulmach/protoscan v0.2.1/go.mod h1:SpcSwydNLrxUGSDvXvO0P7g7AuhJ7lcKfDlhJCDw2gY=
-github.com/pb33f/libopenapi v0.21.5 h1:oqYgK2hzFU3cVp1T6mUu9mwh7vVYcQaBHXsdSCn/q4U=
-github.com/pb33f/libopenapi v0.21.5/go.mod h1:Gc8oQkjr2InxwumK0zOBtKN9gIlv9L2VmSVIUk2YxcU=
+github.com/pb33f/libopenapi v0.21.6 h1:QQ2vinrjl7yy5WtqEWTP7r+0zAOZqKy0KDY3ltCWLxo=
+github.com/pb33f/libopenapi v0.21.6/go.mod h1:Gc8oQkjr2InxwumK0zOBtKN9gIlv9L2VmSVIUk2YxcU=
 github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 h1:onHthvaw9LFnH4t2DcNVpwGmV9E1BkGknEliJkfwQj0=
 github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58/go.mod h1:DXv8WO4yhMYhSNPKjeNKa5WY9YCIEBRbNzFFPJbWO6Y=
 github.com/pborman/getopt v0.0.0-20190409184431-ee0cd42419d3/go.mod h1:85jBQOZwpVEaDAr341tbn15RS4fCAsIst0qp7i8ex1o=
