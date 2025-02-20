@@ -391,7 +391,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.2
-	github.com/cloudwego/eino v0.3.10
+	github.com/cloudwego/eino v0.3.11
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250219143835-900b869c6c7c
@@ -983,7 +983,7 @@ require (
 	github.com/mdlayher/netlink v1.7.2
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
-	github.com/meilisearch/meilisearch-go v0.30.0
+	github.com/meilisearch/meilisearch-go v0.31.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
 	github.com/metacubex/chacha v0.1.1
 	github.com/metacubex/randv2 v0.2.0
@@ -1010,7 +1010,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.86
+	github.com/minio/minio-go/v7 v7.0.87
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1021,7 +1021,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.19.0
+	github.com/moby/buildkit v0.20.0
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1116,7 +1116,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.21.5
+	github.com/pb33f/libopenapi v0.21.6
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pelletier/go-toml v1.9.5
@@ -1176,7 +1176,7 @@ require (
 	github.com/puzpuzpuz/xsync v1.5.2
 	github.com/puzpuzpuz/xsync/v3 v3.5.1
 	github.com/qiniu/go-sdk/v7 v7.25.2
-	github.com/quasilyte/go-ruleguard v0.4.3-0.20240823090925-0fe6f58b47b1
+	github.com/quasilyte/go-ruleguard v0.4.4
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/quasilyte/go-ruleguard/rules v0.0.0-20211022131956-028d6511ab71
 	github.com/quasilyte/gogrep v0.5.0
@@ -1187,7 +1187,7 @@ require (
 	github.com/quic-go/qtls-go1-18 v0.2.0
 	github.com/quic-go/qtls-go1-19 v0.3.3
 	github.com/quic-go/qtls-go1-20 v0.4.1
-	github.com/quic-go/quic-go v0.49.0
+	github.com/quic-go/quic-go v0.50.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.69.1
@@ -1201,7 +1201,7 @@ require (
 	github.com/rhysd/actionlint v1.7.7
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/rivo/uniseg v0.4.7
-	github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff
+	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/robinson/gos7 v0.0.0-20240315073918-1f14519e4846
 	github.com/rogpeppe/go-internal v1.13.2-0.20241226121412-a5dc8ff20d0a
@@ -1747,7 +1747,7 @@ require (
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.0.1 // indirect
-	github.com/minio/crc64nvme v1.0.0 // indirect
+	github.com/minio/crc64nvme v1.0.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
