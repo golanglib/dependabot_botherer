@@ -9,7 +9,7 @@ require (
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250219170025-d39267d9df8f.1
-	cel.dev/expr v0.20.0
+	cel.dev/expr v0.21.2
 	cloud.google.com/go v0.118.2
 	cloud.google.com/go/auth v0.14.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
@@ -79,7 +79,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
-	github.com/Azure/go-amqp v1.3.0
+	github.com/Azure/go-amqp v1.4.0
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c
 	github.com/Azure/go-autorest/autorest v0.11.30
 	github.com/Azure/go-autorest/autorest/adal v0.9.24
@@ -924,7 +924,7 @@ require (
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
 	github.com/larksuite/oapi-sdk-go v1.1.48
-	github.com/larksuite/oapi-sdk-go/v3 v3.4.9
+	github.com/larksuite/oapi-sdk-go/v3 v3.4.10
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.1
 	github.com/ldez/tagliatelle v0.7.1
@@ -1092,7 +1092,7 @@ require (
 	github.com/onsi/gomega v1.36.2
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.14.0
-	github.com/openconfig/goyang v1.6.0
+	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
 	github.com/opencontainers/runc v1.2.5
