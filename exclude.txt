@@ -162,10 +162,9 @@ github.com/hashicorp/consul
 //go: module github.com/Azure/go-autorest/logger is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
-//go: warning: github.com/hashicorp/consul/api@v1.31.1: retracted by module author: checksum mismatch with tag
 //go: warning: github.com/hashicorp/go-msgpack@v1.1.5: retracted by module author: v1.1.5 merged upstream ugorji/go which breaks compatibility with previous versions.
 //go: to switch to the latest unretracted version, run:
-//	go get <module>@latest
+//	go get github.com/hashicorp/go-msgpack@latest
 github.com/hashicorp/nomad
 //go: github.com/hashicorp/nomad@latest (v1.9.6) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
 //	module declares its path as: github.com/hashicorp/go-metrics
@@ -195,7 +194,7 @@ github.com/junk1tm/musttag
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go
-//go: github.com/lucas-clemente/quic-go@latest (v0.49.0) requires github.com/lucas-clemente/quic-go@v0.49.0: parsing go.mod:
+//go: github.com/lucas-clemente/quic-go@latest (v0.50.0) requires github.com/lucas-clemente/quic-go@v0.50.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/lucas-clemente/quic-go
 github.com/marten-seemann/qpack
