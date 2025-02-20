@@ -20,4 +20,4 @@ write "func main() {"
 write "println(\"Thanks for your hard work, Dependabot!\")"
 write "}"
 
-go fmt .
+gofmt -w main.go
