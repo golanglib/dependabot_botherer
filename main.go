@@ -389,7 +389,6 @@ import (
 	_ "github.com/cloudwego/dynamicgo/conv"
 	_ "github.com/cloudwego/eino"
 	_ "github.com/cloudwego/eino-ext/components/model/ark"
-	_ "github.com/cloudwego/eino-ext/components/model/openai"
 	_ "github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb"
 	_ "github.com/cloudwego/eino-ext/devops"
 	_ "github.com/cloudwego/eino-ext/libs/acl/openai"
