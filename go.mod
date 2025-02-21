@@ -395,7 +395,7 @@ require (
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250219143835-900b869c6c7c
-	github.com/cloudwego/eino-ext/devops v0.1.0
+	github.com/cloudwego/eino-ext/devops v0.1.1
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
@@ -1287,7 +1287,7 @@ require (
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
-	github.com/smallstep/certificates v0.28.1
+	github.com/smallstep/certificates v0.28.2
 	github.com/smallstep/cli v0.28.2
 	github.com/smallstep/cli-utils v0.10.0
 	github.com/smallstep/nosql v0.7.0
@@ -1517,7 +1517,7 @@ require (
 	golang.org/x/sync v0.11.0
 	golang.org/x/sys v0.30.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
-	golang.org/x/telemetry/config v0.41.0
+	golang.org/x/telemetry/config v0.42.0
 	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
 	golang.org/x/time v0.10.0
@@ -1673,6 +1673,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
+	github.com/ccoveille/go-safecast v1.5.0 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
 	github.com/checkpoint-restore/go-criu/v6 v6.3.0 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
@@ -1721,7 +1722,7 @@ require (
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hashicorp/consul/api v1.31.0 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
-	github.com/hashicorp/vault/api v1.15.0 // indirect
+	github.com/hashicorp/vault/api v1.16.0 // indirect
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
@@ -1794,6 +1795,7 @@ require (
 	github.com/shirou/gopsutil/v4 v4.25.1 // indirect
 	github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 // indirect
 	github.com/smallstep/go-attestation v0.4.4-0.20240109183208-413678f90935 // indirect
+	github.com/smallstep/linkedca v0.23.0 // indirect
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 // indirect
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
@@ -1826,10 +1828,10 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.59.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.34.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.34.0 // indirect
-	go.step.sm/linkedca v0.22.2 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
+	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.5.1 // indirect
 	gopkg.in/cenkalti/backoff.v1 v1.1.0 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
