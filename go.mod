@@ -98,7 +98,7 @@ require (
 	github.com/ClickHouse/clickhouse-go v1.5.4
 	github.com/ClickHouse/clickhouse-go/v2 v2.32.2
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
-	github.com/CloudyKit/jet/v6 v6.2.0
+	github.com/CloudyKit/jet/v6 v6.3.1
 	github.com/Code-Hex/go-generics-cache v1.5.1
 	github.com/Crocmagnon/fatcontext v0.7.1
 	github.com/CycloneDX/cyclonedx-go v0.9.2
@@ -108,7 +108,7 @@ require (
 	github.com/Exayn/go-listmonk v1.0.11
 	github.com/GaijinEntertainment/go-exhaustruct v1.0.0
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
-	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.0
+	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.26.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.50.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
@@ -687,7 +687,7 @@ require (
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.2
 	github.com/google/go-containerregistry v0.20.3
 	github.com/google/go-github/v28 v28.1.1
@@ -1489,7 +1489,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20241226192728-8dfa5b98479f
-	go.step.sm/crypto v0.58.0
+	go.step.sm/crypto v0.58.1
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.0
@@ -1503,7 +1503,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.14.0
-	golang.org/x/crypto v0.33.0
+	golang.org/x/crypto v0.35.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
@@ -1573,7 +1573,7 @@ require (
 	k8s.io/utils v0.0.0-20241210054802-24370beab758
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11000.1
-	lukechampine.com/blake3 v1.3.0
+	lukechampine.com/blake3 v1.4.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
