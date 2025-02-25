@@ -98,7 +98,7 @@ require (
 	github.com/ClickHouse/clickhouse-go v1.5.4
 	github.com/ClickHouse/clickhouse-go/v2 v2.32.2
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
-	github.com/CloudyKit/jet/v6 v6.2.0
+	github.com/CloudyKit/jet/v6 v6.3.1
 	github.com/Code-Hex/go-generics-cache v1.5.1
 	github.com/Crocmagnon/fatcontext v0.7.1
 	github.com/CycloneDX/cyclonedx-go v0.9.2
@@ -108,7 +108,7 @@ require (
 	github.com/Exayn/go-listmonk v1.0.11
 	github.com/GaijinEntertainment/go-exhaustruct v1.0.0
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
-	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.0
+	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.26.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.50.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
@@ -222,7 +222,7 @@ require (
 	github.com/ashanbrown/makezero v1.2.0
 	github.com/atombender/go-jsonschema v0.17.0
 	github.com/atotto/clipboard v0.1.4
-	github.com/avast/retry-go/v4 v4.6.0
+	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
@@ -282,7 +282,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.4.4
-	github.com/blevesearch/bleve_index_api v1.2.1
+	github.com/blevesearch/bleve_index_api v1.2.2
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
 	github.com/blevesearch/go-faiss v1.0.24
@@ -290,7 +290,7 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.3.3
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.4
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
@@ -360,7 +360,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.20.0
-	github.com/charmbracelet/bubbletea v1.3.3
+	github.com/charmbracelet/bubbletea v1.3.4
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
 	github.com/charmbracelet/lipgloss v1.0.0
@@ -491,7 +491,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
 	github.com/edsrzf/mmap-go v1.2.0
-	github.com/elazarl/goproxy v1.7.0
+	github.com/elazarl/goproxy v1.7.2
 	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
@@ -687,7 +687,7 @@ require (
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.2
 	github.com/google/go-containerregistry v0.20.3
 	github.com/google/go-github/v28 v28.1.1
@@ -820,7 +820,7 @@ require (
 	github.com/ianlancetaylor/demangle v0.0.0-20240912202439-0a2b6291aafd
 	github.com/inconshreveable/mousetrap v1.1.0
 	github.com/incu6us/goimports-reviser v0.1.6
-	github.com/incu6us/goimports-reviser/v3 v3.9.0
+	github.com/incu6us/goimports-reviser/v3 v3.9.1
 	github.com/influxdata/influxdb-client-go v1.4.0
 	github.com/influxdata/influxdb-client-go/v2 v2.14.0
 	github.com/influxdata/influxdb-observability/common v0.5.12
@@ -907,7 +907,7 @@ require (
 	github.com/klauspost/asmfmt v1.3.2
 	github.com/klauspost/compress v1.18.0
 	github.com/klauspost/cpuid v1.3.1
-	github.com/klauspost/cpuid/v2 v2.2.9
+	github.com/klauspost/cpuid/v2 v2.2.10
 	github.com/klauspost/reedsolomon v1.12.4
 	github.com/kolo/xmlrpc v0.0.0-20220921171641-a4b6fa1dd06b
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3
@@ -1101,7 +1101,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.83.2
+	github.com/oracle/oci-go-sdk/v65 v65.84.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.1
@@ -1191,7 +1191,7 @@ require (
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.69.1
 	github.com/redis/go-redis/v9 v9.7.1
-	github.com/redis/rueidis v1.0.54
+	github.com/redis/rueidis v1.0.55
 	github.com/refraction-networking/utls v1.6.7
 	github.com/relvacode/iso8601 v1.6.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
@@ -1288,7 +1288,7 @@ require (
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.28.2
 	github.com/smallstep/cli v0.28.3
-	github.com/smallstep/cli-utils v0.10.0
+	github.com/smallstep/cli-utils v0.11.0
 	github.com/smallstep/nosql v0.7.0
 	github.com/smallstep/pkcs7 v0.2.1
 	github.com/smallstep/scep v0.0.0-20241223071629-a37a330173bc
@@ -1489,7 +1489,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20241226192728-8dfa5b98479f
-	go.step.sm/crypto v0.58.0
+	go.step.sm/crypto v0.58.1
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.0
@@ -1503,7 +1503,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.14.0
-	golang.org/x/crypto v0.33.0
+	golang.org/x/crypto v0.35.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
@@ -1573,7 +1573,7 @@ require (
 	k8s.io/utils v0.0.0-20241210054802-24370beab758
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11000.1
-	lukechampine.com/blake3 v1.3.0
+	lukechampine.com/blake3 v1.4.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
