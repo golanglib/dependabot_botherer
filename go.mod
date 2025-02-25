@@ -687,7 +687,7 @@ require (
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.2
 	github.com/google/go-containerregistry v0.20.3
 	github.com/google/go-github/v28 v28.1.1
