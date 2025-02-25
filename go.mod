@@ -1573,7 +1573,7 @@ require (
 	k8s.io/utils v0.0.0-20241210054802-24370beab758
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11000.1
-	lukechampine.com/blake3 v1.3.0
+	lukechampine.com/blake3 v1.4.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.24.4
