@@ -1489,7 +1489,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20241226192728-8dfa5b98479f
-	go.step.sm/crypto v0.58.0
+	go.step.sm/crypto v0.58.1
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.0
