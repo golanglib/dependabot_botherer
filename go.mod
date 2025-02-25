@@ -687,7 +687,7 @@ require (
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.2
 	github.com/google/go-containerregistry v0.20.3
 	github.com/google/go-github/v28 v28.1.1
@@ -1191,7 +1191,7 @@ require (
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.69.1
 	github.com/redis/go-redis/v9 v9.7.1
-	github.com/redis/rueidis v1.0.54
+	github.com/redis/rueidis v1.0.55
 	github.com/refraction-networking/utls v1.6.7
 	github.com/relvacode/iso8601 v1.6.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
