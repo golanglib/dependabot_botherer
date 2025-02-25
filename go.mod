@@ -222,7 +222,7 @@ require (
 	github.com/ashanbrown/makezero v1.2.0
 	github.com/atombender/go-jsonschema v0.17.0
 	github.com/atotto/clipboard v0.1.4
-	github.com/avast/retry-go/v4 v4.6.0
+	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.47.0
