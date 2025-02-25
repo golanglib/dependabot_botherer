@@ -1430,7 +1430,7 @@ require (
 	github.com/yohcop/openid-go v1.0.1
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
 	github.com/yuin/goldmark v1.7.8
-	github.com/yuin/goldmark-emoji v1.0.4
+	github.com/yuin/goldmark-emoji v1.0.5
 	github.com/yuin/goldmark-highlighting v0.0.0-20220208100518-594be1970594
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	github.com/yuin/goldmark-meta v1.1.0
