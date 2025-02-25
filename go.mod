@@ -177,7 +177,7 @@ require (
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
-	github.com/anacrolix/dht/v2 v2.22.0
+	github.com/anacrolix/dht/v2 v2.22.1
 	github.com/anacrolix/envpprof v1.4.0
 	github.com/anacrolix/fuse v0.4.0
 	github.com/anacrolix/generics v0.0.3-0.20240902042256-7fb2702ef0ca
