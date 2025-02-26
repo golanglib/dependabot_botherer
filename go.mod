@@ -499,7 +499,7 @@ require (
 	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43
 	github.com/emersion/go-smtp v0.21.3
 	github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9
-	github.com/emicklei/go-restful/v3 v3.12.1
+	github.com/emicklei/go-restful/v3 v3.12.2
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane/contrib v1.32.4
 	github.com/envoyproxy/protoc-gen-validate v1.2.1
@@ -1168,7 +1168,7 @@ require (
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.15.1
 	github.com/prometheus/prom2json v1.4.1
-	github.com/prometheus/prometheus v0.302.0
+	github.com/prometheus/prometheus v0.302.1
 	github.com/protolambda/ctxlock v0.1.0
 	github.com/putdotio/go-putio v1.7.2
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
@@ -1257,7 +1257,7 @@ require (
 	github.com/sethvargo/go-retry v0.3.0
 	github.com/shirou/gopsutil/v3 v3.24.5
 	github.com/shoenig/go-m1cpu v0.1.6
-	github.com/shoenig/test v1.12.0
+	github.com/shoenig/test v1.12.1
 	github.com/shopspring/decimal v1.4.0
 	github.com/showwin/speedtest-go v1.7.10
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20210228213109-c3a9aa474629
