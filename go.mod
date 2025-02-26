@@ -173,7 +173,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.88
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.89
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.16
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.21
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.203.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.204.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.20
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.19
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.77.1
@@ -270,13 +270,13 @@ require (
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
 	github.com/bep/imagemeta v0.9.0
-	github.com/bep/lazycache v0.7.0
+	github.com/bep/lazycache v0.8.0
 	github.com/bep/logg v0.4.0
-	github.com/bep/overlayfs v0.9.2
+	github.com/bep/overlayfs v0.10.0
 	github.com/bep/tmc v0.5.1
 	github.com/bitly/go-hostpool v0.1.0
 	github.com/bitly/go-simplejson v0.5.1
-	github.com/bits-and-blooms/bitset v1.20.0
+	github.com/bits-and-blooms/bitset v1.21.0
 	github.com/bits-and-blooms/bloom/v3 v3.7.0
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
@@ -315,7 +315,7 @@ require (
 	github.com/boj/redistore v1.4.0
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
-	github.com/bombsimon/wsl/v4 v4.5.0
+	github.com/bombsimon/wsl/v4 v4.6.0
 	github.com/bool64/dev v0.2.39
 	github.com/bool64/shared v0.1.5
 	github.com/boombuler/barcode v1.0.2
@@ -398,7 +398,7 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
-	github.com/cloudwego/gopkg v0.1.4-0.20241217093255-8980b14172b7
+	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.5
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.12.2
@@ -655,7 +655,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.144.2
+	github.com/gohugoio/hugo v0.145.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
 	github.com/gohugoio/locales v0.14.0
@@ -1057,7 +1057,7 @@ require (
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.3
-	github.com/nats-io/nats-server/v2 v2.10.25
+	github.com/nats-io/nats-server/v2 v2.10.26
 	github.com/nats-io/nkeys v0.4.10
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
@@ -1593,7 +1593,7 @@ require (
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.35.0
+	modernc.org/sqlite v1.36.0
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
@@ -1602,7 +1602,7 @@ require (
 	mvdan.cc/gofumpt v0.7.0
 	mvdan.cc/unparam v0.0.0-20240917084806-57a3b4290ba3
 	mvdan.cc/xurls/v2 v2.6.0
-	pgregory.net/rapid v1.1.0
+	pgregory.net/rapid v1.2.0
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.2
