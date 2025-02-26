@@ -110,7 +110,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.26.0
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.50.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.51.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
 	github.com/IBM/sarama v1.45.0
@@ -269,7 +269,7 @@ require (
 	github.com/bep/godartsass/v2 v2.3.2
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
-	github.com/bep/imagemeta v0.8.4
+	github.com/bep/imagemeta v0.9.0
 	github.com/bep/lazycache v0.7.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.9.2
@@ -350,7 +350,7 @@ require (
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
 	github.com/calebcase/tmpfile v1.0.3
-	github.com/catenacyber/perfsprint v0.8.2
+	github.com/catenacyber/perfsprint v0.9.0
 	github.com/cch123/supermonkey v1.0.1
 	github.com/ccojocar/zxcvbn-go v1.0.2
 	github.com/cenkalti/backoff/v3 v3.2.2
@@ -499,7 +499,7 @@ require (
 	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43
 	github.com/emersion/go-smtp v0.21.3
 	github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9
-	github.com/emicklei/go-restful/v3 v3.12.1
+	github.com/emicklei/go-restful/v3 v3.12.2
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane/contrib v1.32.4
 	github.com/envoyproxy/protoc-gen-validate v1.2.1
@@ -682,7 +682,7 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.23.2
+	github.com/google/cel-go v0.24.0
 	github.com/google/certificate-transparency-go v1.3.1
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
@@ -1168,7 +1168,7 @@ require (
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.15.1
 	github.com/prometheus/prom2json v1.4.1
-	github.com/prometheus/prometheus v0.302.0
+	github.com/prometheus/prometheus v0.302.1
 	github.com/protolambda/ctxlock v0.1.0
 	github.com/putdotio/go-putio v1.7.2
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
@@ -1236,7 +1236,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.37.0
+	github.com/sashabaranov/go-openai v1.38.0
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.28.0
 	github.com/sassoftware/go-rpmutils v0.4.0
@@ -1257,7 +1257,7 @@ require (
 	github.com/sethvargo/go-retry v0.3.0
 	github.com/shirou/gopsutil/v3 v3.24.5
 	github.com/shoenig/go-m1cpu v0.1.6
-	github.com/shoenig/test v1.12.0
+	github.com/shoenig/test v1.12.1
 	github.com/shopspring/decimal v1.4.0
 	github.com/showwin/speedtest-go v1.7.10
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20210228213109-c3a9aa474629
@@ -1527,7 +1527,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.222.0
+	google.golang.org/api v0.223.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4
 	google.golang.org/genproto/googleapis/api v0.0.0-20250219182151-9fdb1cabc7b2
@@ -1641,7 +1641,7 @@ require (
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
 	github.com/GoogleCloudPlatform/grpc-gcp-go/grpcgcp v1.5.0 // indirect
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.50.0 // indirect
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.51.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
 	github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
