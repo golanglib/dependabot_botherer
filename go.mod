@@ -1602,7 +1602,7 @@ require (
 	mvdan.cc/gofumpt v0.7.0
 	mvdan.cc/unparam v0.0.0-20240917084806-57a3b4290ba3
 	mvdan.cc/xurls/v2 v2.6.0
-	pgregory.net/rapid v1.1.0
+	pgregory.net/rapid v1.2.0
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.2
