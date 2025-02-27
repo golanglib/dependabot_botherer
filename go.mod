@@ -74,7 +74,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/network/armnetwork v1.1.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/network/armnetwork/v4 v4.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources v1.2.0
-	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.6.0
+	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.7.0
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.3.1
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0
@@ -401,7 +401,7 @@ require (
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
-	github.com/cloudwego/kitex v0.12.2
+	github.com/cloudwego/kitex v0.12.3
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250110061237-7306cc836e08
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.6.5
@@ -414,7 +414,7 @@ require (
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/containerd/cgroups/v3 v3.0.5
 	github.com/containerd/console v1.0.4
-	github.com/containerd/containerd v1.7.25
+	github.com/containerd/containerd v1.7.26
 	github.com/containerd/containerd/api v1.8.0
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
@@ -575,7 +575,7 @@ require (
 	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.13.2
-	github.com/go-jose/go-jose/v3 v3.0.3
+	github.com/go-jose/go-jose/v3 v3.0.4
 	github.com/go-jose/go-jose/v4 v4.0.5
 	github.com/go-kit/kit v0.13.0
 	github.com/go-kit/log v0.2.1
@@ -682,7 +682,7 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.24.0
+	github.com/google/cel-go v0.24.1
 	github.com/google/certificate-transparency-go v1.3.1
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
