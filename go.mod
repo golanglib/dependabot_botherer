@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.16
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.21
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.204.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.205.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.20
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.19
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.77.1
@@ -399,7 +399,7 @@ require (
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
-	github.com/cloudwego/hertz v0.9.5
+	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.12.2
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250110061237-7306cc836e08
@@ -1384,7 +1384,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.29.1
+	github.com/v2fly/v2ray-core/v5 v5.29.2
 	github.com/valyala/fasthttp v1.59.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
