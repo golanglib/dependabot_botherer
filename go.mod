@@ -688,7 +688,7 @@ require (
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.7.0
-	github.com/google/go-configfs-tsm v0.3.2
+	github.com/google/go-configfs-tsm v0.3.3-0.20240919001351-b4b5b84fdcbc
 	github.com/google/go-containerregistry v0.20.3
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
@@ -703,9 +703,9 @@ require (
 	github.com/google/go-querystring v1.1.0
 	github.com/google/go-replayers/httpreplay v1.2.0
 	github.com/google/go-sev-guest v0.12.1
-	github.com/google/go-tdx-guest v0.3.1
+	github.com/google/go-tdx-guest v0.3.2-0.20241009005452-097ee70d0843
 	github.com/google/go-tpm v0.9.3
-	github.com/google/go-tpm-tools v0.4.4
+	github.com/google/go-tpm-tools v0.4.5
 	github.com/google/go-tspi v0.3.0
 	github.com/google/gofuzz v1.2.0
 	github.com/google/gopacket v1.1.19
@@ -1711,6 +1711,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/golangci/dupl v0.0.0-20180902072040-3e9179ac440a // indirect
 	github.com/google/flatbuffers v24.12.23+incompatible // indirect
+	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
 	github.com/googleapis/go-sql-spanner v1.7.4 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
 	github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976 // indirect
