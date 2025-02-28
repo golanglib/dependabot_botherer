@@ -900,7 +900,7 @@ require (
 	github.com/kataras/pio v0.0.13
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
-	github.com/keybase/go-keychain v0.0.0-20231219164618-57a3676c3af6
+	github.com/keybase/go-keychain v0.0.1
 	github.com/kisielk/errcheck v1.9.0
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.5
