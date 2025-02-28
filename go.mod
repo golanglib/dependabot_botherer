@@ -5,7 +5,7 @@ go 1.24
 toolchain go1.24.0
 
 require (
-	4d63.com/gocheckcompilerdirectives v1.2.1
+	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250219170025-d39267d9df8f.1
@@ -234,12 +234,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.5
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.63
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.15
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.46.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.16
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.21
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.205.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.206.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.20
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.19
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.77.1
@@ -726,7 +726,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.7.0
+	github.com/gopcua/opcua v0.7.1
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.5.0
@@ -1288,7 +1288,7 @@ require (
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.28.2
 	github.com/smallstep/cli v0.28.3
-	github.com/smallstep/cli-utils v0.11.0
+	github.com/smallstep/cli-utils v0.12.0
 	github.com/smallstep/nosql v0.7.0
 	github.com/smallstep/pkcs7 v0.2.1
 	github.com/smallstep/scep v0.0.0-20241223071629-a37a330173bc
@@ -1391,7 +1391,7 @@ require (
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.22
-	github.com/vektra/mockery/v2 v2.52.3
+	github.com/vektra/mockery/v2 v2.52.4
 	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1582,7 +1582,7 @@ require (
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
-	modernc.org/gc/v2 v2.6.3
+	modernc.org/gc/v2 v2.6.4
 	modernc.org/gc/v3 v3.0.0-20241004144649-1aea3fae8852
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
