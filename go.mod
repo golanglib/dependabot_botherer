@@ -903,7 +903,7 @@ require (
 	github.com/keybase/go-keychain v0.0.0-20231219164618-57a3676c3af6
 	github.com/kisielk/errcheck v1.9.0
 	github.com/kisielk/gotool v1.0.0
-	github.com/kkHAIKE/contextcheck v1.1.5
+	github.com/kkHAIKE/contextcheck v1.1.6
 	github.com/klauspost/asmfmt v1.3.2
 	github.com/klauspost/compress v1.18.0
 	github.com/klauspost/cpuid v1.3.1
