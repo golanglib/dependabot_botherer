@@ -472,7 +472,7 @@ require (
 	github.com/djherbis/times v1.6.0
 	github.com/dlclark/regexp2 v1.11.5
 	github.com/dnaeon/go-vcr v1.2.0
-	github.com/docker/docker-credential-helpers v0.8.2
+	github.com/docker/docker-credential-helpers v0.9.1
 	github.com/docker/go-connections v0.5.0
 	github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430
 	github.com/dprotaso/go-yit v0.0.0-20240618133044-5a0af90af097
@@ -900,7 +900,7 @@ require (
 	github.com/kataras/pio v0.0.13
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
-	github.com/keybase/go-keychain v0.0.0-20231219164618-57a3676c3af6
+	github.com/keybase/go-keychain v0.0.1
 	github.com/kisielk/errcheck v1.9.0
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.5
