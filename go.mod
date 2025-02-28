@@ -5,7 +5,7 @@ go 1.24
 toolchain go1.24.0
 
 require (
-	4d63.com/gocheckcompilerdirectives v1.2.1
+	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250219170025-d39267d9df8f.1
@@ -231,22 +231,22 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
 	github.com/aws/aws-sdk-go-v2/config v1.29.8
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.61
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.5
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.6
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.63
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.46.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.16
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.21
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.41.0
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.0
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.206.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.20
-	github.com/aws/aws-sdk-go-v2/service/kms v1.37.19
+	github.com/aws/aws-sdk-go-v2/service/kms v1.38.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.77.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.0
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.16
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.29.17
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.0
 	github.com/aws/smithy-go v1.22.3
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
@@ -726,7 +726,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.7.0
+	github.com/gopcua/opcua v0.7.1
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.5.0
@@ -1489,7 +1489,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20250225190231-0d3f41d403af
-	go.step.sm/crypto v0.58.1
+	go.step.sm/crypto v0.59.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.0
@@ -1666,7 +1666,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.33 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.6.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.14 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.14 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
