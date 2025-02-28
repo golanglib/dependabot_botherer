@@ -235,7 +235,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.63
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.43.15
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.45.14
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.46.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.27.16
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.40.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.21
@@ -903,7 +903,7 @@ require (
 	github.com/keybase/go-keychain v0.0.0-20231219164618-57a3676c3af6
 	github.com/kisielk/errcheck v1.9.0
 	github.com/kisielk/gotool v1.0.0
-	github.com/kkHAIKE/contextcheck v1.1.5
+	github.com/kkHAIKE/contextcheck v1.1.6
 	github.com/klauspost/asmfmt v1.3.2
 	github.com/klauspost/compress v1.18.0
 	github.com/klauspost/cpuid v1.3.1
