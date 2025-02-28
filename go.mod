@@ -5,7 +5,7 @@ go 1.24
 toolchain go1.24.0
 
 require (
-	4d63.com/gocheckcompilerdirectives v1.2.1
+	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250219170025-d39267d9df8f.1
