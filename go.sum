@@ -4657,8 +4657,8 @@ github.com/ruudk/golang-pdf417 v0.0.0-20181029194003-1af4ab5afa58/go.mod h1:6lfF
 github.com/ruudk/golang-pdf417 v0.0.0-20201230142125-a7e3863a1245/go.mod h1:pQAZKsJ8yyVxGRWYNEm9oFB8ieLgKFnamEyDmSA0BRk=
 github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd h1:CmH9+J6ZSsIjUK3dcGsnCnO41eRBOnY12zwkn5qVwgc=
 github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd/go.mod h1:hPqNNc0+uJM6H+SuU8sEs5K5IQeKccPqeSjfgcKGgPk=
-github.com/ryancurrah/gomodguard v1.3.5 h1:cShyguSwUEeC0jS7ylOiG/idnd1TpJ1LfHGpV3oJmPU=
-github.com/ryancurrah/gomodguard v1.3.5/go.mod h1:MXlEPQRxgfPQa62O8wzK3Ozbkv9Rkqr+wKjSxTdsNJE=
+github.com/ryancurrah/gomodguard v1.4.0 h1:t5qpkSNfCeVqr+T2kB12sDLd0yhdnQcO5WRgbIPvPcg=
+github.com/ryancurrah/gomodguard v1.4.0/go.mod h1:mInLL/wyw4jJlNdd2a18s1oMvh2AN19JJC9kaqMvb4c=
 github.com/ryanrolds/sqlclosecheck v0.5.1 h1:dibWW826u0P8jNLsLN+En7+RqWWTYrjCB9fJfSfdyCU=
 github.com/ryanrolds/sqlclosecheck v0.5.1/go.mod h1:2g3dUjoS6AL4huFdv6wn55WpLIDjY7ZgUR4J8HOO/XQ=
 github.com/ryanuber/columnize v0.0.0-20160712163229-9b3edd62028f/go.mod h1:sm1tb6uqfes/u+d4ooFouqFdy9/2g9QGwK3SQygK0Ts=
