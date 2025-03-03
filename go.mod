@@ -113,7 +113,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.51.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
-	github.com/IBM/sarama v1.45.0
+	github.com/IBM/sarama v1.45.1
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/MakeNowJust/heredoc v1.0.0
@@ -340,7 +340,7 @@ require (
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.1
 	github.com/bytedance/mockey v1.2.14
-	github.com/bytedance/sonic v1.12.9
+	github.com/bytedance/sonic v1.12.10
 	github.com/bytedance/sonic/loader v0.2.3
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
@@ -702,7 +702,7 @@ require (
 	github.com/google/go-licenses v1.6.0
 	github.com/google/go-querystring v1.1.0
 	github.com/google/go-replayers/httpreplay v1.2.0
-	github.com/google/go-sev-guest v0.12.1
+	github.com/google/go-sev-guest v0.13.0
 	github.com/google/go-tdx-guest v0.3.2-0.20241009005452-097ee70d0843
 	github.com/google/go-tpm v0.9.3
 	github.com/google/go-tpm-tools v0.4.5
@@ -729,7 +729,7 @@ require (
 	github.com/gopcua/opcua v0.7.1
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
-	github.com/gophercloud/gophercloud/v2 v2.5.0
+	github.com/gophercloud/gophercloud/v2 v2.6.0
 	github.com/gopherjs/gopherjs v1.17.2
 	github.com/gorcon/rcon v1.4.0
 	github.com/gordonklaus/ineffassign v0.1.0
@@ -861,7 +861,7 @@ require (
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jdkato/prose v1.2.1
-	github.com/jedib0t/go-pretty/v6 v6.6.6
+	github.com/jedib0t/go-pretty/v6 v6.6.7
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
