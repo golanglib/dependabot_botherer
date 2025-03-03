@@ -1657,8 +1657,8 @@ github.com/buger/jsonparser v1.1.1 h1:2PnMjfWD7wBILjqQbt530v576A/cAbQvEW9gGIpYMU
 github.com/buger/jsonparser v1.1.1/go.mod h1:6RYKKt7H4d4+iWqouImQ9R2FZql3VbhNgx27UK13J/0=
 github.com/bugsnag/bugsnag-go v1.4.0/go.mod h1:2oa8nejYd4cQ/b0hMIopN0lCRxU0bueqREvZLWFrtK8=
 github.com/bugsnag/panicwrap v1.2.0/go.mod h1:D/8v3kj0zr8ZAKg1AQ6crr+5VwKN5eIywRkfhyM/+dE=
-github.com/buildkite/terminal-to-html/v3 v3.16.6 h1:QKHWPjAnKQnV1hVG/Nb2TwYDr4pliSbvCQDENk8EaJo=
-github.com/buildkite/terminal-to-html/v3 v3.16.6/go.mod h1:PgzeBymbRFC8I2m46Sci3S18AbwonEgpaz3TGhD7EPs=
+github.com/buildkite/terminal-to-html/v3 v3.16.7 h1:XRNIchLG+GOGPdV9DvWxCvbr7OJrGDXEnMtpUcg8OR0=
+github.com/buildkite/terminal-to-html/v3 v3.16.7/go.mod h1:RBJkCqWiczbV5ZiZQ1F6d7mA5/a4VdBzuuqiQbyr/3U=
 github.com/butuzov/ireturn v0.3.1 h1:mFgbEI6m+9W8oP/oDdfA34dLisRFCj2G6o/yiI1yZrY=
 github.com/butuzov/ireturn v0.3.1/go.mod h1:ZfRp+E7eJLC0NQmk1Nrm1LOrn/gQlOykv+cVPdiXH5M=
 github.com/butuzov/mirror v1.3.0 h1:HdWCXzmwlQHdVhwvsfBb2Au0r3HyINry3bDWLYXiKoc=
