@@ -26,7 +26,7 @@ require (
 	cloud.google.com/go/pubsub v1.47.0
 	cloud.google.com/go/storage v1.50.0
 	cloud.google.com/go/trace v1.11.3
-	code.gitea.io/actions-proto-go v0.4.0
+	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.20.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
@@ -113,7 +113,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.51.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.9
-	github.com/IBM/sarama v1.45.0
+	github.com/IBM/sarama v1.45.1
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/MakeNowJust/heredoc v1.0.0
@@ -340,7 +340,7 @@ require (
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.1
 	github.com/bytedance/mockey v1.2.14
-	github.com/bytedance/sonic v1.12.9
+	github.com/bytedance/sonic v1.12.10
 	github.com/bytedance/sonic/loader v0.2.3
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
@@ -534,7 +534,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.18.0
+	github.com/gaissmai/bart v0.18.1
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.129.0
@@ -672,7 +672,7 @@ require (
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
-	github.com/golangci/golangci-lint v1.64.5
+	github.com/golangci/golangci-lint v1.64.6
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
@@ -702,7 +702,7 @@ require (
 	github.com/google/go-licenses v1.6.0
 	github.com/google/go-querystring v1.1.0
 	github.com/google/go-replayers/httpreplay v1.2.0
-	github.com/google/go-sev-guest v0.12.1
+	github.com/google/go-sev-guest v0.13.0
 	github.com/google/go-tdx-guest v0.3.2-0.20241009005452-097ee70d0843
 	github.com/google/go-tpm v0.9.3
 	github.com/google/go-tpm-tools v0.4.5
@@ -722,14 +722,14 @@ require (
 	github.com/google/tink/go v1.7.0
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.6.0
-	github.com/googleapis/enterprise-certificate-proxy v0.3.4
+	github.com/googleapis/enterprise-certificate-proxy v0.3.5
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
 	github.com/gopcua/opcua v0.7.1
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
-	github.com/gophercloud/gophercloud/v2 v2.5.0
+	github.com/gophercloud/gophercloud/v2 v2.6.0
 	github.com/gopherjs/gopherjs v1.17.2
 	github.com/gorcon/rcon v1.4.0
 	github.com/gordonklaus/ineffassign v0.1.0
@@ -861,7 +861,7 @@ require (
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jdkato/prose v1.2.1
-	github.com/jedib0t/go-pretty/v6 v6.6.6
+	github.com/jedib0t/go-pretty/v6 v6.6.7
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
@@ -1064,7 +1064,7 @@ require (
 	github.com/ncruces/go-strftime v0.1.9
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.3
-	github.com/nektos/act v0.2.74
+	github.com/nektos/act v0.2.75
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.1
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
@@ -1689,9 +1689,9 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v27.5.1+incompatible // indirect
+	github.com/docker/cli v28.0.0+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v27.5.1+incompatible // indirect
+	github.com/docker/docker v28.0.0+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
@@ -1737,7 +1737,7 @@ require (
 	github.com/klauspost/pgzip v1.2.6 // indirect
 	github.com/knz/go-libedit v1.10.1 // indirect
 	github.com/koron-go/gqlcost v0.2.2 // indirect
-	github.com/ldez/exptostd v0.4.1 // indirect
+	github.com/ldez/exptostd v0.4.2 // indirect
 	github.com/ldez/grignotin v0.9.0 // indirect
 	github.com/ldez/usetesting v0.4.2 // indirect
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
@@ -1792,7 +1792,7 @@ require (
 	github.com/schollz/closestmatch v2.1.0+incompatible // indirect
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
-	github.com/shirou/gopsutil/v4 v4.25.1 // indirect
+	github.com/shirou/gopsutil/v4 v4.25.2 // indirect
 	github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 // indirect
 	github.com/smallstep/go-attestation v0.4.4-0.20240109183208-413678f90935 // indirect
 	github.com/smallstep/linkedca v0.23.0 // indirect
