@@ -943,7 +943,7 @@ require (
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
-	github.com/lxc/incus/v6 v6.10.0
+	github.com/lxc/incus/v6 v6.10.1
 	github.com/lyft/protoc-gen-star/v2 v2.0.4-0.20230330145011-496ad1ac90a4
 	github.com/macabu/inamedparam v0.1.3
 	github.com/magefile/mage v1.15.0
