@@ -340,7 +340,7 @@ require (
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.1
 	github.com/bytedance/mockey v1.2.14
-	github.com/bytedance/sonic v1.12.9
+	github.com/bytedance/sonic v1.12.10
 	github.com/bytedance/sonic/loader v0.2.3
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
@@ -861,7 +861,7 @@ require (
 	github.com/jcmturner/rpc v2.0.3+incompatible
 	github.com/jcmturner/rpc/v2 v2.0.3
 	github.com/jdkato/prose v1.2.1
-	github.com/jedib0t/go-pretty/v6 v6.6.6
+	github.com/jedib0t/go-pretty/v6 v6.6.7
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
