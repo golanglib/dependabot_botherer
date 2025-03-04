@@ -189,7 +189,7 @@ require (
 	github.com/anacrolix/missinggo/v2 v2.8.0
 	github.com/anacrolix/mmsg v1.1.1
 	github.com/anacrolix/multiless v0.4.0
-	github.com/anacrolix/possum/go v0.2.0
+	github.com/anacrolix/possum/go v0.3.1
 	github.com/anacrolix/squirrel v0.6.4
 	github.com/anacrolix/stm v0.5.0
 	github.com/anacrolix/sync v0.5.3
@@ -1162,7 +1162,7 @@ require (
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.24.1
 	github.com/prometheus-community/pro-bing v0.6.1
-	github.com/prometheus/client_golang v1.21.0
+	github.com/prometheus/client_golang v1.21.1
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.62.0
 	github.com/prometheus/common/sigv4 v0.1.0
@@ -1295,7 +1295,7 @@ require (
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
-	github.com/snowflakedb/gosnowflake v1.13.0
+	github.com/snowflakedb/gosnowflake v1.13.1
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.1.0
 	github.com/sony/gobreaker v1.0.0
@@ -1656,7 +1656,7 @@ require (
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
 	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
-	github.com/apache/arrow/go/v16 v16.0.0 // indirect
+	github.com/apache/arrow-go/v18 v18.0.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
