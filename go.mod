@@ -189,7 +189,7 @@ require (
 	github.com/anacrolix/missinggo/v2 v2.8.0
 	github.com/anacrolix/mmsg v1.1.1
 	github.com/anacrolix/multiless v0.4.0
-	github.com/anacrolix/possum/go v0.2.0
+	github.com/anacrolix/possum/go v0.3.1
 	github.com/anacrolix/squirrel v0.6.4
 	github.com/anacrolix/stm v0.5.0
 	github.com/anacrolix/sync v0.5.3
@@ -459,7 +459,7 @@ require (
 	github.com/dghubble/trie v0.1.0
 	github.com/dgraph-io/badger v1.6.2
 	github.com/dgraph-io/badger/v2 v2.2007.4
-	github.com/dgraph-io/badger/v4 v4.5.1
+	github.com/dgraph-io/badger/v4 v4.6.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20250226181018-4d5f24afb7c2
 	github.com/digitalocean/godo v1.138.0
@@ -758,7 +758,7 @@ require (
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.1
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.2
 	github.com/h12w/go-socks5 v0.0.0-20200522160539-76189e178364
 	github.com/h2non/gock v1.2.0
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
@@ -935,7 +935,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.3
 	github.com/linkedin/goavro/v2 v2.13.1
-	github.com/linode/linodego v1.47.0
+	github.com/linode/linodego v1.48.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
@@ -1115,7 +1115,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.21.7
+	github.com/pb33f/libopenapi v0.21.8
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pelletier/go-toml v1.9.5
@@ -1162,7 +1162,7 @@ require (
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.24.1
 	github.com/prometheus-community/pro-bing v0.6.1
-	github.com/prometheus/client_golang v1.21.0
+	github.com/prometheus/client_golang v1.21.1
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.62.0
 	github.com/prometheus/common/sigv4 v0.1.0
@@ -1295,7 +1295,7 @@ require (
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
-	github.com/snowflakedb/gosnowflake v1.13.0
+	github.com/snowflakedb/gosnowflake v1.13.1
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.1.0
 	github.com/sony/gobreaker v1.0.0
@@ -1530,8 +1530,8 @@ require (
 	google.golang.org/api v0.223.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250224174004-546df14abb99
-	google.golang.org/genproto/googleapis/api v0.0.0-20250224174004-546df14abb99
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250224174004-546df14abb99
+	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
@@ -1656,7 +1656,7 @@ require (
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
 	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
-	github.com/apache/arrow/go/v16 v16.0.0 // indirect
+	github.com/apache/arrow-go/v18 v18.0.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
@@ -1710,7 +1710,7 @@ require (
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/golangci/dupl v0.0.0-20180902072040-3e9179ac440a // indirect
-	github.com/google/flatbuffers v24.12.23+incompatible // indirect
+	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
 	github.com/googleapis/go-sql-spanner v1.7.4 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
