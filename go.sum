@@ -2162,8 +2162,8 @@ github.com/elazarl/go-bindata-assetfs v1.0.0/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo
 github.com/elazarl/go-bindata-assetfs v1.0.1/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
 github.com/elazarl/goproxy v1.7.2 h1:Y2o6urb7Eule09PjlhQRGNsqRfPmYI3KKQLFpCAV3+o=
 github.com/elazarl/goproxy v1.7.2/go.mod h1:82vkLNir0ALaW14Rc399OTTjyNREgmdL2cVoIbS6XaE=
-github.com/elazarl/goproxy/ext v0.0.0-20250225212552-ed2634328c83 h1:eeweL/fVTxKUJgKqPHCIkgEE6e6BsqY608GlluKBKiU=
-github.com/elazarl/goproxy/ext v0.0.0-20250225212552-ed2634328c83/go.mod h1:xIM0lXW6YOD9Jrh0HQu1rA4PTYeGs0z3gx3wRbgPGQs=
+github.com/elazarl/goproxy/ext v0.0.0-20250305112401-088f758167d2 h1:4zAtxhYHwEwywgnQarWXwUHJMGHpWCIwDWP03x32FNQ=
+github.com/elazarl/goproxy/ext v0.0.0-20250305112401-088f758167d2/go.mod h1:fx75f98CST5mRiLRu5fYLHj5hx641zC7dcN+cT88gmo=
 github.com/elgatito/upnp v0.0.0-20180711183757-2f244d205f9a/go.mod h1:afkYpY8JAIL4341N7Zj9xJ5yTovsg6BkWfBFlCzIoF4=
 github.com/elliotchance/orderedmap v1.8.0 h1:TrOREecvh3JbS+NCgwposXG5ZTFHtEsQiCGOhPElnMw=
 github.com/elliotchance/orderedmap v1.8.0/go.mod h1:wsDwEaX5jEoyhbs7x93zk2H/qv0zwuhg4inXhDkYqys=
