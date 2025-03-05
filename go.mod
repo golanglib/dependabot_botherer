@@ -235,16 +235,16 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.64
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.0
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.46.0
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.46.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.41.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.0
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.207.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.0
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.0
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.0
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.16
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.0
 	github.com/aws/smithy-go v1.22.3
@@ -391,7 +391,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.3
-	github.com/cloudwego/eino v0.3.13
+	github.com/cloudwego/eino v0.3.14
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250305065412-61b1de59600c
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250305065412-61b1de59600c
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250305065412-61b1de59600c
