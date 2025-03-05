@@ -1818,8 +1818,8 @@ github.com/cloudwego/configmanager v0.2.2 h1:sVrJB8gWYTlPV2OS3wcgJSO9F2/9Zbkmcm1
 github.com/cloudwego/configmanager v0.2.2/go.mod h1:ppiyU+5TPLonE8qMVi/pFQk2eL3Q4P7d4hbiNJn6jwI=
 github.com/cloudwego/dynamicgo v0.5.3 h1:DHcBKZvccx2tV63qHqgRV0lTQuekZmYKhm2hGZEGcCk=
 github.com/cloudwego/dynamicgo v0.5.3/go.mod h1:DknfxjIMuGvXow409bS/AWycXONdc02HECBL0qpNqTY=
-github.com/cloudwego/eino v0.3.13 h1:5fq5hM+UzbLtv4nXMhU6tAxgb7Q3AyaJ6/566XsJqc0=
-github.com/cloudwego/eino v0.3.13/go.mod h1:+kmJimGEcKuSI6OKhet7kBedkm1WUZS3H1QRazxgWUo=
+github.com/cloudwego/eino v0.3.14 h1:aq2LGR1zIEF0wyqIVMcmyhuLORifz6L6Mnmzof5nGqU=
+github.com/cloudwego/eino v0.3.14/go.mod h1:+kmJimGEcKuSI6OKhet7kBedkm1WUZS3H1QRazxgWUo=
 github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250305065412-61b1de59600c h1:0YrOKE6KzI2EGe45I9841X/4AmuI1paP/ReV0Hc99Lw=
 github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250305065412-61b1de59600c/go.mod h1:E+vZK+7zt8ntzEB1wIMlfBQq8dNyZASryzLtQX9q7bM=
 github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250305065412-61b1de59600c h1:NWWVJwkWA5z9dFfIn//xrnTLcwL7aUlCA0R4xhin+p8=
