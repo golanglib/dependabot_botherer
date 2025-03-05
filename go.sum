@@ -4865,8 +4865,8 @@ github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262 h1:unQFBIznI+VYD1
 github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262/go.mod h1:MyOHs9Po2fbM1LHej6sBUT8ozbxmMOFG+E+rx/GSGuc=
 github.com/smallstep/certificates v0.28.2 h1:KN7Ytxatoa35CnuDKw/tX49SF+2f6ilB2vyMqIS1mtc=
 github.com/smallstep/certificates v0.28.2/go.mod h1:UWVIqq5A3toV9rSzYUnimqRNeU6xCt3YWB2mTaCxm28=
-github.com/smallstep/cli v0.28.3 h1:VEFu68ZHz2TYqiowQsCY1BDYB2q/539auEcFfM5GRd0=
-github.com/smallstep/cli v0.28.3/go.mod h1:EfU6Qi1kSXxB6+JrykgDkekZJzxu+hb/g0dF+KNrP+s=
+github.com/smallstep/cli v0.28.5 h1:zYigeVtu86oA4ucDFdRJ3HQsUHDCx2FxRyjiFs9q7cc=
+github.com/smallstep/cli v0.28.5/go.mod h1:JXKhzMMGig/ubwVfcCuLCWyjgH3AuCUxUfbJwZxZGBc=
 github.com/smallstep/cli-utils v0.12.1 h1:D9QvfbFqiKq3snGZ2xDcXEFrdFJ1mQfPHZMq/leerpE=
 github.com/smallstep/cli-utils v0.12.1/go.mod h1:skV2Neg8qjiKPu2fphM89H9bIxNpKiiRTnX9Q6Lc+20=
 github.com/smallstep/go-attestation v0.4.4-0.20240109183208-413678f90935 h1:kjYvkvS/Wdy0PVRDUAA0gGJIVSEZYhiAJtfwYgOYoGA=
@@ -5566,8 +5566,8 @@ go.opentelemetry.io/proto/otlp v1.5.0/go.mod h1:keN8WnHxOy8PG0rQZjJJ5A2ebUoafqWp
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 go.starlark.net v0.0.0-20250225190231-0d3f41d403af h1:gdHSl5pZSdC+7qdBKx0n0x4Y2b4UNjuKnKH8Lfwft3o=
 go.starlark.net v0.0.0-20250225190231-0d3f41d403af/go.mod h1:YKMCv9b1WrfWmeqdV5MAuEHWsu5iC+fe6kYl2sQjdI8=
-go.step.sm/crypto v0.59.0 h1:BDEbdyYJpp0yOSx7dmT+9git2/BXfkCsCzJKOj3v9RI=
-go.step.sm/crypto v0.59.0/go.mod h1:wz5S8Q0NI/x22TIWQxdGD+ioHa+ge2FbkcPmbXUzNao=
+go.step.sm/crypto v0.59.1 h1:jUL+5p19YS9YJKLaPUgkS2OdGm7s0+hwP7AqTFyF9Cg=
+go.step.sm/crypto v0.59.1/go.mod h1:XHavmnzfTyPpQE/n4YokEtjiBzP3LZI9/1O061f5y0o=
 go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
 go.uber.org/atomic v1.4.0/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
 go.uber.org/atomic v1.5.0/go.mod h1:sABNBOSYdrvTF6hTgEIbc7YasKWGhgEQZyfxyTvoXHQ=
