@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250219170025-d39267d9df8f.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.21.2
 	cloud.google.com/go v0.118.3
 	cloud.google.com/go/auth v0.15.0
@@ -78,7 +78,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.3.1
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0
-	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
+	github.com/Azure/azure-storage-queue-go v0.0.0-20230531184854-c06a8eff66fe
 	github.com/Azure/go-amqp v1.4.0
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c
 	github.com/Azure/go-autorest/autorest v0.11.30
@@ -183,7 +183,7 @@ require (
 	github.com/anacrolix/generics v0.0.3-0.20240902042256-7fb2702ef0ca
 	github.com/anacrolix/go-libutp v1.3.2
 	github.com/anacrolix/log v0.16.0
-	github.com/anacrolix/lsan v0.0.0-20240902033017-52047d0c8aa2
+	github.com/anacrolix/lsan v0.0.0-20211126052245-807000409a62
 	github.com/anacrolix/missinggo v1.3.0
 	github.com/anacrolix/missinggo/perf v1.0.0
 	github.com/anacrolix/missinggo/v2 v2.8.0
@@ -196,7 +196,7 @@ require (
 	github.com/anacrolix/tagflag v1.4.0
 	github.com/anacrolix/torrent v1.58.1
 	github.com/anacrolix/upnp v0.1.4
-	github.com/anchore/go-struct-converter v0.0.0-20240925125616-a0883641c664
+	github.com/anchore/go-struct-converter v0.0.0-20230627203149-c72ef8859ca9
 	github.com/andeya/ameda v1.5.3
 	github.com/andybalholm/brotli v1.1.1
 	github.com/andybalholm/cascadia v1.3.3
@@ -249,7 +249,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.0
 	github.com/aws/smithy-go v1.22.3
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
-	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
+	github.com/awslabs/kinesis-aggregation/go v0.0.0-20210630091500-54e17340d32f
 	github.com/aymanbagabas/go-osc52 v1.2.2
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1
 	github.com/aymanbagabas/go-udiff v0.2.0
@@ -391,18 +391,19 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.3
-	github.com/cloudwego/eino v0.3.11
-	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250124095054-d38fa58b2893
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250219143835-900b869c6c7c
+	github.com/cloudwego/eino v0.3.13
+	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250305065412-61b1de59600c
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250305065412-61b1de59600c
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250305065412-61b1de59600c
 	github.com/cloudwego/eino-ext/devops v0.1.1
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250124095054-d38fa58b2893
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250305065412-61b1de59600c
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.12.3
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250110061237-7306cc836e08
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250305085435-b9f0ab77c7ba
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.6.5
 	github.com/cloudwego/runtimex v0.1.1
@@ -475,7 +476,7 @@ require (
 	github.com/docker/docker-credential-helpers v0.9.1
 	github.com/docker/go-connections v0.5.0
 	github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430
-	github.com/dprotaso/go-yit v0.0.0-20240618133044-5a0af90af097
+	github.com/dprotaso/go-yit v0.0.0-20191028211022-135eb7262960
 	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.0.5
 	github.com/dsnet/compress v0.0.2-0.20210315054119-f66993602bf5
 	github.com/dsnet/try v0.0.3
@@ -492,11 +493,11 @@ require (
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/elazarl/goproxy v1.7.2
-	github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2
+	github.com/elazarl/goproxy/ext v0.0.0-20250225212552-ed2634328c83
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
-	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43
+	github.com/emersion/go-sasl v0.0.0-20220912192320-0145f2c60ead
 	github.com/emersion/go-smtp v0.21.3
 	github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9
 	github.com/emicklei/go-restful/v3 v3.12.2
@@ -504,11 +505,11 @@ require (
 	github.com/envoyproxy/go-control-plane/contrib v1.32.4
 	github.com/envoyproxy/protoc-gen-validate v1.2.1
 	github.com/ericlagergren/aegis v0.0.0-20230312195928-b4ce538b56f9
-	github.com/ericlagergren/polyval v0.0.0-20230805202542-18692a1b76f9
+	github.com/ericlagergren/polyval v0.0.0-20220411101811-e25bc10ba391
 	github.com/ericlagergren/saferand v0.0.0-20220206064634-960a4dd2bc5c
 	github.com/ericlagergren/siv v0.0.0-20220507050439-0b757b3aa5f1
 	github.com/ericlagergren/subtle v0.0.0-20220507045147-890d697da010
-	github.com/ericlagergren/testutil v0.0.0-20220814024112-d21c9429edc2
+	github.com/ericlagergren/testutil v0.0.0-20220814025904-404663215e88
 	github.com/erikgeiser/coninput v0.0.0-20211004153227-1c3628e74d0f
 	github.com/esimonov/ifshort v1.0.4
 	github.com/ethantkoenig/rupture v1.0.1
@@ -516,7 +517,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.0
-	github.com/facebook/time v0.0.0-20241010195139-9fbb4552f593
+	github.com/facebook/time v0.0.0-20250211113239-e3e1421a0980
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -546,7 +547,7 @@ require (
 	github.com/gin-gonic/gin v1.10.0
 	github.com/git-lfs/git-lfs/v3 v3.6.1
 	github.com/git-lfs/gitobj/v2 v2.1.1
-	github.com/git-lfs/pktline v0.0.0-20230103162542-ca444d533ef1
+	github.com/git-lfs/pktline v0.0.0-20210330133718-06e9096e2825
 	github.com/git-lfs/wildmatch/v2 v2.0.1
 	github.com/gkampitakis/ciinfo v0.3.2
 	github.com/gkampitakis/go-diff v1.3.2
@@ -555,8 +556,8 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20240910141749-b4b8c8aa484c
-	github.com/go-ap/errors v0.0.0-20240910140019-1e9d33cc1568
+	github.com/go-ap/activitypub v0.0.0-20250212090640-aeb6499ba581
+	github.com/go-ap/errors v0.0.0-20250124135319-3da8adefd4a9
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
 	github.com/go-asn1-ber/asn1-ber v1.5.7
 	github.com/go-chi/chi v4.1.2+incompatible
@@ -663,7 +664,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20230421003525-6adc56603217
+	github.com/golang/geo v0.0.0-20210211234256-740aa86cb551
 	github.com/golang/glog v1.2.4
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
@@ -710,7 +711,7 @@ require (
 	github.com/google/gofuzz v1.2.0
 	github.com/google/gopacket v1.1.19
 	github.com/google/licensecheck v0.3.1
-	github.com/google/licenseclassifier v0.0.0-20221004142553-c1ed8fcf4bab
+	github.com/google/licenseclassifier v0.0.0-20210722185704-3043a050f148
 	github.com/google/licenseclassifier/v2 v2.0.0
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
@@ -753,7 +754,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.0
-	github.com/grid-x/modbus v0.0.0-20241004123532-f6c6fb5201b3
+	github.com/grid-x/modbus v0.0.0-20250219144522-2b18d136199f
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
@@ -765,7 +766,7 @@ require (
 	github.com/hairyhenderson/go-codeowners v0.7.0
 	github.com/hanwen/go-fuse v1.0.0
 	github.com/hanwen/go-fuse/v2 v2.7.2
-	github.com/hanzoai/gochimp3 v0.0.0-20210305004051-da66ea724147
+	github.com/hanzoai/gochimp3 v0.0.0-20241127054040-6051f77e24f1
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
@@ -811,7 +812,7 @@ require (
 	github.com/hetznercloud/hcloud-go v1.59.2
 	github.com/hetznercloud/hcloud-go/v2 v2.19.1
 	github.com/hexops/gotextdiff v1.0.3
-	github.com/hinshun/vt10x v0.0.0-20220301184237-5011da428d02
+	github.com/hinshun/vt10x v0.0.0-20220119200601-820417d04eec
 	github.com/huandu/go-assert v1.1.6
 	github.com/huandu/skiplist v1.2.1
 	github.com/huandu/xstrings v1.5.0
@@ -939,7 +940,7 @@ require (
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
-	github.com/lufia/plan9stats v0.0.0-20240909124753-873cd0166683
+	github.com/lufia/plan9stats v0.0.0-20240226150601-1dcf7310316a
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
@@ -986,12 +987,12 @@ require (
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
 	github.com/metacubex/chacha v0.1.1
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20240827003841-cd97758ed8b4
+	github.com/metacubex/sing-quic v0.0.0-20250119013740-2a19cce83925
 	github.com/metacubex/sing-shadowsocks v0.2.8
 	github.com/metacubex/sing-shadowsocks2 v0.2.2
 	github.com/metacubex/sing-tun v0.4.5
-	github.com/metacubex/sing-wireguard v0.0.0-20240924052438-b0976fc59ea3
-	github.com/metacubex/tfo-go v0.0.0-20241006021335-daedaf0ca7aa
+	github.com/metacubex/sing-wireguard v0.0.0-20241126021510-0827d417b589
+	github.com/metacubex/tfo-go v0.0.0-20241231083714-66613d49c422
 	github.com/metacubex/utls v1.6.6
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
@@ -1168,7 +1169,6 @@ require (
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.15.1
 	github.com/prometheus/prom2json v1.4.1
-	github.com/prometheus/prometheus v0.302.1
 	github.com/protolambda/ctxlock v0.1.0
 	github.com/putdotio/go-putio v1.7.2
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
@@ -1202,11 +1202,11 @@ require (
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/robinson/gos7 v0.0.0-20240315073918-1f14519e4846
+	github.com/robinson/gos7 v0.0.0-20241205073040-7ea1d6fb9d20
 	github.com/rogpeppe/go-internal v1.14.1
 	github.com/rs/cors v1.11.1
 	github.com/rs/cors/wrapper/gin v0.0.0-20240830163046-1084d89a1692
-	github.com/rs/dnscache v0.0.0-20230804202142-fc85eb664529
+	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
 	github.com/rs/xid v1.6.0
 	github.com/rs/zerolog v1.33.0
 	github.com/russellhaering/goxmldsig v1.4.0
@@ -1218,7 +1218,7 @@ require (
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
 	github.com/safchain/ethtool v0.5.10
 	github.com/sagernet/fswatch v0.1.1
-	github.com/sagernet/netlink v0.0.0-20240916134442-83396419aa8b
+	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-beta.4
 	github.com/sagernet/sing v0.6.2
 	github.com/sagernet/sing-mux v0.3.1
@@ -1250,7 +1250,7 @@ require (
 	github.com/segmentio/asm v1.2.0
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.47
-	github.com/seiflotfy/cuckoofilter v0.0.0-20240715131351-a2f2c23f1771
+	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
 	github.com/sensu/sensu-go/api/core v0.0.0-20221108055736-999d91931d17
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
 	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3
@@ -1260,15 +1260,15 @@ require (
 	github.com/shoenig/test v1.12.1
 	github.com/shopspring/decimal v1.4.0
 	github.com/showwin/speedtest-go v1.7.10
-	github.com/shurcooL/github_flavored_markdown v0.0.0-20210228213109-c3a9aa474629
-	github.com/shurcooL/go v0.0.0-20230706063926-5fe729b41b3a
+	github.com/shurcooL/github_flavored_markdown v0.0.0-20181002035957-2122de532470
+	github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636
 	github.com/shurcooL/go-goon v1.0.0
-	github.com/shurcooL/highlight_diff v0.0.0-20230708024848-22f825814995
-	github.com/shurcooL/highlight_go v0.0.0-20230708025100-33e05792540a
+	github.com/shurcooL/highlight_diff v0.0.0-20170515013008-09bb4053de1b
+	github.com/shurcooL/highlight_go v0.0.0-20181028180052-98c3abbbae20
 	github.com/shurcooL/httpfs v0.0.0-20230704072500-f1e31cf0ba5c
-	github.com/shurcooL/octicon v0.0.0-20230705024016-66bff059edb8
+	github.com/shurcooL/octicon v0.0.0-20181028054416-fa4f57f9efb2
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
-	github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92
+	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
 	github.com/signalfx/golib/v3 v3.3.55
 	github.com/signalfx/sapm-proto v0.17.0
@@ -1418,7 +1418,7 @@ require (
 	github.com/xdg-go/stringprep v1.0.4
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xen0n/gosmopolitan v1.2.2
-	github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2
+	github.com/xiaokangwang/VLite v0.0.0-20220418190619-cff95160a432
 	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
 	github.com/xtaci/smux v2.0.1+incompatible
@@ -1524,7 +1524,7 @@ require (
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
-	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
+	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
 	google.golang.org/api v0.223.0
@@ -1583,7 +1583,7 @@ require (
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
 	modernc.org/gc/v2 v2.6.4
-	modernc.org/gc/v3 v3.0.0-20241004144649-1aea3fae8852
+	modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
@@ -1600,7 +1600,7 @@ require (
 	modernc.org/z v1.7.4
 	moul.io/http2curl/v2 v2.3.0
 	mvdan.cc/gofumpt v0.7.0
-	mvdan.cc/unparam v0.0.0-20240917084806-57a3b4290ba3
+	mvdan.cc/unparam v0.0.0-20240528143540-8a5130ca722f
 	mvdan.cc/xurls/v2 v2.6.0
 	pgregory.net/rapid v1.2.0
 	rsc.io/quote/v3 v3.1.0
@@ -1779,7 +1779,7 @@ require (
 	github.com/pion/webrtc/v4 v4.0.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
-	github.com/prometheus/sigv4 v0.1.1 // indirect
+	github.com/prometheus/prometheus v0.302.1 // indirect
 	github.com/raeperd/recvcheck v0.2.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
