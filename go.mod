@@ -235,16 +235,16 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.64
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.0
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.46.0
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.46.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.0
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.41.0
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.41.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.0
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.207.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.0
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.0
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.0
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.16
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.0
 	github.com/aws/smithy-go v1.22.3
@@ -391,11 +391,11 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.3
-	github.com/cloudwego/eino v0.3.13
+	github.com/cloudwego/eino v0.3.14
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250305065412-61b1de59600c
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250305065412-61b1de59600c
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250305065412-61b1de59600c
-	github.com/cloudwego/eino-ext/devops v0.1.1
+	github.com/cloudwego/eino-ext/devops v0.1.3
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250305065412-61b1de59600c
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
@@ -1021,7 +1021,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.20.0
+	github.com/moby/buildkit v0.20.1
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1676,7 +1676,7 @@ require (
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
 	github.com/checkpoint-restore/go-criu/v6 v6.3.0 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
-	github.com/containerd/containerd/v2 v2.0.2 // indirect
+	github.com/containerd/containerd/v2 v2.0.3 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
 	github.com/containerd/plugin v1.0.0 // indirect
 	github.com/couchbase/clog v0.1.0 // indirect
@@ -1766,7 +1766,6 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.111.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.116.0 // indirect
 	github.com/opencontainers/runtime-spec v1.2.0 // indirect
-	github.com/opencontainers/runtime-tools v0.9.1-0.20221107090550-2e043c6bd626 // indirect
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db // indirect
 	github.com/petermattis/goid v0.0.0-20240813172612-4fcff4a6cae7 // indirect
@@ -1845,6 +1844,4 @@ require (
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	pack.ag/amqp v0.11.0 // indirect
-	tags.cncf.io/container-device-interface v0.8.0 // indirect
-	tags.cncf.io/container-device-interface/specs-go v0.8.0 // indirect
 )
