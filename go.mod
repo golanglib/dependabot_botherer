@@ -1556,7 +1556,7 @@ require (
 	gotest.tools/v3 v3.5.2
 	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
 	h12.io/socks v1.0.3
-	honnef.co/go/tools v0.6.0
+	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.2
 	k8s.io/apiextensions-apiserver v0.32.2
