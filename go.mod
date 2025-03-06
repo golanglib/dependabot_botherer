@@ -1480,11 +1480,11 @@ require (
 	go.opentelemetry.io/contrib/propagators/aws v1.34.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.34.0
 	go.opentelemetry.io/contrib/propagators/ot v1.34.0
-	go.opentelemetry.io/otel v1.34.0
-	go.opentelemetry.io/otel/metric v1.34.0
-	go.opentelemetry.io/otel/sdk v1.34.0
-	go.opentelemetry.io/otel/sdk/metric v1.34.0
-	go.opentelemetry.io/otel/trace v1.34.0
+	go.opentelemetry.io/otel v1.35.0
+	go.opentelemetry.io/otel/metric v1.35.0
+	go.opentelemetry.io/otel/sdk v1.35.0
+	go.opentelemetry.io/otel/sdk/metric v1.35.0
+	go.opentelemetry.io/otel/trace v1.35.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20250225190231-0d3f41d403af
 	go.step.sm/crypto v0.59.1
@@ -1556,7 +1556,7 @@ require (
 	gotest.tools/v3 v3.5.2
 	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
 	h12.io/socks v1.0.3
-	honnef.co/go/tools v0.6.0
+	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.2
 	k8s.io/apiextensions-apiserver v0.32.2
