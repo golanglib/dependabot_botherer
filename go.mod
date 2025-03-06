@@ -1475,7 +1475,7 @@ require (
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib v1.35.0
-	go.opentelemetry.io/contrib/detectors/gcp v1.34.0
+	go.opentelemetry.io/contrib/detectors/gcp v1.35.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.59.0
 	go.opentelemetry.io/contrib/propagators/aws v1.35.0
