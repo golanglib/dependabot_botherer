@@ -1361,7 +1361,7 @@ require (
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.2.5
 	github.com/tj/assert v0.0.3
-	github.com/tklauser/go-sysconf v0.3.14
+	github.com/tklauser/go-sysconf v0.3.15
 	github.com/tklauser/numcpus v0.10.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
 	github.com/tomarrell/wrapcheck/v2 v2.10.0
