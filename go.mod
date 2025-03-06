@@ -1361,7 +1361,7 @@ require (
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.2.5
 	github.com/tj/assert v0.0.3
-	github.com/tklauser/go-sysconf v0.3.14
+	github.com/tklauser/go-sysconf v0.3.15
 	github.com/tklauser/numcpus v0.10.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
 	github.com/tomarrell/wrapcheck/v2 v2.10.0
@@ -1402,7 +1402,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.48.1
 	github.com/volcengine/volc-sdk-golang v1.0.198
-	github.com/volcengine/volcengine-go-sdk v1.0.184
+	github.com/volcengine/volcengine-go-sdk v1.0.185
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1465,7 +1465,7 @@ require (
 	go.etcd.io/etcd/etcdctl/v3 v3.5.18
 	go.etcd.io/etcd/etcdutl/v3 v3.5.18
 	go.etcd.io/etcd/pkg/v3 v3.5.18
-	go.etcd.io/etcd/raft/v3 v3.5.18
+	go.etcd.io/etcd/raft/v3 v3.5.19
 	go.etcd.io/etcd/server/v3 v3.5.18
 	go.etcd.io/etcd/tests/v3 v3.5.18
 	go.etcd.io/etcd/v3 v3.5.18
@@ -1505,7 +1505,7 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250218142911-aa4b98e5adaa
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
-	golang.org/x/image v0.24.0
+	golang.org/x/image v0.25.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.24.0
