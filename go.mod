@@ -1477,7 +1477,7 @@ require (
 	go.opentelemetry.io/contrib v1.34.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.34.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.59.0
-	go.opentelemetry.io/contrib/propagators/aws v1.34.0
+	go.opentelemetry.io/contrib/propagators/aws v1.35.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.34.0
 	go.opentelemetry.io/contrib/propagators/ot v1.34.0
 	go.opentelemetry.io/otel v1.35.0
