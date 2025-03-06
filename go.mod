@@ -392,11 +392,11 @@ require (
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.5.3
 	github.com/cloudwego/eino v0.3.14
-	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250305065412-61b1de59600c
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250305065412-61b1de59600c
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250305065412-61b1de59600c
+	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250306031642-331b3732ef90
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250306031642-331b3732ef90
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250306031642-331b3732ef90
 	github.com/cloudwego/eino-ext/devops v0.1.3
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250305065412-61b1de59600c
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250306031642-331b3732ef90
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
@@ -1477,7 +1477,9 @@ require (
 	go.opentelemetry.io/contrib v1.35.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.34.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
+	go.opentelemetry.io/contrib/propagators/autoprop v0.59.0
 	go.opentelemetry.io/contrib/propagators/aws v1.35.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.34.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.35.0
 	go.opentelemetry.io/contrib/propagators/ot v1.35.0
 	go.opentelemetry.io/otel v1.35.0
@@ -1823,7 +1825,6 @@ require (
 	go.opentelemetry.io/collector/pdata/pprofile v0.120.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.118.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.59.0 // indirect
-	go.opentelemetry.io/contrib/propagators/autoprop v0.59.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.34.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.34.0 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect

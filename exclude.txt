@@ -331,13 +331,6 @@ go.opentelemetry.io/contrib/instrumentation/net/http
 //	go.opentelemetry.io/otel/label: cannot find module providing package go.opentelemetry.io/otel/label
 //go: go.opentelemetry.io/contrib/instrumentation/net/http imports
 //	go.opentelemetry.io/otel/semconv: cannot find module providing package go.opentelemetry.io/otel/semconv
-go.opentelemetry.io/contrib/propagators/autoprop
-//go: go.opentelemetry.io/contrib/propagators/autoprop@latest (v0.60.0) requires go.opentelemetry.io/contrib/propagators/b3@v1.35.0: verifying go.mod: go.opentelemetry.io/contrib/propagators/b3@v1.35.0/go.mod: reading https://sum.golang.org/lookup/go.opentelemetry.io/contrib/propagators/b3@v1.35.0: 404 Not Found
-//	server response: not found: go.opentelemetry.io/contrib/propagators/b3@v1.35.0: unrecognized import path "go.opentelemetry.io/contrib/propagators/b3": https fetch: Get "https://go.opentelemetry.io/contrib/propagators/b3?go-get=1": dial tcp 216.239.32.21:443: connect: connection refused
-go.opentelemetry.io/contrib/propagators/b3
-//go: go.opentelemetry.io/contrib/propagators/b3: ambiguous import: found package go.opentelemetry.io/contrib/propagators/b3 in multiple modules:
-//	go.opentelemetry.io/contrib/propagators v0.22.0 (/gopath/pkg/mod/go.opentelemetry.io/contrib/propagators@v0.22.0/b3)
-//	go.opentelemetry.io/contrib/propagators/b3 v1.34.0 (/gopath/pkg/mod/go.opentelemetry.io/contrib/propagators/b3@v1.34.0)
 go.opentelemetry.io/otel/exporters/otlp
 //go: go.opentelemetry.io/otel/exporters/otlp imports
 //	go.opentelemetry.io/otel/sdk/metric/controller/basic: cannot find module providing package go.opentelemetry.io/otel/sdk/metric/controller/basic
