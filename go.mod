@@ -936,7 +936,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.3
 	github.com/linkedin/goavro/v2 v2.13.1
-	github.com/linode/linodego v1.48.0
+	github.com/linode/linodego v1.48.1
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
@@ -1067,7 +1067,7 @@ require (
 	github.com/ncw/swift/v2 v2.0.3
 	github.com/nektos/act v0.2.75
 	github.com/netsampler/goflow2 v1.3.7
-	github.com/netsampler/goflow2/v2 v2.2.1
+	github.com/netsampler/goflow2/v2 v2.2.2
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
 	github.com/niklasfasching/go-org v1.7.0
@@ -1088,7 +1088,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.22.2
+	github.com/onsi/ginkgo/v2 v2.23.0
 	github.com/onsi/gomega v1.36.2
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.14.0
@@ -1362,7 +1362,7 @@ require (
 	github.com/tinylib/msgp v1.2.5
 	github.com/tj/assert v0.0.3
 	github.com/tklauser/go-sysconf v0.3.14
-	github.com/tklauser/numcpus v0.9.0
+	github.com/tklauser/numcpus v0.10.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
 	github.com/tomarrell/wrapcheck/v2 v2.10.0
 	github.com/tommy-muehle/go-mnd/v2 v2.5.1
@@ -1401,7 +1401,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.48.1
-	github.com/volcengine/volc-sdk-golang v1.0.197
+	github.com/volcengine/volc-sdk-golang v1.0.198
 	github.com/volcengine/volcengine-go-sdk v1.0.184
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
@@ -1460,12 +1460,12 @@ require (
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.19
 	go.etcd.io/etcd/client/pkg/v3 v3.5.19
-	go.etcd.io/etcd/client/v2 v2.305.18
+	go.etcd.io/etcd/client/v2 v2.305.19
 	go.etcd.io/etcd/client/v3 v3.5.19
 	go.etcd.io/etcd/etcdctl/v3 v3.5.18
 	go.etcd.io/etcd/etcdutl/v3 v3.5.18
 	go.etcd.io/etcd/pkg/v3 v3.5.18
-	go.etcd.io/etcd/raft/v3 v3.5.18
+	go.etcd.io/etcd/raft/v3 v3.5.19
 	go.etcd.io/etcd/server/v3 v3.5.18
 	go.etcd.io/etcd/tests/v3 v3.5.18
 	go.etcd.io/etcd/v3 v3.5.18
@@ -1474,10 +1474,10 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib v1.34.0
+	go.opentelemetry.io/contrib v1.35.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.34.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.59.0
-	go.opentelemetry.io/contrib/propagators/aws v1.34.0
+	go.opentelemetry.io/contrib/propagators/aws v1.35.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.34.0
 	go.opentelemetry.io/contrib/propagators/ot v1.34.0
 	go.opentelemetry.io/otel v1.35.0
@@ -1525,7 +1525,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gonum.org/v1/gonum v0.15.1
-	google.golang.org/api v0.223.0
+	google.golang.org/api v0.224.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250224174004-546df14abb99
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
