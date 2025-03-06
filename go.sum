@@ -1525,8 +1525,8 @@ github.com/blevesearch/bleve/v2 v2.0.5/go.mod h1:ZjWibgnbRX33c+vBRgla9QhPb4QOjD6
 github.com/blevesearch/bleve/v2 v2.4.4 h1:RwwLGjUm54SwyyykbrZs4vc1qjzYic4ZnAnY9TwNl60=
 github.com/blevesearch/bleve/v2 v2.4.4/go.mod h1:fa2Eo6DP7JR+dMFpQe+WiZXINKSunh7WBtlDGbolKXk=
 github.com/blevesearch/bleve_index_api v1.0.0/go.mod h1:fiwKS0xLEm+gBRgv5mumf0dhgFr2mDgZah1pqv1c1M4=
-github.com/blevesearch/bleve_index_api v1.2.2 h1:KUa+Md44lL+bZ6N9CxxdI/KEQD6sQduVWyd0S+A2+bg=
-github.com/blevesearch/bleve_index_api v1.2.2/go.mod h1:rKQDl4u51uwafZxFrPD1R7xFOwKnzZW7s/LSeK4lgo0=
+github.com/blevesearch/bleve_index_api v1.2.3 h1:aJJPhTb30zc68qg2HbvCZLAF1Eh5Hhm296mDAUFaUeg=
+github.com/blevesearch/bleve_index_api v1.2.3/go.mod h1:rKQDl4u51uwafZxFrPD1R7xFOwKnzZW7s/LSeK4lgo0=
 github.com/blevesearch/blevex v1.0.0 h1:pnilj2Qi3YSEGdWgLj1Pn9Io7ukfXPoQcpAI1Bv8n/o=
 github.com/blevesearch/blevex v1.0.0/go.mod h1:2rNVqoG2BZI8t1/P1awgTKnGlx5MP9ZbtEciQaNhswc=
 github.com/blevesearch/cld2 v0.0.0-20200327141045-8b5f551d37f5/go.mod h1:PN0QNTLs9+j1bKy3d/GB/59wsNBFC4sWLWG3k69lWbc=
@@ -1544,8 +1544,8 @@ github.com/blevesearch/mmap-go v1.0.4/go.mod h1:EWmEAOmdAS9z/pi/+Toxu99DnsbhG1TI
 github.com/blevesearch/scorch_segment_api v1.0.0 h1:BUkCPWDg2gimTEyVDXf85I2buqqt4lh28uaVMiJsIYk=
 github.com/blevesearch/scorch_segment_api v1.0.0/go.mod h1:KgRYmlfYC27NeM6cXOHx8LBgq7jn0atpV8mVWoBKBng=
 github.com/blevesearch/scorch_segment_api/v2 v2.0.1/go.mod h1:lq7yK2jQy1yQjtjTfU931aVqz7pYxEudHaDwOt1tXfU=
-github.com/blevesearch/scorch_segment_api/v2 v2.3.4 h1:xiXqP168XL3M71uJ8s2t0EoTNTULrW4X6tTfaHs9aBk=
-github.com/blevesearch/scorch_segment_api/v2 v2.3.4/go.mod h1:w45Nio18Q5PLo+Muqz3x/zv3C+ykqimhzhbRYJlDx3U=
+github.com/blevesearch/scorch_segment_api/v2 v2.3.5 h1:t6NVTdS8xp1xHMJoe5WjxdZWLKhsIIb6kB0U49rhAno=
+github.com/blevesearch/scorch_segment_api/v2 v2.3.5/go.mod h1:7gG1vsL3lu2L+7RuEtZ7PJhxGYE+AV9zjxTSHuXFMdM=
 github.com/blevesearch/segment v0.9.0/go.mod h1:9PfHYUdQCgHktBgvtUOF4x+pc4/l8rdH0u5spnW85UQ=
 github.com/blevesearch/segment v0.9.1 h1:+dThDy+Lvgj5JMxhmOVlgFfkUtZV2kw49xax4+jTfSU=
 github.com/blevesearch/segment v0.9.1/go.mod h1:zN21iLm7+GnBHWTao9I+Au/7MBiL8pPFtJBJTsk6kQw=
