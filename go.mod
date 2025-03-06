@@ -936,7 +936,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.3
 	github.com/linkedin/goavro/v2 v2.13.1
-	github.com/linode/linodego v1.48.0
+	github.com/linode/linodego v1.48.1
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
