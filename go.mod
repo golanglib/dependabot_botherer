@@ -1462,11 +1462,11 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.5.19
 	go.etcd.io/etcd/client/v2 v2.305.19
 	go.etcd.io/etcd/client/v3 v3.5.19
-	go.etcd.io/etcd/etcdctl/v3 v3.5.18
-	go.etcd.io/etcd/etcdutl/v3 v3.5.18
-	go.etcd.io/etcd/pkg/v3 v3.5.18
+	go.etcd.io/etcd/etcdctl/v3 v3.5.19
+	go.etcd.io/etcd/etcdutl/v3 v3.5.19
+	go.etcd.io/etcd/pkg/v3 v3.5.19
 	go.etcd.io/etcd/raft/v3 v3.5.19
-	go.etcd.io/etcd/server/v3 v3.5.18
+	go.etcd.io/etcd/server/v3 v3.5.19
 	go.etcd.io/etcd/tests/v3 v3.5.18
 	go.etcd.io/etcd/v3 v3.5.18
 	go.etcd.io/gofail v0.2.0
@@ -1476,7 +1476,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib v1.35.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.34.0
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.59.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
 	go.opentelemetry.io/contrib/propagators/aws v1.35.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.35.0
 	go.opentelemetry.io/contrib/propagators/ot v1.35.0
