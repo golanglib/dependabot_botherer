@@ -1362,7 +1362,7 @@ require (
 	github.com/tinylib/msgp v1.2.5
 	github.com/tj/assert v0.0.3
 	github.com/tklauser/go-sysconf v0.3.14
-	github.com/tklauser/numcpus v0.9.0
+	github.com/tklauser/numcpus v0.10.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
 	github.com/tomarrell/wrapcheck/v2 v2.10.0
 	github.com/tommy-muehle/go-mnd/v2 v2.5.1
