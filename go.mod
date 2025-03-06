@@ -936,7 +936,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v0.2.3
 	github.com/linkedin/goavro/v2 v2.13.1
-	github.com/linode/linodego v1.48.0
+	github.com/linode/linodego v1.48.1
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
@@ -1067,7 +1067,7 @@ require (
 	github.com/ncw/swift/v2 v2.0.3
 	github.com/nektos/act v0.2.75
 	github.com/netsampler/goflow2 v1.3.7
-	github.com/netsampler/goflow2/v2 v2.2.1
+	github.com/netsampler/goflow2/v2 v2.2.2
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
 	github.com/niklasfasching/go-org v1.7.0
@@ -1088,7 +1088,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.22.2
+	github.com/onsi/ginkgo/v2 v2.23.0
 	github.com/onsi/gomega v1.36.2
 	github.com/openacid/low v0.1.21
 	github.com/openconfig/gnmi v0.14.0
@@ -1402,7 +1402,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.48.1
 	github.com/volcengine/volc-sdk-golang v1.0.198
-	github.com/volcengine/volcengine-go-sdk v1.0.184
+	github.com/volcengine/volcengine-go-sdk v1.0.185
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1460,12 +1460,12 @@ require (
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.19
 	go.etcd.io/etcd/client/pkg/v3 v3.5.19
-	go.etcd.io/etcd/client/v2 v2.305.18
+	go.etcd.io/etcd/client/v2 v2.305.19
 	go.etcd.io/etcd/client/v3 v3.5.19
 	go.etcd.io/etcd/etcdctl/v3 v3.5.18
 	go.etcd.io/etcd/etcdutl/v3 v3.5.18
 	go.etcd.io/etcd/pkg/v3 v3.5.18
-	go.etcd.io/etcd/raft/v3 v3.5.18
+	go.etcd.io/etcd/raft/v3 v3.5.19
 	go.etcd.io/etcd/server/v3 v3.5.18
 	go.etcd.io/etcd/tests/v3 v3.5.18
 	go.etcd.io/etcd/v3 v3.5.18
@@ -1474,10 +1474,10 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib v1.34.0
+	go.opentelemetry.io/contrib v1.35.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.34.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.59.0
-	go.opentelemetry.io/contrib/propagators/aws v1.34.0
+	go.opentelemetry.io/contrib/propagators/aws v1.35.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.34.0
 	go.opentelemetry.io/contrib/propagators/ot v1.34.0
 	go.opentelemetry.io/otel v1.35.0
@@ -1505,7 +1505,7 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250218142911-aa4b98e5adaa
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
-	golang.org/x/image v0.24.0
+	golang.org/x/image v0.25.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.24.0
