@@ -2458,8 +2458,8 @@ github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196
 github.com/go-kratos/kratos/registry/consul/v2 v2.0.0-20210901045916-f89e33d7196a/go.mod h1:Ms8kOEVk2JP8JgAmtIUioKM/SL2GXF2R80C5Ao31WKc=
 github.com/go-kratos/kratos/v2 v2.0.1/go.mod h1:Jz6fuJFF2SLczQ7Y8ocKieVGgstQKa+R9NX09bCHekU=
 github.com/go-kratos/kratos/v2 v2.0.5/go.mod h1:pl/qF1XBL9qQfu7+kEVV+Cg7Zx1u8jIiWxVpaLx6X5k=
-github.com/go-kratos/kratos/v2 v2.8.3 h1:kkNBq0gvdX+b8cbaN+p6Sdh95DgMhx7GimefXb4o7Ss=
-github.com/go-kratos/kratos/v2 v2.8.3/go.mod h1:+Vfe3FzF0d+BfMdajA11jT0rAyJWublRE/seZQNZVxE=
+github.com/go-kratos/kratos/v2 v2.8.4 h1:eIJLE9Qq9WSoKx+Buy2uPyrahtF/lPh+Xf4MTpxhmjs=
+github.com/go-kratos/kratos/v2 v2.8.4/go.mod h1:mq62W2101a5uYyRxe+7IdWubu7gZCGYqSNKwGFiiRcw=
 github.com/go-lark/lark v1.16.0 h1:U6BwkLM9wrZedSM7cIiMofganr8PCvJN+M75w2lf2Gg=
 github.com/go-lark/lark v1.16.0/go.mod h1:6ltbSztPZRT6IaO9ZIQyVaY5pVp/KeMizDYtfZkU+vM=
 github.com/go-lark/lark-hertz v1.1.1 h1:YSY36PTMjvfhzr4UgiNo2TQ22YGcYyDrXyADL77zJss=
