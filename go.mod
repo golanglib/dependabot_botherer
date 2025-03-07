@@ -25,7 +25,7 @@ require (
 	cloud.google.com/go/monitoring v1.24.0
 	cloud.google.com/go/pubsub v1.47.0
 	cloud.google.com/go/storage v1.50.0
-	cloud.google.com/go/trace v1.11.3
+	cloud.google.com/go/trace v1.11.4
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.20.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
@@ -924,7 +924,7 @@ require (
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
 	github.com/larksuite/oapi-sdk-go v1.1.48
-	github.com/larksuite/oapi-sdk-go/v3 v3.4.10
+	github.com/larksuite/oapi-sdk-go/v3 v3.4.11
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.1
 	github.com/ldez/tagliatelle v0.7.1
@@ -1477,9 +1477,9 @@ require (
 	go.opentelemetry.io/contrib v1.35.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.35.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
-	go.opentelemetry.io/contrib/propagators/autoprop v0.59.0
+	go.opentelemetry.io/contrib/propagators/autoprop v0.60.0
 	go.opentelemetry.io/contrib/propagators/aws v1.35.0
-	go.opentelemetry.io/contrib/propagators/b3 v1.34.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.35.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.35.0
 	go.opentelemetry.io/contrib/propagators/ot v1.35.0
 	go.opentelemetry.io/otel v1.35.0
