@@ -23,7 +23,7 @@ github.com/Shopify/sarama
 //	module declares its path as: github.com/IBM/sarama
 //	        but was required as: github.com/Shopify/sarama
 github.com/antlr/antlr4/runtime/Go/antlr/v4
-//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20250228175308-df4d68c09cde) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20250228175308-df4d68c09cde: parsing go.mod:
+//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20250307220755-e9501a06441e) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20250307220755-e9501a06441e: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antonmedv/expr
