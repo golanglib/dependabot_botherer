@@ -633,7 +633,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.2.1
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.12.1
-	github.com/go-webauthn/x v0.1.18
+	github.com/go-webauthn/x v0.1.19
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
@@ -1220,7 +1220,7 @@ require (
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-beta.4
-	github.com/sagernet/sing v0.6.2
+	github.com/sagernet/sing v0.6.3
 	github.com/sagernet/sing-mux v0.3.1
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.0
@@ -1525,7 +1525,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
-	gomodules.xyz/jsonpatch/v2 v2.4.0
+	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.15.1
 	google.golang.org/api v0.224.0
 	google.golang.org/appengine v1.6.8
@@ -1606,7 +1606,7 @@ require (
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.3
-	sigs.k8s.io/controller-runtime v0.20.2
+	sigs.k8s.io/controller-runtime v0.20.3
 	sigs.k8s.io/controller-tools v0.17.2
 	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8
 	sigs.k8s.io/kustomize/api v0.19.0
