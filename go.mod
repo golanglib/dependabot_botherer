@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.0
 	cloud.google.com/go v0.118.3
 	cloud.google.com/go/auth v0.15.0
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.41.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.1
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.207.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.208.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.1
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.1
@@ -276,7 +276,7 @@ require (
 	github.com/bep/tmc v0.5.1
 	github.com/bitly/go-hostpool v0.1.0
 	github.com/bitly/go-simplejson v0.5.1
-	github.com/bits-and-blooms/bitset v1.21.0
+	github.com/bits-and-blooms/bitset v1.22.0
 	github.com/bits-and-blooms/bloom/v3 v3.7.0
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
@@ -390,7 +390,7 @@ require (
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
-	github.com/cloudwego/dynamicgo v0.5.3
+	github.com/cloudwego/dynamicgo v0.6.0
 	github.com/cloudwego/eino v0.3.14
 	github.com/cloudwego/eino-ext/components/model/ark v0.0.0-20250307041348-895bf354b129
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250307041348-895bf354b129
@@ -516,7 +516,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.0
+	github.com/evanw/esbuild v0.25.1
 	github.com/facebook/time v0.0.0-20250211113239-e3e1421a0980
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -1010,7 +1010,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.87
+	github.com/minio/minio-go/v7 v7.0.88
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1391,7 +1391,7 @@ require (
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.23
-	github.com/vektra/mockery/v2 v2.53.0
+	github.com/vektra/mockery/v2 v2.53.2
 	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
@@ -1576,7 +1576,7 @@ require (
 	lukechampine.com/blake3 v1.4.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.25.0
+	modernc.org/cc/v4 v4.25.1
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.24.0
 	modernc.org/ccorpus v1.11.6
