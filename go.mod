@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.0
 	cloud.google.com/go v0.118.3
 	cloud.google.com/go/auth v0.15.0
@@ -632,7 +632,7 @@ require (
 	github.com/go-toolsmith/typep v1.1.0
 	github.com/go-viper/mapstructure/v2 v2.2.1
 	github.com/go-webauthn/revoke v0.1.10
-	github.com/go-webauthn/webauthn v0.12.1
+	github.com/go-webauthn/webauthn v0.12.2
 	github.com/go-webauthn/x v0.1.19
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
@@ -1576,7 +1576,7 @@ require (
 	lukechampine.com/blake3 v1.4.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.25.0
+	modernc.org/cc/v4 v4.25.1
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.24.0
 	modernc.org/ccorpus v1.11.6
