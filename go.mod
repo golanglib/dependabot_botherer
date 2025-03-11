@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.0
 	cloud.google.com/go v0.118.3
 	cloud.google.com/go/auth v0.15.0
@@ -173,7 +173,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.92
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.93
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -539,7 +539,7 @@ require (
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.129.0
-	github.com/ghostiam/protogetter v0.3.9
+	github.com/ghostiam/protogetter v0.3.10
 	github.com/gin-contrib/gzip v1.2.2
 	github.com/gin-contrib/sessions v1.0.2
 	github.com/gin-contrib/sse v1.0.0
@@ -748,7 +748,7 @@ require (
 	github.com/gostaticanalysis/comment v1.5.0
 	github.com/gostaticanalysis/forcetypeassert v0.2.0
 	github.com/gostaticanalysis/nilerr v0.1.1
-	github.com/gostaticanalysis/testutil v0.5.2
+	github.com/gostaticanalysis/testutil v0.6.0
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
 	github.com/grafana/pyroscope-go v1.2.0
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
@@ -884,7 +884,7 @@ require (
 	github.com/josephspurrier/goversioninfo v1.4.1
 	github.com/josharian/intern v1.0.0
 	github.com/josharian/native v1.1.0
-	github.com/josharian/txtarfs v0.0.0-20210218200122-0702f000015a
+	github.com/josharian/txtarfs v0.0.0-20240408113805-5dc76b8fe6bf
 	github.com/jpillora/backoff v1.0.0
 	github.com/json-iterator/go v1.1.12
 	github.com/jsternberg/zap-logfmt v1.3.0
@@ -1136,7 +1136,7 @@ require (
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.12
+	github.com/pion/rtp v1.8.13
 	github.com/pion/sctp v1.8.37
 	github.com/pion/sdp/v3 v3.0.10
 	github.com/pion/srtp v1.5.2
@@ -1730,6 +1730,7 @@ require (
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
+	github.com/josharian/mapfs v0.0.0-20210615234106-095c008854e6 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
