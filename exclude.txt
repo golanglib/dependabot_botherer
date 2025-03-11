@@ -166,7 +166,7 @@ github.com/hashicorp/consul
 //go: to switch to the latest unretracted version, run:
 //	go get github.com/hashicorp/go-msgpack@latest
 github.com/hashicorp/nomad
-//go: github.com/hashicorp/nomad@latest (v1.9.6) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
+//go: github.com/hashicorp/nomad@latest (v1.9.7) requires github.com/armon/go-metrics@v0.5.3: parsing go.mod:
 //	module declares its path as: github.com/hashicorp/go-metrics
 //	        but was required as: github.com/armon/go-metrics
 github.com/hashicorp/vault
