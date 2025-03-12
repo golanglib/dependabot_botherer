@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250307204501-0409229c3780.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.22.0
 	cloud.google.com/go v0.119.0
 	cloud.google.com/go/auth v0.15.0
@@ -393,17 +393,17 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.0
 	github.com/cloudwego/eino v0.3.15
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.0
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250311033453-fb8e9fc3e584
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250311033453-fb8e9fc3e584
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250312125549-9e3ca163aa28
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250312125549-9e3ca163aa28
 	github.com/cloudwego/eino-ext/devops v0.1.3
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250311033453-fb8e9fc3e584
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250312125549-9e3ca163aa28
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.12.3
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250311093048-4335e899d49e
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250312072225-7690fa4c7cc5
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.6.5
 	github.com/cloudwego/runtimex v0.1.1
@@ -754,7 +754,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.0
-	github.com/grid-x/modbus v0.0.0-20250219144522-2b18d136199f
+	github.com/grid-x/modbus v0.0.0-20250312115347-d1d8b421f52b
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
