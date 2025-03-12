@@ -1583,7 +1583,7 @@ require (
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
 	modernc.org/gc/v2 v2.6.4
-	modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b
+	modernc.org/gc/v3 v3.0.0
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
