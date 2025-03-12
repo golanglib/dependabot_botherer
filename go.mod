@@ -8,9 +8,9 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.0
-	cloud.google.com/go v0.118.3
+	cloud.google.com/go v0.119.0
 	cloud.google.com/go/auth v0.15.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
 	cloud.google.com/go/bigquery v1.66.2
@@ -173,7 +173,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.93
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.94
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -239,10 +239,10 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.41.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.1
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.208.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.209.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.1
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.1
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.1
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.17
@@ -282,7 +282,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.4.4
-	github.com/blevesearch/bleve_index_api v1.2.3
+	github.com/blevesearch/bleve_index_api v1.2.4
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
 	github.com/blevesearch/go-faiss v1.0.24
@@ -290,7 +290,7 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.3.5
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.6
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
@@ -435,7 +435,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/couchbase/cbauth v0.1.13
 	github.com/couchbase/go-couchbase v0.1.1
-	github.com/couchbase/gomemcached v0.3.2
+	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
 	github.com/cpuguy83/dockercfg v0.3.2
@@ -463,7 +463,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.6.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20250226181018-4d5f24afb7c2
-	github.com/digitalocean/godo v1.138.0
+	github.com/digitalocean/godo v1.139.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -490,7 +490,7 @@ require (
 	github.com/eclipse/paho.golang v0.22.0
 	github.com/eclipse/paho.mqtt.golang v1.5.0
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
-	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2
+	github.com/editorconfig/editorconfig-core-go/v2 v2.6.3
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/elazarl/goproxy v1.7.2
 	github.com/elazarl/goproxy/ext v0.0.0-20250305112401-088f758167d2
@@ -529,7 +529,7 @@ require (
 	github.com/francoispqt/gojay v1.2.13
 	github.com/frankban/quicktest v1.14.6
 	github.com/fsnotify/fsnotify v1.8.0
-	github.com/fullstorydev/grpcurl v1.9.2
+	github.com/fullstorydev/grpcurl v1.9.3
 	github.com/fxamacker/cbor v1.5.1
 	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/fzipp/gocyclo v0.6.0
@@ -597,7 +597,7 @@ require (
 	github.com/go-ole/go-ole v1.3.0
 	github.com/go-openapi/analysis v0.23.0
 	github.com/go-openapi/errors v0.22.0
-	github.com/go-openapi/inflect v0.21.0
+	github.com/go-openapi/inflect v0.21.1
 	github.com/go-openapi/jsonpointer v0.21.0
 	github.com/go-openapi/jsonreference v0.21.0
 	github.com/go-openapi/loads v0.22.0
@@ -673,7 +673,7 @@ require (
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
-	github.com/golangci/golangci-lint v1.64.6
+	github.com/golangci/golangci-lint v1.64.7
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.6.0
 	github.com/golangci/modinfo v0.3.4
@@ -750,7 +750,7 @@ require (
 	github.com/gostaticanalysis/nilerr v0.1.1
 	github.com/gostaticanalysis/testutil v0.6.0
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
-	github.com/grafana/pyroscope-go v1.2.0
+	github.com/grafana/pyroscope-go v1.2.1
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.0
@@ -1400,7 +1400,7 @@ require (
 	github.com/vmihailenco/tagparser v0.1.2
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
-	github.com/vmware/govmomi v0.48.1
+	github.com/vmware/govmomi v0.49.0
 	github.com/volcengine/volc-sdk-golang v1.0.198
 	github.com/volcengine/volcengine-go-sdk v1.0.185
 	github.com/vulcand/oxy v1.4.2
@@ -1446,7 +1446,7 @@ require (
 	github.com/zerobounce/zerobouncego v1.1.0
 	github.com/zitadel/logging v0.6.1
 	github.com/zitadel/oidc/v2 v2.12.2
-	github.com/zitadel/oidc/v3 v3.35.0
+	github.com/zitadel/oidc/v3 v3.36.0
 	github.com/zitadel/schema v1.3.0
 	gitlab.com/bosi/decorder v0.4.2
 	gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7
@@ -1529,7 +1529,7 @@ require (
 	gonum.org/v1/gonum v0.15.1
 	google.golang.org/api v0.224.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20250224174004-546df14abb99
+	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/grpc v1.71.0
@@ -1560,13 +1560,13 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.32.2
-	k8s.io/apiextensions-apiserver v0.32.2
-	k8s.io/apimachinery v0.32.2
-	k8s.io/apiserver v0.32.2
-	k8s.io/client-go v0.32.2
-	k8s.io/code-generator v0.32.2
-	k8s.io/component-base v0.32.2
+	k8s.io/api v0.32.3
+	k8s.io/apiextensions-apiserver v0.32.3
+	k8s.io/apimachinery v0.32.3
+	k8s.io/apiserver v0.32.3
+	k8s.io/client-go v0.32.3
+	k8s.io/code-generator v0.32.3
+	k8s.io/component-base v0.32.3
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
@@ -1576,9 +1576,9 @@ require (
 	lukechampine.com/blake3 v1.4.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.25.1
+	modernc.org/cc/v4 v4.25.2
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.24.0
+	modernc.org/ccgo/v4 v4.24.1
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
@@ -1605,7 +1605,7 @@ require (
 	pgregory.net/rapid v1.2.0
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
-	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.3
+	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.32.0
 	sigs.k8s.io/controller-runtime v0.20.3
 	sigs.k8s.io/controller-tools v0.17.2
 	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8
@@ -1665,7 +1665,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.3 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.34 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.6.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.7.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.15 // indirect
@@ -1709,7 +1709,7 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
-	github.com/golangci/dupl v0.0.0-20180902072040-3e9179ac440a // indirect
+	github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32 // indirect
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
 	github.com/googleapis/go-sql-spanner v1.7.4 // indirect
