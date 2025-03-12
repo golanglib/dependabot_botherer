@@ -1562,10 +1562,10 @@ require (
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.2
 	k8s.io/apiextensions-apiserver v0.32.2
-	k8s.io/apimachinery v0.32.2
+	k8s.io/apimachinery v0.32.3
 	k8s.io/apiserver v0.32.2
 	k8s.io/client-go v0.32.2
-	k8s.io/code-generator v0.32.2
+	k8s.io/code-generator v0.32.3
 	k8s.io/component-base v0.32.2
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
