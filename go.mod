@@ -10,7 +10,7 @@ require (
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.22.0
-	cloud.google.com/go v0.118.3
+	cloud.google.com/go v0.119.0
 	cloud.google.com/go/auth v0.15.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.7
 	cloud.google.com/go/bigquery v1.66.2
@@ -1529,7 +1529,7 @@ require (
 	gonum.org/v1/gonum v0.15.1
 	google.golang.org/api v0.224.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20250224174004-546df14abb99
+	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/grpc v1.71.0
