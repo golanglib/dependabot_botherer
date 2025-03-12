@@ -598,7 +598,7 @@ require (
 	github.com/go-openapi/analysis v0.23.0
 	github.com/go-openapi/errors v0.22.0
 	github.com/go-openapi/inflect v0.21.1
-	github.com/go-openapi/jsonpointer v0.21.0
+	github.com/go-openapi/jsonpointer v0.21.1
 	github.com/go-openapi/jsonreference v0.21.0
 	github.com/go-openapi/loads v0.22.0
 	github.com/go-openapi/runtime v0.28.0
