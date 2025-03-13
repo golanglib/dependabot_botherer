@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.5
 	cloud.google.com/go/monitoring v1.24.0
 	cloud.google.com/go/pubsub v1.47.0
-	cloud.google.com/go/storage v1.50.0
+	cloud.google.com/go/storage v1.51.0
 	cloud.google.com/go/trace v1.11.4
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.20.0
@@ -325,7 +325,7 @@ require (
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
 	github.com/breml/bidichk v0.3.2
-	github.com/breml/errchkjson v0.4.0
+	github.com/breml/errchkjson v0.4.1
 	github.com/brianvoe/gofakeit/v6 v6.28.0
 	github.com/bsm/ginkgo v1.16.5
 	github.com/bsm/ginkgo/v2 v2.12.0
@@ -350,7 +350,7 @@ require (
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
 	github.com/calebcase/tmpfile v1.0.3
-	github.com/catenacyber/perfsprint v0.9.0
+	github.com/catenacyber/perfsprint v0.9.1
 	github.com/cch123/supermonkey v1.0.1
 	github.com/ccojocar/zxcvbn-go v1.0.2
 	github.com/cenkalti/backoff/v3 v3.2.2
@@ -363,7 +363,7 @@ require (
 	github.com/charmbracelet/bubbletea v1.3.4
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.8.0
-	github.com/charmbracelet/lipgloss v1.0.0
+	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/charmbracelet/x/ansi v0.8.0
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
 	github.com/charmbracelet/x/term v0.2.1
@@ -391,7 +391,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
 	github.com/cloudwego/dynamicgo v0.6.0
-	github.com/cloudwego/eino v0.3.15
+	github.com/cloudwego/eino v0.3.16
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.0
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250312125549-9e3ca163aa28
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250312125549-9e3ca163aa28
@@ -1578,11 +1578,11 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.25.2
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.24.1
+	modernc.org/ccgo/v4 v4.24.2
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
-	modernc.org/gc/v2 v2.6.4
+	modernc.org/gc/v2 v2.6.5
 	modernc.org/gc/v3 v3.0.0
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
@@ -1674,6 +1674,8 @@ require (
 	github.com/bgentry/speakeasy v0.2.0 // indirect
 	github.com/ccoveille/go-safecast v1.5.0 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
+	github.com/charmbracelet/colorprofile v0.2.3-0.20250311203215-f60798e515dc // indirect
+	github.com/charmbracelet/x/cellbuf v0.0.13-0.20250311204145-2c3ea96c31dd // indirect
 	github.com/checkpoint-restore/go-criu/v6 v6.3.0 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
 	github.com/containerd/containerd/v2 v2.0.3 // indirect
@@ -1814,6 +1816,7 @@ require (
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/xiang90/probing v0.0.0-20221125231312-a49e3df8f510 // indirect
+	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0 // indirect
 	github.com/yosssi/ace v0.0.5 // indirect
 	github.com/yudai/gojsondiff v1.0.0 // indirect
