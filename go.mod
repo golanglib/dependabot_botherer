@@ -55,7 +55,7 @@ require (
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2
 	github.com/AlecAivazis/survey/v2 v2.3.7
-	github.com/Antonboom/errname v1.0.0
+	github.com/Antonboom/errname v1.1.0
 	github.com/Antonboom/nilnil v1.0.1
 	github.com/Antonboom/testifylint v1.5.2
 	github.com/Azure/azure-amqp-common-go v1.1.4
