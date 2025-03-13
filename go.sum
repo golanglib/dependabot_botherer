@@ -1824,8 +1824,8 @@ github.com/cloudwego/dynamicgo v0.6.0 h1:F4SyVhoxvLQWp3dVy1twvVmJnQ1Z1bR2WynXgHL
 github.com/cloudwego/dynamicgo v0.6.0/go.mod h1:ZfuIc4tsk8gdsmsoL+3M/q3916xTj+KAVJaXQHSaWiE=
 github.com/cloudwego/eino v0.3.16 h1:ASN8zISyoEdjEsPnIw5GazSHtbNY97NDthQ2B69yiZw=
 github.com/cloudwego/eino v0.3.16/go.mod h1:+kmJimGEcKuSI6OKhet7kBedkm1WUZS3H1QRazxgWUo=
-github.com/cloudwego/eino-ext/components/model/ark v0.1.0 h1:WjOxzaFqVObKBnboNBNFmrRw1f6eldbGn5gsYR9bEUQ=
-github.com/cloudwego/eino-ext/components/model/ark v0.1.0/go.mod h1:ZQndPvPwpgSWx/yDFcajBhAVQC6wgRCJwYZBcIHjaaw=
+github.com/cloudwego/eino-ext/components/model/ark v0.1.1 h1:GekKwYI4Pmba7jz+PtlAlZ9HXsarULhpWKYuMOaG5TQ=
+github.com/cloudwego/eino-ext/components/model/ark v0.1.1/go.mod h1:ZQndPvPwpgSWx/yDFcajBhAVQC6wgRCJwYZBcIHjaaw=
 github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250312125549-9e3ca163aa28 h1:g+AdQaVgSSnYivVJnHzQBdMuJRG4G3J5OeNJFiZ5HxU=
 github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250312125549-9e3ca163aa28/go.mod h1:YGP4q3uspj5qhkv3CnvlEPSo0YGeWpvkkTUHHpLExas=
 github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250312125549-9e3ca163aa28 h1:gldyYGQhwy7E+qi7jvL+NBvHduYUwna0MYUT5mh/pRE=
