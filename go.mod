@@ -16,14 +16,14 @@ require (
 	cloud.google.com/go/bigquery v1.66.2
 	cloud.google.com/go/compute v1.34.0
 	cloud.google.com/go/compute/metadata v0.6.0
-	cloud.google.com/go/datacatalog v1.24.3
+	cloud.google.com/go/datacatalog v1.24.4
 	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.4.1
 	cloud.google.com/go/kms v1.21.0
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.5
 	cloud.google.com/go/monitoring v1.24.0
-	cloud.google.com/go/pubsub v1.47.0
+	cloud.google.com/go/pubsub v1.48.0
 	cloud.google.com/go/storage v1.51.0
 	cloud.google.com/go/trace v1.11.4
 	code.gitea.io/actions-proto-go v0.4.1
@@ -324,7 +324,7 @@ require (
 	github.com/bradfitz/gomemcache v0.0.0-20230905024940-24af94b03874
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
-	github.com/breml/bidichk v0.3.2
+	github.com/breml/bidichk v0.3.3
 	github.com/breml/errchkjson v0.4.1
 	github.com/brianvoe/gofakeit/v6 v6.28.0
 	github.com/bsm/ginkgo v1.16.5
@@ -362,7 +362,7 @@ require (
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.3.4
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
-	github.com/charmbracelet/glamour v0.8.0
+	github.com/charmbracelet/glamour v0.8.1
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/charmbracelet/x/ansi v0.8.0
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
@@ -390,9 +390,9 @@ require (
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.2
-	github.com/cloudwego/dynamicgo v0.6.0
+	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.16
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.0
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.1
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250312125549-9e3ca163aa28
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250312125549-9e3ca163aa28
 	github.com/cloudwego/eino-ext/devops v0.1.3
@@ -430,7 +430,7 @@ require (
 	github.com/containernetworking/cni v1.2.3
 	github.com/coocood/freecache v1.2.4
 	github.com/coreos/go-iptables v0.8.0
-	github.com/coreos/go-oidc/v3 v3.12.0
+	github.com/coreos/go-oidc/v3 v3.13.0
 	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/couchbase/cbauth v0.1.13
@@ -1402,7 +1402,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.49.0
 	github.com/volcengine/volc-sdk-golang v1.0.198
-	github.com/volcengine/volcengine-go-sdk v1.0.185
+	github.com/volcengine/volcengine-go-sdk v1.0.186
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
