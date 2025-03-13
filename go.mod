@@ -325,7 +325,7 @@ require (
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
 	github.com/breml/bidichk v0.3.2
-	github.com/breml/errchkjson v0.4.0
+	github.com/breml/errchkjson v0.4.1
 	github.com/brianvoe/gofakeit/v6 v6.28.0
 	github.com/bsm/ginkgo v1.16.5
 	github.com/bsm/ginkgo/v2 v2.12.0
