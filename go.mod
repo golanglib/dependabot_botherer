@@ -18,7 +18,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.24.4
 	cloud.google.com/go/firestore v1.18.0
-	cloud.google.com/go/iam v1.4.1
+	cloud.google.com/go/iam v1.4.2
 	cloud.google.com/go/kms v1.21.0
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.5
