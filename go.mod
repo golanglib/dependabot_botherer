@@ -2,8 +2,6 @@ module dependabot_botherer
 
 go 1.24
 
-toolchain go1.24.0
-
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
@@ -16,7 +14,7 @@ require (
 	cloud.google.com/go/bigquery v1.66.2
 	cloud.google.com/go/compute v1.34.1
 	cloud.google.com/go/compute/metadata v0.6.0
-	cloud.google.com/go/datacatalog v1.24.4
+	cloud.google.com/go/datacatalog v1.24.5
 	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.4.2
 	cloud.google.com/go/kms v1.21.0
