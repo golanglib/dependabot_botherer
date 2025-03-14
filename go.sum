@@ -597,8 +597,8 @@ cloud.google.com/go/trace v1.3.0/go.mod h1:FFUE83d9Ca57C+K8rDl/Ih8LwOzWIV1krKgxg
 cloud.google.com/go/trace v1.4.0/go.mod h1:UG0v8UBqzusp+z63o7FK74SdFE+AXpCLdFb1rshXG+Y=
 cloud.google.com/go/trace v1.8.0/go.mod h1:zH7vcsbAhklH8hWFig58HvxcxyQbaIqMarMg9hn5ECA=
 cloud.google.com/go/trace v1.9.0/go.mod h1:lOQqpE5IaWY0Ixg7/r2SjixMuc6lfTFeO4QGM4dQWOk=
-cloud.google.com/go/trace v1.11.4 h1:LKlhVyX6I4+heP31sWvERSKZZ9cPPEZumt7b4SKVK18=
-cloud.google.com/go/trace v1.11.4/go.mod h1:lCSHzSPZC1TPwto7zhaRt3KtGYsXFyaErPQ18AUUeUE=
+cloud.google.com/go/trace v1.11.5 h1:CALS1loyxJMnRiCwZSpdf8ac7iCsjreMxFD2WGxzzHU=
+cloud.google.com/go/trace v1.11.5/go.mod h1:TwblCcqNInriu5/qzaeYEIH7wzUcchSdeY2l5wL3Eec=
 cloud.google.com/go/translate v1.3.0/go.mod h1:gzMUwRjvOqj5i69y/LYLd8RrNQk+hOmIXTi9+nb3Djs=
 cloud.google.com/go/translate v1.4.0/go.mod h1:06Dn/ppvLD6WvA5Rhdp029IX2Mi3Mn7fpMRLPvXT5Wg=
 cloud.google.com/go/translate v1.5.0/go.mod h1:29YDSYveqqpA1CQFD7NQuP49xymq17RXNaUDdc0mNu0=
