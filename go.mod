@@ -1339,8 +1339,8 @@ require (
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
 	github.com/tdewolff/minify/v2 v2.21.3
-	github.com/tdewolff/parse/v2 v2.7.20
-	github.com/tdewolff/test v1.0.11-0.20240106005702-7de5f7df4739
+	github.com/tdewolff/parse/v2 v2.7.21
+	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
 	github.com/terminalstatic/go-xsd-validate v0.1.6
