@@ -1415,7 +1415,7 @@ require (
 	github.com/xdg-go/scram v1.1.2
 	github.com/xdg-go/stringprep v1.0.4
 	github.com/xeipuuv/gojsonschema v1.2.0
-	github.com/xen0n/gosmopolitan v1.2.2
+	github.com/xen0n/gosmopolitan v1.3.0
 	github.com/xiaokangwang/VLite v0.0.0-20220418190619-cff95160a432
 	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
