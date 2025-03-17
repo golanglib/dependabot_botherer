@@ -1310,7 +1310,7 @@ require (
 	github.com/spf13/cobra-cli v1.3.0
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.6
-	github.com/spf13/viper v1.19.0
+	github.com/spf13/viper v1.20.0
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.3
 	github.com/srebhan/protobufquery v1.0.3
