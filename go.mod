@@ -594,7 +594,7 @@ require (
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-ole/go-ole v1.3.0
 	github.com/go-openapi/analysis v0.23.0
-	github.com/go-openapi/errors v0.22.0
+	github.com/go-openapi/errors v0.22.1
 	github.com/go-openapi/inflect v0.21.1
 	github.com/go-openapi/jsonpointer v0.21.1
 	github.com/go-openapi/jsonreference v0.21.0
