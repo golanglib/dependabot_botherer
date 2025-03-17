@@ -2624,8 +2624,8 @@ github.com/goccy/go-json v0.9.11/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MG
 github.com/goccy/go-json v0.10.5 h1:Fq85nIqj+gXn/S5ahsiTlK3TmC85qgirsdTP/+DeaC4=
 github.com/goccy/go-json v0.10.5/go.mod h1:oq7eo15ShAhp70Anwd5lgX2pLfOS3QCiwU/PULtXL6M=
 github.com/goccy/go-yaml v1.9.5/go.mod h1:U/jl18uSupI5rdI2jmuCswEA2htH9eXfferR3KfscvA=
-github.com/goccy/go-yaml v1.15.23 h1:WS0GAX1uNPDLUvLkNU2vXq6oTnsmfVFocjQ/4qA48qo=
-github.com/goccy/go-yaml v1.15.23/go.mod h1:XBurs7gK8ATbW4ZPGKgcbrY1Br56PdM69F7LkFRi1kA=
+github.com/goccy/go-yaml v1.16.0 h1:d7m1G7A0t+logajVtklHfDYJs2Et9g3gHwdBNNFou0w=
+github.com/goccy/go-yaml v1.16.0/go.mod h1:XBurs7gK8ATbW4ZPGKgcbrY1Br56PdM69F7LkFRi1kA=
 github.com/gochore/boltutil v0.2.0 h1:VfSdH5Grrgw330uUz8eLN5lYYo89wp1N9FaEc5pghow=
 github.com/gochore/boltutil v0.2.0/go.mod h1:KQII29fG5CYg8wkL+Jo6thU7sp8QGha9iiPk1cf7nBM=
 github.com/gochore/dcron v1.4.0 h1:NnjBjZynxKhtjM5L+mdxlLOD3UK3nB72kjBzrZZoj/w=
