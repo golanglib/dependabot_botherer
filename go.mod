@@ -1224,7 +1224,7 @@ require (
 	github.com/sagernet/sing-vmess v0.2.0
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
 	github.com/sagernet/wireguard-go v0.0.1-beta.5
-	github.com/sagikazarmark/locafero v0.7.0
+	github.com/sagikazarmark/locafero v0.8.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.49.1
 	github.com/samber/slog-betterstack v1.4.2
@@ -1304,7 +1304,7 @@ require (
 	github.com/spacemonkeygo/monkit/v3 v3.0.24
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.5
-	github.com/spf13/afero v1.12.0
+	github.com/spf13/afero v1.14.0
 	github.com/spf13/cast v1.7.1
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/cobra-cli v1.3.0
