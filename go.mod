@@ -533,7 +533,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.18.1
+	github.com/gaissmai/bart v0.19.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.130.0
@@ -594,7 +594,7 @@ require (
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-ole/go-ole v1.3.0
 	github.com/go-openapi/analysis v0.23.0
-	github.com/go-openapi/errors v0.22.0
+	github.com/go-openapi/errors v0.22.1
 	github.com/go-openapi/inflect v0.21.1
 	github.com/go-openapi/jsonpointer v0.21.1
 	github.com/go-openapi/jsonreference v0.21.0
@@ -1310,7 +1310,7 @@ require (
 	github.com/spf13/cobra-cli v1.3.0
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.6
-	github.com/spf13/viper v1.19.0
+	github.com/spf13/viper v1.20.0
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.3
 	github.com/srebhan/protobufquery v1.0.3
@@ -1576,7 +1576,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.25.2
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.24.2
+	modernc.org/ccgo/v4 v4.25.0
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
