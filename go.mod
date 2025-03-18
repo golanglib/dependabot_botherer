@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.2
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250317075448-6f7dc9387541
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250317075448-6f7dc9387541
-	github.com/cloudwego/eino-ext/devops v0.1.3
+	github.com/cloudwego/eino-ext/devops v0.1.4
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250317075448-6f7dc9387541
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
@@ -1743,6 +1743,7 @@ require (
 	github.com/ldez/usetesting v0.4.2 // indirect
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
+	github.com/matoous/go-nanoid v1.5.1 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a // indirect
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
