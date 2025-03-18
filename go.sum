@@ -1828,8 +1828,8 @@ github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250317075448-6f7d
 github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250317075448-6f7dc9387541/go.mod h1:YGP4q3uspj5qhkv3CnvlEPSo0YGeWpvkkTUHHpLExas=
 github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250317075448-6f7dc9387541 h1:f6wver6NSBXmUXibwd0Cyh2xKaBfC5esnEr043H45qQ=
 github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250317075448-6f7dc9387541/go.mod h1:Fo0UBvCoAvzHTKwgix6GZ4tdf0XCyaxX+fzDbc5l8Wk=
-github.com/cloudwego/eino-ext/devops v0.1.3 h1:wLMyWhzDIGXCgdEcNUL/7WwzPkRrNJuHC/iMFMWAy2Y=
-github.com/cloudwego/eino-ext/devops v0.1.3/go.mod h1:wkrh7yUnU2ZBv7RSFd6Fej64VrHamn8ZRjsB9YUh4PQ=
+github.com/cloudwego/eino-ext/devops v0.1.4 h1:ihOf5ek4Ma4sMDkr0VeOm2zIAnyUE3NvhRQcw/9UwV4=
+github.com/cloudwego/eino-ext/devops v0.1.4/go.mod h1:MekAcaMUvHQgCSzDkPdR+QbyM7qLbGqHVM4/vIbK0yw=
 github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250317075448-6f7dc9387541 h1:agmof3XBRAd8fhhcM/TGB8nIchf7tCaABI3yfQ83OP0=
 github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250317075448-6f7dc9387541/go.mod h1:6CThw1XQx/ASXNt31yuvp0X4Yp4GprknQuIvP9VKDpw=
 github.com/cloudwego/fastpb v0.0.5 h1:vYnBPsfbAtU5TVz5+f9UTlmSCixG9F9vRwaqE0mZPZU=
@@ -3742,6 +3742,8 @@ github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 h1:2ZKn+w/BJeL
 github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786/go.mod h1:kCEbxUJlNDEBNbdQMkPSp6yaKcRXVI6f4ddk8Riv4bc=
 github.com/masterzen/winrm v0.0.0-20210623064412-3b76017826b0 h1:KqYuDbSr8I2X8H65InN8SafDEa0UaLRy6WEmxDqd0F0=
 github.com/masterzen/winrm v0.0.0-20210623064412-3b76017826b0/go.mod h1:l31LCh9VvG43RJ83A5JLkFPjuz48cZAxBSLQLaIn1p8=
+github.com/matoous/go-nanoid v1.5.1 h1:aCjdvTyO9LLnTIi0fgdXhOPPvOHjpXN6Ik9DaNjIct4=
+github.com/matoous/go-nanoid v1.5.1/go.mod h1:zyD2a71IubI24efhpvkJz+ZwfwagzgSO6UNiFsZKN7U=
 github.com/matoous/godox v1.1.0 h1:W5mqwbyWrwZv6OQ5Z1a/DHGMOvXYCBP3+Ht7KMoJhq4=
 github.com/matoous/godox v1.1.0/go.mod h1:jgE/3fUXiTurkdHOLT5WEkThTSuE7yxHv5iWPa80afs=
 github.com/matryer/is v1.2.0/go.mod h1:2fLPjFQM9rhQ15aVEtbuwhJinnOqrmgXPNdZsdwlWXA=
