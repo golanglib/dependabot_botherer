@@ -1004,7 +1004,7 @@ require (
 	github.com/micromdm/scep/v2 v2.3.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
 	github.com/microsoft/go-mssqldb v1.8.0
-	github.com/miekg/dns v1.1.63
+	github.com/miekg/dns v1.1.64
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
