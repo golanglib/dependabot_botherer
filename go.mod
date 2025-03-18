@@ -943,7 +943,7 @@ require (
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
 	github.com/lxc/incus/v6 v6.10.1
-	github.com/lyft/protoc-gen-star/v2 v2.0.4-0.20230330145011-496ad1ac90a4
+	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
 	github.com/magefile/mage v1.15.0
 	github.com/magiconair/properties v1.8.9
