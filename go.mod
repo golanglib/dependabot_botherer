@@ -391,17 +391,17 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.16
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.2
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250317075448-6f7dc9387541
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250317075448-6f7dc9387541
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250318123758-e578769f9903
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250318123758-e578769f9903
 	github.com/cloudwego/eino-ext/devops v0.1.4
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250317075448-6f7dc9387541
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250318123758-e578769f9903
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.12.3
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250313142741-4031e2a50d28
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250318112228-2fb6fc4cc8f3
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.6.5
 	github.com/cloudwego/runtimex v0.1.1
