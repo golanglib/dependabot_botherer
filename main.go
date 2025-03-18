@@ -498,7 +498,7 @@ import (
 	_ "github.com/emersion/go-vcard"
 	_ "github.com/emicklei/go-restful/v3"
 	_ "github.com/emirpasic/gods/containers"
-	_ "github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/compression/qatzip/compressor/v3alpha"
+	_ "github.com/envoyproxy/go-control-plane/pkg/cache/types"
 	_ "github.com/envoyproxy/protoc-gen-validate/module"
 	_ "github.com/ericlagergren/aegis"
 	_ "github.com/ericlagergren/polyval"
