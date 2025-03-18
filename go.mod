@@ -1284,7 +1284,7 @@ require (
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
-	github.com/smallstep/certificates v0.28.2
+	github.com/smallstep/certificates v0.28.3
 	github.com/smallstep/cli v0.28.5
 	github.com/smallstep/cli-utils v0.12.1
 	github.com/smallstep/nosql v0.7.0
@@ -1670,7 +1670,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
-	github.com/ccoveille/go-safecast v1.5.0 // indirect
+	github.com/ccoveille/go-safecast v1.6.0 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
 	github.com/charmbracelet/colorprofile v0.2.3-0.20250311203215-f60798e515dc // indirect
 	github.com/charmbracelet/x/cellbuf v0.0.13-0.20250311204145-2c3ea96c31dd // indirect
