@@ -390,7 +390,7 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.16
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.2
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.3
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250318123758-e578769f9903
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250318123758-e578769f9903
 	github.com/cloudwego/eino-ext/devops v0.1.4
@@ -536,7 +536,7 @@ require (
 	github.com/gaissmai/bart v0.19.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
-	github.com/getkin/kin-openapi v0.130.0
+	github.com/getkin/kin-openapi v0.131.0
 	github.com/ghostiam/protogetter v0.3.12
 	github.com/gin-contrib/gzip v1.2.2
 	github.com/gin-contrib/sessions v1.0.2
