@@ -390,7 +390,7 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.16
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.2
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.3
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250318123758-e578769f9903
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250318123758-e578769f9903
 	github.com/cloudwego/eino-ext/devops v0.1.4
@@ -536,7 +536,7 @@ require (
 	github.com/gaissmai/bart v0.19.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
-	github.com/getkin/kin-openapi v0.130.0
+	github.com/getkin/kin-openapi v0.131.0
 	github.com/ghostiam/protogetter v0.3.12
 	github.com/gin-contrib/gzip v1.2.2
 	github.com/gin-contrib/sessions v1.0.2
@@ -563,7 +563,7 @@ require (
 	github.com/go-chi/cors v1.2.1
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
-	github.com/go-critic/go-critic v0.12.0
+	github.com/go-critic/go-critic v0.13.0
 	github.com/go-enry/go-enry/v2 v2.9.2
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-errors/errors v1.5.1
