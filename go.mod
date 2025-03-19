@@ -218,7 +218,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
 	github.com/ashanbrown/makezero v1.2.0
-	github.com/atombender/go-jsonschema v0.17.0
+	github.com/atombender/go-jsonschema v0.18.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
@@ -1503,7 +1503,7 @@ require (
 	golang.org/x/arch v0.15.0
 	golang.org/x/crypto v0.36.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
-	golang.org/x/exp v0.0.0-20250218142911-aa4b98e5adaa
+	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.25.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
