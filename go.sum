@@ -3218,8 +3218,8 @@ github.com/hertz-contrib/http2 v0.1.8 h1:kjfCGkUxJZHgfPsnRjx1FLJBG55KvtvSQD214gu
 github.com/hertz-contrib/http2 v0.1.8/go.mod h1:m42hrl8fiTwE4p8c7JdRUZpkePEthvV89q3elL2GeD0=
 github.com/hertz-contrib/localsession v0.1.0 h1:Dm/7Gke+pE2rGG4hldw+/cUBXYrvIJNICmkJv8lAhR4=
 github.com/hertz-contrib/localsession v0.1.0/go.mod h1:lFvqcLqs0rFBnYLoA79d1mL6q8qJyRwq9c2O7zAzl5c=
-github.com/hertz-contrib/sse v0.0.6 h1:0n3GLuBhhv2ewdWQUOW3cg3jjpQW9xkHXYfbI/AOPeE=
-github.com/hertz-contrib/sse v0.0.6/go.mod h1:CU4M3xR1eA/2KkNTsDoMsKCs3ODhu1V0lmUwBar/S5c=
+github.com/hertz-contrib/sse v0.1.0 h1:F0xzGuk4JMgvbNC2K0AITpsmIDloztfQ4dOY9mgTsBE=
+github.com/hertz-contrib/sse v0.1.0/go.mod h1:CU4M3xR1eA/2KkNTsDoMsKCs3ODhu1V0lmUwBar/S5c=
 github.com/hetznercloud/hcloud-go v1.59.2 h1:NkCPwYiPv85FnOV3IW9/gxfW61TPIUSwyPHRSLwCkHA=
 github.com/hetznercloud/hcloud-go v1.59.2/go.mod h1:oTebZCjd+osj75jlI76Z+zjN1sTxmMiQ1MWoO8aRl1c=
 github.com/hetznercloud/hcloud-go/v2 v2.20.0 h1:T5Ap0RmMTTvsGBrCavT/PJD8WCt8jhuUoViNtvObH5Y=

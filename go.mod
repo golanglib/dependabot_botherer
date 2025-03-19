@@ -806,7 +806,7 @@ require (
 	github.com/henrylee2cn/goutil v1.0.1
 	github.com/hertz-contrib/http2 v0.1.8
 	github.com/hertz-contrib/localsession v0.1.0
-	github.com/hertz-contrib/sse v0.0.6
+	github.com/hertz-contrib/sse v0.1.0
 	github.com/hetznercloud/hcloud-go v1.59.2
 	github.com/hetznercloud/hcloud-go/v2 v2.20.0
 	github.com/hexops/gotextdiff v1.0.3
