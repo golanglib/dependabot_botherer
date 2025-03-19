@@ -746,7 +746,7 @@ require (
 	github.com/gostaticanalysis/comment v1.5.0
 	github.com/gostaticanalysis/forcetypeassert v0.2.0
 	github.com/gostaticanalysis/nilerr v0.1.1
-	github.com/gostaticanalysis/testutil v0.6.0
+	github.com/gostaticanalysis/testutil v0.6.1
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
 	github.com/grafana/pyroscope-go v1.2.1
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
