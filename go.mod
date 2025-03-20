@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250307204501-0409229c3780.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.22.0
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -391,17 +391,17 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.17
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.3
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250319101353-50eb9bbe8192
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250319101353-50eb9bbe8192
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250320062631-616205c32186
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250320062631-616205c32186
 	github.com/cloudwego/eino-ext/devops v0.1.4
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250319101353-50eb9bbe8192
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250320062631-616205c32186
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.12.3
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250319131027-6006858349b7
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250320145330-a6f265a34cdd
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.6.5
 	github.com/cloudwego/runtimex v0.1.1
@@ -515,7 +515,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.1
-	github.com/facebook/time v0.0.0-20250313130146-f6d3ab6c3a8b
+	github.com/facebook/time v0.0.0-20250320061419-7aa5a0f301b6
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
