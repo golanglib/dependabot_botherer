@@ -1442,7 +1442,7 @@ require (
 	github.com/zeebo/pcg v1.0.1
 	github.com/zeebo/xxh3 v1.0.2
 	github.com/zerobounce/zerobouncego v1.1.0
-	github.com/zitadel/logging v0.6.1
+	github.com/zitadel/logging v0.6.2
 	github.com/zitadel/oidc/v2 v2.12.2
 	github.com/zitadel/oidc/v3 v3.36.1
 	github.com/zitadel/schema v1.3.1
