@@ -216,7 +216,7 @@ import (
 	_ "github.com/asaskevich/govalidator"
 	_ "github.com/ashanbrown/forbidigo/examples"
 	_ "github.com/ashanbrown/makezero/examples"
-	_ "github.com/atombender/go-jsonschema/pkg/codegen"
+	_ "github.com/atombender/go-jsonschema/pkg/cmputil"
 	_ "github.com/atotto/clipboard"
 	_ "github.com/avast/retry-go/v4"
 	_ "github.com/awnumar/memcall"
