@@ -1445,7 +1445,7 @@ require (
 	github.com/zitadel/logging v0.6.1
 	github.com/zitadel/oidc/v2 v2.12.2
 	github.com/zitadel/oidc/v3 v3.36.1
-	github.com/zitadel/schema v1.3.0
+	github.com/zitadel/schema v1.3.1
 	gitlab.com/bosi/decorder v0.4.2
 	gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7
 	gitlab.com/yawning/bsaes.git v0.0.0-20190805113838-0a714cd429ec

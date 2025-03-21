@@ -5429,8 +5429,8 @@ github.com/zitadel/oidc/v2 v2.12.2 h1:3kpckg4rurgw7w7aLJrq7yvRxb2pkNOtD08RH42vPE
 github.com/zitadel/oidc/v2 v2.12.2/go.mod h1:vhP26g1g4YVntcTi0amMYW3tJuid70nxqxf+kb6XKgg=
 github.com/zitadel/oidc/v3 v3.36.1 h1:1AT1NqKKEqAwx4GmKJZ9fYkWH2WIn/VKMfQ46nBtRf0=
 github.com/zitadel/oidc/v3 v3.36.1/go.mod h1:dApGZLvWZTHRuxmcbQlW5d2XVjVYR3vGOdq536igmTs=
-github.com/zitadel/schema v1.3.0 h1:kQ9W9tvIwZICCKWcMvCEweXET1OcOyGEuFbHs4o5kg0=
-github.com/zitadel/schema v1.3.0/go.mod h1:NptN6mkBDFvERUCvZHlvWmmME+gmZ44xzwRXwhzsbtc=
+github.com/zitadel/schema v1.3.1 h1:QT3kwiRIRXXLVAs6gCK/u044WmUVh6IlbLXUsn6yRQU=
+github.com/zitadel/schema v1.3.1/go.mod h1:071u7D2LQacy1HAN+YnMd/mx1qVE2isb0Mjeqg46xnU=
 gitlab.com/bosi/decorder v0.4.2 h1:qbQaV3zgwnBZ4zPMhGLW4KZe7A7NwxEhJx39R3shffo=
 gitlab.com/bosi/decorder v0.4.2/go.mod h1:muuhHoaJkA9QLcYHq4Mj8FJUwDZ+EirSHRiaTcTf6T8=
 gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7 h1:UNrDfkQqiEYzdMlNsVvBYOAJWZjdktqFE9tQh5BT2+4=
