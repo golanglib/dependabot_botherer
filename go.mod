@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.0
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -377,7 +377,7 @@ require (
 	github.com/chzyer/test v1.0.0
 	github.com/cilium/ebpf v0.17.3
 	github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df
-	github.com/ckaznocha/intrange v0.3.0
+	github.com/ckaznocha/intrange v0.3.1
 	github.com/clarify/clarify-go v0.4.0
 	github.com/clbanning/mxj/v2 v2.7.0
 	github.com/cli/safeexec v1.0.1
@@ -613,7 +613,7 @@ require (
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-resty/resty/v2 v2.16.5
-	github.com/go-sql-driver/mysql v1.9.0
+	github.com/go-sql-driver/mysql v1.9.1
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
 	github.com/go-task/slim-sprig v2.20.0+incompatible
@@ -1234,7 +1234,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.38.0
+	github.com/sashabaranov/go-openai v1.38.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.28.0
 	github.com/sassoftware/go-rpmutils v0.4.0
