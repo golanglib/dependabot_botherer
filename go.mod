@@ -377,7 +377,7 @@ require (
 	github.com/chzyer/test v1.0.0
 	github.com/cilium/ebpf v0.17.3
 	github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df
-	github.com/ckaznocha/intrange v0.3.0
+	github.com/ckaznocha/intrange v0.3.1
 	github.com/clarify/clarify-go v0.4.0
 	github.com/clbanning/mxj/v2 v2.7.0
 	github.com/cli/safeexec v1.0.1
