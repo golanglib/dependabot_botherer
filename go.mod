@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.0
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -264,7 +264,7 @@ require (
 	github.com/bep/gitmap v1.6.0
 	github.com/bep/goat v0.5.0
 	github.com/bep/godartsass v1.2.0
-	github.com/bep/godartsass/v2 v2.4.0
+	github.com/bep/godartsass/v2 v2.4.1
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
 	github.com/bep/imagemeta v0.10.0
@@ -848,7 +848,7 @@ require (
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761
 	github.com/jackc/pgtype v1.14.4
 	github.com/jackc/pgx/v4 v4.18.3
-	github.com/jackc/pgx/v5 v5.7.2
+	github.com/jackc/pgx/v5 v5.7.3
 	github.com/jackc/puddle v1.3.0
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/jarcoal/httpmock v1.3.1
@@ -1206,7 +1206,7 @@ require (
 	github.com/rs/cors/wrapper/gin v0.0.0-20240830163046-1084d89a1692
 	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
 	github.com/rs/xid v1.6.0
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/russellhaering/goxmldsig v1.5.0
 	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/russross/blackfriday/v2 v2.1.0
@@ -1218,7 +1218,7 @@ require (
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-beta.4
-	github.com/sagernet/sing v0.6.3
+	github.com/sagernet/sing v0.6.4
 	github.com/sagernet/sing-mux v0.3.1
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.0
@@ -1444,7 +1444,7 @@ require (
 	github.com/zerobounce/zerobouncego v1.1.0
 	github.com/zitadel/logging v0.6.2
 	github.com/zitadel/oidc/v2 v2.12.2
-	github.com/zitadel/oidc/v3 v3.36.1
+	github.com/zitadel/oidc/v3 v3.37.0
 	github.com/zitadel/schema v1.3.1
 	gitlab.com/bosi/decorder v0.4.2
 	gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7
@@ -1456,15 +1456,15 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.4.0
-	go.etcd.io/etcd/api/v3 v3.5.19
-	go.etcd.io/etcd/client/pkg/v3 v3.5.19
-	go.etcd.io/etcd/client/v2 v2.305.19
-	go.etcd.io/etcd/client/v3 v3.5.19
+	go.etcd.io/etcd/api/v3 v3.5.20
+	go.etcd.io/etcd/client/pkg/v3 v3.5.20
+	go.etcd.io/etcd/client/v2 v2.305.20
+	go.etcd.io/etcd/client/v3 v3.5.20
 	go.etcd.io/etcd/etcdctl/v3 v3.5.19
-	go.etcd.io/etcd/etcdutl/v3 v3.5.19
-	go.etcd.io/etcd/pkg/v3 v3.5.19
-	go.etcd.io/etcd/raft/v3 v3.5.19
-	go.etcd.io/etcd/server/v3 v3.5.19
+	go.etcd.io/etcd/etcdutl/v3 v3.5.20
+	go.etcd.io/etcd/pkg/v3 v3.5.20
+	go.etcd.io/etcd/raft/v3 v3.5.20
+	go.etcd.io/etcd/server/v3 v3.5.20
 	go.etcd.io/etcd/tests/v3 v3.5.19
 	go.etcd.io/etcd/v3 v3.5.19
 	go.etcd.io/gofail v0.2.0
@@ -1531,7 +1531,7 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250313205543-e70fdf4c4cb4
 	google.golang.org/grpc v1.71.0
-	google.golang.org/protobuf v1.36.5
+	google.golang.org/protobuf v1.36.6
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.1
@@ -1576,7 +1576,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.25.2
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.25.0
+	modernc.org/ccgo/v4 v4.25.1
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
