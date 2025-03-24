@@ -848,7 +848,7 @@ require (
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761
 	github.com/jackc/pgtype v1.14.4
 	github.com/jackc/pgx/v4 v4.18.3
-	github.com/jackc/pgx/v5 v5.7.2
+	github.com/jackc/pgx/v5 v5.7.3
 	github.com/jackc/puddle v1.3.0
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/jarcoal/httpmock v1.3.1
@@ -1206,7 +1206,7 @@ require (
 	github.com/rs/cors/wrapper/gin v0.0.0-20240830163046-1084d89a1692
 	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
 	github.com/rs/xid v1.6.0
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/russellhaering/goxmldsig v1.5.0
 	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/russross/blackfriday/v2 v2.1.0
@@ -1456,15 +1456,15 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.4.0
-	go.etcd.io/etcd/api/v3 v3.5.19
-	go.etcd.io/etcd/client/pkg/v3 v3.5.19
-	go.etcd.io/etcd/client/v2 v2.305.19
-	go.etcd.io/etcd/client/v3 v3.5.19
+	go.etcd.io/etcd/api/v3 v3.5.20
+	go.etcd.io/etcd/client/pkg/v3 v3.5.20
+	go.etcd.io/etcd/client/v2 v2.305.20
+	go.etcd.io/etcd/client/v3 v3.5.20
 	go.etcd.io/etcd/etcdctl/v3 v3.5.19
-	go.etcd.io/etcd/etcdutl/v3 v3.5.19
-	go.etcd.io/etcd/pkg/v3 v3.5.19
-	go.etcd.io/etcd/raft/v3 v3.5.19
-	go.etcd.io/etcd/server/v3 v3.5.19
+	go.etcd.io/etcd/etcdutl/v3 v3.5.20
+	go.etcd.io/etcd/pkg/v3 v3.5.20
+	go.etcd.io/etcd/raft/v3 v3.5.20
+	go.etcd.io/etcd/server/v3 v3.5.20
 	go.etcd.io/etcd/tests/v3 v3.5.19
 	go.etcd.io/etcd/v3 v3.5.19
 	go.etcd.io/gofail v0.2.0
