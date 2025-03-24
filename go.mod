@@ -533,7 +533,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.19.0
+	github.com/gaissmai/bart v0.20.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.131.0
@@ -1094,7 +1094,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.1
 	github.com/opencontainers/runc v1.2.6
-	github.com/opencontainers/selinux v1.11.1
+	github.com/opencontainers/selinux v1.12.0
 	github.com/opensearch-project/opensearch-go v1.1.0
 	github.com/opensearch-project/opensearch-go/v2 v2.3.0
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
@@ -1382,7 +1382,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.29.2
+	github.com/v2fly/v2ray-core/v5 v5.29.3
 	github.com/valyala/fasthttp v1.59.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
@@ -1460,12 +1460,12 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.5.20
 	go.etcd.io/etcd/client/v2 v2.305.20
 	go.etcd.io/etcd/client/v3 v3.5.20
-	go.etcd.io/etcd/etcdctl/v3 v3.5.19
+	go.etcd.io/etcd/etcdctl/v3 v3.5.20
 	go.etcd.io/etcd/etcdutl/v3 v3.5.20
 	go.etcd.io/etcd/pkg/v3 v3.5.20
 	go.etcd.io/etcd/raft/v3 v3.5.20
 	go.etcd.io/etcd/server/v3 v3.5.20
-	go.etcd.io/etcd/tests/v3 v3.5.19
+	go.etcd.io/etcd/tests/v3 v3.5.20
 	go.etcd.io/etcd/v3 v3.5.19
 	go.etcd.io/gofail v0.2.0
 	go.jolheiser.com/hcaptcha v0.0.4
@@ -1604,7 +1604,7 @@ require (
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.32.0
-	sigs.k8s.io/controller-runtime v0.20.3
+	sigs.k8s.io/controller-runtime v0.20.4
 	sigs.k8s.io/controller-tools v0.17.2
 	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8
 	sigs.k8s.io/kustomize/api v0.19.0
