@@ -27,7 +27,7 @@ github.com/antlr/antlr4/runtime/Go/antlr/v4
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antonmedv/expr
-//go: github.com/antonmedv/expr@latest (v1.17.1) requires github.com/antonmedv/expr@v1.17.1: parsing go.mod:
+//go: github.com/antonmedv/expr@latest (v1.17.2) requires github.com/antonmedv/expr@v1.17.2: parsing go.mod:
 //	module declares its path as: github.com/expr-lang/expr
 //	        but was required as: github.com/antonmedv/expr
 github.com/armon/go-metrics
@@ -213,10 +213,6 @@ github.com/metacubex/gopacket
 //go: github.com/metacubex/gopacket@latest (v1.1.19) requires github.com/metacubex/gopacket@v1.1.19: parsing go.mod:
 //	module declares its path as: github.com/google/gopacket
 //	        but was required as: github.com/metacubex/gopacket
-github.com/metacubex/gvisor
-//go: github.com/metacubex/gvisor@latest (v0.0.0-20230928000133-4fe30062272c) requires github.com/metacubex/gvisor@v0.0.0-20230928000133-4fe30062272c: parsing go.mod:
-//	module declares its path as: gvisor.dev/gvisor
-//	        but was required as: github.com/metacubex/gvisor
 github.com/metacubex/quic-go
 //go: github.com/metacubex/quic-go@latest (v0.49.0) requires github.com/metacubex/quic-go@v0.49.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go

@@ -983,6 +983,7 @@ import (
 	_ "github.com/meilisearch/meilisearch-go"
 	_ "github.com/metacubex/bbolt"
 	_ "github.com/metacubex/chacha"
+	_ "github.com/metacubex/gvisor/pkg/abi"
 	_ "github.com/metacubex/randv2"
 	_ "github.com/metacubex/sing-quic"
 	_ "github.com/metacubex/sing-shadowsocks"
