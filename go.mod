@@ -391,10 +391,10 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.17
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.3
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250324034743-0b9e851c36a7
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250324034743-0b9e851c36a7
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250325082802-bcd645201cb5
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250325082802-bcd645201cb5
 	github.com/cloudwego/eino-ext/devops v0.1.6
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250324034743-0b9e851c36a7
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250325082802-bcd645201cb5
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
