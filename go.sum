@@ -1524,8 +1524,8 @@ github.com/blevesearch/bleve/v2 v2.0.5/go.mod h1:ZjWibgnbRX33c+vBRgla9QhPb4QOjD6
 github.com/blevesearch/bleve/v2 v2.4.4 h1:RwwLGjUm54SwyyykbrZs4vc1qjzYic4ZnAnY9TwNl60=
 github.com/blevesearch/bleve/v2 v2.4.4/go.mod h1:fa2Eo6DP7JR+dMFpQe+WiZXINKSunh7WBtlDGbolKXk=
 github.com/blevesearch/bleve_index_api v1.0.0/go.mod h1:fiwKS0xLEm+gBRgv5mumf0dhgFr2mDgZah1pqv1c1M4=
-github.com/blevesearch/bleve_index_api v1.2.4 h1:XRk+wWtbNZSxKvW2bNg4fUpoc3XQDD63krBzB45fJDY=
-github.com/blevesearch/bleve_index_api v1.2.4/go.mod h1:rKQDl4u51uwafZxFrPD1R7xFOwKnzZW7s/LSeK4lgo0=
+github.com/blevesearch/bleve_index_api v1.2.5 h1:SNKUygu1GV7jTRoQtoASerWHRugrv1IUTEO4ai9uJ6Q=
+github.com/blevesearch/bleve_index_api v1.2.5/go.mod h1:rKQDl4u51uwafZxFrPD1R7xFOwKnzZW7s/LSeK4lgo0=
 github.com/blevesearch/blevex v1.0.0 h1:pnilj2Qi3YSEGdWgLj1Pn9Io7ukfXPoQcpAI1Bv8n/o=
 github.com/blevesearch/blevex v1.0.0/go.mod h1:2rNVqoG2BZI8t1/P1awgTKnGlx5MP9ZbtEciQaNhswc=
 github.com/blevesearch/cld2 v0.0.0-20200327141045-8b5f551d37f5/go.mod h1:PN0QNTLs9+j1bKy3d/GB/59wsNBFC4sWLWG3k69lWbc=
