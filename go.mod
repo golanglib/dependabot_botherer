@@ -1151,7 +1151,7 @@ require (
 	github.com/pires/go-proxyproto v0.8.0
 	github.com/pjbgf/sha1cd v0.3.2
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
-	github.com/pkg/sftp v1.13.8
+	github.com/pkg/sftp v1.13.9
 	github.com/pkg/xattr v0.4.10
 	github.com/pkoukk/tiktoken-go v0.1.7
 	github.com/pkoukk/tiktoken-go-loader v0.0.1
@@ -1488,7 +1488,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.35.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20250225190231-0d3f41d403af
-	go.step.sm/crypto v0.59.1
+	go.step.sm/crypto v0.59.2
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.1
