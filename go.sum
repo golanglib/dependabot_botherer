@@ -5573,8 +5573,8 @@ go.opentelemetry.io/proto/otlp v1.5.0/go.mod h1:keN8WnHxOy8PG0rQZjJJ5A2ebUoafqWp
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 go.starlark.net v0.0.0-20250225190231-0d3f41d403af h1:gdHSl5pZSdC+7qdBKx0n0x4Y2b4UNjuKnKH8Lfwft3o=
 go.starlark.net v0.0.0-20250225190231-0d3f41d403af/go.mod h1:YKMCv9b1WrfWmeqdV5MAuEHWsu5iC+fe6kYl2sQjdI8=
-go.step.sm/crypto v0.59.1 h1:jUL+5p19YS9YJKLaPUgkS2OdGm7s0+hwP7AqTFyF9Cg=
-go.step.sm/crypto v0.59.1/go.mod h1:XHavmnzfTyPpQE/n4YokEtjiBzP3LZI9/1O061f5y0o=
+go.step.sm/crypto v0.59.2 h1:pW6qsBW03hd/OFHi2j7hF4sWnEJ0u7rn3reDSqPb46c=
+go.step.sm/crypto v0.59.2/go.mod h1:bPwUACtYU1CR5ohZTetjBz9CfyF9qql3LllAjw+t3rs=
 go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
 go.uber.org/atomic v1.4.0/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
 go.uber.org/atomic v1.5.0/go.mod h1:sABNBOSYdrvTF6hTgEIbc7YasKWGhgEQZyfxyTvoXHQ=
