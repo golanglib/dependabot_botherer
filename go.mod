@@ -848,7 +848,7 @@ require (
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761
 	github.com/jackc/pgtype v1.14.4
 	github.com/jackc/pgx/v4 v4.18.3
-	github.com/jackc/pgx/v5 v5.7.3
+	github.com/jackc/pgx/v5 v5.7.4
 	github.com/jackc/puddle v1.3.0
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/jarcoal/httpmock v1.3.1
