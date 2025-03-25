@@ -1337,7 +1337,7 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.22.3
+	github.com/tdewolff/minify/v2 v2.22.4
 	github.com/tdewolff/parse/v2 v2.7.21
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
