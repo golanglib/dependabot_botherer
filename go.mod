@@ -390,7 +390,7 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.17
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.3
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.4
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250325082802-bcd645201cb5
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250325082802-bcd645201cb5
 	github.com/cloudwego/eino-ext/devops v0.1.6
