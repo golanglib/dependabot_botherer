@@ -47,7 +47,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.4.2
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.68
+	github.com/99designs/gqlgen v0.17.70
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -90,7 +90,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.2
 	github.com/Azure/go-autorest/tracing v0.6.1
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.4.1
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.4.2
 	github.com/BurntSushi/toml v1.5.0
 	github.com/ClickHouse/ch-go v0.65.1
 	github.com/ClickHouse/clickhouse-go v1.5.4
@@ -288,7 +288,7 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.3.6
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.7
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
@@ -382,7 +382,7 @@ require (
 	github.com/clbanning/mxj/v2 v2.7.0
 	github.com/cli/safeexec v1.0.1
 	github.com/cloudevents/sdk-go v1.2.0
-	github.com/cloudevents/sdk-go/v2 v2.15.2
+	github.com/cloudevents/sdk-go/v2 v2.16.0
 	github.com/cloudflare/cfssl v1.6.5
 	github.com/cloudflare/circl v1.6.0
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
@@ -390,7 +390,7 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.17
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.3
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.4
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250325082802-bcd645201cb5
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250325082802-bcd645201cb5
 	github.com/cloudwego/eino-ext/devops v0.1.6
@@ -915,7 +915,7 @@ require (
 	github.com/kr/pretty v0.3.1
 	github.com/kr/text v0.2.0
 	github.com/kulti/thelper v0.6.3
-	github.com/kunwardeep/paralleltest v1.0.12
+	github.com/kunwardeep/paralleltest v1.0.13
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyoh86/exportloopref v0.1.11
 	github.com/kyokomi/emoji/v2 v2.2.13
@@ -1363,7 +1363,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.15
 	github.com/tklauser/numcpus v0.10.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
-	github.com/tomarrell/wrapcheck/v2 v2.10.0
+	github.com/tomarrell/wrapcheck/v2 v2.11.0
 	github.com/tommy-muehle/go-mnd/v2 v2.5.1
 	github.com/toqueteos/webbrowser v1.2.0
 	github.com/tv42/httpunix v0.0.0-20191220191345-2ba4b9c3382c
@@ -1488,7 +1488,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.35.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20250225190231-0d3f41d403af
-	go.step.sm/crypto v0.59.2
+	go.step.sm/crypto v0.60.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.1
