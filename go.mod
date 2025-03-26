@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.1
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -1101,7 +1101,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.87.0
+	github.com/oracle/oci-go-sdk/v65 v65.88.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/otiai10/copy v1.14.1
@@ -1219,7 +1219,7 @@ require (
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-beta.4
-	github.com/sagernet/sing v0.6.4
+	github.com/sagernet/sing v0.6.5
 	github.com/sagernet/sing-mux v0.3.1
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.0
@@ -1400,7 +1400,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.49.0
-	github.com/volcengine/volc-sdk-golang v1.0.199
+	github.com/volcengine/volc-sdk-golang v1.0.200
 	github.com/volcengine/volcengine-go-sdk v1.0.187
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
