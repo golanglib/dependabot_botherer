@@ -5095,8 +5095,8 @@ github.com/test-go/testify v1.1.4 h1:Tf9lntrKUMHiXQ07qBScBTSA0dhYQlu83hswqelv1iE
 github.com/test-go/testify v1.1.4/go.mod h1:rH7cfJo/47vWGdi4GPj16x3/t1xGOj2YxzmNQzk2ghU=
 github.com/testcontainers/testcontainers-go v0.36.0 h1:YpffyLuHtdp5EUsI5mT4sRw8GZhO/5ozyDT1xWGXt00=
 github.com/testcontainers/testcontainers-go v0.36.0/go.mod h1:yk73GVJ0KUZIHUtFna6MO7QS144qYpoY8lEEtU9Hed0=
-github.com/testcontainers/testcontainers-go/modules/kafka v0.35.0 h1:tvlNELjn78feiIBsWgyX8E/G09suhnpUIh5fqyJpfBs=
-github.com/testcontainers/testcontainers-go/modules/kafka v0.35.0/go.mod h1:lorHXVvVl3vnX0v1aID54iFfR120RTpu2dKE2ZHMLA0=
+github.com/testcontainers/testcontainers-go/modules/kafka v0.36.0 h1:hLCfEjGnoy0Z5taxpjSVzJMKmEamLLes7+MVyYb9B1I=
+github.com/testcontainers/testcontainers-go/modules/kafka v0.36.0/go.mod h1:rrTIX8HBerqX/oeSJ7H6l/E7s0BuMZLcmrCGBzIkp/8=
 github.com/tetafro/godot v1.5.0 h1:aNwfVI4I3+gdxjMgYPus9eHmoBeJIbnajOyqZYStzuw=
 github.com/tetafro/godot v1.5.0/go.mod h1:2oVxTBSftRTh4+MVfUaUXR6bn2GDXCaMcOG4Dk3rfio=
 github.com/tetratelabs/wazero v1.9.0 h1:IcZ56OuxrtaEz8UYNRHBrUa9bYeX9oVY93KspZZBf/I=
