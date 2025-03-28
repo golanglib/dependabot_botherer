@@ -1457,7 +1457,7 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.69.0
 	go.etcd.io/bbolt v1.4.0
-	go.etcd.io/etcd/api/v3 v3.5.20
+	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
 	go.etcd.io/etcd/client/v2 v2.305.20
 	go.etcd.io/etcd/client/v3 v3.5.20
