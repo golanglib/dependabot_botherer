@@ -242,7 +242,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.2
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.2
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.17
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.1
 	github.com/aws/smithy-go v1.22.3
@@ -389,8 +389,8 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.2
-	github.com/cloudwego/eino v0.3.17
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.4
+	github.com/cloudwego/eino v0.3.18
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250326075314-149c6522c118
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250326075314-149c6522c118
 	github.com/cloudwego/eino-ext/devops v0.1.6
@@ -537,7 +537,7 @@ require (
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.131.0
-	github.com/ghostiam/protogetter v0.3.12
+	github.com/ghostiam/protogetter v0.3.13
 	github.com/gin-contrib/gzip v1.2.2
 	github.com/gin-contrib/sessions v1.0.2
 	github.com/gin-contrib/sse v1.0.0
@@ -1458,13 +1458,13 @@ require (
 	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.20
-	go.etcd.io/etcd/client/pkg/v3 v3.5.20
+	go.etcd.io/etcd/client/pkg/v3 v3.5.21
 	go.etcd.io/etcd/client/v2 v2.305.20
 	go.etcd.io/etcd/client/v3 v3.5.20
 	go.etcd.io/etcd/etcdctl/v3 v3.5.20
 	go.etcd.io/etcd/etcdutl/v3 v3.5.20
 	go.etcd.io/etcd/pkg/v3 v3.5.20
-	go.etcd.io/etcd/raft/v3 v3.5.20
+	go.etcd.io/etcd/raft/v3 v3.5.21
 	go.etcd.io/etcd/server/v3 v3.5.20
 	go.etcd.io/etcd/tests/v3 v3.5.20
 	go.etcd.io/etcd/v3 v3.5.20
@@ -1586,7 +1586,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.61.13
+	modernc.org/libc v1.62.0
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.9.1
 	modernc.org/opt v0.1.4
