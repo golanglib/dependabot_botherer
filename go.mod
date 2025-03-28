@@ -55,7 +55,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Antonboom/errname v1.1.0
 	github.com/Antonboom/nilnil v1.1.0
-	github.com/Antonboom/testifylint v1.6.0
+	github.com/Antonboom/testifylint v1.6.1
 	github.com/Azure/azure-amqp-common-go v1.1.4
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0
 	github.com/Azure/azure-event-hubs-go v1.3.2
@@ -171,7 +171,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.102
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.103
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -227,11 +227,11 @@ require (
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
-	github.com/aws/aws-sdk-go-v2/config v1.29.11
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.64
+	github.com/aws/aws-sdk-go-v2/config v1.29.12
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.65
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.8
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.68
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.69
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.1
@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250326075314-149c6522c118
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250326075314-149c6522c118
-	github.com/cloudwego/eino-ext/devops v0.1.6
+	github.com/cloudwego/eino-ext/devops v0.1.7
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250326075314-149c6522c118
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
@@ -608,7 +608,7 @@ require (
 	github.com/go-playground/form/v4 v4.2.2
 	github.com/go-playground/locales v0.14.1
 	github.com/go-playground/universal-translator v0.18.1
-	github.com/go-playground/validator/v10 v10.25.0
+	github.com/go-playground/validator/v10 v10.26.0
 	github.com/go-quicktest/qt v1.101.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
@@ -1160,7 +1160,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
-	github.com/pressly/goose/v3 v3.24.1
+	github.com/pressly/goose/v3 v3.24.2
 	github.com/prometheus-community/pro-bing v0.6.1
 	github.com/prometheus/client_golang v1.21.1
 	github.com/prometheus/client_model v0.6.1
@@ -1455,17 +1455,17 @@ require (
 	go-simpler.org/sloglint v0.9.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.68.1
+	go.einride.tech/aip v0.69.0
 	go.etcd.io/bbolt v1.4.0
-	go.etcd.io/etcd/api/v3 v3.5.20
+	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
-	go.etcd.io/etcd/client/v2 v2.305.20
-	go.etcd.io/etcd/client/v3 v3.5.20
+	go.etcd.io/etcd/client/v2 v2.305.21
+	go.etcd.io/etcd/client/v3 v3.5.21
 	go.etcd.io/etcd/etcdctl/v3 v3.5.20
 	go.etcd.io/etcd/etcdutl/v3 v3.5.20
-	go.etcd.io/etcd/pkg/v3 v3.5.20
+	go.etcd.io/etcd/pkg/v3 v3.5.21
 	go.etcd.io/etcd/raft/v3 v3.5.21
-	go.etcd.io/etcd/server/v3 v3.5.20
+	go.etcd.io/etcd/server/v3 v3.5.21
 	go.etcd.io/etcd/tests/v3 v3.5.20
 	go.etcd.io/etcd/v3 v3.5.20
 	go.etcd.io/gofail v0.2.0
@@ -1510,7 +1510,7 @@ require (
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.24.0
-	golang.org/x/net v0.37.0
+	golang.org/x/net v0.38.0
 	golang.org/x/oauth2 v0.28.0
 	golang.org/x/sync v0.12.0
 	golang.org/x/sys v0.31.0
@@ -1592,7 +1592,7 @@ require (
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.36.2
+	modernc.org/sqlite v1.36.3
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
