@@ -391,10 +391,10 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.18
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250326075314-149c6522c118
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250326075314-149c6522c118
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250328102648-b47e7f1587fa
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250328102648-b47e7f1587fa
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250326075314-149c6522c118
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250328102648-b47e7f1587fa
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.4
 	github.com/cloudwego/gopkg v0.1.4
@@ -1607,7 +1607,7 @@ require (
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.32.0
 	sigs.k8s.io/controller-runtime v0.20.4
 	sigs.k8s.io/controller-tools v0.17.2
-	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8
+	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.19.0
 	sigs.k8s.io/kustomize/cmd/config v0.19.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.6.0
