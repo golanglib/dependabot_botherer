@@ -242,7 +242,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.2
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.29.2
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.17
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.1
 	github.com/aws/smithy-go v1.22.3
@@ -1458,13 +1458,13 @@ require (
 	go.einride.tech/aip v0.68.1
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.20
-	go.etcd.io/etcd/client/pkg/v3 v3.5.20
+	go.etcd.io/etcd/client/pkg/v3 v3.5.21
 	go.etcd.io/etcd/client/v2 v2.305.20
 	go.etcd.io/etcd/client/v3 v3.5.20
 	go.etcd.io/etcd/etcdctl/v3 v3.5.20
 	go.etcd.io/etcd/etcdutl/v3 v3.5.20
 	go.etcd.io/etcd/pkg/v3 v3.5.20
-	go.etcd.io/etcd/raft/v3 v3.5.20
+	go.etcd.io/etcd/raft/v3 v3.5.21
 	go.etcd.io/etcd/server/v3 v3.5.20
 	go.etcd.io/etcd/tests/v3 v3.5.20
 	go.etcd.io/etcd/v3 v3.5.20
