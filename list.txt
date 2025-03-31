@@ -455,6 +455,7 @@ github.com/couchbase/go-couchbase
 github.com/couchbase/gomemcached
 github.com/couchbase/goutils
 github.com/couchbase/vellum
+github.com/coze-dev/coze-go
 github.com/cpuguy83/dockercfg
 github.com/cpuguy83/go-md2man
 github.com/cpuguy83/go-md2man/v2
@@ -691,6 +692,7 @@ github.com/golang-jwt/jwt/v5
 github.com/golang-sql/sqlexp
 github.com/golang/geo
 github.com/golang/glog
+github.com/golang/groupcache
 github.com/golang/mock
 github.com/golang/protobuf
 github.com/golang/snappy
@@ -1011,6 +1013,7 @@ github.com/marten-seemann/qtls-go1-19
 github.com/maruel/natural
 github.com/mastercactapus/proxyprotocol
 github.com/masterzen/winrm
+github.com/matoous/go-nanoid
 github.com/matoous/godox
 github.com/matryer/is
 github.com/mattermost/xml-roundtrip-validator
@@ -1147,6 +1150,7 @@ github.com/open-telemetry/opentelemetry-collector-contrib
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil
 github.com/openacid/low
+github.com/openai/openai-go
 github.com/openconfig/gnmi
 github.com/openconfig/goyang
 github.com/opencontainers/go-digest
@@ -1161,6 +1165,7 @@ github.com/openzipkin/zipkin-go
 github.com/oracle/oci-go-sdk/v65
 github.com/oschwald/geoip2-golang
 github.com/oschwald/maxminddb-golang
+github.com/oschwald/maxminddb-golang/v2
 github.com/otiai10/copy
 github.com/otiai10/mint
 github.com/ovh/go-ovh
