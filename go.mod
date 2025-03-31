@@ -101,7 +101,7 @@ require (
 	github.com/Crocmagnon/fatcontext v0.7.1
 	github.com/CycloneDX/cyclonedx-go v0.9.2
 	github.com/DATA-DOG/go-sqlmock v1.5.2
-	github.com/DataDog/zstd v1.5.6
+	github.com/DataDog/zstd v1.5.7
 	github.com/Djarvur/go-err113 v0.1.0
 	github.com/Exayn/go-listmonk v1.0.11
 	github.com/GaijinEntertainment/go-exhaustruct v1.0.0
