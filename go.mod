@@ -436,6 +436,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
+	github.com/coze-dev/coze-go v0.0.0-20250328062951-ee30c375cdf3
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.6
@@ -664,6 +665,7 @@ require (
 	github.com/golang-sql/sqlexp v0.1.0
 	github.com/golang/geo v0.0.0-20210211234256-740aa86cb551
 	github.com/golang/glog v1.2.4
+	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v1.0.0
@@ -962,6 +964,7 @@ require (
 	github.com/maruel/natural v1.1.1
 	github.com/mastercactapus/proxyprotocol v0.0.4
 	github.com/masterzen/winrm v0.0.0-20210623064412-3b76017826b0
+	github.com/matoous/go-nanoid v1.5.1
 	github.com/matoous/godox v1.1.0
 	github.com/matryer/is v1.4.1
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
@@ -1090,6 +1093,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.3
 	github.com/onsi/gomega v1.36.3
 	github.com/openacid/low v0.1.21
+	github.com/openai/openai-go v0.1.0-beta.3
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
@@ -1104,6 +1108,7 @@ require (
 	github.com/oracle/oci-go-sdk/v65 v65.88.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
+	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
 	github.com/otiai10/copy v1.14.1
 	github.com/otiai10/mint v1.6.3
 	github.com/ovh/go-ovh v1.7.0
@@ -1708,8 +1713,8 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
+	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
-	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32 // indirect
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
@@ -1744,7 +1749,6 @@ require (
 	github.com/ldez/usetesting v0.4.2 // indirect
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
-	github.com/matoous/go-nanoid v1.5.1 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
