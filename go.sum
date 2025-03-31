@@ -2239,8 +2239,8 @@ github.com/evanphx/json-patch v5.9.11+incompatible/go.mod h1:50XU6AFN0ol/bzJsmQL
 github.com/evanphx/json-patch/v5 v5.6.0/go.mod h1:G79N1coSVB93tBe7j6PhzjmR3/2VvlbKOFpnXhI9Bw4=
 github.com/evanphx/json-patch/v5 v5.9.11 h1:/8HVnzMq13/3x9TPvjG08wUGqBTmZBsCWzjTM0wiaDU=
 github.com/evanphx/json-patch/v5 v5.9.11/go.mod h1:3j+LviiESTElxA4p3EMKAB9HXj3/XEtnUf6OZxqIQTM=
-github.com/evanw/esbuild v0.25.1 h1:u/16OWK0l4ymFFuHOApuv/xXg8U0P3QYBSMToll89HI=
-github.com/evanw/esbuild v0.25.1/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfVQuRi48=
+github.com/evanw/esbuild v0.25.2 h1:ublSEmZSjzOc6jLO1OTQy/vHc1wiqyDF4oB3hz5sM6s=
+github.com/evanw/esbuild v0.25.2/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfVQuRi48=
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/facebook/time v0.0.0-20250324140501-920ecb1875c5 h1:YeVBGVZ7KmTmlsK2HxxcNiIol7ZnZaW0YsHQgNZ0XoU=
 github.com/facebook/time v0.0.0-20250324140501-920ecb1875c5/go.mod h1:L2ByaDwtmRZqKbQijPDsbSap2f8GsPSuiF1tw/mMKmY=
