@@ -264,7 +264,7 @@ require (
 	github.com/bep/gitmap v1.7.0
 	github.com/bep/goat v0.5.0
 	github.com/bep/godartsass v1.2.0
-	github.com/bep/godartsass/v2 v2.4.1
+	github.com/bep/godartsass/v2 v2.5.0
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
 	github.com/bep/imagemeta v0.10.0
@@ -310,7 +310,7 @@ require (
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/bmatcuk/doublestar/v4 v4.8.1
-	github.com/boj/redistore v1.4.0
+	github.com/boj/redistore v1.4.1
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
 	github.com/bombsimon/wsl/v4 v4.6.0
@@ -515,7 +515,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.1
+	github.com/evanw/esbuild v0.25.2
 	github.com/facebook/time v0.0.0-20250324140501-920ecb1875c5
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -530,11 +530,11 @@ require (
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/fullstorydev/grpcurl v1.9.3
 	github.com/fxamacker/cbor v1.5.1
-	github.com/fxamacker/cbor/v2 v2.7.0
+	github.com/fxamacker/cbor/v2 v2.8.0
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.13.1
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.20.0
+	github.com/gaissmai/bart v0.20.1
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.131.0
@@ -639,7 +639,7 @@ require (
 	github.com/gobwas/ws v1.4.0
 	github.com/gocarina/gocsv v0.0.0-20240520201108-78e41c74b4b1
 	github.com/goccy/go-json v0.10.5
-	github.com/goccy/go-yaml v1.16.0
+	github.com/goccy/go-yaml v1.17.1
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -657,7 +657,7 @@ require (
 	github.com/gohugoio/httpcache v0.7.0
 	github.com/gohugoio/hugo v0.145.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
-	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.0
+	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
 	github.com/gohugoio/localescompressed v1.0.1
 	github.com/golang-jwt/jwt/v4 v4.5.2
@@ -896,9 +896,9 @@ require (
 	github.com/karamaru-alpha/copyloopvar v1.2.1
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.11
-	github.com/kataras/golog v0.1.12
+	github.com/kataras/golog v0.1.13
 	github.com/kataras/iris/v12 v12.2.11
-	github.com/kataras/pio v0.0.13
+	github.com/kataras/pio v0.0.14
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
 	github.com/keybase/go-keychain v0.0.1
@@ -999,7 +999,7 @@ require (
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
-	github.com/mgechev/revive v1.7.0
+	github.com/mgechev/revive v1.8.0
 	github.com/mholt/acmez v1.2.0
 	github.com/mholt/acmez/v2 v2.0.3
 	github.com/mholt/archiver/v3 v3.5.1
@@ -1582,7 +1582,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.25.2
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.25.1
+	modernc.org/ccgo/v4 v4.25.2
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.0
@@ -1591,7 +1591,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.62.0
+	modernc.org/libc v1.62.1
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.9.1
 	modernc.org/opt v0.1.4
