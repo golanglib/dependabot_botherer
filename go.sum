@@ -3507,12 +3507,12 @@ github.com/karrick/godirwalk v1.17.0 h1:b4kY7nqDdioR/6qnbHQyDvmA17u5G1cZ6J+CZXwS
 github.com/karrick/godirwalk v1.17.0/go.mod h1:j4mkqPuvaLI8mp1DroR3P6ad7cyYd4c1qeJ3RV7ULlk=
 github.com/kataras/blocks v0.0.11 h1:JJdYW0AUaJKLx5kEWs/oRVCvKVXo+6CAAeaVAiJf7wE=
 github.com/kataras/blocks v0.0.11/go.mod h1:b4UySrJySEOq6drKH9U3bOpMI+dRH148mayYfS3RFb8=
-github.com/kataras/golog v0.1.12 h1:Bu7I/G4ilJlbfzjmU39O9N+2uO1pBcMK045fzZ4ytNg=
-github.com/kataras/golog v0.1.12/go.mod h1:wrGSbOiBqbQSQznleVNX4epWM8rl9SJ/rmEacl0yqy4=
+github.com/kataras/golog v0.1.13 h1:bGbPglTdCutekqwOUf8L1jq3tZ5ADG9gfPBd5p5SzKA=
+github.com/kataras/golog v0.1.13/go.mod h1:oQmzBTCv/35TetBosjJl/k+LPdlJEblaTupkNwJlwj8=
 github.com/kataras/iris/v12 v12.2.11 h1:sGgo43rMPfzDft8rjVhPs6L3qDJy3TbBrMD/zGL1pzk=
 github.com/kataras/iris/v12 v12.2.11/go.mod h1:uMAeX8OqG9vqdhyrIPv8Lajo/wXTtAF43wchP9WHt2w=
-github.com/kataras/pio v0.0.13 h1:x0rXVX0fviDTXOOLOmr4MUxOabu1InVSTu5itF8CXCM=
-github.com/kataras/pio v0.0.13/go.mod h1:k3HNuSw+eJ8Pm2lA4lRhg3DiCjVgHlP8hmXApSej3oM=
+github.com/kataras/pio v0.0.14 h1:VGBHOmhwrMMrZeuRqoSfOrFwG+v1JxQge8N50DhmRYQ=
+github.com/kataras/pio v0.0.14/go.mod h1:ZIlcw5+5Zyb/kOlU7X4uosZ8dbnXmA4GcGKt1XyyTY0=
 github.com/kataras/sitemap v0.0.6 h1:w71CRMMKYMJh6LR2wTgnk5hSgjVNB9KL60n5e2KHvLY=
 github.com/kataras/sitemap v0.0.6/go.mod h1:dW4dOCNs896OR1HmG+dMLdT7JjDk7mYBzoIRwuj5jA4=
 github.com/kataras/tunnel v0.0.4 h1:sCAqWuJV7nPzGrlb0os3j49lk2JhILT0rID38NHNLpA=
