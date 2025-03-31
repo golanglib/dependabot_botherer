@@ -1591,13 +1591,13 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.62.0
+	modernc.org/libc v1.62.1
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.9.1
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.36.3
+	modernc.org/sqlite v1.37.0
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
