@@ -403,7 +403,7 @@ require (
 	github.com/cloudwego/kitex v0.12.3
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250324094909-ecb71e12f410
 	github.com/cloudwego/localsession v0.1.2
-	github.com/cloudwego/netpoll v0.6.5
+	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thriftgo v0.4.1
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
