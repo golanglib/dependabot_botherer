@@ -3308,8 +3308,8 @@ github.com/intel/powertelemetry v1.0.2 h1:092xOflYu+YXzY3c/fQ2DpK1ePy9q9ulbm5yiN
 github.com/intel/powertelemetry v1.0.2/go.mod h1:+PHKI9RElL7J1sTjgg3DGxtscD+IiLNmUzV1MOSCZt4=
 github.com/invopop/yaml v0.3.1 h1:f0+ZpmhfBSS4MhG+4HYseMdJhoeeopbSKbq5Rpeelso=
 github.com/invopop/yaml v0.3.1/go.mod h1:PMOp3nn4/12yEZUFfmOuNHJsZToEEOwoWsT+D81KkeA=
-github.com/ionos-cloud/sdk-go/v6 v6.3.2 h1:2mUmrZZz6cPyT9IRX0T8fBLc/7XU/eTxP2Y5tS7/09k=
-github.com/ionos-cloud/sdk-go/v6 v6.3.2/go.mod h1:SXrO9OGyWjd2rZhAhEpdYN6VUAODzzqRdqA9BCviQtI=
+github.com/ionos-cloud/sdk-go/v6 v6.3.3 h1:q33Sw1ZqsvqDkFaKG53dGk7BCOvPCPbGZpYqsF6tdjw=
+github.com/ionos-cloud/sdk-go/v6 v6.3.3/go.mod h1:wCVwNJ/21W29FWFUv+fNawOTMlFoP1dS3L+ZuztFW48=
 github.com/ip2location/ip2location-go/v9 v9.7.1 h1:eXu/DqS13QE0h1Yrc9oji+6/anLD9KDf6Ulf5GdIQs8=
 github.com/ip2location/ip2location-go/v9 v9.7.1/go.mod h1:MPLnsKxwQlvd2lBNcQCsLoyzJLDBFizuO67wXXdzoyI=
 github.com/ipfs/go-ipfs v0.4.18/go.mod h1:iXzbK+Wa6eePj3jQg/uY6Uoq5iOwY+GToD/bgaRadto=
