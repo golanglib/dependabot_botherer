@@ -231,16 +231,16 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.65
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.8
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.69
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.70
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.1
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.210.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.1
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.1
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.2
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.2
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.17
@@ -280,15 +280,15 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.4.4
-	github.com/blevesearch/bleve_index_api v1.2.6
+	github.com/blevesearch/bleve_index_api v1.2.7
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
-	github.com/blevesearch/go-faiss v1.0.24
+	github.com/blevesearch/go-faiss v1.0.25
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.3.8
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.9
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
@@ -303,7 +303,7 @@ require (
 	github.com/blevesearch/zapx/v13 v13.4.1
 	github.com/blevesearch/zapx/v14 v14.4.1
 	github.com/blevesearch/zapx/v15 v15.4.1
-	github.com/blevesearch/zapx/v16 v16.2.1
+	github.com/blevesearch/zapx/v16 v16.2.2
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
 	github.com/blues/jsonata-go v1.5.4
@@ -336,7 +336,7 @@ require (
 	github.com/butuzov/ireturn v0.3.1
 	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
-	github.com/bytedance/gopkg v0.1.1
+	github.com/bytedance/gopkg v0.1.2
 	github.com/bytedance/mockey v1.2.14
 	github.com/bytedance/sonic v1.13.2
 	github.com/bytedance/sonic/loader v0.2.4
@@ -396,7 +396,7 @@ require (
 	github.com/cloudwego/eino-ext/devops v0.1.7
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250331101427-906b8d194a99
 	github.com/cloudwego/fastpb v0.0.5
-	github.com/cloudwego/frugal v0.2.4
+	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
@@ -632,7 +632,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.2.1
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.12.2
-	github.com/go-webauthn/x v0.1.19
+	github.com/go-webauthn/x v0.1.20
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
@@ -835,7 +835,7 @@ require (
 	github.com/intel/iaevents v1.1.0
 	github.com/intel/powertelemetry v1.0.2
 	github.com/invopop/yaml v0.3.1
-	github.com/ionos-cloud/sdk-go/v6 v6.3.2
+	github.com/ionos-cloud/sdk-go/v6 v6.3.3
 	github.com/ip2location/ip2location-go/v9 v9.7.1
 	github.com/iris-contrib/httpexpect/v2 v2.15.2
 	github.com/iris-contrib/schema v0.0.6
@@ -973,7 +973,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20
 	github.com/mattn/go-runewidth v0.0.16
 	github.com/mattn/go-shellwords v1.0.12
-	github.com/mattn/go-sqlite3 v1.14.24
+	github.com/mattn/go-sqlite3 v1.14.25
 	github.com/mattn/goveralls v0.0.12
 	github.com/matttproud/golang_protobuf_extensions v1.0.4
 	github.com/maxatome/go-testdeep v1.14.0
@@ -1067,7 +1067,7 @@ require (
 	github.com/ncruces/go-strftime v0.1.9
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.3
-	github.com/nektos/act v0.2.75
+	github.com/nektos/act v0.2.76
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.2
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
@@ -1299,7 +1299,7 @@ require (
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
-	github.com/snowflakedb/gosnowflake v1.13.1
+	github.com/snowflakedb/gosnowflake v1.13.2
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.1.0
 	github.com/sony/gobreaker v1.0.0
@@ -1536,7 +1536,7 @@ require (
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/api v0.0.0-20250313205543-e70fdf4c4cb4
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250324211829-b45e905df463
-	google.golang.org/grpc v1.71.0
+	google.golang.org/grpc v1.71.1
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
@@ -1611,7 +1611,7 @@ require (
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.32.0
 	sigs.k8s.io/controller-runtime v0.20.4
-	sigs.k8s.io/controller-tools v0.17.2
+	sigs.k8s.io/controller-tools v0.17.3
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.19.0
 	sigs.k8s.io/kustomize/cmd/config v0.19.0
@@ -1695,9 +1695,9 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v28.0.0+incompatible // indirect
+	github.com/docker/cli v28.0.2+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v28.0.1+incompatible // indirect
+	github.com/docker/docker v28.0.2+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
