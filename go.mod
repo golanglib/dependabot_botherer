@@ -336,7 +336,7 @@ require (
 	github.com/butuzov/ireturn v0.3.1
 	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
-	github.com/bytedance/gopkg v0.1.1
+	github.com/bytedance/gopkg v0.1.2
 	github.com/bytedance/mockey v1.2.14
 	github.com/bytedance/sonic v1.13.2
 	github.com/bytedance/sonic/loader v0.2.4
