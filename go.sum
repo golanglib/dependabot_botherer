@@ -1833,8 +1833,8 @@ github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250331101427-906b8d194a99
 github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250331101427-906b8d194a99/go.mod h1:s8KnUXwoZWRifFDf8ZQ6dKKbFakHCI+kqfORuKOdTbs=
 github.com/cloudwego/fastpb v0.0.5 h1:vYnBPsfbAtU5TVz5+f9UTlmSCixG9F9vRwaqE0mZPZU=
 github.com/cloudwego/fastpb v0.0.5/go.mod h1:Bho7aAKBUtT9RPD2cNVkTdx4yQumfSv3If7wYnm1izk=
-github.com/cloudwego/frugal v0.2.4 h1:C6LjbJJBiiz/b/SRpRv9DqfR5xB4/FlrIemsc4YhxfI=
-github.com/cloudwego/frugal v0.2.4/go.mod h1:nC1U47gswLRiaxv6dybrhZvsDGCfQP9RGiiWC73CnoI=
+github.com/cloudwego/frugal v0.2.5 h1:zRICkWpBCQ6TY4QmRf+uINzcHbv7ogCHOM8h7ltPRzM=
+github.com/cloudwego/frugal v0.2.5/go.mod h1:nC1U47gswLRiaxv6dybrhZvsDGCfQP9RGiiWC73CnoI=
 github.com/cloudwego/gopkg v0.1.4 h1:EoQiCG4sTonTPHxOGE0VlQs+sQR+Hsi2uN0qqwu8O50=
 github.com/cloudwego/gopkg v0.1.4/go.mod h1:FQuXsRWRsSqJLsMVd5SYzp8/Z1y5gXKnVvRrWUOsCMI=
 github.com/cloudwego/hertz v0.9.6 h1:Kj5SSPlKBC32NIN7+B/tt8O1pdDz8brMai00rqqjULQ=
