@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.22.1
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -401,7 +401,7 @@ require (
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.0
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250401074342-e24dba6a9f64
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250402082603-df47fc95fe43
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -436,7 +436,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250328062951-ee30c375cdf3
+	github.com/coze-dev/coze-go v0.0.0-20250402103153-736b64b6cbce
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.6
@@ -516,7 +516,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.2
-	github.com/facebook/time v0.0.0-20250401162304-2b17607179d1
+	github.com/facebook/time v0.0.0-20250402102411-21c21eee15f9
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -754,7 +754,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.1
-	github.com/grid-x/modbus v0.0.0-20250312115347-d1d8b421f52b
+	github.com/grid-x/modbus v0.0.0-20250402155432-2deb80656959
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
