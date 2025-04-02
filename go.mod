@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
 	cel.dev/expr v0.22.1
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -1093,7 +1093,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.3
 	github.com/onsi/gomega v1.36.3
 	github.com/openacid/low v0.1.21
-	github.com/openai/openai-go v0.1.0-beta.3
+	github.com/openai/openai-go v0.1.0-beta.4
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
