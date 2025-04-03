@@ -391,10 +391,10 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.19
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250331101427-906b8d194a99
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250331101427-906b8d194a99
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250403035559-e5332ba7144a
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250403035559-e5332ba7144a
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250331101427-906b8d194a99
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250403035559-e5332ba7144a
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -516,7 +516,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.2
-	github.com/facebook/time v0.0.0-20250402102411-21c21eee15f9
+	github.com/facebook/time v0.0.0-20250403163257-8d0fb0aa9add
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -1750,6 +1750,7 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
+	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250402133730-072e60586255 // indirect
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
