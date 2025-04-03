@@ -881,7 +881,7 @@ require (
 	github.com/jmhodges/levigo v1.0.0
 	github.com/joho/godotenv v1.5.1
 	github.com/jonboulle/clockwork v0.5.0
-	github.com/josephspurrier/goversioninfo v1.4.1
+	github.com/josephspurrier/goversioninfo v1.5.0
 	github.com/josharian/intern v1.0.0
 	github.com/josharian/native v1.1.0
 	github.com/josharian/txtarfs v0.0.0-20240408113805-5dc76b8fe6bf
