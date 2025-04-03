@@ -139,7 +139,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.5
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.13.4
+	github.com/SAP/go-hdb v1.13.5
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -279,7 +279,7 @@ require (
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
-	github.com/blevesearch/bleve/v2 v2.4.4
+	github.com/blevesearch/bleve/v2 v2.5.0
 	github.com/blevesearch/bleve_index_api v1.2.7
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
@@ -730,7 +730,7 @@ require (
 	github.com/gopcua/opcua v0.7.1
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
-	github.com/gophercloud/gophercloud/v2 v2.6.0
+	github.com/gophercloud/gophercloud/v2 v2.7.0
 	github.com/gopherjs/gopherjs v1.17.2
 	github.com/gorcon/rcon v1.4.0
 	github.com/gordonklaus/ineffassign v0.1.0
