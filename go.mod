@@ -157,7 +157,7 @@ require (
 	github.com/alecthomas/assert/v2 v2.11.0
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
-	github.com/alecthomas/chroma/v2 v2.15.0
+	github.com/alecthomas/chroma/v2 v2.16.0
 	github.com/alecthomas/go-check-sumtype v0.3.1
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.4.0
