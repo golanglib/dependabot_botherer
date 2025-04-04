@@ -3725,8 +3725,8 @@ github.com/marekm4/color-extractor v1.2.1/go.mod h1:90VjmiHI6M8ez9eYUaXLdcKnS+BA
 github.com/markbates/errx v1.1.0/go.mod h1:PLa46Oex9KNbVDZhKel8v1OT7hD5JZ2eI7AHhA0wswc=
 github.com/markbates/going v1.0.3 h1:mY45T5TvW+Xz5A6jY7lf4+NLg9D8+iuStIHyR7M8qsE=
 github.com/markbates/going v1.0.3/go.mod h1:fQiT6v6yQar9UD6bd/D4Z5Afbk9J6BBVBtLiyY4gp2o=
-github.com/markbates/goth v1.80.0 h1:NnvatczZDzOs1hn9Ug+dVYf2Viwwkp/ZDX5K+GLjan8=
-github.com/markbates/goth v1.80.0/go.mod h1:4/GYHo+W6NWisrMPZnq0Yr2Q70UntNLn7KXEFhrIdAY=
+github.com/markbates/goth v1.81.0 h1:XVcCkeGWokynPV7MXvgb8pd2s3r7DS40P7931w6kdnE=
+github.com/markbates/goth v1.81.0/go.mod h1:+6z31QyUms84EHmuBY7iuqYSxyoN3njIgg9iCF/lR1k=
 github.com/markbates/oncer v1.0.0/go.mod h1:Z59JA581E9GP6w96jai+TGqafHPW+cPfRxz2aSZ0mcI=
 github.com/markbates/safe v1.0.1/go.mod h1:nAqgmRi7cY2nqMc92/bSEeQA+R4OheNU2T1kNSCBdG0=
 github.com/marten-seemann/chacha20 v0.2.0/go.mod h1:HSdjFau7GzYRj+ahFNwsO3ouVJr1HFkWoEwNDb4TMtE=
