@@ -313,7 +313,7 @@ require (
 	github.com/boj/redistore v1.4.1
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
-	github.com/bombsimon/wsl/v4 v4.6.0
+	github.com/bombsimon/wsl/v4 v4.7.0
 	github.com/bool64/dev v0.2.39
 	github.com/bool64/shared v0.1.5
 	github.com/boombuler/barcode v1.0.2
