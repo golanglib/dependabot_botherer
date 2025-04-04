@@ -428,7 +428,7 @@ require (
 	github.com/containernetworking/cni v1.2.3
 	github.com/coocood/freecache v1.2.4
 	github.com/coreos/go-iptables v0.8.0
-	github.com/coreos/go-oidc/v3 v3.13.0
+	github.com/coreos/go-oidc/v3 v3.14.1
 	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/couchbase/cbauth v0.1.13
