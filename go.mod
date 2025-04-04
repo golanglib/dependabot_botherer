@@ -958,7 +958,7 @@ require (
 	github.com/maratori/testpackage v1.1.1
 	github.com/marekm4/color-extractor v1.2.1
 	github.com/markbates/going v1.0.3
-	github.com/markbates/goth v1.80.0
+	github.com/markbates/goth v1.81.0
 	github.com/marten-seemann/qtls v0.10.0
 	github.com/marten-seemann/qtls-go1-15 v0.1.5
 	github.com/maruel/natural v1.1.1
