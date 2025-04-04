@@ -229,14 +229,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
 	github.com/aws/aws-sdk-go-v2/config v1.29.12
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.65
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.8
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.9
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.70
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.1
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.0
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.1
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.1
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.1
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.1
@@ -1093,7 +1093,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.3
 	github.com/onsi/gomega v1.37.0
 	github.com/openacid/low v0.1.21
-	github.com/openai/openai-go v0.1.0-beta.5
+	github.com/openai/openai-go v0.1.0-beta.6
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
