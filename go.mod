@@ -227,7 +227,7 @@ require (
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
-	github.com/aws/aws-sdk-go-v2/config v1.29.12
+	github.com/aws/aws-sdk-go-v2/config v1.29.13
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.66
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.9
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
@@ -238,9 +238,9 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.1
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.1
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.2
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.2
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.18
