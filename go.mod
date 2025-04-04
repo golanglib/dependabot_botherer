@@ -532,7 +532,7 @@ require (
 	github.com/fxamacker/cbor v1.5.1
 	github.com/fxamacker/cbor/v2 v2.8.0
 	github.com/fzipp/gocyclo v0.6.0
-	github.com/g-rath/osv-detector v0.13.1
+	github.com/g-rath/osv-detector v0.14.0
 	github.com/gabriel-vasile/mimetype v1.4.8
 	github.com/gaissmai/bart v0.20.1
 	github.com/gaukas/godicttls v0.0.4
@@ -1811,6 +1811,7 @@ require (
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
 	github.com/tent/http-link-go v0.0.0-20130702225549-ac974c61c2f9 // indirect
+	github.com/tidwall/jsonc v0.3.2 // indirect
 	github.com/uudashr/iface v1.3.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec // indirect
