@@ -516,7 +516,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.2
-	github.com/facebook/time v0.0.0-20250403163257-8d0fb0aa9add
+	github.com/facebook/time v0.0.0-20250404155308-162241c27329
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -754,7 +754,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.1
-	github.com/grid-x/modbus v0.0.0-20250402155432-2deb80656959
+	github.com/grid-x/modbus v0.0.0-20250403195434-0b5f88db24d0
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
@@ -989,7 +989,7 @@ require (
 	github.com/metacubex/chacha v0.1.1
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250119013740-2a19cce83925
+	github.com/metacubex/sing-quic v0.0.0-20250404030904-b2cc8aab562c
 	github.com/metacubex/sing-shadowsocks v0.2.8
 	github.com/metacubex/sing-shadowsocks2 v0.2.2
 	github.com/metacubex/sing-tun v0.4.5
