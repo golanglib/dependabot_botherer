@@ -187,7 +187,7 @@ require (
 	github.com/anacrolix/missinggo/v2 v2.8.0
 	github.com/anacrolix/mmsg v1.1.1
 	github.com/anacrolix/multiless v0.4.0
-	github.com/anacrolix/possum/go v0.3.1
+	github.com/anacrolix/possum/go v0.3.2
 	github.com/anacrolix/squirrel v0.6.4
 	github.com/anacrolix/stm v0.5.0
 	github.com/anacrolix/sync v0.5.3
