@@ -171,7 +171,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.103
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.104
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -237,7 +237,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.2
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.2
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.2
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.1
@@ -1518,7 +1518,7 @@ require (
 	golang.org/x/net v0.38.0
 	golang.org/x/oauth2 v0.28.0
 	golang.org/x/sync v0.12.0
-	golang.org/x/sys v0.31.0
+	golang.org/x/sys v0.32.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.45.0
 	golang.org/x/term v0.30.0
