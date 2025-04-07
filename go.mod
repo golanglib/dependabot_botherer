@@ -171,7 +171,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.103
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.104
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -201,7 +201,7 @@ require (
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
 	github.com/antchfx/xmlquery v1.4.4
-	github.com/antchfx/xpath v1.3.3
+	github.com/antchfx/xpath v1.3.4
 	github.com/anthony-zh/osv-proxy v0.0.0-20240202022159-ab4f4b8cac39
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
 	github.com/antlr4-go/antlr v0.0.0-20230518091524-98b52378c522
@@ -237,7 +237,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.2
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.2
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.2
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.1
@@ -1008,7 +1008,7 @@ require (
 	github.com/micromdm/scep/v2 v2.3.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
 	github.com/microsoft/go-mssqldb v1.8.0
-	github.com/miekg/dns v1.1.64
+	github.com/miekg/dns v1.1.65
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
@@ -1518,10 +1518,10 @@ require (
 	golang.org/x/net v0.38.0
 	golang.org/x/oauth2 v0.28.0
 	golang.org/x/sync v0.12.0
-	golang.org/x/sys v0.31.0
+	golang.org/x/sys v0.32.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.45.0
-	golang.org/x/term v0.30.0
+	golang.org/x/term v0.31.0
 	golang.org/x/text v0.23.0
 	golang.org/x/time v0.11.0
 	golang.org/x/tools v0.31.0
