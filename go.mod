@@ -716,7 +716,7 @@ require (
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/pprof v0.0.0-20250317173921-a4b03ec1a45e
+	github.com/google/pprof v0.0.0-20250403155104-27863c87afa6
 	github.com/google/s2a-go v0.1.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
@@ -1090,7 +1090,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.23.3
+	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
 	github.com/openacid/low v0.1.21
 	github.com/openai/openai-go v0.1.0-beta.6
@@ -1518,7 +1518,7 @@ require (
 	golang.org/x/net v0.38.0
 	golang.org/x/oauth2 v0.28.0
 	golang.org/x/sync v0.12.0
-	golang.org/x/sys v0.31.0
+	golang.org/x/sys v0.32.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.45.0
 	golang.org/x/term v0.30.0
