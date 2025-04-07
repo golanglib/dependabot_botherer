@@ -1506,7 +1506,7 @@ require (
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
-	golang.org/x/arch v0.15.0
+	golang.org/x/arch v0.16.0
 	golang.org/x/crypto v0.36.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
