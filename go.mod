@@ -853,7 +853,7 @@ require (
 	github.com/jackc/pgx/v5 v5.7.4
 	github.com/jackc/puddle v1.3.0
 	github.com/jackc/puddle/v2 v2.2.2
-	github.com/jarcoal/httpmock v1.3.1
+	github.com/jarcoal/httpmock v1.4.0
 	github.com/jcmturner/aescts/v2 v2.0.0
 	github.com/jcmturner/dnsutils/v2 v2.0.0
 	github.com/jcmturner/gofork v1.7.6
