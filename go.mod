@@ -1516,7 +1516,7 @@ require (
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.24.0
 	golang.org/x/net v0.38.0
-	golang.org/x/oauth2 v0.28.0
+	golang.org/x/oauth2 v0.29.0
 	golang.org/x/sync v0.12.0
 	golang.org/x/sys v0.32.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
