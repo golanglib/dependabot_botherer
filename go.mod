@@ -319,7 +319,7 @@ require (
 	github.com/boombuler/barcode v1.0.2
 	github.com/boschrexroth/ctrlx-datalayer-golang v1.3.1
 	github.com/bradenaw/juniper v0.15.3
-	github.com/bradfitz/gomemcache v0.0.0-20230905024940-24af94b03874
+	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
 	github.com/breml/bidichk v0.3.3
@@ -540,7 +540,7 @@ require (
 	github.com/getkin/kin-openapi v0.131.0
 	github.com/ghostiam/protogetter v0.3.13
 	github.com/gin-contrib/gzip v1.2.3
-	github.com/gin-contrib/sessions v1.0.2
+	github.com/gin-contrib/sessions v1.0.3
 	github.com/gin-contrib/sse v1.0.0
 	github.com/gin-contrib/timeout v1.0.2
 	github.com/gin-gonic/gin v1.10.0
@@ -1507,7 +1507,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.16.0
-	golang.org/x/crypto v0.36.0
+	golang.org/x/crypto v0.37.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
@@ -1517,12 +1517,12 @@ require (
 	golang.org/x/mod v0.24.0
 	golang.org/x/net v0.38.0
 	golang.org/x/oauth2 v0.29.0
-	golang.org/x/sync v0.12.0
+	golang.org/x/sync v0.13.0
 	golang.org/x/sys v0.32.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.45.0
 	golang.org/x/term v0.31.0
-	golang.org/x/text v0.23.0
+	golang.org/x/text v0.24.0
 	golang.org/x/time v0.11.0
 	golang.org/x/tools v0.31.0
 	golang.org/x/vuln v1.1.4
