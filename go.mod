@@ -401,7 +401,7 @@ require (
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.0
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250402082603-df47fc95fe43
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250407115215-c524dae0a3b5
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
