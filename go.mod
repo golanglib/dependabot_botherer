@@ -534,7 +534,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.14.0
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.20.1
+	github.com/gaissmai/bart v0.20.3
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.131.0
