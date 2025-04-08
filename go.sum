@@ -1698,8 +1698,8 @@ github.com/catenacyber/perfsprint v0.9.1 h1:5LlTp4RwTooQjJCvGEFV6XksZvWE7wCOUvjD
 github.com/catenacyber/perfsprint v0.9.1/go.mod h1:q//VWC2fWbcdSLEY1R3l8n0zQCDPdE4IjZwyY1HMunM=
 github.com/cch123/supermonkey v1.0.1 h1:sPNQhaqMpfpERGb1oNoPcYV5tGln72SLlG2q2ozpzqg=
 github.com/cch123/supermonkey v1.0.1/go.mod h1:d5jXTCyG6nu/pu0vYmoC0P/l0eBGesv3oQQ315uNBOA=
-github.com/ccojocar/zxcvbn-go v1.0.2 h1:na/czXU8RrhXO4EZme6eQJLR4PzcGsahsBOAwU6I3Vg=
-github.com/ccojocar/zxcvbn-go v1.0.2/go.mod h1:g1qkXtUSvHP8lhHp5GrSmTz6uWALGRMQdw6Qnz/hi60=
+github.com/ccojocar/zxcvbn-go v1.0.4 h1:FWnCIRMXPj43ukfX000kvBZvV6raSxakYr1nzyNrUcc=
+github.com/ccojocar/zxcvbn-go v1.0.4/go.mod h1:3GxGX+rHmueTUMvm5ium7irpyjmm7ikxYFOSJB21Das=
 github.com/ccoveille/go-safecast v1.6.0 h1:kxc0VIsdEaYoKZbDiGBZBV62zAp0RdtFNH6E3Krev8s=
 github.com/ccoveille/go-safecast v1.6.0/go.mod h1:QqwNjxQ7DAqY0C721OIO9InMk9zCwcsO7tnRuHytad8=
 github.com/cenkalti/backoff/v3 v3.0.0/go.mod h1:cIeZDE3IrqwwJl6VUwCN6trj1oXrTS4rc0ij+ULvLYs=
