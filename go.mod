@@ -1124,7 +1124,7 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pelletier/go-toml v1.9.5
-	github.com/pelletier/go-toml/v2 v2.2.3
+	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/perimeterx/marshmallow v1.1.5
 	github.com/peterbourgon/diskv/v3 v3.0.1
 	github.com/peterbourgon/unixtransport v0.0.4
