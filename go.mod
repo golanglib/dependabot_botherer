@@ -1166,7 +1166,7 @@ require (
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.24.2
-	github.com/prometheus-community/pro-bing v0.6.1
+	github.com/prometheus-community/pro-bing v0.7.0
 	github.com/prometheus/client_golang v1.21.1
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.63.0
@@ -1517,7 +1517,7 @@ require (
 	golang.org/x/mod v0.24.0
 	golang.org/x/net v0.38.0
 	golang.org/x/oauth2 v0.29.0
-	golang.org/x/sync v0.12.0
+	golang.org/x/sync v0.13.0
 	golang.org/x/sys v0.32.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.45.0
