@@ -576,7 +576,7 @@ require (
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.14.0
 	github.com/go-jose/go-jose/v3 v3.0.4
-	github.com/go-jose/go-jose/v4 v4.0.5
+	github.com/go-jose/go-jose/v4 v4.1.0
 	github.com/go-kit/kit v0.13.0
 	github.com/go-kit/log v0.2.1
 	github.com/go-kratos/aegis v0.2.0
