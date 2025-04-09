@@ -7,7 +7,7 @@ require (
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
-	cel.dev/expr v0.23.0
+	cel.dev/expr v0.23.1
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
@@ -187,7 +187,7 @@ require (
 	github.com/anacrolix/missinggo/v2 v2.8.0
 	github.com/anacrolix/mmsg v1.1.1
 	github.com/anacrolix/multiless v0.4.0
-	github.com/anacrolix/possum/go v0.3.1
+	github.com/anacrolix/possum/go v0.3.2
 	github.com/anacrolix/squirrel v0.6.4
 	github.com/anacrolix/stm v0.5.0
 	github.com/anacrolix/sync v0.5.3
@@ -267,7 +267,7 @@ require (
 	github.com/bep/godartsass/v2 v2.5.0
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
-	github.com/bep/imagemeta v0.10.0
+	github.com/bep/imagemeta v0.11.0
 	github.com/bep/lazycache v0.8.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.10.0
@@ -391,17 +391,17 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.2
 	github.com/cloudwego/eino v0.3.20
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250403035559-e5332ba7144a
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250403035559-e5332ba7144a
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250408090346-d79bd167e8ed
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250408090346-d79bd167e8ed
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250403035559-e5332ba7144a
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250408090346-d79bd167e8ed
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.0
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250407115215-c524dae0a3b5
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250408122923-3c0274a68181
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -436,7 +436,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250402103153-736b64b6cbce
+	github.com/coze-dev/coze-go v0.0.0-20250408104908-5dd807600ddc
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.6
@@ -459,7 +459,7 @@ require (
 	github.com/dghubble/trie v0.1.0
 	github.com/dgraph-io/badger v1.6.2
 	github.com/dgraph-io/badger/v2 v2.2007.4
-	github.com/dgraph-io/badger/v4 v4.6.0
+	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20250317183548-13bf9b43b50b
 	github.com/digitalocean/godo v1.142.0
@@ -534,7 +534,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.14.0
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.20.1
+	github.com/gaissmai/bart v0.20.3
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.131.0
@@ -614,7 +614,7 @@ require (
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-resty/resty/v2 v2.16.5
-	github.com/go-sql-driver/mysql v1.9.1
+	github.com/go-sql-driver/mysql v1.9.2
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.31.0
 	github.com/go-task/slim-sprig v2.20.0+incompatible
@@ -716,7 +716,7 @@ require (
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/pprof v0.0.0-20250317173921-a4b03ec1a45e
+	github.com/google/pprof v0.0.0-20250403155104-27863c87afa6
 	github.com/google/s2a-go v0.1.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
@@ -727,7 +727,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.7.1
+	github.com/gopcua/opcua v0.7.4
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.7.0
@@ -853,7 +853,7 @@ require (
 	github.com/jackc/pgx/v5 v5.7.4
 	github.com/jackc/puddle v1.3.0
 	github.com/jackc/puddle/v2 v2.2.2
-	github.com/jarcoal/httpmock v1.3.1
+	github.com/jarcoal/httpmock v1.4.0
 	github.com/jcmturner/aescts/v2 v2.0.0
 	github.com/jcmturner/dnsutils/v2 v2.0.0
 	github.com/jcmturner/gofork v1.7.6
@@ -1090,7 +1090,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.23.3
+	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
 	github.com/openacid/low v0.1.21
 	github.com/openai/openai-go v0.1.0-beta.6
@@ -1124,7 +1124,7 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pelletier/go-toml v1.9.5
-	github.com/pelletier/go-toml/v2 v2.2.3
+	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/perimeterx/marshmallow v1.1.5
 	github.com/peterbourgon/diskv/v3 v3.0.1
 	github.com/peterbourgon/unixtransport v0.0.4
@@ -1342,8 +1342,8 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.22.4
-	github.com/tdewolff/parse/v2 v2.7.21
+	github.com/tdewolff/minify/v2 v2.23.0
+	github.com/tdewolff/parse/v2 v2.7.22
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
@@ -1388,7 +1388,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.29.3
+	github.com/v2fly/v2ray-core/v5 v5.30.0
 	github.com/valyala/fasthttp v1.60.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
@@ -1457,7 +1457,7 @@ require (
 	gitlab.com/yawning/bsaes.git v0.0.0-20190805113838-0a714cd429ec
 	go-simpler.org/assert v0.9.0
 	go-simpler.org/musttag v0.13.0
-	go-simpler.org/sloglint v0.10.1
+	go-simpler.org/sloglint v0.11.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.69.0
@@ -1511,7 +1511,7 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
 	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
-	golang.org/x/image v0.25.0
+	golang.org/x/image v0.26.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.24.0
@@ -1690,7 +1690,7 @@ require (
 	github.com/danielgtaylor/casing v0.0.0-20210126043903-4e55e6373ac3 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/davidmz/go-pageant v1.0.2 // indirect
-	github.com/dgraph-io/ristretto/v2 v2.1.0 // indirect
+	github.com/dgraph-io/ristretto/v2 v2.2.0 // indirect
 	github.com/dgryski/go-farm v0.0.0-20240924180020-3414d57e47da // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
@@ -1750,7 +1750,7 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
-	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250402133730-072e60586255 // indirect
+	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250408071642-761325becfd6 // indirect
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
