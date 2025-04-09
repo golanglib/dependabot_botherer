@@ -1172,7 +1172,7 @@ require (
 	github.com/prometheus/common v0.63.0
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.16.0
-	github.com/prometheus/prom2json v1.4.1
+	github.com/prometheus/prom2json v1.4.2
 	github.com/protolambda/ctxlock v0.1.0
 	github.com/putdotio/go-putio v1.7.2
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
