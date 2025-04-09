@@ -333,7 +333,7 @@ require (
 	github.com/bufbuild/protovalidate-go v0.9.2
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.8
-	github.com/butuzov/ireturn v0.3.1
+	github.com/butuzov/ireturn v0.4.0
 	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.2
@@ -398,7 +398,7 @@ require (
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
-	github.com/cloudwego/hertz v0.9.6
+	github.com/cloudwego/hertz v0.9.7
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250408122923-3c0274a68181
@@ -867,7 +867,7 @@ require (
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
 	github.com/jessevdk/go-flags v1.6.1
-	github.com/jgautheron/goconst v1.8.0
+	github.com/jgautheron/goconst v1.8.1
 	github.com/jhillyerd/enmime v1.3.0
 	github.com/jhump/protoreflect v1.17.0
 	github.com/jingyugao/rowserrcheck v1.1.1
@@ -1012,7 +1012,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.89
+	github.com/minio/minio-go/v7 v7.0.90
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1093,7 +1093,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
 	github.com/openacid/low v0.1.21
-	github.com/openai/openai-go v0.1.0-beta.7
+	github.com/openai/openai-go v0.1.0-beta.9
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
