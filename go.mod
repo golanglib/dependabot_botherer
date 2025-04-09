@@ -319,7 +319,7 @@ require (
 	github.com/boombuler/barcode v1.0.2
 	github.com/boschrexroth/ctrlx-datalayer-golang v1.3.1
 	github.com/bradenaw/juniper v0.15.3
-	github.com/bradfitz/gomemcache v0.0.0-20230905024940-24af94b03874
+	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
 	github.com/breml/bidichk v0.3.3
@@ -540,7 +540,7 @@ require (
 	github.com/getkin/kin-openapi v0.131.0
 	github.com/ghostiam/protogetter v0.3.13
 	github.com/gin-contrib/gzip v1.2.3
-	github.com/gin-contrib/sessions v1.0.2
+	github.com/gin-contrib/sessions v1.0.3
 	github.com/gin-contrib/sse v1.0.0
 	github.com/gin-contrib/timeout v1.0.2
 	github.com/gin-gonic/gin v1.10.0
