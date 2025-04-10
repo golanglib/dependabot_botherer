@@ -790,14 +790,14 @@ require (
 	github.com/hashicorp/go-version v1.7.0
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/hashicorp/hc-install v0.9.1
+	github.com/hashicorp/hc-install v0.9.2
 	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.3
 	github.com/hashicorp/packer-plugin-sdk v0.6.1
 	github.com/hashicorp/serf v0.10.2
-	github.com/hashicorp/terraform-exec v0.22.0
+	github.com/hashicorp/terraform-exec v0.23.0
 	github.com/hashicorp/terraform-json v0.24.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
