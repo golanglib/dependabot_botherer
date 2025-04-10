@@ -223,19 +223,19 @@ require (
 	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
 	github.com/awnumar/memguard v0.22.5
-	github.com/aws/aws-lambda-go v1.47.0
+	github.com/aws/aws-lambda-go v1.48.0
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
 	github.com/aws/aws-sdk-go-v2/config v1.29.13
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.66
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.9
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.10
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.71
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.2
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.1
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.2
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.2
@@ -357,13 +357,13 @@ require (
 	github.com/cespare/xxhash v1.1.0
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.10
-	github.com/charmbracelet/bubbles v0.20.0
+	github.com/charmbracelet/bubbles v0.21.0
 	github.com/charmbracelet/bubbletea v1.3.4
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.9.1
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/charmbracelet/x/ansi v0.8.0
-	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
+	github.com/charmbracelet/x/exp/golden v0.0.0-20241011142426-46044092ad91
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
 	github.com/checkpoint-restore/go-criu/v5 v5.3.0
@@ -384,12 +384,12 @@ require (
 	github.com/cloudevents/sdk-go v1.2.0
 	github.com/cloudevents/sdk-go/v2 v2.16.0
 	github.com/cloudflare/cfssl v1.6.5
-	github.com/cloudflare/circl v1.6.0
+	github.com/cloudflare/circl v1.6.1
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.2
-	github.com/cloudwego/eino v0.3.20
+	github.com/cloudwego/eino v0.3.21
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250409095103-c22e14074bed
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250409095103-c22e14074bed
@@ -790,14 +790,14 @@ require (
 	github.com/hashicorp/go-version v1.7.0
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/hashicorp/hc-install v0.9.1
+	github.com/hashicorp/hc-install v0.9.2
 	github.com/hashicorp/hcl v1.0.1-vault-7
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.3
 	github.com/hashicorp/packer-plugin-sdk v0.6.1
 	github.com/hashicorp/serf v0.10.2
-	github.com/hashicorp/terraform-exec v0.22.0
+	github.com/hashicorp/terraform-exec v0.23.0
 	github.com/hashicorp/terraform-json v0.24.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
@@ -948,7 +948,7 @@ require (
 	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
 	github.com/magefile/mage v1.15.0
-	github.com/magiconair/properties v1.8.9
+	github.com/magiconair/properties v1.8.10
 	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
 	github.com/mailru/easyjson v0.9.0
@@ -1361,7 +1361,7 @@ require (
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.1.8
 	github.com/timakin/bodyclose v0.0.0-20241017074812-ed6a65f985e3
-	github.com/timonwong/loggercheck v0.10.1
+	github.com/timonwong/loggercheck v0.11.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.2.5
 	github.com/tj/assert v0.0.3
@@ -1394,7 +1394,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.12.1
-	github.com/vektah/gqlparser/v2 v2.5.23
+	github.com/vektah/gqlparser/v2 v2.5.24
 	github.com/vektra/mockery/v2 v2.53.3
 	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
 	github.com/vishvananda/netns v0.0.5
