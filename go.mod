@@ -1361,7 +1361,7 @@ require (
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.1.8
 	github.com/timakin/bodyclose v0.0.0-20241017074812-ed6a65f985e3
-	github.com/timonwong/loggercheck v0.10.1
+	github.com/timonwong/loggercheck v0.11.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.2.5
 	github.com/tj/assert v0.0.3
