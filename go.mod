@@ -391,17 +391,17 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.21
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250409095103-c22e14074bed
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250409095103-c22e14074bed
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250410135835-89be861935b9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250410135835-89be861935b9
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250409095103-c22e14074bed
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250410135835-89be861935b9
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.7
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250408122923-3c0274a68181
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250410093800-959fce5a9cf5
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -436,7 +436,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250409135304-d2680ce9441b
+	github.com/coze-dev/coze-go v0.0.0-20250410091415-8d5e4cfbdad6
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.6
