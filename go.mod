@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
 	cel.dev/expr v0.23.1
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -229,13 +229,13 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
 	github.com/aws/aws-sdk-go-v2/config v1.29.13
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.66
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.9
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.10
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.71
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.2
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.1
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.2
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.2
@@ -330,7 +330,7 @@ require (
 	github.com/bsm/gomega v1.27.10
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
-	github.com/bufbuild/protovalidate-go v0.9.2
+	github.com/bufbuild/protovalidate-go v0.9.3
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.8
 	github.com/butuzov/ireturn v0.4.0
@@ -357,13 +357,13 @@ require (
 	github.com/cespare/xxhash v1.1.0
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.10
-	github.com/charmbracelet/bubbles v0.20.0
+	github.com/charmbracelet/bubbles v0.21.0
 	github.com/charmbracelet/bubbletea v1.3.4
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.9.1
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/charmbracelet/x/ansi v0.8.0
-	github.com/charmbracelet/x/exp/golden v0.0.0-20240815200342-61de596daa2b
+	github.com/charmbracelet/x/exp/golden v0.0.0-20241011142426-46044092ad91
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
 	github.com/checkpoint-restore/go-criu/v5 v5.3.0
@@ -384,12 +384,12 @@ require (
 	github.com/cloudevents/sdk-go v1.2.0
 	github.com/cloudevents/sdk-go/v2 v2.16.0
 	github.com/cloudflare/cfssl v1.6.5
-	github.com/cloudflare/circl v1.6.0
+	github.com/cloudflare/circl v1.6.1
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.2
-	github.com/cloudwego/eino v0.3.20
+	github.com/cloudwego/eino v0.3.21
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250409095103-c22e14074bed
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250409095103-c22e14074bed
@@ -655,7 +655,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.145.0
+	github.com/gohugoio/hugo v0.146.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -797,7 +797,7 @@ require (
 	github.com/hashicorp/memberlist v0.5.3
 	github.com/hashicorp/packer-plugin-sdk v0.6.1
 	github.com/hashicorp/serf v0.10.2
-	github.com/hashicorp/terraform-exec v0.22.0
+	github.com/hashicorp/terraform-exec v0.23.0
 	github.com/hashicorp/terraform-json v0.24.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
@@ -1406,7 +1406,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.49.0
 	github.com/volcengine/volc-sdk-golang v1.0.202
-	github.com/volcengine/volcengine-go-sdk v1.1.1
+	github.com/volcengine/volcengine-go-sdk v1.1.2
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
