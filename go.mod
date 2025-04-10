@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.5-20250130201111-63bb56e20495.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
 	cel.dev/expr v0.23.1
 	cloud.google.com/go v0.120.0
 	cloud.google.com/go/auth v0.15.0
@@ -330,7 +330,7 @@ require (
 	github.com/bsm/gomega v1.27.10
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
-	github.com/bufbuild/protovalidate-go v0.9.2
+	github.com/bufbuild/protovalidate-go v0.9.3
 	github.com/buger/jsonparser v1.1.1
 	github.com/buildkite/terminal-to-html/v3 v3.16.8
 	github.com/butuzov/ireturn v0.4.0
@@ -655,7 +655,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.145.0
+	github.com/gohugoio/hugo v0.146.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -1406,7 +1406,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.49.0
 	github.com/volcengine/volc-sdk-golang v1.0.202
-	github.com/volcengine/volcengine-go-sdk v1.1.1
+	github.com/volcengine/volcengine-go-sdk v1.1.2
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
