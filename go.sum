@@ -1348,8 +1348,8 @@ github.com/aws/aws-sdk-go-v2/config v1.29.13 h1:RgdPqWoE8nPpIekpVpDJsBckbqT4Liia
 github.com/aws/aws-sdk-go-v2/config v1.29.13/go.mod h1:NI28qs/IOUIRhsR7GQ/JdexoqRN9tDxkIrYZq0SOF44=
 github.com/aws/aws-sdk-go-v2/credentials v1.3.3/go.mod h1:oVieKMT3m9BSfqhOfuQ+E0j/yN84ZAJ7Qv8Sfume/ak=
 github.com/aws/aws-sdk-go-v2/credentials v1.13.24/go.mod h1:jYPYi99wUOPIFi0rhiOvXeSEReVOzBqFNOX5bXYoG2o=
-github.com/aws/aws-sdk-go-v2/credentials v1.17.66 h1:aKpEKaTy6n4CEJeYI1MNj97oSDLi4xro3UzQfwf5RWE=
-github.com/aws/aws-sdk-go-v2/credentials v1.17.66/go.mod h1:xQ5SusDmHb/fy55wU0QqTy0yNfLqxzec59YcsRZB+rI=
+github.com/aws/aws-sdk-go-v2/credentials v1.17.67 h1:9KxtdcIA/5xPNQyZRgUSpYOE6j9Bc4+D7nZua0KGYOM=
+github.com/aws/aws-sdk-go-v2/credentials v1.17.67/go.mod h1:p3C44m+cfnbv763s52gCqrjaqyPikj9Sg47kUVaNZQQ=
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.2.0/go.mod h1:UVFtSYSWCHj2+brBLDHUdlJXmz8LxUpZhA+Ewypc+xQ=
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.11 h1:FnJfhU4BirSsfwUTgLo6h6ZyOcI2w4Z0Sut7D5bvnRk=
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.11/go.mod h1:UtphUzF9uSA/hkukxWnGF6f0OP9stMi5xrR5NmvZb0k=
@@ -1373,8 +1373,8 @@ github.com/aws/aws-sdk-go-v2/internal/ini v1.8.3/go.mod h1:H5O/EsxDWyU+LP/V8i5sm
 github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.34 h1:ZNTqv4nIdE/DiBfUUfXcLZ/Spcuz+RjeziUtNJackkM=
 github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.34/go.mod h1:zf7Vcd1ViW7cPqYWEHLHJkS50X0JS2IKz9Cgaj6ugrs=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.8.1/go.mod h1:CM+19rL1+4dFWnOQKwDc7H1KwXTz+h61oUSHyhV0b3o=
-github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.2 h1:VaR7NCUhvDtn14Idz6krMY32gXtq5FtYjHqz90xyYs4=
-github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.2/go.mod h1:HJlcOk+S/wjJuR/8jPa8GhnEKdKqqiQ5wjsE1PjuO1o=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3 h1:sTFYiNh6kB1m+HODmfCAXgx7A54tsZVK5xbUlE7V6as=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3/go.mod h1:HJlcOk+S/wjJuR/8jPa8GhnEKdKqqiQ5wjsE1PjuO1o=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.3 h1:3y0jkGtsaZLCg+n73BoSXOAkLFtgmD/+4prXW1pzovc=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.3/go.mod h1:uo14VBn5cNk/BPGTPz3kyLBxgpgOObgO8lmz+H7Z4Ck=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2 h1:enL75gIdaPAoBztv/GDuMgOocEUpO2jYc45qp2Uweqs=
@@ -1406,8 +1406,8 @@ github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.2 h1:t3Ukha929to7c4SZDeCP3aRQ
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.2/go.mod h1:dJngkoVMrq0K7QvRkdRZYM4NUp6cdWa2GBdpm8zoY8U=
 github.com/aws/aws-sdk-go-v2/service/kms v1.38.3 h1:RivOtUH3eEu6SWnUMFHKAW4MqDOzWn1vGQ3S38Y5QMg=
 github.com/aws/aws-sdk-go-v2/service/kms v1.38.3/go.mod h1:cQn6tAF77Di6m4huxovNM7NVAozWTZLsDRp9t8Z/WYk=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.79.1 h1:2Ku1xwAohSSXHR1tpAnyVDSQSxoDMA+/NZBytW+f4qg=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.79.1/go.mod h1:U5SNqwhXB3Xe6F47kXvWihPl/ilGaEDe8HD/50Z9wxc=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.79.2 h1:tWUG+4wZqdMl/znThEk9tcCy8tTMxq8dW0JTgamohrY=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.79.2/go.mod h1:U5SNqwhXB3Xe6F47kXvWihPl/ilGaEDe8HD/50Z9wxc=
 github.com/aws/aws-sdk-go-v2/service/sso v1.3.3/go.mod h1:Jgw5O+SK7MZ2Yi9Yvzb4PggAPYaFSliiQuWR0hNjexk=
 github.com/aws/aws-sdk-go-v2/service/sso v1.12.10/go.mod h1:ouy2P4z6sJN70fR3ka3wD3Ro3KezSxU6eKGQI2+2fjI=
 github.com/aws/aws-sdk-go-v2/service/sso v1.25.3 h1:1Gw+9ajCV1jogloEv1RRnvfRFia2cL6c9cuKV2Ps+G8=
