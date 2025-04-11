@@ -129,7 +129,7 @@ require (
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
-	github.com/ProtonMail/go-crypto v1.1.6
+	github.com/ProtonMail/go-crypto v1.2.0
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
 	github.com/ProtonMail/gopenpgp/v2 v2.8.3
@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.71
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.2
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.2
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.3
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
@@ -243,7 +243,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.1
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.18
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.19
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.2
 	github.com/aws/smithy-go v1.22.3
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
@@ -391,17 +391,17 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.21
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250410135835-89be861935b9
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250410135835-89be861935b9
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250411030116-6d40409f0920
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250411030116-6d40409f0920
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250410135835-89be861935b9
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250411030116-6d40409f0920
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.7
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250410093800-959fce5a9cf5
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250411071612-9ba8fdc7ec79
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -574,7 +574,7 @@ require (
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
 	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
-	github.com/go-git/go-git/v5 v5.14.0
+	github.com/go-git/go-git/v5 v5.15.0
 	github.com/go-jose/go-jose/v3 v3.0.4
 	github.com/go-jose/go-jose/v4 v4.1.0
 	github.com/go-kit/kit v0.13.0
@@ -655,7 +655,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.146.0
+	github.com/gohugoio/hugo v0.146.1
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -999,7 +999,7 @@ require (
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
-	github.com/mgechev/revive v1.8.0
+	github.com/mgechev/revive v1.9.0
 	github.com/mholt/acmez v1.2.0
 	github.com/mholt/acmez/v2 v2.0.3
 	github.com/mholt/archiver/v3 v3.5.1
