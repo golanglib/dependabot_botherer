@@ -1603,7 +1603,7 @@ require (
 	modernc.org/token v1.1.0
 	modernc.org/z v1.7.4
 	moul.io/http2curl/v2 v2.3.0
-	mvdan.cc/gofumpt v0.7.0
+	mvdan.cc/gofumpt v0.8.0
 	mvdan.cc/unparam v0.0.0-20240528143540-8a5130ca722f
 	mvdan.cc/xurls/v2 v2.6.0
 	pgregory.net/rapid v1.2.0
