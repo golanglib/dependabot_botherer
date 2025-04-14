@@ -441,7 +441,7 @@ require (
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.6
 	github.com/creack/pty v1.1.24
-	github.com/crewjam/saml v0.4.14
+	github.com/crewjam/saml v0.5.1
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.3.0
 	github.com/cyphar/filepath-securejoin v0.4.1
@@ -750,7 +750,7 @@ require (
 	github.com/gostaticanalysis/nilerr v0.1.1
 	github.com/gostaticanalysis/testutil v0.6.1
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
-	github.com/grafana/pyroscope-go v1.2.1
+	github.com/grafana/pyroscope-go v1.2.2
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.1
