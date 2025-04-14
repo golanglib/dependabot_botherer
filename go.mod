@@ -441,7 +441,7 @@ require (
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.6
 	github.com/creack/pty v1.1.24
-	github.com/crewjam/saml v0.4.14
+	github.com/crewjam/saml v0.5.1
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.3.0
 	github.com/cyphar/filepath-securejoin v0.4.1
@@ -538,7 +538,7 @@ require (
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.131.0
-	github.com/ghostiam/protogetter v0.3.13
+	github.com/ghostiam/protogetter v0.3.15
 	github.com/gin-contrib/gzip v1.2.3
 	github.com/gin-contrib/sessions v1.0.3
 	github.com/gin-contrib/sse v1.1.0
@@ -750,7 +750,7 @@ require (
 	github.com/gostaticanalysis/nilerr v0.1.1
 	github.com/gostaticanalysis/testutil v0.6.1
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
-	github.com/grafana/pyroscope-go v1.2.1
+	github.com/grafana/pyroscope-go v1.2.2
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.1
@@ -1141,7 +1141,7 @@ require (
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.13
-	github.com/pion/sctp v1.8.37
+	github.com/pion/sctp v1.8.38
 	github.com/pion/sdp/v3 v3.0.11
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
@@ -1319,7 +1319,7 @@ require (
 	github.com/spf13/viper v1.20.1
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.3
-	github.com/srebhan/protobufquery v1.0.3
+	github.com/srebhan/protobufquery v1.0.4
 	github.com/ssgelm/cookiejarparser v1.0.1
 	github.com/ssgreg/nlreturn/v2 v2.2.1
 	github.com/stbenjam/no-sprintf-host-port v0.2.0
@@ -1554,7 +1554,7 @@ require (
 	gorm.io/driver/postgres v1.5.11
 	gorm.io/driver/sqlite v1.5.7
 	gorm.io/driver/sqlserver v1.5.4
-	gorm.io/gen v0.3.26
+	gorm.io/gen v0.3.27
 	gorm.io/gorm v1.25.12
 	gorm.io/hints v1.1.2
 	gorm.io/plugin/dbresolver v1.5.3
