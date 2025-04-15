@@ -12,11 +12,11 @@ require (
 	cloud.google.com/go/auth v0.16.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.67.0
-	cloud.google.com/go/compute v1.36.0
+	cloud.google.com/go/compute v1.36.1
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.25.2
 	cloud.google.com/go/firestore v1.18.0
-	cloud.google.com/go/iam v1.5.0
+	cloud.google.com/go/iam v1.5.2
 	cloud.google.com/go/kms v1.21.1
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.7
@@ -558,7 +558,7 @@ require (
 	github.com/go-ap/activitypub v0.0.0-20250409143848-7113328b1f3d
 	github.com/go-ap/errors v0.0.0-20250409143711-5686c11ae650
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
-	github.com/go-asn1-ber/asn1-ber v1.5.7
+	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-chi/chi/v5 v5.2.1
 	github.com/go-chi/cors v1.2.1
@@ -586,7 +586,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.8.4
 	github.com/go-lark/lark v1.16.0
 	github.com/go-lark/lark-hertz v1.1.1
-	github.com/go-ldap/ldap/v3 v3.4.10
+	github.com/go-ldap/ldap/v3 v3.4.11
 	github.com/go-llsqlite/adapter v0.2.0
 	github.com/go-llsqlite/crawshaw v0.5.5
 	github.com/go-logfmt/logfmt v0.6.0
@@ -1105,7 +1105,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.89.0
+	github.com/oracle/oci-go-sdk/v65 v65.89.1
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
