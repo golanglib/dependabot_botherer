@@ -19,11 +19,11 @@ require (
 	cloud.google.com/go/iam v1.5.0
 	cloud.google.com/go/kms v1.21.1
 	cloud.google.com/go/logging v1.13.0
-	cloud.google.com/go/longrunning v0.6.6
+	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/monitoring v1.24.1
 	cloud.google.com/go/pubsub v1.49.0
 	cloud.google.com/go/storage v1.51.0
-	cloud.google.com/go/trace v1.11.5
+	cloud.google.com/go/trace v1.11.6
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.21.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
@@ -254,7 +254,7 @@ require (
 	github.com/bahlo/generic-list-go v0.2.0
 	github.com/baulk/chardet v0.1.0
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3
-	github.com/beevik/etree v1.5.0
+	github.com/beevik/etree v1.5.1
 	github.com/belong-inc/go-hubspot v0.9.0
 	github.com/benbjohnson/clock v1.3.5
 	github.com/benbjohnson/immutable v0.4.3
@@ -534,7 +534,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.14.0
 	github.com/gabriel-vasile/mimetype v1.4.8
-	github.com/gaissmai/bart v0.20.3
+	github.com/gaissmai/bart v0.20.4
 	github.com/gaukas/godicttls v0.0.4
 	github.com/geoffgarside/ber v1.1.0
 	github.com/getkin/kin-openapi v0.131.0
@@ -558,7 +558,7 @@ require (
 	github.com/go-ap/activitypub v0.0.0-20250409143848-7113328b1f3d
 	github.com/go-ap/errors v0.0.0-20250409143711-5686c11ae650
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
-	github.com/go-asn1-ber/asn1-ber v1.5.7
+	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-chi/chi/v5 v5.2.1
 	github.com/go-chi/cors v1.2.1
@@ -586,7 +586,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.8.4
 	github.com/go-lark/lark v1.16.0
 	github.com/go-lark/lark-hertz v1.1.1
-	github.com/go-ldap/ldap/v3 v3.4.10
+	github.com/go-ldap/ldap/v3 v3.4.11
 	github.com/go-llsqlite/adapter v0.2.0
 	github.com/go-llsqlite/crawshaw v0.5.5
 	github.com/go-logfmt/logfmt v0.6.0
@@ -669,7 +669,7 @@ require (
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v1.0.0
-	github.com/golang/vscode-go v0.47.1
+	github.com/golang/vscode-go v0.47.2
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
@@ -1023,7 +1023,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.20.2
+	github.com/moby/buildkit v0.21.0
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1105,7 +1105,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.89.0
+	github.com/oracle/oci-go-sdk/v65 v65.89.1
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
@@ -1433,7 +1433,7 @@ require (
 	github.com/ykadowak/zerologlint v0.1.5
 	github.com/yohcop/openid-go v1.0.1
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
-	github.com/yuin/goldmark v1.7.8
+	github.com/yuin/goldmark v1.7.9
 	github.com/yuin/goldmark-emoji v1.0.5
 	github.com/yuin/goldmark-highlighting v0.0.0-20220208100518-594be1970594
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
@@ -1509,7 +1509,7 @@ require (
 	golang.org/x/arch v0.16.0
 	golang.org/x/crypto v0.37.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
-	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
+	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.26.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
@@ -1695,7 +1695,7 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v28.0.2+incompatible // indirect
+	github.com/docker/cli v28.0.4+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker v28.0.4+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
