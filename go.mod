@@ -254,7 +254,7 @@ require (
 	github.com/bahlo/generic-list-go v0.2.0
 	github.com/baulk/chardet v0.1.0
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3
-	github.com/beevik/etree v1.5.0
+	github.com/beevik/etree v1.5.1
 	github.com/belong-inc/go-hubspot v0.9.0
 	github.com/benbjohnson/clock v1.3.5
 	github.com/benbjohnson/immutable v0.4.3
