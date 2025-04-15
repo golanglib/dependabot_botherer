@@ -1023,7 +1023,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.20.2
+	github.com/moby/buildkit v0.21.0
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1509,7 +1509,7 @@ require (
 	golang.org/x/arch v0.16.0
 	golang.org/x/crypto v0.37.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9
-	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
+	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.26.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
@@ -1695,7 +1695,7 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.10 // indirect
-	github.com/docker/cli v28.0.2+incompatible // indirect
+	github.com/docker/cli v28.0.4+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker v28.0.4+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
