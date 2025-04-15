@@ -9,12 +9,12 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
 	cel.dev/expr v0.23.1
 	cloud.google.com/go v0.120.0
-	cloud.google.com/go/auth v0.15.0
+	cloud.google.com/go/auth v0.16.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.67.0
 	cloud.google.com/go/compute v1.36.0
 	cloud.google.com/go/compute/metadata v0.6.0
-	cloud.google.com/go/datacatalog v1.25.0
+	cloud.google.com/go/datacatalog v1.25.2
 	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.5.0
 	cloud.google.com/go/kms v1.21.1
@@ -1093,7 +1093,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
 	github.com/openacid/low v0.1.21
-	github.com/openai/openai-go v0.1.0-beta.9
+	github.com/openai/openai-go v0.1.0-beta.10
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
@@ -1531,11 +1531,11 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.228.0
+	google.golang.org/api v0.229.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
-	google.golang.org/genproto/googleapis/api v0.0.0-20250313205543-e70fdf4c4cb4
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250324211829-b45e905df463
+	google.golang.org/genproto/googleapis/api v0.0.0-20250414145226-207652e42e2e
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250414145226-207652e42e2e
 	google.golang.org/grpc v1.71.1
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
@@ -1580,7 +1580,7 @@ require (
 	lukechampine.com/blake3 v1.4.0
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.25.2
+	modernc.org/cc/v4 v4.26.0
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.25.2
 	modernc.org/ccorpus v1.11.6
@@ -1833,7 +1833,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.26.0 // indirect
 	go.opentelemetry.io/collector/pdata/pprofile v0.120.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.118.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.59.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.60.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.34.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.34.0 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
