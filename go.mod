@@ -208,7 +208,7 @@ require (
 	github.com/antlr4-go/antlr/v4 v4.13.1
 	github.com/apache/arrow/go/v15 v15.0.2
 	github.com/apache/arrow/go/v18 v18.0.0-20241007013041-ab95a4d25142
-	github.com/apache/iotdb-client-go v1.3.3
+	github.com/apache/iotdb-client-go v1.3.4
 	github.com/apache/thrift v0.21.0
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0
 	github.com/apparentlymart/go-textseg v1.0.0
