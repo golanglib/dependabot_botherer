@@ -390,7 +390,7 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.23
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.6
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250416132037-d4cec2233549
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250416132037-d4cec2233549
 	github.com/cloudwego/eino-ext/devops v0.1.7
@@ -655,7 +655,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.146.4
+	github.com/gohugoio/hugo v0.146.5
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -743,7 +743,7 @@ require (
 	github.com/gorilla/securecookie v1.1.2
 	github.com/gorilla/sessions v1.4.0
 	github.com/gorilla/websocket v1.5.3
-	github.com/gosnmp/gosnmp v1.39.0
+	github.com/gosnmp/gosnmp v1.40.0
 	github.com/gostaticanalysis/analysisutil v0.7.1
 	github.com/gostaticanalysis/comment v1.5.0
 	github.com/gostaticanalysis/forcetypeassert v0.2.0
@@ -986,7 +986,7 @@ require (
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meilisearch/meilisearch-go v0.31.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
-	github.com/metacubex/chacha v0.1.1
+	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250404030904-b2cc8aab562c
