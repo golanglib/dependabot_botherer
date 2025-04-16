@@ -986,7 +986,7 @@ require (
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meilisearch/meilisearch-go v0.31.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
-	github.com/metacubex/chacha v0.1.1
+	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250404030904-b2cc8aab562c
