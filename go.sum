@@ -3497,8 +3497,8 @@ github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 h1:G+9t9cEtnC
 github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004/go.mod h1:KmHnJWQrgEvbuy0vcvj00gtMqbvNn1L+3YUZLK/B92c=
 github.com/kaptinlin/go-i18n v0.1.3 h1:Zmc2sp3N3eNxAPEiyfdbZgF+QF8LZdOdZNR1gHefUe4=
 github.com/kaptinlin/go-i18n v0.1.3/go.mod h1:giU+qqtzFZ2U0ksKKVuSxtIFzBLkMA/vlKTeJDyyM2c=
-github.com/kaptinlin/jsonschema v0.2.2 h1:aspDbCaqAJ/GSnzmtaSesC0+lnTOjLRamFB/k8mo60s=
-github.com/kaptinlin/jsonschema v0.2.2/go.mod h1:HkWM5Yd1hA7K5nvRx/A67wQw/khr6b0/DHrP5CWgAbY=
+github.com/kaptinlin/jsonschema v0.2.3 h1:nY3VyXl706XzU0x3HVMcCfJs9Dqxkf+4la05mgXIIbQ=
+github.com/kaptinlin/jsonschema v0.2.3/go.mod h1:dJbHsKCERlRl1PMtDZy7NGH/Fy7tqWqaIhHdmErBkZQ=
 github.com/karamaru-alpha/copyloopvar v1.2.1 h1:wmZaZYIjnJ0b5UoKDjUHrikcV0zuPyyxI4SVplLd2CI=
 github.com/karamaru-alpha/copyloopvar v1.2.1/go.mod h1:nFmMlFNlClC2BPvNaHMdkirmTJxVCY0lhxBtlfOypMM=
 github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
