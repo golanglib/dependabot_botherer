@@ -208,7 +208,7 @@ require (
 	github.com/antlr4-go/antlr/v4 v4.13.1
 	github.com/apache/arrow/go/v15 v15.0.2
 	github.com/apache/arrow/go/v18 v18.0.0-20241007013041-ab95a4d25142
-	github.com/apache/iotdb-client-go v1.3.3
+	github.com/apache/iotdb-client-go v1.3.4
 	github.com/apache/thrift v0.21.0
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0
 	github.com/apparentlymart/go-textseg v1.0.0
@@ -280,7 +280,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.5.0
-	github.com/blevesearch/bleve_index_api v1.2.7
+	github.com/blevesearch/bleve_index_api v1.2.8
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
 	github.com/blevesearch/go-faiss v1.0.25
@@ -288,7 +288,7 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.3.9
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.10
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
@@ -303,7 +303,7 @@ require (
 	github.com/blevesearch/zapx/v13 v13.4.1
 	github.com/blevesearch/zapx/v14 v14.4.1
 	github.com/blevesearch/zapx/v15 v15.4.1
-	github.com/blevesearch/zapx/v16 v16.2.2
+	github.com/blevesearch/zapx/v16 v16.2.3
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
 	github.com/blues/jsonata-go v1.5.4
@@ -343,7 +343,7 @@ require (
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.9.1
-	github.com/caddyserver/certmagic v0.22.2
+	github.com/caddyserver/certmagic v0.23.0
 	github.com/caddyserver/xcaddy v0.4.4
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
@@ -389,12 +389,12 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.22
+	github.com/cloudwego/eino v0.3.23
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.5
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250415073426-726b929afbc2
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250415073426-726b929afbc2
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250416132037-d4cec2233549
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250416132037-d4cec2233549
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250415073426-726b929afbc2
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250416132037-d4cec2233549
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -574,7 +574,7 @@ require (
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
 	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
-	github.com/go-git/go-git/v5 v5.15.0
+	github.com/go-git/go-git/v5 v5.16.0
 	github.com/go-jose/go-jose/v3 v3.0.4
 	github.com/go-jose/go-jose/v4 v4.1.0
 	github.com/go-kit/kit v0.13.0
@@ -892,7 +892,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
 	github.com/kaptinlin/go-i18n v0.1.3
-	github.com/kaptinlin/jsonschema v0.2.2
+	github.com/kaptinlin/jsonschema v0.2.3
 	github.com/karamaru-alpha/copyloopvar v1.2.1
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.11
@@ -924,7 +924,7 @@ require (
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/labstack/gommon v0.4.2
 	github.com/larksuite/oapi-sdk-go v1.1.48
-	github.com/larksuite/oapi-sdk-go/v3 v3.4.13
+	github.com/larksuite/oapi-sdk-go/v3 v3.4.14
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.6.1
 	github.com/ldez/tagliatelle v0.7.1
@@ -934,7 +934,7 @@ require (
 	github.com/leonelquinteros/gotext v1.7.1
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
-	github.com/libdns/libdns v0.2.3
+	github.com/libdns/libdns v1.0.0-beta.1
 	github.com/linkedin/goavro/v2 v2.13.1
 	github.com/linode/linodego v1.49.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
@@ -973,7 +973,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20
 	github.com/mattn/go-runewidth v0.0.16
 	github.com/mattn/go-shellwords v1.0.12
-	github.com/mattn/go-sqlite3 v1.14.27
+	github.com/mattn/go-sqlite3 v1.14.28
 	github.com/mattn/goveralls v0.0.12
 	github.com/matttproud/golang_protobuf_extensions v1.0.4
 	github.com/maxatome/go-testdeep v1.14.0
@@ -1433,7 +1433,7 @@ require (
 	github.com/ykadowak/zerologlint v0.1.5
 	github.com/yohcop/openid-go v1.0.1
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
-	github.com/yuin/goldmark v1.7.9
+	github.com/yuin/goldmark v1.7.10
 	github.com/yuin/goldmark-emoji v1.0.5
 	github.com/yuin/goldmark-highlighting v0.0.0-20220208100518-594be1970594
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
@@ -1493,7 +1493,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.35.0
 	go.opentelemetry.io/proto/otlp v1.5.0
 	go.starlark.net v0.0.0-20250318223901-d9371fef63fe
-	go.step.sm/crypto v0.60.0
+	go.step.sm/crypto v0.61.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.18.1
@@ -1520,7 +1520,7 @@ require (
 	golang.org/x/sync v0.13.0
 	golang.org/x/sys v0.32.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
-	golang.org/x/telemetry/config v0.45.0
+	golang.org/x/telemetry/config v0.46.0
 	golang.org/x/term v0.31.0
 	golang.org/x/text v0.24.0
 	golang.org/x/time v0.11.0
@@ -1754,7 +1754,7 @@ require (
 	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
-	github.com/mholt/acmez/v3 v3.1.1 // indirect
+	github.com/mholt/acmez/v3 v3.1.2 // indirect
 	github.com/minio/crc64nvme v1.0.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
