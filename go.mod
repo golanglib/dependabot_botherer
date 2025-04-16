@@ -171,7 +171,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.104
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.105
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -280,7 +280,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.5.0
-	github.com/blevesearch/bleve_index_api v1.2.7
+	github.com/blevesearch/bleve_index_api v1.2.8
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.1.20
 	github.com/blevesearch/go-faiss v1.0.25
@@ -288,7 +288,7 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.0.4
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.3.9
+	github.com/blevesearch/scorch_segment_api/v2 v2.3.10
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
@@ -303,7 +303,7 @@ require (
 	github.com/blevesearch/zapx/v13 v13.4.1
 	github.com/blevesearch/zapx/v14 v14.4.1
 	github.com/blevesearch/zapx/v15 v15.4.1
-	github.com/blevesearch/zapx/v16 v16.2.2
+	github.com/blevesearch/zapx/v16 v16.2.3
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
 	github.com/blues/jsonata-go v1.5.4
@@ -655,7 +655,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.146.4
+	github.com/gohugoio/hugo v0.146.5
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -743,7 +743,7 @@ require (
 	github.com/gorilla/securecookie v1.1.2
 	github.com/gorilla/sessions v1.4.0
 	github.com/gorilla/websocket v1.5.3
-	github.com/gosnmp/gosnmp v1.39.0
+	github.com/gosnmp/gosnmp v1.40.0
 	github.com/gostaticanalysis/analysisutil v0.7.1
 	github.com/gostaticanalysis/comment v1.5.0
 	github.com/gostaticanalysis/forcetypeassert v0.2.0
@@ -986,7 +986,7 @@ require (
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meilisearch/meilisearch-go v0.31.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
-	github.com/metacubex/chacha v0.1.1
+	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250404030904-b2cc8aab562c
@@ -1061,7 +1061,7 @@ require (
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.7.3
 	github.com/nats-io/nats-server/v2 v2.11.1
-	github.com/nats-io/nkeys v0.4.10
+	github.com/nats-io/nkeys v0.4.11
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/ncruces/go-strftime v0.1.9
