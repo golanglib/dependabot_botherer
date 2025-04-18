@@ -47,7 +47,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.4.2
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.70
+	github.com/99designs/gqlgen v0.17.71
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -389,7 +389,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.24
+	github.com/cloudwego/eino v0.3.25
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.6
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250417123744-154d7ca4d3cd
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250417123744-154d7ca4d3cd
