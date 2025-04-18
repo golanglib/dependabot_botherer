@@ -169,7 +169,7 @@ github.com/hashicorp/nomad
 //[github.com/hashicorp/nomad] dir: /gopath/pkg/mod/github.com/hashicorp/nomad@v1.10.0
 //[github.com/hashicorp/nomad] module has replace
 github.com/hashicorp/vault
-//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.19.1
+//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.19.2
 //[github.com/hashicorp/vault] module has replace
 github.com/henrylee2cn/ameda
 //go: github.com/henrylee2cn/ameda@latest (v1.5.3) requires github.com/henrylee2cn/ameda@v1.5.3: parsing go.mod:
