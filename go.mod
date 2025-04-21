@@ -1,7 +1,8 @@
 module dependabot_botherer
 
-go 1.24
-toolchain go1.24.1
+go 1.24.0
+
+toolchain go1.24.2
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
