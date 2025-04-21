@@ -96,7 +96,6 @@ import (
 	_ "github.com/CloudyKit/fastprinter"
 	_ "github.com/CloudyKit/jet/v6"
 	_ "github.com/Code-Hex/go-generics-cache"
-	_ "github.com/Crocmagnon/fatcontext/pkg/analyzer"
 	_ "github.com/CycloneDX/cyclonedx-go"
 	_ "github.com/DATA-DOG/go-sqlmock"
 	_ "github.com/DataDog/zstd"
