@@ -267,7 +267,7 @@ require (
 	github.com/bep/godartsass/v2 v2.5.0
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
-	github.com/bep/imagemeta v0.11.0
+	github.com/bep/imagemeta v0.12.0
 	github.com/bep/lazycache v0.8.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.10.0
@@ -1171,7 +1171,7 @@ require (
 	github.com/prometheus/client_model v0.6.2
 	github.com/prometheus/common v0.63.0
 	github.com/prometheus/common/sigv4 v0.1.0
-	github.com/prometheus/procfs v0.16.0
+	github.com/prometheus/procfs v0.16.1
 	github.com/prometheus/prom2json v1.4.2
 	github.com/protolambda/ctxlock v0.1.0
 	github.com/putdotio/go-putio v1.7.2
@@ -1190,7 +1190,7 @@ require (
 	github.com/quic-go/qtls-go1-18 v0.2.0
 	github.com/quic-go/qtls-go1-19 v0.3.3
 	github.com/quic-go/qtls-go1-20 v0.4.1
-	github.com/quic-go/quic-go v0.50.1
+	github.com/quic-go/quic-go v0.51.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.69.1
