@@ -1,6 +1,7 @@
 module dependabot_botherer
 
 go 1.24
+toolchain go1.24.1
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
@@ -1195,7 +1196,7 @@ require (
 	github.com/rclone/rclone v1.69.1
 	github.com/redis/go-redis/v9 v9.7.3
 	github.com/redis/rueidis v1.0.57
-	github.com/refraction-networking/utls v1.6.7
+	github.com/refraction-networking/utls v1.7.0
 	github.com/relvacode/iso8601 v1.6.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
