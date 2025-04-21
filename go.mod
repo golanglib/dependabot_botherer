@@ -99,7 +99,6 @@ require (
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
 	github.com/CloudyKit/jet/v6 v6.3.1
 	github.com/Code-Hex/go-generics-cache v1.5.1
-	github.com/Crocmagnon/fatcontext v0.7.2
 	github.com/CycloneDX/cyclonedx-go v0.9.2
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/DataDog/zstd v1.5.7
@@ -392,10 +391,10 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.25
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.6
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250417123744-154d7ca4d3cd
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250417123744-154d7ca4d3cd
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250421090053-2091919102c7
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250421090053-2091919102c7
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250417123744-154d7ca4d3cd
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250421090053-2091919102c7
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -990,13 +989,13 @@ require (
 	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250404030904-b2cc8aab562c
+	github.com/metacubex/sing-quic v0.0.0-20250421142834-9de457d11557
 	github.com/metacubex/sing-shadowsocks v0.2.8
 	github.com/metacubex/sing-shadowsocks2 v0.2.2
 	github.com/metacubex/sing-tun v0.4.5
 	github.com/metacubex/sing-wireguard v0.0.0-20241126021510-0827d417b589
 	github.com/metacubex/tfo-go v0.0.0-20241231083714-66613d49c422
-	github.com/metacubex/utls v1.6.6
+	github.com/metacubex/utls v1.7.0-alpha.1
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
@@ -1645,6 +1644,7 @@ require (
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
+	github.com/Crocmagnon/fatcontext v0.7.2 // indirect
 	github.com/GoogleCloudPlatform/grpc-gcp-go/grpcgcp v1.5.2 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.51.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
@@ -1753,7 +1753,7 @@ require (
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250408071642-761325becfd6 // indirect
-	github.com/metacubex/quic-go v0.43.2-0.20240518033621-2c3d14c6b38e // indirect
+	github.com/metacubex/quic-go v0.51.1-0.20250421134811-7b4054ad1c06 // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
