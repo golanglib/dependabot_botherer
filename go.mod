@@ -76,7 +76,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources v1.2.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.8.0
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.3.1
-	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.0
+	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.1
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.1
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230531184854-c06a8eff66fe
 	github.com/Azure/go-amqp v1.4.0
@@ -684,7 +684,7 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.24.1
+	github.com/google/cel-go v0.25.0
 	github.com/google/certificate-transparency-go v1.3.1
 	github.com/google/gnostic-models v0.6.9
 	github.com/google/gnxi v0.0.0-20240912171544-ef18504847b0
@@ -1566,11 +1566,11 @@ require (
 	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.4
-	k8s.io/apiextensions-apiserver v0.32.3
+	k8s.io/apiextensions-apiserver v0.32.4
 	k8s.io/apimachinery v0.32.4
-	k8s.io/apiserver v0.32.3
+	k8s.io/apiserver v0.32.4
 	k8s.io/client-go v0.32.4
-	k8s.io/code-generator v0.32.3
+	k8s.io/code-generator v0.32.4
 	k8s.io/component-base v0.32.4
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
