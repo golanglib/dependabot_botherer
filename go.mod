@@ -8,13 +8,13 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250423154025-ec0af4932e5e.1
 	cel.dev/expr v0.23.1
 	cloud.google.com/go v0.120.1
 	cloud.google.com/go/auth v0.16.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.67.0
-	cloud.google.com/go/compute v1.36.1
+	cloud.google.com/go/compute v1.37.0
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.25.2
 	cloud.google.com/go/firestore v1.18.0
@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/monitoring v1.24.2
 	cloud.google.com/go/pubsub v1.49.0
-	cloud.google.com/go/storage v1.51.0
+	cloud.google.com/go/storage v1.52.0
 	cloud.google.com/go/trace v1.11.6
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.21.0
@@ -225,7 +225,7 @@ require (
 	github.com/awnumar/memcall v0.4.0
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.48.0
-	github.com/aws/aws-sdk-go v1.55.6
+	github.com/aws/aws-sdk-go v1.55.7
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
 	github.com/aws/aws-sdk-go-v2/config v1.29.14
@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.42.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.211.3
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.212.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.3
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.2
@@ -390,19 +390,19 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.26
+	github.com/cloudwego/eino v0.3.27
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.6
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250422100419-a2ef28c59573
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250422100419-a2ef28c59573
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250423132142-03c89c9dd841
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250423132142-03c89c9dd841
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250422100419-a2ef28c59573
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250423132142-03c89c9dd841
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.7
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250417024059-c8e83650e01c
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250423074243-85cfe2e6bac9
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -516,8 +516,8 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.2
-	github.com/facebook/time v0.0.0-20250417161629-2b1c2c747259
+	github.com/evanw/esbuild v0.25.3
+	github.com/facebook/time v0.0.0-20250423165419-80540868154d
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -656,7 +656,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.146.6
+	github.com/gohugoio/hugo v0.146.7
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -990,7 +990,7 @@ require (
 	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250421142834-9de457d11557
+	github.com/metacubex/sing-quic v0.0.0-20250423042228-20af53d3de7e
 	github.com/metacubex/sing-shadowsocks v0.2.8
 	github.com/metacubex/sing-shadowsocks2 v0.2.2
 	github.com/metacubex/sing-tun v0.4.5
@@ -1013,7 +1013,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.90
+	github.com/minio/minio-go/v7 v7.0.91
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1532,7 +1532,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.229.0
+	google.golang.org/api v0.230.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/api v0.0.0-20250414145226-207652e42e2e
