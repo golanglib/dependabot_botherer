@@ -14,7 +14,7 @@ require (
 	cloud.google.com/go/auth v0.16.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.67.0
-	cloud.google.com/go/compute v1.36.1
+	cloud.google.com/go/compute v1.37.0
 	cloud.google.com/go/compute/metadata v0.6.0
 	cloud.google.com/go/datacatalog v1.25.2
 	cloud.google.com/go/firestore v1.18.0
@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/monitoring v1.24.2
 	cloud.google.com/go/pubsub v1.49.0
-	cloud.google.com/go/storage v1.51.0
+	cloud.google.com/go/storage v1.52.0
 	cloud.google.com/go/trace v1.11.6
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.21.0
@@ -77,7 +77,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v1.8.0
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.3.1
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.0
-	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.0
+	github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.1
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230531184854-c06a8eff66fe
 	github.com/Azure/go-amqp v1.4.0
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c
@@ -225,7 +225,7 @@ require (
 	github.com/awnumar/memcall v0.4.0
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.48.0
-	github.com/aws/aws-sdk-go v1.55.6
+	github.com/aws/aws-sdk-go v1.55.7
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
 	github.com/aws/aws-sdk-go-v2/config v1.29.14
@@ -516,7 +516,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.2
+	github.com/evanw/esbuild v0.25.3
 	github.com/facebook/time v0.0.0-20250417161629-2b1c2c747259
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -656,7 +656,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.146.6
+	github.com/gohugoio/hugo v0.146.7
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -1013,7 +1013,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.90
+	github.com/minio/minio-go/v7 v7.0.91
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1565,13 +1565,13 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.32.3
+	k8s.io/api v0.32.4
 	k8s.io/apiextensions-apiserver v0.32.3
-	k8s.io/apimachinery v0.32.3
+	k8s.io/apimachinery v0.32.4
 	k8s.io/apiserver v0.32.3
-	k8s.io/client-go v0.32.3
+	k8s.io/client-go v0.32.4
 	k8s.io/code-generator v0.32.3
-	k8s.io/component-base v0.32.3
+	k8s.io/component-base v0.32.4
 	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
