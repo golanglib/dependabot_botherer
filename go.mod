@@ -1565,7 +1565,7 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.32.4
+	k8s.io/api v0.33.0
 	k8s.io/apiextensions-apiserver v0.32.4
 	k8s.io/apimachinery v0.33.0
 	k8s.io/apiserver v0.32.4
