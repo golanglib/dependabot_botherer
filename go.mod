@@ -391,7 +391,7 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.27
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.6
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250423132142-03c89c9dd841
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250423132142-03c89c9dd841
 	github.com/cloudwego/eino-ext/devops v0.1.7
@@ -463,7 +463,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20250317183548-13bf9b43b50b
-	github.com/digitalocean/godo v1.143.0
+	github.com/digitalocean/godo v1.144.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -728,7 +728,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.7.4
+	github.com/gopcua/opcua v0.8.0
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.7.0
@@ -1083,7 +1083,7 @@ require (
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
-	github.com/nyaruka/phonenumbers v1.6.0
+	github.com/nyaruka/phonenumbers v1.6.1
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
@@ -1406,7 +1406,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.50.0
-	github.com/volcengine/volc-sdk-golang v1.0.204
+	github.com/volcengine/volc-sdk-golang v1.0.205
 	github.com/volcengine/volcengine-go-sdk v1.1.4
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
@@ -1567,14 +1567,14 @@ require (
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.4
 	k8s.io/apiextensions-apiserver v0.32.4
-	k8s.io/apimachinery v0.32.4
+	k8s.io/apimachinery v0.33.0
 	k8s.io/apiserver v0.32.4
 	k8s.io/client-go v0.32.4
-	k8s.io/code-generator v0.32.4
+	k8s.io/code-generator v0.33.0
 	k8s.io/component-base v0.32.4
-	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
+	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
+	k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff
 	k8s.io/utils v0.0.0-20250321185631-1f6e0b77f77e
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11001.0
@@ -1858,4 +1858,5 @@ require (
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	pack.ag/amqp v0.11.0 // indirect
+	sigs.k8s.io/randfill v1.0.0 // indirect
 )
