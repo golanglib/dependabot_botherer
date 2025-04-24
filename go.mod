@@ -232,7 +232,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.67
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.12
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.72
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.73
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.47.3
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
@@ -391,7 +391,7 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.27
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.6
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250423132142-03c89c9dd841
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250423132142-03c89c9dd841
 	github.com/cloudwego/eino-ext/devops v0.1.7
@@ -463,7 +463,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20250317183548-13bf9b43b50b
-	github.com/digitalocean/godo v1.143.0
+	github.com/digitalocean/godo v1.144.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -728,7 +728,7 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gopacket/gopacket v1.3.1
-	github.com/gopcua/opcua v0.7.4
+	github.com/gopcua/opcua v0.8.0
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.7.0
@@ -1197,7 +1197,7 @@ require (
 	github.com/rclone/rclone v1.69.1
 	github.com/redis/go-redis/v9 v9.7.3
 	github.com/redis/rueidis v1.0.57
-	github.com/refraction-networking/utls v1.7.0
+	github.com/refraction-networking/utls v1.7.1
 	github.com/relvacode/iso8601 v1.6.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
@@ -1228,7 +1228,7 @@ require (
 	github.com/sagernet/sing v0.6.6
 	github.com/sagernet/sing-mux v0.3.1
 	github.com/sagernet/sing-shadowtls v0.2.0
-	github.com/sagernet/sing-vmess v0.2.0
+	github.com/sagernet/sing-vmess v0.2.1
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
 	github.com/sagernet/wireguard-go v0.0.1-beta.5
 	github.com/sagikazarmark/locafero v0.9.0
@@ -1586,7 +1586,7 @@ require (
 	modernc.org/ccgo/v4 v4.26.0
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
-	modernc.org/fileutil v1.3.0
+	modernc.org/fileutil v1.3.1
 	modernc.org/gc/v2 v2.6.5
 	modernc.org/gc/v3 v3.1.0
 	modernc.org/httpfs v1.0.6
