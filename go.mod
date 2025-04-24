@@ -1567,14 +1567,14 @@ require (
 	howett.net/plist v1.0.1
 	k8s.io/api v0.32.4
 	k8s.io/apiextensions-apiserver v0.32.4
-	k8s.io/apimachinery v0.32.4
+	k8s.io/apimachinery v0.33.0
 	k8s.io/apiserver v0.32.4
 	k8s.io/client-go v0.32.4
-	k8s.io/code-generator v0.32.4
+	k8s.io/code-generator v0.33.0
 	k8s.io/component-base v0.32.4
-	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
+	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/kube-openapi v0.0.0-20241212222426-2c72e554b1e7
+	k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff
 	k8s.io/utils v0.0.0-20250321185631-1f6e0b77f77e
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11001.0
@@ -1858,4 +1858,5 @@ require (
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	pack.ag/amqp v0.11.0 // indirect
+	sigs.k8s.io/randfill v1.0.0 // indirect
 )
