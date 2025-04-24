@@ -743,7 +743,7 @@ require (
 	github.com/gorilla/schema v1.4.1
 	github.com/gorilla/securecookie v1.1.2
 	github.com/gorilla/sessions v1.4.0
-	github.com/gorilla/websocket v1.5.3
+	github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674
 	github.com/gosnmp/gosnmp v1.40.0
 	github.com/gostaticanalysis/analysisutil v0.7.1
 	github.com/gostaticanalysis/comment v1.5.0
@@ -1569,7 +1569,7 @@ require (
 	k8s.io/apiextensions-apiserver v0.32.4
 	k8s.io/apimachinery v0.33.0
 	k8s.io/apiserver v0.32.4
-	k8s.io/client-go v0.32.4
+	k8s.io/client-go v0.33.0
 	k8s.io/code-generator v0.33.0
 	k8s.io/component-base v0.32.4
 	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7
