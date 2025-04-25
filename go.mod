@@ -172,7 +172,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.106
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -1349,7 +1349,7 @@ require (
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
 	github.com/terminalstatic/go-xsd-validate v0.1.6
-	github.com/testcontainers/testcontainers-go v0.36.0
+	github.com/testcontainers/testcontainers-go v0.37.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.36.0
 	github.com/tetafro/godot v1.5.0
 	github.com/tetratelabs/wazero v1.9.0
@@ -1407,7 +1407,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.50.0
 	github.com/volcengine/volc-sdk-golang v1.0.206
-	github.com/volcengine/volcengine-go-sdk v1.1.4
+	github.com/volcengine/volcengine-go-sdk v1.1.5
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1461,7 +1461,7 @@ require (
 	go-simpler.org/sloglint v0.11.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.69.0
+	go.einride.tech/aip v0.69.1
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
@@ -1558,7 +1558,7 @@ require (
 	gorm.io/gen v0.3.27
 	gorm.io/gorm v1.26.0
 	gorm.io/hints v1.1.2
-	gorm.io/plugin/dbresolver v1.5.3
+	gorm.io/plugin/dbresolver v1.6.0
 	gortc.io/stun v1.23.0
 	gotest.tools/v3 v3.5.2
 	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
