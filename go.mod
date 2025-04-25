@@ -440,7 +440,7 @@ require (
 	github.com/coze-dev/coze-go v0.0.0-20250414094131-8abc938a2cb8
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
-	github.com/cpuguy83/go-md2man/v2 v2.0.6
+	github.com/cpuguy83/go-md2man/v2 v2.0.7
 	github.com/creack/pty v1.1.24
 	github.com/crewjam/saml v0.5.1
 	github.com/cronokirby/saferith v0.33.0
