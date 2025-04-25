@@ -1558,7 +1558,7 @@ require (
 	gorm.io/gen v0.3.27
 	gorm.io/gorm v1.26.0
 	gorm.io/hints v1.1.2
-	gorm.io/plugin/dbresolver v1.5.3
+	gorm.io/plugin/dbresolver v1.6.0
 	gortc.io/stun v1.23.0
 	gotest.tools/v3 v3.5.2
 	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
