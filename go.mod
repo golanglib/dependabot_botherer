@@ -462,7 +462,7 @@ require (
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
-	github.com/digitalocean/go-libvirt v0.0.0-20250317183548-13bf9b43b50b
+	github.com/digitalocean/go-libvirt v0.0.0-20250417173424-a6a66ef779d6
 	github.com/digitalocean/godo v1.144.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
@@ -832,7 +832,7 @@ require (
 	github.com/influxdata/line-protocol-corpus v0.0.0-20210922080147-aa28ccfb8937
 	github.com/influxdata/line-protocol/v2 v2.2.1
 	github.com/influxdata/tail v1.0.0
-	github.com/insomniacslk/dhcp v0.0.0-20250109001534-8abf58130905
+	github.com/insomniacslk/dhcp v0.0.0-20250417080101-5f8cf70e8c5f
 	github.com/intel/iaevents v1.1.0
 	github.com/intel/powertelemetry v1.0.2
 	github.com/invopop/yaml v0.3.1
@@ -945,7 +945,7 @@ require (
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
-	github.com/lxc/incus/v6 v6.11.0
+	github.com/lxc/incus/v6 v6.12.0
 	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
 	github.com/magefile/mage v1.15.0
@@ -1493,7 +1493,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.35.0
 	go.opentelemetry.io/otel/trace v1.35.0
 	go.opentelemetry.io/proto/otlp v1.5.0
-	go.starlark.net v0.0.0-20250318223901-d9371fef63fe
+	go.starlark.net v0.0.0-20250417143717-f57e51f710eb
 	go.step.sm/crypto v0.61.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
@@ -1536,7 +1536,7 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/api v0.0.0-20250414145226-207652e42e2e
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250414145226-207652e42e2e
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250422160041-2d3770c4ea7f
 	google.golang.org/grpc v1.72.0
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
