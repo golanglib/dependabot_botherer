@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250307204501-0409229c3780.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.23.1
 	cloud.google.com/go v0.120.1
 	cloud.google.com/go/auth v0.16.1
@@ -172,7 +172,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
-	github.com/aliyun/alibaba-cloud-sdk-go v1.63.106
+	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
 	github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d
 	github.com/anacrolix/chansync v0.6.0
 	github.com/anacrolix/dht v1.0.1
@@ -230,7 +230,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
 	github.com/aws/aws-sdk-go-v2/config v1.29.14
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.67
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.12
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.18.13
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.73
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3
@@ -440,7 +440,7 @@ require (
 	github.com/coze-dev/coze-go v0.0.0-20250414094131-8abc938a2cb8
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
-	github.com/cpuguy83/go-md2man/v2 v2.0.6
+	github.com/cpuguy83/go-md2man/v2 v2.0.7
 	github.com/creack/pty v1.1.24
 	github.com/crewjam/saml v0.5.1
 	github.com/cronokirby/saferith v0.33.0
@@ -1230,7 +1230,7 @@ require (
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.1
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
-	github.com/sagernet/wireguard-go v0.0.1-beta.5
+	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.9.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.49.1
@@ -1349,7 +1349,7 @@ require (
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
 	github.com/terminalstatic/go-xsd-validate v0.1.6
-	github.com/testcontainers/testcontainers-go v0.36.0
+	github.com/testcontainers/testcontainers-go v0.37.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.36.0
 	github.com/tetafro/godot v1.5.0
 	github.com/tetratelabs/wazero v1.9.0
@@ -1461,7 +1461,7 @@ require (
 	go-simpler.org/sloglint v0.11.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.69.0
+	go.einride.tech/aip v0.69.1
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
@@ -1558,7 +1558,7 @@ require (
 	gorm.io/gen v0.3.27
 	gorm.io/gorm v1.26.0
 	gorm.io/hints v1.1.2
-	gorm.io/plugin/dbresolver v1.5.3
+	gorm.io/plugin/dbresolver v1.6.0
 	gortc.io/stun v1.23.0
 	gotest.tools/v3 v3.5.2
 	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
