@@ -1230,7 +1230,7 @@ require (
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.1
 	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
-	github.com/sagernet/wireguard-go v0.0.1-beta.5
+	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.9.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.49.1
