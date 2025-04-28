@@ -1310,7 +1310,7 @@ require (
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/snowflakedb/gosnowflake v1.13.2
 	github.com/soheilhy/cmux v0.1.5
-	github.com/sonatard/noctx v0.1.0
+	github.com/sonatard/noctx v0.3.2
 	github.com/sony/gobreaker v1.0.0
 	github.com/sony/sonyflake v1.2.0
 	github.com/sosodev/duration v1.3.1
