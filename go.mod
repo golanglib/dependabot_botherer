@@ -1241,7 +1241,7 @@ require (
 	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.9.0
 	github.com/sagikazarmark/slog-shim v0.1.0
-	github.com/samber/lo v1.49.1
+	github.com/samber/lo v1.50.0
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
 	github.com/sanity-io/litter v1.5.8
