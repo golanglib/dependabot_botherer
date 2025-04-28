@@ -391,13 +391,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.27
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250424061409-ccd60fbc7c1c
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250428094815-70b5e0581a33
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250424061409-ccd60fbc7c1c
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250424061409-ccd60fbc7c1c
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250428094815-70b5e0581a33
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250428094815-70b5e0581a33
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250424061409-ccd60fbc7c1c
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250424061409-ccd60fbc7c1c
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250428094815-70b5e0581a33
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250428094815-70b5e0581a33
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -942,7 +942,7 @@ require (
 	github.com/leonelquinteros/gotext v1.7.1
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
-	github.com/libdns/libdns v1.0.0-beta.1
+	github.com/libdns/libdns v1.0.0
 	github.com/linkedin/goavro/v2 v2.13.1
 	github.com/linode/linodego v1.49.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
@@ -1128,7 +1128,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.21.8
+	github.com/pb33f/libopenapi v0.21.9
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pdfcpu/pdfcpu v0.10.2
@@ -1149,7 +1149,7 @@ require (
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.13
+	github.com/pion/rtp v1.8.15
 	github.com/pion/sctp v1.8.38
 	github.com/pion/sdp/v3 v3.0.11
 	github.com/pion/srtp v1.5.2
@@ -1241,7 +1241,7 @@ require (
 	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.9.0
 	github.com/sagikazarmark/slog-shim v0.1.0
-	github.com/samber/lo v1.49.1
+	github.com/samber/lo v1.50.0
 	github.com/samber/slog-betterstack v1.4.2
 	github.com/samber/slog-common v0.18.1
 	github.com/sanity-io/litter v1.5.8
@@ -1310,7 +1310,7 @@ require (
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/snowflakedb/gosnowflake v1.13.2
 	github.com/soheilhy/cmux v0.1.5
-	github.com/sonatard/noctx v0.1.0
+	github.com/sonatard/noctx v0.3.2
 	github.com/sony/gobreaker v1.0.0
 	github.com/sony/sonyflake v1.2.0
 	github.com/sosodev/duration v1.3.1
@@ -1359,7 +1359,7 @@ require (
 	github.com/terminalstatic/go-xsd-validate v0.1.6
 	github.com/testcontainers/testcontainers-go v0.37.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.37.0
-	github.com/tetafro/godot v1.5.0
+	github.com/tetafro/godot v1.5.1
 	github.com/tetratelabs/wazero v1.9.0
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
 	github.com/tidwall/btree v1.7.0
@@ -1403,7 +1403,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.30.0
+	github.com/v2fly/v2ray-core/v5 v5.31.0
 	github.com/valyala/fasthttp v1.61.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
