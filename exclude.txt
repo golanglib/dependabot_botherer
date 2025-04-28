@@ -1,31 +1,5 @@
 code.gitea.io/gitea
 //go: code.gitea.io/gitea@latest (v1.23.7) requires github.com/charmbracelet/git-lfs-transfer@v0.2.0: reading github.com/charmbracelet/git-lfs-transfer/go.mod at revision v0.2.0: unknown revision v0.2.0
-github.com/Azure/azure-sdk-for-go/sdk/internal
-//[github.com/Azure/azure-sdk-for-go/sdk/internal] module is internal
-github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal
-//[github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal] module is internal
-github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v2
-//[github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v2] module is internal
-github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v3
-//[github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v3] module is internal
-github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal
-//[github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal] module is internal
-github.com/Crocmagnon/fatcontext
-//go: github.com/Crocmagnon/fatcontext@latest (v0.8.0) requires github.com/Crocmagnon/fatcontext@v0.8.0: parsing go.mod:
-//	module declares its path as: go.augendre.info/fatcontext
-//	        but was required as: github.com/Crocmagnon/fatcontext
-github.com/EzeXchange-API/go-listmonk
-//go: github.com/EzeXchange-API/go-listmonk@latest (v1.0.11) requires github.com/EzeXchange-API/go-listmonk@v1.0.11: parsing go.mod:
-//	module declares its path as: github.com/Exayn/go-listmonk
-//	        but was required as: github.com/EzeXchange-API/go-listmonk
-github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock
-//[github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock] module is internal
-github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping
-//[github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping] module is internal
-github.com/Shopify/sarama
-//go: github.com/Shopify/sarama@latest (v1.45.1) requires github.com/Shopify/sarama@v1.45.1: parsing go.mod:
-//	module declares its path as: github.com/IBM/sarama
-//	        but was required as: github.com/Shopify/sarama
 github.com/antlr/antlr4/runtime/Go/antlr/v4
 //go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20250403164407-cb850120378d) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20250403164407-cb850120378d: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
@@ -56,10 +30,24 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url
 //[github.com/aws/aws-sdk-go-v2/service/internal/presigned-url] module is internal
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared
 //[github.com/aws/aws-sdk-go-v2/service/internal/s3shared] module is internal
+github.com/Azure/azure-sdk-for-go/sdk/internal
+//[github.com/Azure/azure-sdk-for-go/sdk/internal] module is internal
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal
+//[github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal] module is internal
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v2
+//[github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v2] module is internal
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v3
+//[github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v3] module is internal
+github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal
+//[github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal] module is internal
 github.com/cosmtrek/air
 //go: github.com/cosmtrek/air@latest (v1.61.7) requires github.com/cosmtrek/air@v1.61.7: parsing go.mod:
 //	module declares its path as: github.com/air-verse/air
 //	        but was required as: github.com/cosmtrek/air
+github.com/Crocmagnon/fatcontext
+//go: github.com/Crocmagnon/fatcontext@latest (v0.8.0) requires github.com/Crocmagnon/fatcontext@v0.8.0: parsing go.mod:
+//	module declares its path as: go.augendre.info/fatcontext
+//	        but was required as: github.com/Crocmagnon/fatcontext
 github.com/davidmz/go-pageant
 //[github.com/davidmz/go-pageant] dir: /gopath/pkg/mod/github.com/davidmz/go-pageant@v1.0.2
 //[github.com/davidmz/go-pageant] "": no buildable Go source files in /gopath/pkg/mod/github.com/davidmz/go-pageant@v1.0.2
@@ -71,6 +59,10 @@ github.com/dmarkham/enumer
 //[github.com/dmarkham/enumer] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/github.com/dmarkham/enumer@v1.5.10/.github/workflows
 //[github.com/dmarkham/enumer] "testdata": package is main
 //[github.com/dmarkham/enumer] no importable packages found
+github.com/EzeXchange-API/go-listmonk
+//go: github.com/EzeXchange-API/go-listmonk@latest (v1.0.11) requires github.com/EzeXchange-API/go-listmonk@v1.0.11: parsing go.mod:
+//	module declares its path as: github.com/Exayn/go-listmonk
+//	        but was required as: github.com/EzeXchange-API/go-listmonk
 github.com/fclairamb/ftpserverlib
 //[github.com/fclairamb/ftpserverlib] dir: /gopath/pkg/mod/github.com/fclairamb/ftpserverlib@v0.25.0
 //[github.com/fclairamb/ftpserverlib] module has replace
@@ -96,6 +88,10 @@ github.com/gohugoio/go-i18n/v2
 //go: github.com/gohugoio/go-i18n/v2@latest (v2.1.2) requires github.com/gohugoio/go-i18n/v2@v2.1.2: parsing go.mod:
 //	module declares its path as: github.com/nicksnyder/go-i18n/v2
 //	        but was required as: github.com/gohugoio/go-i18n/v2
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock
+//[github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock] module is internal
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping
+//[github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping] module is internal
 github.com/gwos/tcg
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/config imports
@@ -273,6 +269,10 @@ github.com/open-telemetry/opentelemetry-collector-contrib
 github.com/prometheus/prometheus
 //[github.com/prometheus/prometheus] dir: /gopath/pkg/mod/github.com/prometheus/prometheus@v0.302.1
 //[github.com/prometheus/prometheus] module has replace
+github.com/Shopify/sarama
+//go: github.com/Shopify/sarama@latest (v1.45.1) requires github.com/Shopify/sarama@v1.45.1: parsing go.mod:
+//	module declares its path as: github.com/IBM/sarama
+//	        but was required as: github.com/Shopify/sarama
 github.com/smallstep/go-attestation
 //go: github.com/smallstep/go-attestation@latest (v0.4.3) requires github.com/smallstep/go-attestation@v0.4.3: parsing go.mod:
 //	module declares its path as: github.com/google/go-attestation

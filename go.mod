@@ -391,10 +391,12 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.27
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250424061409-ccd60fbc7c1c
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250424061409-ccd60fbc7c1c
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250424061409-ccd60fbc7c1c
 	github.com/cloudwego/eino-ext/devops v0.1.7
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250424061409-ccd60fbc7c1c
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250424061409-ccd60fbc7c1c
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
@@ -456,6 +458,7 @@ require (
 	github.com/denis-tingaikin/go-header v0.5.0
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/dennwc/varint v1.0.0
+	github.com/devalexandre/langsmithgo v1.0.1
 	github.com/devigned/tab v0.1.1
 	github.com/dghubble/trie v0.1.0
 	github.com/dgraph-io/badger v1.6.2
@@ -804,6 +807,8 @@ require (
 	github.com/hbollon/go-edlib v1.6.0
 	github.com/hedhyw/rex v1.0.0
 	github.com/hellofresh/health-go/v5 v5.5.3
+	github.com/henomis/langfuse-go v0.0.3
+	github.com/henomis/restclientgo v1.2.0
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
 	github.com/henrybear327/go-proton-api v1.0.0
 	github.com/henrylee2cn/goutil v1.0.1
@@ -813,6 +818,8 @@ require (
 	github.com/hetznercloud/hcloud-go v1.59.2
 	github.com/hetznercloud/hcloud-go/v2 v2.21.0
 	github.com/hexops/gotextdiff v1.0.3
+	github.com/hhrutter/lzw v1.0.0
+	github.com/hhrutter/tiff v1.0.2
 	github.com/hinshun/vt10x v0.0.0-20220119200601-820417d04eec
 	github.com/huandu/go-assert v1.1.6
 	github.com/huandu/skiplist v1.2.1
@@ -1124,6 +1131,7 @@ require (
 	github.com/pb33f/libopenapi v0.21.8
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
+	github.com/pdfcpu/pdfcpu v0.10.2
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/perimeterx/marshmallow v1.1.5
@@ -1369,6 +1377,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.15
 	github.com/tklauser/numcpus v0.10.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
+	github.com/tmc/langchaingo v0.1.13
 	github.com/tomarrell/wrapcheck/v2 v2.11.0
 	github.com/tommy-muehle/go-mnd/v2 v2.5.1
 	github.com/toqueteos/webbrowser v1.2.0
@@ -1381,6 +1390,11 @@ require (
 	github.com/ulikunitz/xz v0.5.12
 	github.com/ultraware/funlen v0.2.0
 	github.com/ultraware/whitespace v0.2.0
+	github.com/unidoc/freetype v0.2.3
+	github.com/unidoc/pkcs7 v0.2.0
+	github.com/unidoc/timestamp v0.0.0-20200412005513-91597fd3793a
+	github.com/unidoc/unipdf/v3 v3.69.0
+	github.com/unidoc/unitype v0.5.1
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
 	github.com/urfave/cli v1.22.16
@@ -1406,6 +1420,8 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.50.0
+	github.com/volcengine/ve-tos-golang-sdk v0.2.2
+	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
 	github.com/volcengine/volc-sdk-golang v1.0.206
 	github.com/volcengine/volcengine-go-sdk v1.1.5
 	github.com/vulcand/oxy v1.4.2
@@ -1733,6 +1749,7 @@ require (
 	github.com/hashicorp/consul/api v1.31.0 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
 	github.com/hashicorp/vault/api v1.16.0 // indirect
+	github.com/hhrutter/pkcs7 v0.2.0 // indirect
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
