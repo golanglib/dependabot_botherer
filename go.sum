@@ -5134,8 +5134,8 @@ github.com/testcontainers/testcontainers-go v0.37.0 h1:L2Qc0vkTw2EHWQ08djon0D2uw
 github.com/testcontainers/testcontainers-go v0.37.0/go.mod h1:QPzbxZhQ6Bclip9igjLFj6z0hs01bU8lrl2dHQmgFGM=
 github.com/testcontainers/testcontainers-go/modules/kafka v0.37.0 h1:ZkYNKqhqvKm+aZk9C1fxw/fpNNOK+Nm/wHPjmJdN3Ko=
 github.com/testcontainers/testcontainers-go/modules/kafka v0.37.0/go.mod h1:+LvaFfSFW5PMiJTxTQlV6TBpXH1Ktk1h0FTVRZfqSxY=
-github.com/tetafro/godot v1.5.0 h1:aNwfVI4I3+gdxjMgYPus9eHmoBeJIbnajOyqZYStzuw=
-github.com/tetafro/godot v1.5.0/go.mod h1:2oVxTBSftRTh4+MVfUaUXR6bn2GDXCaMcOG4Dk3rfio=
+github.com/tetafro/godot v1.5.1 h1:PZnjCol4+FqaEzvZg5+O8IY2P3hfY9JzRBNPv1pEDS4=
+github.com/tetafro/godot v1.5.1/go.mod h1:cCdPtEndkmqqrhiCfkmxDodMQJ/f3L1BCNskCUZdTwk=
 github.com/tetratelabs/wazero v1.9.0 h1:IcZ56OuxrtaEz8UYNRHBrUa9bYeX9oVY93KspZZBf/I=
 github.com/tetratelabs/wazero v1.9.0/go.mod h1:TSbcXCfFP0L2FGkRPxHphadXPjo1T6W+CseNNY7EkjM=
 github.com/thomasklein94/packer-plugin-libvirt v0.5.0 h1:aj2HLHZZM/ClGLIwVp9rrgh+2TOU/w4EiaZHAwCpOgs=
