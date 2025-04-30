@@ -8,7 +8,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250423154025-7712fb530c57.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.23.1
 	cloud.google.com/go v0.121.0
 	cloud.google.com/go/auth v0.16.1
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.212.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.33.3
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.34.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
@@ -358,11 +358,11 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.21.0
-	github.com/charmbracelet/bubbletea v1.3.4
+	github.com/charmbracelet/bubbletea v1.3.5
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.10.0
 	github.com/charmbracelet/lipgloss v1.1.1-0.20250404203927-76690c660834
-	github.com/charmbracelet/x/ansi v0.8.0
+	github.com/charmbracelet/x/ansi v0.9.2
 	github.com/charmbracelet/x/exp/golden v0.0.0-20241011142426-46044092ad91
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
@@ -1307,7 +1307,7 @@ require (
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
-	github.com/snowflakedb/gosnowflake v1.13.3
+	github.com/snowflakedb/gosnowflake v1.14.0
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.3.2
 	github.com/sony/gobreaker v1.0.0
