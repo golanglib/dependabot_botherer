@@ -327,7 +327,6 @@ import (
 	_ "github.com/bsm/gomega"
 	_ "github.com/bufbuild/connect-go"
 	_ "github.com/bufbuild/protocompile"
-	_ "github.com/bufbuild/protovalidate-go"
 	_ "github.com/buger/jsonparser"
 	_ "github.com/buildkite/terminal-to-html/v3"
 	_ "github.com/butuzov/ireturn/analyzer"
