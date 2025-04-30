@@ -1233,7 +1233,7 @@ require (
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-beta.4
 	github.com/sagernet/sing v0.6.7
-	github.com/sagernet/sing-mux v0.3.1
+	github.com/sagernet/sing-mux v0.3.2
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.1
 	github.com/sagernet/smux v1.5.34-mod.1
