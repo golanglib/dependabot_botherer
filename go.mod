@@ -1311,7 +1311,7 @@ require (
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.3.3
 	github.com/sony/gobreaker v1.0.0
-	github.com/sony/sonyflake v1.2.0
+	github.com/sony/sonyflake v1.2.1
 	github.com/sosodev/duration v1.3.1
 	github.com/sourcegraph/conc v0.3.0
 	github.com/sourcegraph/go-diff v0.7.0
