@@ -1074,7 +1074,7 @@ require (
 	github.com/ncruces/go-strftime v0.1.9
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.3
-	github.com/nektos/act v0.2.76
+	github.com/nektos/act v0.2.77
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.2
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
