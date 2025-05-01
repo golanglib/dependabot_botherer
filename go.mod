@@ -1201,7 +1201,7 @@ require (
 	github.com/quic-go/quic-go v0.51.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/rclone/rclone v1.69.1
+	github.com/rclone/rclone v1.69.2
 	github.com/redis/go-redis/v9 v9.8.0
 	github.com/redis/rueidis v1.0.59
 	github.com/refraction-networking/utls v1.7.1
