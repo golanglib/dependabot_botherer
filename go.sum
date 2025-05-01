@@ -4111,8 +4111,8 @@ github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86/go.mod h1:kHJE
 github.com/neelance/sourcemap v0.0.0-20151028013722-8c68805598ab/go.mod h1:Qr6/a/Q4r9LP1IltGz7tA7iOK1WonHEYhu1HRBA7ZiM=
 github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c h1:bY6ktFuJkt+ZXkX0RChQch2FtHpWQLVS8Qo1YasiIVk=
 github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c/go.mod h1:Qr6/a/Q4r9LP1IltGz7tA7iOK1WonHEYhu1HRBA7ZiM=
-github.com/nektos/act v0.2.76 h1:WNGLYhUcymeYx1i6WrP9tMX+WP9tQ7P1o9OTGDQL9CU=
-github.com/nektos/act v0.2.76/go.mod h1:P9KpJD3OhNd5C+v08X4nVxVJG2iXlqnCcSIKgFg5nXQ=
+github.com/nektos/act v0.2.77 h1:2rBcbhc3GegPSw8NRa5ZXL34kg7Jz9PqWkljjQrWkQo=
+github.com/nektos/act v0.2.77/go.mod h1:M8DayNXh4fiWhM0/8yuXQYnZxZYokisn8T9SJGa5bZY=
 github.com/netsampler/goflow2 v1.3.7 h1:XZaTy8kkMnGXpJ9hS3KbO1McyrFTpVNhVFEx9rNhMmc=
 github.com/netsampler/goflow2 v1.3.7/go.mod h1:4UZsVGVAs//iMCptUHn3WNScztJeUhZH7kDW2+/vDdQ=
 github.com/netsampler/goflow2/v2 v2.2.2 h1:td6BxWc13xC7thXzcHyRJCQTLEY5MRzm7KuBb1E55VM=
