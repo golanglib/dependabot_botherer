@@ -2252,8 +2252,8 @@ github.com/evanphx/json-patch/v5 v5.9.11/go.mod h1:3j+LviiESTElxA4p3EMKAB9HXj3/X
 github.com/evanw/esbuild v0.25.3 h1:4JKyUsm/nHDhpxis4IyWXAi8GiyTwG1WdEp6OhGVE8U=
 github.com/evanw/esbuild v0.25.3/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfVQuRi48=
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
-github.com/facebook/time v0.0.0-20250429161419-c83e6d0ee391 h1:o8hNc0dTzUJbWFL/Zasyc0D3PjKvCvmD6Ek9WE8jUg4=
-github.com/facebook/time v0.0.0-20250429161419-c83e6d0ee391/go.mod h1:dG7p9Vxl1vLt4wq6kFI5AT1XwKrtwJiPS19SfJuZm4M=
+github.com/facebook/time v0.0.0-20250501145131-2c0e17a4efe1 h1:Zs37urMTnnRj82EK6wOVjZaQnvnKZ/urIDcOGBmNHRo=
+github.com/facebook/time v0.0.0-20250501145131-2c0e17a4efe1/go.mod h1:F/UyAsLLE0HqhxvU79NBXpgPcWq2B4EpW32zFaWJogo=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -2386,10 +2386,10 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20250409143848-7113328b1f3d h1:IWrWGnmKzpHqginJ18ljKkty/X8glxM8Mg3pk6bkb8g=
-github.com/go-ap/activitypub v0.0.0-20250409143848-7113328b1f3d/go.mod h1:EUtZuXtHo4yKkTJmcbAZYW+X1G2poeT8icmBh24eq7o=
-github.com/go-ap/errors v0.0.0-20250409143711-5686c11ae650 h1:tlwla5IQUea0CuktkBd2FLDwVzts4OeTWPPkhQPSK5Q=
-github.com/go-ap/errors v0.0.0-20250409143711-5686c11ae650/go.mod h1:Vkh+Z3f24K8nMsJKXo1FHn5ebPsXvB/WDH5JRtYqdNo=
+github.com/go-ap/activitypub v0.0.0-20250501090939-71edba4a7137 h1:B1splKlLoFUDnTMBqIqCjlCNa6y3SLCK82fyhagTbOA=
+github.com/go-ap/activitypub v0.0.0-20250501090939-71edba4a7137/go.mod h1:mL9yxSRgPAeEHk9BRUp4jvdkm+xEVkdCbX3Fq85UTK8=
+github.com/go-ap/errors v0.0.0-20250501090840-cd50c6a0a4e6 h1:/KdkJ0MhApJMNm/bvHDFqaTYYhfqa6G7RCjbugGorvU=
+github.com/go-ap/errors v0.0.0-20250501090840-cd50c6a0a4e6/go.mod h1:Vkh+Z3f24K8nMsJKXo1FHn5ebPsXvB/WDH5JRtYqdNo=
 github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73 h1:GMKIYXyXPGIp+hYiWOhfqK4A023HdgisDT4YGgf99mw=
 github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73/go.mod h1:jyveZeGw5LaADntW+UEsMjl3IlIwk+DxlYNsbofQkGA=
 github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667 h1:BP4M0CvQ4S3TGls2FvczZtj5Re/2ZzkV9VwqPHH/3Bo=

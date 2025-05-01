@@ -519,7 +519,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.3
-	github.com/facebook/time v0.0.0-20250429161419-c83e6d0ee391
+	github.com/facebook/time v0.0.0-20250501145131-2c0e17a4efe1
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -558,8 +558,8 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20250409143848-7113328b1f3d
-	github.com/go-ap/errors v0.0.0-20250409143711-5686c11ae650
+	github.com/go-ap/activitypub v0.0.0-20250501090939-71edba4a7137
+	github.com/go-ap/errors v0.0.0-20250501090840-cd50c6a0a4e6
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
 	github.com/go-chi/chi v4.1.2+incompatible
