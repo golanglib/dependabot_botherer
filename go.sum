@@ -701,8 +701,8 @@ github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289 h1:VwsMP5SbzLW4Xi93
 github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289/go.mod h1:bJ64JsKB/XQJtJCuaXJG5REkWCFjhyqbjytut3gOasM=
 github.com/42wim/httpsig v1.2.3 h1:xb0YyWhkYj57SPtfSttIobJUPJZB9as1nsfo7KWVcEs=
 github.com/42wim/httpsig v1.2.3/go.mod h1:nZq9OlYKDrUBhptd77IHx4/sZZD+IxTBADvAPI9G/EM=
-github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815 h1:5EoemV++kUK2Sw98yWP/RWyduvP7IaBgWWHe+4BWcSw=
-github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815/go.mod h1:zjsWZdDLrcDojDIfpQg7A6J4YZLT0cbwuAD26AppDBo=
+github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920 h1:mWAVGlovzUfREJBhm0GwJnDNu21yRrL9QH9NIzAU3rg=
+github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920/go.mod h1:zWxcT7BIWOe05xVJL0VMvO/PJ6RpoCux10heb77H6Q8=
 github.com/4meepo/tagalign v1.4.2 h1:0hcLHPGMjDyM1gHG58cS73aQF8J4TdVR96TZViorO9E=
 github.com/4meepo/tagalign v1.4.2/go.mod h1:+p4aMyFM+ra7nb41CnFG6aSDXqRxU/w1VQqScKqDARI=
 github.com/6543/go-version v1.4.0 h1:iNYLzyjZarPImMoauoqjFP+hkdny/Zp1ecg5pS+AGuU=
@@ -2252,8 +2252,8 @@ github.com/evanphx/json-patch/v5 v5.9.11/go.mod h1:3j+LviiESTElxA4p3EMKAB9HXj3/X
 github.com/evanw/esbuild v0.25.3 h1:4JKyUsm/nHDhpxis4IyWXAi8GiyTwG1WdEp6OhGVE8U=
 github.com/evanw/esbuild v0.25.3/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfVQuRi48=
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
-github.com/facebook/time v0.0.0-20250501145131-2c0e17a4efe1 h1:Zs37urMTnnRj82EK6wOVjZaQnvnKZ/urIDcOGBmNHRo=
-github.com/facebook/time v0.0.0-20250501145131-2c0e17a4efe1/go.mod h1:F/UyAsLLE0HqhxvU79NBXpgPcWq2B4EpW32zFaWJogo=
+github.com/facebook/time v0.0.0-20250502163358-2079056834d4 h1:qb/JU4eqfMmSji/HcVfFVQ1Q5CF77pdzJEIKbuAgoRM=
+github.com/facebook/time v0.0.0-20250502163358-2079056834d4/go.mod h1:F/UyAsLLE0HqhxvU79NBXpgPcWq2B4EpW32zFaWJogo=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=

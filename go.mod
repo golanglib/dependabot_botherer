@@ -46,7 +46,7 @@ require (
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
 	github.com/42wim/httpsig v1.2.3
-	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
+	github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920
 	github.com/4meepo/tagalign v1.4.2
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.73
@@ -519,7 +519,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.3
-	github.com/facebook/time v0.0.0-20250501145131-2c0e17a4efe1
+	github.com/facebook/time v0.0.0-20250502163358-2079056834d4
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
