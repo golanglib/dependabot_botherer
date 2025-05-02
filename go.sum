@@ -6907,8 +6907,8 @@ modernc.org/ccgo/v3 v3.16.13-0.20221017192402-261537637ce8/go.mod h1:fUB3Vn0nVPR
 modernc.org/ccgo/v3 v3.16.13/go.mod h1:2Quk+5YgpImhPjv2Qsob1DnZ/4som1lJTodubIcoUkY=
 modernc.org/ccgo/v3 v3.17.0 h1:o3OmOqx4/OFnl4Vm3G8Bgmqxnvxnh0nbxeT5p/dWChA=
 modernc.org/ccgo/v3 v3.17.0/go.mod h1:Sg3fwVpmLvCUTaqEUjiBDAvshIaKDB0RXaf+zgqFu8I=
-modernc.org/ccgo/v4 v4.26.0 h1:gVzXaDzGeBYJ2uXTOpR8FR7OlksDOe9jxnjhIKCsiTc=
-modernc.org/ccgo/v4 v4.26.0/go.mod h1:Sem8f7TFUtVXkG2fiaChQtyyfkqhJBg/zjEJBkmuAVY=
+modernc.org/ccgo/v4 v4.27.0 h1:ApXKt4g9vCnEjrKs565hS2oHeEji2HduwIH9FysJa5k=
+modernc.org/ccgo/v4 v4.27.0/go.mod h1:Sem8f7TFUtVXkG2fiaChQtyyfkqhJBg/zjEJBkmuAVY=
 modernc.org/ccorpus v1.11.6 h1:J16RXiiqiCgua6+ZvQot4yUuUy8zxgqbqEEUuGPlISk=
 modernc.org/ccorpus v1.11.6/go.mod h1:2gEUTrWqdpH2pXsmTM1ZkjeSrUWDpjMu2T6m29L/ErQ=
 modernc.org/ccorpus2 v1.5.2 h1:Ui+4tc58mf/W+2arcYCJR903y3zl3ecsI7Fpaaqozyw=
