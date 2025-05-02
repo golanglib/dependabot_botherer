@@ -45,11 +45,11 @@ require (
 	gitea.com/lunny/levelqueue v0.4.1
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
-	github.com/42wim/httpsig v1.2.2
+	github.com/42wim/httpsig v1.2.3
 	github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815
 	github.com/4meepo/tagalign v1.4.2
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.72
+	github.com/99designs/gqlgen v0.17.73
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.3
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -1319,7 +1319,7 @@ require (
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.5
 	github.com/spf13/afero v1.14.0
-	github.com/spf13/cast v1.7.1
+	github.com/spf13/cast v1.8.0
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/cobra-cli v1.3.0
 	github.com/spf13/jwalterweatherman v1.1.0

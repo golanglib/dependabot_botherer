@@ -699,8 +699,8 @@ github.com/3andne/restls-client-go v0.1.6 h1:tRx/YilqW7iHpgmEL4E1D8dAsuB0tFF3uvn
 github.com/3andne/restls-client-go v0.1.6/go.mod h1:iEdTZNt9kzPIxjIGSMScUFSBrUH6bFRNg0BWlP4orEY=
 github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289 h1:VwsMP5SbzLW4Xi93PPZE9zvFP6b4tJzmp1Mpc5qtpBk=
 github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289/go.mod h1:bJ64JsKB/XQJtJCuaXJG5REkWCFjhyqbjytut3gOasM=
-github.com/42wim/httpsig v1.2.2 h1:ofAYoHUNs/MJOLqQ8hIxeyz2QxOz8qdSVvp3PX/oPgA=
-github.com/42wim/httpsig v1.2.2/go.mod h1:P/UYo7ytNBFwc+dg35IubuAUIs8zj5zzFIgUCEl55WY=
+github.com/42wim/httpsig v1.2.3 h1:xb0YyWhkYj57SPtfSttIobJUPJZB9as1nsfo7KWVcEs=
+github.com/42wim/httpsig v1.2.3/go.mod h1:nZq9OlYKDrUBhptd77IHx4/sZZD+IxTBADvAPI9G/EM=
 github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815 h1:5EoemV++kUK2Sw98yWP/RWyduvP7IaBgWWHe+4BWcSw=
 github.com/42wim/sshsig v0.0.0-20240818000253-e3a6333df815/go.mod h1:zjsWZdDLrcDojDIfpQg7A6J4YZLT0cbwuAD26AppDBo=
 github.com/4meepo/tagalign v1.4.2 h1:0hcLHPGMjDyM1gHG58cS73aQF8J4TdVR96TZViorO9E=
@@ -709,8 +709,8 @@ github.com/6543/go-version v1.4.0 h1:iNYLzyjZarPImMoauoqjFP+hkdny/Zp1ecg5pS+AGuU
 github.com/6543/go-version v1.4.0/go.mod h1:V7SnyexYKaK0qTlRluNFJGo69Kgu2I249RY6TjIB6tY=
 github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 h1:/vQbFIOMbk2FiG/kXiLl8BRyzTWDw7gX/Hz7Dd5eDMs=
 github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4/go.mod h1:hN7oaIRCjzsZ2dE+yG5k+rsdt3qcwykqK6HVGcKwsw4=
-github.com/99designs/gqlgen v0.17.72 h1:2JDAuutIYtAN26BAtigfLZFnTN53fpYbIENL8bVgAKY=
-github.com/99designs/gqlgen v0.17.72/go.mod h1:BoL4C3j9W2f95JeWMrSArdDNGWmZB9MOS2EMHJDZmUc=
+github.com/99designs/gqlgen v0.17.73 h1:A3Ki+rHWqKbAOlg5fxiZBnz6OjW3nwupDHEG15gEsrg=
+github.com/99designs/gqlgen v0.17.73/go.mod h1:2RyGWjy2k7W9jxrs8MOQthXGkD3L3oGr0jXW3Pu8lGg=
 github.com/99designs/keyring v1.2.2 h1:pZd3neh/EmUzWONb35LxQfvuY7kiSXAq3HQd97+XBn0=
 github.com/99designs/keyring v1.2.2/go.mod h1:wes/FrByc8j7lFOAGLGSNEg8f/PaI3cgTBqhFkHUrPk=
 github.com/Abirdcfly/dupword v0.1.3 h1:9Pa1NuAsZvpFPi9Pqkd93I7LIYRURj+A//dFd5tgBeE=
@@ -4989,8 +4989,8 @@ github.com/spf13/afero v1.14.0/go.mod h1:acJQ8t0ohCGuMN3O+Pv0V0hgMxNYDlvdk+VTfyZ
 github.com/spf13/cast v1.3.0/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=
 github.com/spf13/cast v1.3.1/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=
 github.com/spf13/cast v1.4.1/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=
-github.com/spf13/cast v1.7.1 h1:cuNEagBQEHWN1FnbGEjCXL2szYEXqfJPbP2HNUaca9Y=
-github.com/spf13/cast v1.7.1/go.mod h1:ancEpBxwJDODSW/UG4rDrAqiKolqNNh2DX3mk86cAdo=
+github.com/spf13/cast v1.8.0 h1:gEN9K4b8Xws4EX0+a0reLmhq8moKn7ntRlQYgjPeCDk=
+github.com/spf13/cast v1.8.0/go.mod h1:ancEpBxwJDODSW/UG4rDrAqiKolqNNh2DX3mk86cAdo=
 github.com/spf13/cobra v0.0.5/go.mod h1:3K3wKZymM7VvHMDS9+Akkh4K60UwM26emMESw8tLCHU=
 github.com/spf13/cobra v0.0.6/go.mod h1:/6GTrnGXV9HjY+aR4k0oJ5tcvakLuG6EuKReYlHNrgE=
 github.com/spf13/cobra v1.1.1/go.mod h1:WnodtKOvamDL/PwE2M4iKs8aMDBZ5Q5klgD3qfVJQMI=
