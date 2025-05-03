@@ -197,7 +197,7 @@ github.com/imdario/mergo
 //	module declares its path as: dario.cat/mergo
 //	        but was required as: github.com/imdario/mergo
 github.com/jaegertracing/jaeger
-//[github.com/jaegertracing/jaeger] dir: /gopath/pkg/mod/github.com/jaegertracing/jaeger@v1.68.0
+//[github.com/jaegertracing/jaeger] dir: /gopath/pkg/mod/github.com/jaegertracing/jaeger@v1.62.0
 //[github.com/jaegertracing/jaeger] module has replace
 github.com/jirfag/go-printf-func-name
 //go: github.com/jirfag/go-printf-func-name@latest (v0.1.0) requires github.com/jirfag/go-printf-func-name@v0.1.0: parsing go.mod:
@@ -311,28 +311,51 @@ go.mongodb.org/mongo-driver
 //[go.mongodb.org/mongo-driver] dir: /gopath/pkg/mod/go.mongodb.org/mongo-driver@v1.17.3
 //[go.mongodb.org/mongo-driver] module has replace
 go.opentelemetry.io/collector
-//[go.opentelemetry.io/collector] dir: /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0
-//[go.opentelemetry.io/collector] "": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0
-//[go.opentelemetry.io/collector] ".chloggen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.chloggen
-//[go.opentelemetry.io/collector] ".github": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github
-//[go.opentelemetry.io/collector] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/ISSUE_TEMPLATE
-//[go.opentelemetry.io/collector] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/workflows
-//[go.opentelemetry.io/collector] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/workflows/scripts
-//[go.opentelemetry.io/collector] ".github/workflows/utils": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/workflows/utils
-//[go.opentelemetry.io/collector] "cmd": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/cmd
-//[go.opentelemetry.io/collector] "cmd/githubgen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/cmd/githubgen
-//[go.opentelemetry.io/collector] "docs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/docs
-//[go.opentelemetry.io/collector] "docs/img": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/docs/img
-//[go.opentelemetry.io/collector] "docs/rfcs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/docs/rfcs
-//[go.opentelemetry.io/collector] "examples": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/examples
-//[go.opentelemetry.io/collector] "examples/k8s": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/examples/k8s
-//[go.opentelemetry.io/collector] "examples/local": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/examples/local
-//[go.opentelemetry.io/collector] "internal": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/internal
-//[go.opentelemetry.io/collector] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/internal/buildscripts
-//[go.opentelemetry.io/collector] "internal/statusutil": package is internal
+//[go.opentelemetry.io/collector] dir: /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0
+//[go.opentelemetry.io/collector] "": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0
+//[go.opentelemetry.io/collector] ".chloggen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.chloggen
+//[go.opentelemetry.io/collector] ".github": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github
+//[go.opentelemetry.io/collector] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github/ISSUE_TEMPLATE
+//[go.opentelemetry.io/collector] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github/workflows
+//[go.opentelemetry.io/collector] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/.github/workflows/scripts
+//[go.opentelemetry.io/collector] "docs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/docs
+//[go.opentelemetry.io/collector] "docs/img": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/docs/img
+//[go.opentelemetry.io/collector] "docs/rfcs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/docs/rfcs
+//[go.opentelemetry.io/collector] "examples": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/examples
+//[go.opentelemetry.io/collector] "examples/k8s": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/examples/k8s
+//[go.opentelemetry.io/collector] "examples/local": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/examples/local
+//[go.opentelemetry.io/collector] "internal": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal
+//[go.opentelemetry.io/collector] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/buildscripts
+//[go.opentelemetry.io/collector] "internal/cgroups": package is internal
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/cpu": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/cpu
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/empty": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/empty
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/invalid": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/invalid
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/memory": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/memory
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/undefined": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/undefined
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/undefined-period": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/undefined-period
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/empty": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/empty
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/invalid": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/invalid
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/memory": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/memory
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/cgroups/v2/undefined": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/cgroups/v2/undefined
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/cgroups": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/cgroups
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/invalid-cgroup": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/invalid-cgroup
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/invalid-mountinfo": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/invalid-mountinfo
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/untranslatable": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/untranslatable
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2/cgroupv1": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2/cgroupv1
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2/cgroupv1v2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2/cgroupv1v2
+//[go.opentelemetry.io/collector] "internal/cgroups/testdata/proc/v2/cgroupv2": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/cgroups/testdata/proc/v2/cgroupv2
+//[go.opentelemetry.io/collector] "internal/fanoutconsumer": package is internal
+//[go.opentelemetry.io/collector] "internal/httphelper": package is internal
+//[go.opentelemetry.io/collector] "internal/iruntime": package is internal
+//[go.opentelemetry.io/collector] "internal/memorylimiter": package is internal
+//[go.opentelemetry.io/collector] "internal/memorylimiter/testdata": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.111.0/internal/memorylimiter/testdata
+//[go.opentelemetry.io/collector] "internal/sharedcomponent": package is internal
 //[go.opentelemetry.io/collector] "internal/testutil": package is internal
-//[go.opentelemetry.io/collector] "reports": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/reports
-//[go.opentelemetry.io/collector] "reports/distributions": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/reports/distributions
 //[go.opentelemetry.io/collector] no importable packages found
 go.opentelemetry.io/contrib/instrumentation/net/http
 //go: go.opentelemetry.io/contrib/instrumentation/net/http imports
