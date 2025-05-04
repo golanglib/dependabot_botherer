@@ -996,12 +996,13 @@ require (
 	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250423042228-20af53d3de7e
+	github.com/metacubex/sing-quic v0.0.0-20250503063219-9663baa38af1
 	github.com/metacubex/sing-shadowsocks v0.2.8
 	github.com/metacubex/sing-shadowsocks2 v0.2.2
 	github.com/metacubex/sing-tun v0.4.5
-	github.com/metacubex/sing-wireguard v0.0.0-20241126021510-0827d417b589
-	github.com/metacubex/tfo-go v0.0.0-20241231083714-66613d49c422
+	github.com/metacubex/sing-vmess v0.2.1
+	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
+	github.com/metacubex/tfo-go v0.0.0-20250503140532-decbcfccbfdf
 	github.com/metacubex/utls v1.7.0-alpha.1
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
@@ -1772,6 +1773,7 @@ require (
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250408071642-761325becfd6 // indirect
 	github.com/metacubex/quic-go v0.51.1-0.20250421134811-7b4054ad1c06 // indirect
+	github.com/metacubex/sing v0.5.2 // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.2 // indirect

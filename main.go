@@ -997,6 +997,7 @@ import (
 	_ "github.com/metacubex/sing-shadowsocks"
 	_ "github.com/metacubex/sing-shadowsocks2"
 	_ "github.com/metacubex/sing-tun"
+	_ "github.com/metacubex/sing-vmess"
 	_ "github.com/metacubex/sing-wireguard"
 	_ "github.com/metacubex/tfo-go"
 	_ "github.com/metacubex/utls"
