@@ -219,7 +219,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
 	github.com/ashanbrown/makezero v1.2.0
-	github.com/atombender/go-jsonschema v0.18.0
+	github.com/atombender/go-jsonschema v0.19.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
@@ -302,7 +302,7 @@ require (
 	github.com/blevesearch/zapx/v11 v11.4.1
 	github.com/blevesearch/zapx/v12 v12.4.1
 	github.com/blevesearch/zapx/v13 v13.4.1
-	github.com/blevesearch/zapx/v14 v14.4.1
+	github.com/blevesearch/zapx/v14 v14.4.2
 	github.com/blevesearch/zapx/v15 v15.4.1
 	github.com/blevesearch/zapx/v16 v16.2.3
 	github.com/blizzy78/varnamelen v0.8.0
@@ -506,7 +506,7 @@ require (
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane v0.13.4
 	github.com/envoyproxy/protoc-gen-validate v1.2.1
-	github.com/ericlagergren/aegis v0.0.0-20230312195928-b4ce538b56f9
+	github.com/ericlagergren/aegis v0.0.0-20250325060835-cd0defd64358
 	github.com/ericlagergren/polyval v0.0.0-20220411101811-e25bc10ba391
 	github.com/ericlagergren/saferand v0.0.0-20220206064634-960a4dd2bc5c
 	github.com/ericlagergren/siv v0.0.0-20220507050439-0b757b3aa5f1
@@ -998,7 +998,7 @@ require (
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250504033022-12115d157edc
 	github.com/metacubex/sing-shadowsocks v0.2.8
-	github.com/metacubex/sing-shadowsocks2 v0.2.2
+	github.com/metacubex/sing-shadowsocks2 v0.2.3
 	github.com/metacubex/sing-tun v0.4.5
 	github.com/metacubex/sing-vmess v0.2.1
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
@@ -1535,7 +1535,7 @@ require (
 	golang.org/x/net v0.39.0
 	golang.org/x/oauth2 v0.29.0
 	golang.org/x/sync v0.13.0
-	golang.org/x/sys v0.32.0
+	golang.org/x/sys v0.33.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.46.0
 	golang.org/x/term v0.31.0
