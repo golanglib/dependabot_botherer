@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/monitoring v1.24.2
 	cloud.google.com/go/pubsub v1.49.0
-	cloud.google.com/go/storage v1.52.0
+	cloud.google.com/go/storage v1.53.0
 	cloud.google.com/go/trace v1.11.6
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.21.0
@@ -299,11 +299,11 @@ require (
 	github.com/blevesearch/zap/v13 v13.0.6
 	github.com/blevesearch/zap/v14 v14.0.5
 	github.com/blevesearch/zap/v15 v15.0.3
-	github.com/blevesearch/zapx/v11 v11.4.1
+	github.com/blevesearch/zapx/v11 v11.4.2
 	github.com/blevesearch/zapx/v12 v12.4.1
 	github.com/blevesearch/zapx/v13 v13.4.1
 	github.com/blevesearch/zapx/v14 v14.4.2
-	github.com/blevesearch/zapx/v15 v15.4.1
+	github.com/blevesearch/zapx/v15 v15.4.2
 	github.com/blevesearch/zapx/v16 v16.2.3
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
@@ -1003,7 +1003,7 @@ require (
 	github.com/metacubex/sing-vmess v0.2.1
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
 	github.com/metacubex/tfo-go v0.0.0-20250503140532-decbcfccbfdf
-	github.com/metacubex/utls v1.7.0-alpha.1
+	github.com/metacubex/utls v1.7.0-alpha.2
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
@@ -1237,7 +1237,7 @@ require (
 	github.com/sagernet/sing-mux v0.3.2
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.1
-	github.com/sagernet/smux v1.5.34-mod.1
+	github.com/sagernet/smux v1.5.34-mod.2
 	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.9.0
 	github.com/sagikazarmark/slog-shim v0.1.0
@@ -1249,7 +1249,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.39.0
+	github.com/sashabaranov/go-openai v1.39.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.28.0
 	github.com/sassoftware/go-rpmutils v0.4.0
