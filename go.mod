@@ -1237,7 +1237,7 @@ require (
 	github.com/sagernet/sing-mux v0.3.2
 	github.com/sagernet/sing-shadowtls v0.2.0
 	github.com/sagernet/sing-vmess v0.2.1
-	github.com/sagernet/smux v1.5.34-mod.1
+	github.com/sagernet/smux v1.5.34-mod.2
 	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.9.0
 	github.com/sagikazarmark/slog-shim v0.1.0
@@ -1534,7 +1534,7 @@ require (
 	golang.org/x/mod v0.24.0
 	golang.org/x/net v0.39.0
 	golang.org/x/oauth2 v0.30.0
-	golang.org/x/sync v0.13.0
+	golang.org/x/sync v0.14.0
 	golang.org/x/sys v0.33.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
 	golang.org/x/telemetry/config v0.46.0
