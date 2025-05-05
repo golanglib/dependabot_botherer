@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/monitoring v1.24.2
 	cloud.google.com/go/pubsub v1.49.0
-	cloud.google.com/go/storage v1.52.0
+	cloud.google.com/go/storage v1.53.0
 	cloud.google.com/go/trace v1.11.6
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.21.0
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.213.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.34.0
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
@@ -299,11 +299,11 @@ require (
 	github.com/blevesearch/zap/v13 v13.0.6
 	github.com/blevesearch/zap/v14 v14.0.5
 	github.com/blevesearch/zap/v15 v15.0.3
-	github.com/blevesearch/zapx/v11 v11.4.1
+	github.com/blevesearch/zapx/v11 v11.4.2
 	github.com/blevesearch/zapx/v12 v12.4.1
 	github.com/blevesearch/zapx/v13 v13.4.1
 	github.com/blevesearch/zapx/v14 v14.4.2
-	github.com/blevesearch/zapx/v15 v15.4.1
+	github.com/blevesearch/zapx/v15 v15.4.2
 	github.com/blevesearch/zapx/v16 v16.2.3
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
@@ -991,19 +991,19 @@ require (
 	github.com/mdlayher/netlink v1.7.2
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
-	github.com/meilisearch/meilisearch-go v0.31.0
+	github.com/meilisearch/meilisearch-go v0.32.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
 	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250504033022-12115d157edc
-	github.com/metacubex/sing-shadowsocks v0.2.8
+	github.com/metacubex/sing-shadowsocks v0.2.9
 	github.com/metacubex/sing-shadowsocks2 v0.2.3
 	github.com/metacubex/sing-tun v0.4.5
 	github.com/metacubex/sing-vmess v0.2.1
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
 	github.com/metacubex/tfo-go v0.0.0-20250503140532-decbcfccbfdf
-	github.com/metacubex/utls v1.7.0-alpha.1
+	github.com/metacubex/utls v1.7.0-alpha.2
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
@@ -1249,7 +1249,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.39.0
+	github.com/sashabaranov/go-openai v1.39.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.28.0
 	github.com/sassoftware/go-rpmutils v0.4.0
@@ -1533,7 +1533,7 @@ require (
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.24.0
 	golang.org/x/net v0.39.0
-	golang.org/x/oauth2 v0.29.0
+	golang.org/x/oauth2 v0.30.0
 	golang.org/x/sync v0.13.0
 	golang.org/x/sys v0.33.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
