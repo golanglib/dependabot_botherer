@@ -4714,7 +4714,6 @@ github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a h1:ObwtHN2VpqE0ZN
 github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a/go.mod h1:xLnfdiJbSp8rNqYEdIW/6eDO4mVoogml14Bh2hSiFpM=
 github.com/sagernet/nftables v0.3.0-beta.4 h1:kbULlAwAC3jvdGAC1P5Fa3GSxVwQJibNenDW2zaXr8I=
 github.com/sagernet/nftables v0.3.0-beta.4/go.mod h1:OQXAjvjNGGFxaTgVCSTRIhYB5/llyVDeapVoENYBDS8=
-github.com/sagernet/sing v0.6.7/go.mod h1:ARkL0gM13/Iv5VCZmci/NuoOlePoIsW0m7BWfln/Hak=
 github.com/sagernet/sing v0.6.9 h1:y/XJH17oyBd6hxgQtKnIdLXu7TsOHxO5i1JeVfVmjXw=
 github.com/sagernet/sing v0.6.9/go.mod h1:ARkL0gM13/Iv5VCZmci/NuoOlePoIsW0m7BWfln/Hak=
 github.com/sagernet/sing-mux v0.3.2 h1:meZVFiiStvHThb/trcpAkCrmtJOuItG5Dzl1RRP5/NE=
@@ -4723,8 +4722,8 @@ github.com/sagernet/sing-shadowtls v0.2.0 h1:cLKe4OAOFwuhmAIuPLj//CIL7Q9js+pIDar
 github.com/sagernet/sing-shadowtls v0.2.0/go.mod h1:agU+Fw5X+xnWVyRHyFthoZCX3MfWKCFPm4JUf+1oaxo=
 github.com/sagernet/sing-vmess v0.2.1 h1:6izHC2+B68aQCxTagki6eZZc+g5eh4dYwxOV5a2Lhug=
 github.com/sagernet/sing-vmess v0.2.1/go.mod h1:jDAZ0A0St1zVRkyvhAPRySOFfhC+4SQtO5VYyeFotgA=
-github.com/sagernet/smux v1.5.34-mod.1 h1:xZljMK3fVOX4HC+ND1N7eOiweqEa9bxRTKlliqe9DJE=
-github.com/sagernet/smux v1.5.34-mod.1/go.mod h1:qI3fpNiLZmwrh83DmbJHX7sAsc2R/gbqdWw0/WzciU0=
+github.com/sagernet/smux v1.5.34-mod.2 h1:gkmBjIjlJ2zQKpLigOkFur5kBKdV6bNRoFu2WkltRQ4=
+github.com/sagernet/smux v1.5.34-mod.2/go.mod h1:0KW0+R+ycvA2INW4gbsd7BNyg+HEfLIAxa5N02/28Zc=
 github.com/sagernet/wireguard-go v0.0.1-beta.7 h1:ltgBwYHfr+9Wz1eG59NiWnHrYEkDKHG7otNZvu85DXI=
 github.com/sagernet/wireguard-go v0.0.1-beta.7/go.mod h1:jGXij2Gn2wbrWuYNUmmNhf1dwcZtvyAvQoe8Xd8MbUo=
 github.com/sagikazarmark/crypt v0.3.0/go.mod h1:uD/D+6UF4SrIR1uGEv7bBNkNqLGqUr43MRiaGWX1Nig=
