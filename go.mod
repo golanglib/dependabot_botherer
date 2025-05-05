@@ -219,7 +219,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
 	github.com/ashanbrown/makezero v1.2.0
-	github.com/atombender/go-jsonschema v0.18.0
+	github.com/atombender/go-jsonschema v0.19.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
@@ -506,7 +506,7 @@ require (
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane v0.13.4
 	github.com/envoyproxy/protoc-gen-validate v1.2.1
-	github.com/ericlagergren/aegis v0.0.0-20230312195928-b4ce538b56f9
+	github.com/ericlagergren/aegis v0.0.0-20250325060835-cd0defd64358
 	github.com/ericlagergren/polyval v0.0.0-20220411101811-e25bc10ba391
 	github.com/ericlagergren/saferand v0.0.0-20220206064634-960a4dd2bc5c
 	github.com/ericlagergren/siv v0.0.0-20220507050439-0b757b3aa5f1
@@ -998,7 +998,7 @@ require (
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250504033022-12115d157edc
 	github.com/metacubex/sing-shadowsocks v0.2.8
-	github.com/metacubex/sing-shadowsocks2 v0.2.2
+	github.com/metacubex/sing-shadowsocks2 v0.2.3
 	github.com/metacubex/sing-tun v0.4.5
 	github.com/metacubex/sing-vmess v0.2.1
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f

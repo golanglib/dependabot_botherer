@@ -1309,8 +1309,8 @@ github.com/ashanbrown/forbidigo v1.6.0 h1:D3aewfM37Yb3pxHujIPSpTf6oQk9sc9WZi8ger
 github.com/ashanbrown/forbidigo v1.6.0/go.mod h1:Y8j9jy9ZYAEHXdu723cUlraTqbzjKF1MUyfOKL+AjcU=
 github.com/ashanbrown/makezero v1.2.0 h1:/2Lp1bypdmK9wDIq7uWBlDF1iMUpIIS4A+pF6C9IEUU=
 github.com/ashanbrown/makezero v1.2.0/go.mod h1:dxlPhHbDMC6N6xICzFBSK+4njQDdK8euNO0qjQMtGY4=
-github.com/atombender/go-jsonschema v0.18.0 h1:bhjEuAhSeTqvB+qmeDSH0IoaNhoXRf9CipwvheYXhKY=
-github.com/atombender/go-jsonschema v0.18.0/go.mod h1:vRU51z8g59v55qvZwF4T6ZEiLgrJUa/LT7WIKuxJfOM=
+github.com/atombender/go-jsonschema v0.19.0 h1:G2bfQ3J0dfkT2fqlBDE4KrXbRy8P7NGGXj3K8fwXoFk=
+github.com/atombender/go-jsonschema v0.19.0/go.mod h1:iyzfj/FBSPRfwDA3tcz0zAhVGje2NlBAcpBnPQqbqY0=
 github.com/atotto/clipboard v0.1.4 h1:EH0zSVneZPSuFR11BlR9YppQTVDbh5+16AmcJi4g1z4=
 github.com/atotto/clipboard v0.1.4/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
 github.com/avast/retry-go v3.0.0+incompatible h1:4SOWQ7Qs+oroOTQOYnAHqelpCO0biHSxpiH9JdtuBj0=
@@ -2224,8 +2224,8 @@ github.com/envoyproxy/protoc-gen-validate v0.9.1/go.mod h1:OKNgG7TCp5pF4d6XftA0+
 github.com/envoyproxy/protoc-gen-validate v0.10.1/go.mod h1:DRjgyB0I43LtJapqN6NiRwroiAU2PaFuvk/vjgh61ss=
 github.com/envoyproxy/protoc-gen-validate v1.2.1 h1:DEo3O99U8j4hBFwbJfrz9VtgcDfUKS7KJ7spH3d86P8=
 github.com/envoyproxy/protoc-gen-validate v1.2.1/go.mod h1:d/C80l/jxXLdfEIhX1W2TmLfsJ31lvEjwamM4DxlWXU=
-github.com/ericlagergren/aegis v0.0.0-20230312195928-b4ce538b56f9 h1:/5RkVc9Rc81XmMyVqawCiDyrBHZbLAZgTTCqou4mwj8=
-github.com/ericlagergren/aegis v0.0.0-20230312195928-b4ce538b56f9/go.mod h1:hkIFzoiIPZYxdFOOLyDho59b7SrDfo+w3h+yWdlg45I=
+github.com/ericlagergren/aegis v0.0.0-20250325060835-cd0defd64358 h1:kXYqH/sL8dS/FdoFjr12ePjnLPorPo2FsnrHNuXSDyo=
+github.com/ericlagergren/aegis v0.0.0-20250325060835-cd0defd64358/go.mod h1:hkIFzoiIPZYxdFOOLyDho59b7SrDfo+w3h+yWdlg45I=
 github.com/ericlagergren/polyval v0.0.0-20220411101811-e25bc10ba391 h1:8j2RH289RJplhA6WfdaPqzg1MjH2K8wX5e0uhAxrw2g=
 github.com/ericlagergren/polyval v0.0.0-20220411101811-e25bc10ba391/go.mod h1:K2R7GhgxrlJzHw2qiPWsCZXf/kXEJN9PLnQK73Ll0po=
 github.com/ericlagergren/saferand v0.0.0-20220206064634-960a4dd2bc5c h1:RUzBDdZ+e/HEe2Nh8lYsduiPAZygUfVXJn0Ncj5sHMg=
@@ -3865,8 +3865,8 @@ github.com/metacubex/sing-quic v0.0.0-20250504033022-12115d157edc h1:u+xkIOWPaPH
 github.com/metacubex/sing-quic v0.0.0-20250504033022-12115d157edc/go.mod h1:mqtr9bgM9eLvLKQqiLOi5I6AJHkvqAw2a61ABZcLuoE=
 github.com/metacubex/sing-shadowsocks v0.2.8 h1:wIhlaigswzjPw4hej75sEvWte3QR0+AJRafgwBHO5B4=
 github.com/metacubex/sing-shadowsocks v0.2.8/go.mod h1:X3x88XtJpBxG0W0/ECOJL6Ib0SJ3xdniAkU/6/RMWU0=
-github.com/metacubex/sing-shadowsocks2 v0.2.2 h1:eaf42uVx4Lr21S6MDYs0ZdTvGA0GEhDpb9no4+gdXPo=
-github.com/metacubex/sing-shadowsocks2 v0.2.2/go.mod h1:BhOug03a/RbI7y6hp6q+6ITM1dXjnLTmeWBHSTwvv2Q=
+github.com/metacubex/sing-shadowsocks2 v0.2.3 h1:v3rNS/5Ywh0NIZ6VU/NmdERQIN5RePzyxCFeQsU4Cx0=
+github.com/metacubex/sing-shadowsocks2 v0.2.3/go.mod h1:/WNy/Q8ahLCoPRriWuFZFD0Jy+JNp1MEQl28Zw6SaF8=
 github.com/metacubex/sing-tun v0.4.5 h1:kWSyQzuzHI40r50OFBczfWIDvMBMy1RIk+JsXeBPRB0=
 github.com/metacubex/sing-tun v0.4.5/go.mod h1:V0N4rr0dWPBEE20ESkTXdbtx2riQYcb6YtwC5w/9wl0=
 github.com/metacubex/sing-vmess v0.2.1 h1:I6gM3VUjtvJ15D805EUbNH+SRBuqzJeFnuIbKYUsWZ0=
