@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.213.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.214.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
@@ -518,7 +518,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.3
+	github.com/evanw/esbuild v0.25.4
 	github.com/facebook/time v0.0.0-20250502163358-2079056834d4
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -1113,7 +1113,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.89.3
+	github.com/oracle/oci-go-sdk/v65 v65.90.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
@@ -1532,7 +1532,7 @@ require (
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20240716161057-1ad2df20a8b6
 	golang.org/x/mod v0.24.0
-	golang.org/x/net v0.39.0
+	golang.org/x/net v0.40.0
 	golang.org/x/oauth2 v0.30.0
 	golang.org/x/sync v0.14.0
 	golang.org/x/sys v0.33.0
