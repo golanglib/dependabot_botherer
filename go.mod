@@ -389,7 +389,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.27
+	github.com/cloudwego/eino v0.3.28
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250429121045-a2545a66f5cf
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250429121045-a2545a66f5cf
@@ -416,7 +416,7 @@ require (
 	github.com/containerd/cgroups/v3 v3.0.5
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.27
-	github.com/containerd/containerd/api v1.8.0
+	github.com/containerd/containerd/api v1.9.0
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
 	github.com/containerd/fifo v1.1.0
@@ -1341,7 +1341,7 @@ require (
 	github.com/stripe/stripe-go/v78 v78.12.0
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggest/assertjson v1.9.0
-	github.com/swaggest/jsonschema-go v0.3.73
+	github.com/swaggest/jsonschema-go v0.3.74
 	github.com/swaggest/openapi-go v0.2.57
 	github.com/swaggest/refl v1.3.1
 	github.com/swaggo/files v1.0.1
