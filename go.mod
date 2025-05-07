@@ -140,7 +140,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.5
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.13.5
+	github.com/SAP/go-hdb v1.13.6
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.214.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.215.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
@@ -389,21 +389,21 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.27
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250429121045-a2545a66f5cf
+	github.com/cloudwego/eino v0.3.28
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250507115047-b20720df8528
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250429121045-a2545a66f5cf
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250429121045-a2545a66f5cf
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250507115047-b20720df8528
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250507115047-b20720df8528
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250429121045-a2545a66f5cf
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250429121045-a2545a66f5cf
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250507115047-b20720df8528
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250507115047-b20720df8528
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.7
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250506083645-9f10edddd2e9
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250507072407-18b685d23f94
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -416,7 +416,7 @@ require (
 	github.com/containerd/cgroups/v3 v3.0.5
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.27
-	github.com/containerd/containerd/api v1.8.0
+	github.com/containerd/containerd/api v1.9.0
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
 	github.com/containerd/fifo v1.1.0
@@ -881,7 +881,7 @@ require (
 	github.com/jinzhu/copier v0.4.0
 	github.com/jinzhu/inflection v1.0.0
 	github.com/jinzhu/now v1.1.5
-	github.com/jjti/go-spancheck v0.6.4
+	github.com/jjti/go-spancheck v0.6.5
 	github.com/jlaffaye/ftp v0.2.1-0.20240918233326-1b970516f5d3
 	github.com/jmespath/go-jmespath v0.4.1-0.20220621161143-b0104c826a24
 	github.com/jmhodges/clock v1.2.0
@@ -943,7 +943,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v1.0.0
 	github.com/linkedin/goavro/v2 v2.13.1
-	github.com/linode/linodego v1.49.0
+	github.com/linode/linodego v1.50.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
@@ -1174,7 +1174,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
-	github.com/pressly/goose/v3 v3.24.2
+	github.com/pressly/goose/v3 v3.24.3
 	github.com/prometheus-community/pro-bing v0.7.0
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/client_model v0.6.2
@@ -1341,7 +1341,7 @@ require (
 	github.com/stripe/stripe-go/v78 v78.12.0
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggest/assertjson v1.9.0
-	github.com/swaggest/jsonschema-go v0.3.73
+	github.com/swaggest/jsonschema-go v0.3.74
 	github.com/swaggest/openapi-go v0.2.57
 	github.com/swaggest/refl v1.3.1
 	github.com/swaggo/files v1.0.1
@@ -1404,7 +1404,7 @@ require (
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/v2fly/v2ray-core/v5 v5.31.0
-	github.com/valyala/fasthttp v1.61.0
+	github.com/valyala/fasthttp v1.62.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
@@ -1526,7 +1526,7 @@ require (
 	golang.org/x/arch v0.17.0
 	golang.org/x/crypto v0.38.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
-	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
+	golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.27.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
@@ -1541,14 +1541,14 @@ require (
 	golang.org/x/term v0.32.0
 	golang.org/x/text v0.25.0
 	golang.org/x/time v0.11.0
-	golang.org/x/tools v0.32.0
+	golang.org/x/tools v0.33.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.231.0
+	google.golang.org/api v0.232.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/api v0.0.0-20250428153025-10db94c68c34
@@ -1599,7 +1599,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.26.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.27.0
+	modernc.org/ccgo/v4 v4.27.1
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.1
@@ -1608,7 +1608,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.65.0
+	modernc.org/libc v1.65.1
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.10.0
 	modernc.org/opt v0.1.4
