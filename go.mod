@@ -191,7 +191,7 @@ require (
 	github.com/anacrolix/possum/go v0.3.2
 	github.com/anacrolix/squirrel v0.6.4
 	github.com/anacrolix/stm v0.5.0
-	github.com/anacrolix/sync v0.5.3
+	github.com/anacrolix/sync v0.5.4
 	github.com/anacrolix/tagflag v1.4.0
 	github.com/anacrolix/torrent v1.58.1
 	github.com/anacrolix/upnp v0.1.4
