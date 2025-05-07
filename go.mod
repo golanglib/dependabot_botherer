@@ -140,7 +140,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.5
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.13.5
+	github.com/SAP/go-hdb v1.13.6
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -238,14 +238,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.214.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.215.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.19
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.30.2
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.31.0
 	github.com/aws/smithy-go v1.22.3
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20210630091500-54e17340d32f
@@ -390,20 +390,20 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.28
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250429121045-a2545a66f5cf
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250507115047-b20720df8528
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250429121045-a2545a66f5cf
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250429121045-a2545a66f5cf
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250507115047-b20720df8528
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250507115047-b20720df8528
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250429121045-a2545a66f5cf
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250429121045-a2545a66f5cf
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250507115047-b20720df8528
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250507115047-b20720df8528
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.9.7
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250506083645-9f10edddd2e9
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250507072407-18b685d23f94
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -881,7 +881,7 @@ require (
 	github.com/jinzhu/copier v0.4.0
 	github.com/jinzhu/inflection v1.0.0
 	github.com/jinzhu/now v1.1.5
-	github.com/jjti/go-spancheck v0.6.4
+	github.com/jjti/go-spancheck v0.6.5
 	github.com/jlaffaye/ftp v0.2.1-0.20240918233326-1b970516f5d3
 	github.com/jmespath/go-jmespath v0.4.1-0.20220621161143-b0104c826a24
 	github.com/jmhodges/clock v1.2.0
@@ -943,7 +943,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v1.0.0
 	github.com/linkedin/goavro/v2 v2.13.1
-	github.com/linode/linodego v1.49.0
+	github.com/linode/linodego v1.50.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
@@ -1404,7 +1404,7 @@ require (
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/v2fly/v2ray-core/v5 v5.31.0
-	github.com/valyala/fasthttp v1.61.0
+	github.com/valyala/fasthttp v1.62.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
@@ -1537,7 +1537,7 @@ require (
 	golang.org/x/sync v0.14.0
 	golang.org/x/sys v0.33.0
 	golang.org/x/telemetry v0.0.0-20241004145657-5eebfecbdf1f
-	golang.org/x/telemetry/config v0.46.0
+	golang.org/x/telemetry/config v0.47.0
 	golang.org/x/term v0.32.0
 	golang.org/x/text v0.25.0
 	golang.org/x/time v0.11.0
@@ -1599,7 +1599,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.26.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.27.0
+	modernc.org/ccgo/v4 v4.27.1
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.1
