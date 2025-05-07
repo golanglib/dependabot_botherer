@@ -389,7 +389,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.27
+	github.com/cloudwego/eino v0.3.28
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250429121045-a2545a66f5cf
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.7
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250429121045-a2545a66f5cf
@@ -416,7 +416,7 @@ require (
 	github.com/containerd/cgroups/v3 v3.0.5
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.27
-	github.com/containerd/containerd/api v1.8.0
+	github.com/containerd/containerd/api v1.9.0
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
 	github.com/containerd/fifo v1.1.0
@@ -1174,7 +1174,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.4.0
 	github.com/prashantv/gostub v1.1.0
-	github.com/pressly/goose/v3 v3.24.2
+	github.com/pressly/goose/v3 v3.24.3
 	github.com/prometheus-community/pro-bing v0.7.0
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/client_model v0.6.2
@@ -1341,7 +1341,7 @@ require (
 	github.com/stripe/stripe-go/v78 v78.12.0
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggest/assertjson v1.9.0
-	github.com/swaggest/jsonschema-go v0.3.73
+	github.com/swaggest/jsonschema-go v0.3.74
 	github.com/swaggest/openapi-go v0.2.57
 	github.com/swaggest/refl v1.3.1
 	github.com/swaggo/files v1.0.1
@@ -1526,7 +1526,7 @@ require (
 	golang.org/x/arch v0.17.0
 	golang.org/x/crypto v0.38.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
-	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
+	golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.27.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
@@ -1541,14 +1541,14 @@ require (
 	golang.org/x/term v0.32.0
 	golang.org/x/text v0.25.0
 	golang.org/x/time v0.11.0
-	golang.org/x/tools v0.32.0
+	golang.org/x/tools v0.33.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.231.0
+	google.golang.org/api v0.232.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/genproto/googleapis/api v0.0.0-20250428153025-10db94c68c34
