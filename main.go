@@ -1625,7 +1625,7 @@ import (
 	_ "rsc.io/sampler"
 	_ "sigs.k8s.io/apiserver-network-proxy/konnectivity-client/pkg/client"
 	_ "sigs.k8s.io/controller-runtime"
-	_ "sigs.k8s.io/controller-tools/pkg/crd"
+	_ "sigs.k8s.io/controller-tools/pkg/applyconfiguration"
 	_ "sigs.k8s.io/json"
 	_ "sigs.k8s.io/kustomize/api/builtins"
 	_ "sigs.k8s.io/kustomize/cmd/config"
