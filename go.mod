@@ -31,7 +31,7 @@ require (
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.18.1
-	dario.cat/mergo v1.0.1
+	dario.cat/mergo v1.0.2
 	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
 	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
 	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
@@ -708,7 +708,7 @@ require (
 	github.com/google/go-replayers/httpreplay v1.2.0
 	github.com/google/go-sev-guest v0.13.0
 	github.com/google/go-tdx-guest v0.3.2-0.20241009005452-097ee70d0843
-	github.com/google/go-tpm v0.9.4
+	github.com/google/go-tpm v0.9.5
 	github.com/google/go-tpm-tools v0.4.5
 	github.com/google/go-tspi v0.3.0
 	github.com/google/gofuzz v1.2.0
@@ -1205,7 +1205,7 @@ require (
 	github.com/rclone/rclone v1.69.2
 	github.com/redis/go-redis/v9 v9.8.0
 	github.com/redis/rueidis v1.0.59
-	github.com/refraction-networking/utls v1.7.1
+	github.com/refraction-networking/utls v1.7.2
 	github.com/relvacode/iso8601 v1.6.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
@@ -1351,7 +1351,7 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.23.3
+	github.com/tdewolff/minify/v2 v2.23.4
 	github.com/tdewolff/parse/v2 v2.8.0
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
@@ -1423,7 +1423,7 @@ require (
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
 	github.com/volcengine/volc-sdk-golang v1.0.207
-	github.com/volcengine/volcengine-go-sdk v1.1.6
+	github.com/volcengine/volcengine-go-sdk v1.1.7
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1608,7 +1608,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.65.1
+	modernc.org/libc v1.65.2
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.10.0
 	modernc.org/opt v0.1.4
