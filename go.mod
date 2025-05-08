@@ -31,7 +31,7 @@ require (
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.18.1
-	dario.cat/mergo v1.0.1
+	dario.cat/mergo v1.0.2
 	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
 	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
 	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
