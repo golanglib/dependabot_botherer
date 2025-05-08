@@ -635,7 +635,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.2.1
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.12.3
-	github.com/go-webauthn/x v0.1.20
+	github.com/go-webauthn/x v0.1.21
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
@@ -1342,7 +1342,7 @@ require (
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggest/assertjson v1.9.0
 	github.com/swaggest/jsonschema-go v0.3.74
-	github.com/swaggest/openapi-go v0.2.57
+	github.com/swaggest/openapi-go v0.2.58
 	github.com/swaggest/refl v1.3.1
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
@@ -1477,7 +1477,7 @@ require (
 	go-simpler.org/sloglint v0.11.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.69.1
+	go.einride.tech/aip v0.70.1
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
