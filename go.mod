@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.216.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.217.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
@@ -465,7 +465,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20250417173424-a6a66ef779d6
-	github.com/digitalocean/godo v1.145.0
+	github.com/digitalocean/godo v1.146.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -1351,7 +1351,7 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.23.4
+	github.com/tdewolff/minify/v2 v2.23.5
 	github.com/tdewolff/parse/v2 v2.8.0
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
@@ -1513,7 +1513,7 @@ require (
 	go.step.sm/crypto v0.62.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
-	go.uber.org/dig v1.18.1
+	go.uber.org/dig v1.18.2
 	go.uber.org/fx v1.23.0
 	go.uber.org/goleak v1.3.0
 	go.uber.org/mock v0.5.1
@@ -1599,7 +1599,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.26.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.27.1
+	modernc.org/ccgo/v4 v4.28.0
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
 	modernc.org/fileutil v1.3.1
@@ -1608,7 +1608,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.65.2
+	modernc.org/libc v1.65.3
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.10.0
 	modernc.org/opt v0.1.4
