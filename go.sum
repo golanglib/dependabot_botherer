@@ -4778,8 +4778,8 @@ github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4 h1:zOjq+1/uLzn/Xo
 github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4/go.mod h1:aI+8yClBW+1uovkHw6HM01YXnYB8vohtB9C83wzx34E=
 github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989 h1:rq2/kILQnPtq5oL4+IAjgVOjh5e2yj2aaCYi7squEvI=
 github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989/go.mod h1:i9l/TNj+yDFh9SZXUTvspXTjbFXgZGP/UvhU1S65A4A=
-github.com/securego/gosec/v2 v2.22.3 h1:mRrCNmRF2NgZp4RJ8oJ6yPJ7G4x6OCiAXHd8x4trLRc=
-github.com/securego/gosec/v2 v2.22.3/go.mod h1:42M9Xs0v1WseinaB/BmNGO8AVqG8vRfhC2686ACY48k=
+github.com/securego/gosec/v2 v2.22.4 h1:21VdNGcKicFSv6rUDBc0cEtEl7lWyCKZxKIm0iwvrIM=
+github.com/securego/gosec/v2 v2.22.4/go.mod h1:ww5Yie7KJ3AH8XZQTletkW5zOmIse6FACs/Ys8VR3qE=
 github.com/segmentio/asm v1.2.0 h1:9BQrFxC+YOHJlTlHGkTrFWf59nbL3XnCoFLTwDCI7ys=
 github.com/segmentio/asm v1.2.0/go.mod h1:BqMnlJP91P8d+4ibuonYZw9mfnzI9HfxselHZr5aAcs=
 github.com/segmentio/fasthash v1.0.3 h1:EI9+KE1EwvMLBWwjpRDc+fEM+prwxDYbslddQGtrmhM=
