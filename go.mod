@@ -996,7 +996,7 @@ require (
 	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250504033022-12115d157edc
+	github.com/metacubex/sing-quic v0.0.0-20250511034158-b46e0e3e81b2
 	github.com/metacubex/sing-shadowsocks v0.2.9
 	github.com/metacubex/sing-shadowsocks2 v0.2.3
 	github.com/metacubex/sing-tun v0.4.5
@@ -1772,7 +1772,7 @@ require (
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250408071642-761325becfd6 // indirect
-	github.com/metacubex/quic-go v0.51.1-0.20250421134811-7b4054ad1c06 // indirect
+	github.com/metacubex/quic-go v0.51.1-0.20250511032541-4e34341cf18b // indirect
 	github.com/metacubex/sing v0.5.2 // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
