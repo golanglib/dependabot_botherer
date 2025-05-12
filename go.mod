@@ -388,13 +388,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.31
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250507115047-b20720df8528
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250512035704-1e06fdfda207
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.8
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250507115047-b20720df8528
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250507115047-b20720df8528
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250512035704-1e06fdfda207
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250512035704-1e06fdfda207
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250507115047-b20720df8528
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250507115047-b20720df8528
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250512035704-1e06fdfda207
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250512035704-1e06fdfda207
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -436,7 +436,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250509093721-818b166b9a22
+	github.com/coze-dev/coze-go v0.0.0-20250512100353-87795f0b3b1e
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
@@ -517,7 +517,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.4
-	github.com/facebook/time v0.0.0-20250509031008-bbe395f40931
+	github.com/facebook/time v0.0.0-20250512161701-25784023c31c
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -755,7 +755,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.1
-	github.com/grid-x/modbus v0.0.0-20250403195434-0b5f88db24d0
+	github.com/grid-x/modbus v0.0.0-20250512111309-e109e09180f5
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
