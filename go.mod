@@ -51,7 +51,7 @@ require (
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.73
 	github.com/99designs/keyring v1.2.2
-	github.com/Abirdcfly/dupword v0.1.3
+	github.com/Abirdcfly/dupword v0.1.4
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2
 	github.com/AlecAivazis/survey/v2 v2.3.7
