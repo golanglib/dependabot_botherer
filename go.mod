@@ -1407,7 +1407,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11
 	github.com/vbatts/tar-split v0.12.1
-	github.com/vektah/gqlparser/v2 v2.5.26
+	github.com/vektah/gqlparser/v2 v2.5.27
 	github.com/vektra/mockery/v2 v2.53.3
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
