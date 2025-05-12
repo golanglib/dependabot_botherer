@@ -1,15 +1,13 @@
 module dependabot_botherer
 
-go 1.24.0
-
-toolchain go1.24.2
+go 1.24.2
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
-	cel.dev/expr v0.23.1
+	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.0
 	cloud.google.com/go/auth v0.16.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
@@ -234,7 +232,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.75
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.48.0
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.49.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
@@ -409,7 +407,7 @@ require (
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thriftgo v0.4.1
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
-	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42
+	github.com/cncf/xds/go v0.0.0-20250326154945-ae57f3c0d45f
 	github.com/cockroachdb/datadriven v1.0.2
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
@@ -623,7 +621,7 @@ require (
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-test/deep v1.1.1
-	github.com/go-testfixtures/testfixtures/v3 v3.14.0
+	github.com/go-testfixtures/testfixtures/v3 v3.15.0
 	github.com/go-toolsmith/astcast v1.1.0
 	github.com/go-toolsmith/astcopy v1.1.0
 	github.com/go-toolsmith/astequal v1.2.0
@@ -634,7 +632,7 @@ require (
 	github.com/go-toolsmith/typep v1.1.0
 	github.com/go-viper/mapstructure/v2 v2.2.1
 	github.com/go-webauthn/revoke v0.1.10
-	github.com/go-webauthn/webauthn v0.12.3
+	github.com/go-webauthn/webauthn v0.13.0
 	github.com/go-webauthn/x v0.1.21
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
@@ -1128,7 +1126,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.21.10
+	github.com/pb33f/libopenapi v0.21.11
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pdfcpu/pdfcpu v0.10.2
@@ -1229,7 +1227,7 @@ require (
 	github.com/ryanrolds/sqlclosecheck v0.5.1
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
-	github.com/safchain/ethtool v0.5.10
+	github.com/safchain/ethtool v0.6.0
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-beta.4
@@ -1411,7 +1409,7 @@ require (
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.26
 	github.com/vektra/mockery/v2 v2.53.3
-	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
+	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v4 v4.3.13
@@ -1550,7 +1548,7 @@ require (
 	gonum.org/v1/gonum v0.16.0
 	google.golang.org/api v0.232.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb
+	google.golang.org/genproto v0.0.0-20250414145226-207652e42e2e
 	google.golang.org/genproto/googleapis/api v0.0.0-20250428153025-10db94c68c34
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250428153025-10db94c68c34
 	google.golang.org/grpc v1.72.0
@@ -1608,7 +1606,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.65.3
+	modernc.org/libc v1.65.6
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.10.0
 	modernc.org/opt v0.1.4
@@ -1650,7 +1648,6 @@ require (
 )
 
 require (
-	cloud.google.com/go/spanner v1.76.1 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
@@ -1662,7 +1659,6 @@ require (
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
 	github.com/Crocmagnon/fatcontext v0.7.2 // indirect
-	github.com/GoogleCloudPlatform/grpc-gcp-go/grpcgcp v1.5.2 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.51.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
 	github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c // indirect
@@ -1738,7 +1734,6 @@ require (
 	github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32 // indirect
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
-	github.com/googleapis/go-sql-spanner v1.7.4 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
 	github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976 // indirect
 	github.com/graphql-go/graphql v0.8.1 // indirect
