@@ -1411,7 +1411,7 @@ require (
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.26
 	github.com/vektra/mockery/v2 v2.53.3
-	github.com/vishvananda/netlink v1.3.1-0.20240922070040-084abd93d350
+	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmihailenco/msgpack/v4 v4.3.13
