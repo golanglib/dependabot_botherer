@@ -1078,7 +1078,7 @@ require (
 	github.com/netsampler/goflow2/v2 v2.2.2
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
-	github.com/niklasfasching/go-org v1.7.0
+	github.com/niklasfasching/go-org v1.8.0
 	github.com/nikolalohinski/gonja v1.5.3
 	github.com/nikolalohinski/gonja/v2 v2.3.3
 	github.com/nishanths/exhaustive v0.12.0
