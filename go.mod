@@ -217,7 +217,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
 	github.com/ashanbrown/makezero v1.2.0
-	github.com/atombender/go-jsonschema v0.19.0
+	github.com/atombender/go-jsonschema v0.20.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
@@ -726,7 +726,7 @@ require (
 	github.com/google/wire v0.6.0
 	github.com/googleapis/enterprise-certificate-proxy v0.3.6
 	github.com/googleapis/gax-go v2.0.2+incompatible
-	github.com/googleapis/gax-go/v2 v2.14.1
+	github.com/googleapis/gax-go/v2 v2.14.2
 	github.com/gopacket/gopacket v1.3.1
 	github.com/gopcua/opcua v0.8.0
 	github.com/goph/emperror v0.17.2
@@ -1370,7 +1370,7 @@ require (
 	github.com/timakin/bodyclose v0.0.0-20241017074812-ed6a65f985e3
 	github.com/timonwong/loggercheck v0.11.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
-	github.com/tinylib/msgp v1.2.5
+	github.com/tinylib/msgp v1.3.0
 	github.com/tj/assert v0.0.3
 	github.com/tklauser/go-sysconf v0.3.15
 	github.com/tklauser/numcpus v0.10.0
@@ -1475,7 +1475,7 @@ require (
 	go-simpler.org/sloglint v0.11.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.70.1
+	go.einride.tech/aip v0.70.2
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
@@ -1548,9 +1548,9 @@ require (
 	gonum.org/v1/gonum v0.16.0
 	google.golang.org/api v0.232.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20250414145226-207652e42e2e
-	google.golang.org/genproto/googleapis/api v0.0.0-20250428153025-10db94c68c34
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250428153025-10db94c68c34
+	google.golang.org/genproto v0.0.0-20250505200425-f936aa4a68b2
+	google.golang.org/genproto/googleapis/api v0.0.0-20250505200425-f936aa4a68b2
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250505200425-f936aa4a68b2
 	google.golang.org/grpc v1.72.0
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
