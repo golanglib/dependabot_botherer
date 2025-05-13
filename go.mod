@@ -217,7 +217,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
 	github.com/ashanbrown/makezero v1.2.0
-	github.com/atombender/go-jsonschema v0.19.0
+	github.com/atombender/go-jsonschema v0.20.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.4.0
@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.217.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.218.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
@@ -1078,7 +1078,7 @@ require (
 	github.com/netsampler/goflow2/v2 v2.2.2
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
-	github.com/niklasfasching/go-org v1.7.0
+	github.com/niklasfasching/go-org v1.8.0
 	github.com/nikolalohinski/gonja v1.5.3
 	github.com/nikolalohinski/gonja/v2 v2.3.3
 	github.com/nishanths/exhaustive v0.12.0
@@ -1475,7 +1475,7 @@ require (
 	go-simpler.org/sloglint v0.11.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.70.1
+	go.einride.tech/aip v0.70.2
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
