@@ -5,7 +5,7 @@ github.com/antlr/antlr4/runtime/Go/antlr/v4
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antonmedv/expr
-//go: github.com/antonmedv/expr@latest (v1.17.2) requires github.com/antonmedv/expr@v1.17.2: parsing go.mod:
+//go: github.com/antonmedv/expr@latest (v1.17.3) requires github.com/antonmedv/expr@v1.17.3: parsing go.mod:
 //	module declares its path as: github.com/expr-lang/expr
 //	        but was required as: github.com/antonmedv/expr
 github.com/armon/go-metrics
