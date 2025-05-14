@@ -1511,7 +1511,7 @@ require (
 	go.step.sm/crypto v0.63.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
-	go.uber.org/dig v1.18.2
+	go.uber.org/dig v1.19.0
 	go.uber.org/fx v1.23.0
 	go.uber.org/goleak v1.3.0
 	go.uber.org/mock v0.5.2
