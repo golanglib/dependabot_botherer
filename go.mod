@@ -13,7 +13,7 @@ require (
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.67.0
 	cloud.google.com/go/compute v1.37.0
-	cloud.google.com/go/compute/metadata v0.6.0
+	cloud.google.com/go/compute/metadata v0.7.0
 	cloud.google.com/go/datacatalog v1.26.0
 	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.5.2
@@ -463,7 +463,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20250417173424-a6a66ef779d6
-	github.com/digitalocean/godo v1.146.1
+	github.com/digitalocean/godo v1.147.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -799,7 +799,7 @@ require (
 	github.com/hashicorp/packer-plugin-sdk v0.6.1
 	github.com/hashicorp/serf v0.10.2
 	github.com/hashicorp/terraform-exec v0.23.0
-	github.com/hashicorp/terraform-json v0.24.0
+	github.com/hashicorp/terraform-json v0.25.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
 	github.com/hedhyw/rex v1.0.0
