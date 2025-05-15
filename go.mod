@@ -232,7 +232,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.75
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.49.0
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.50.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
@@ -398,7 +398,7 @@ require (
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
-	github.com/cloudwego/hertz v0.9.7
+	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250507072407-18b685d23f94

@@ -1372,8 +1372,8 @@ github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.34/go.mod h1:zf7Vcd1ViW7cPqYWEHLH
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.8.1/go.mod h1:CM+19rL1+4dFWnOQKwDc7H1KwXTz+h61oUSHyhV0b3o=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3 h1:sTFYiNh6kB1m+HODmfCAXgx7A54tsZVK5xbUlE7V6as=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.44.3/go.mod h1:HJlcOk+S/wjJuR/8jPa8GhnEKdKqqiQ5wjsE1PjuO1o=
-github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.49.0 h1:9ZzkbHkNpjBKx6r9GlskIXTB8Nfvp0PSlKyIuWjY7Cg=
-github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.49.0/go.mod h1:uo14VBn5cNk/BPGTPz3kyLBxgpgOObgO8lmz+H7Z4Ck=
+github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.50.0 h1:t/xT0VNZUj9oQmzQjq7qoQYlX9Mz6a37O3PG0STymFM=
+github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.50.0/go.mod h1:uo14VBn5cNk/BPGTPz3kyLBxgpgOObgO8lmz+H7Z4Ck=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2 h1:enL75gIdaPAoBztv/GDuMgOocEUpO2jYc45qp2Uweqs=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2/go.mod h1:JsdLne5QNlqJdCQFm2DbHLNmNfEWSU7HnTuvi8SIl+E=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.5.0/go.mod h1:XY5YhCS9SLul3JSQ08XG/nfxXxrkh6RR21XPq/J//NY=
@@ -1836,8 +1836,8 @@ github.com/cloudwego/frugal v0.2.5 h1:zRICkWpBCQ6TY4QmRf+uINzcHbv7ogCHOM8h7ltPRz
 github.com/cloudwego/frugal v0.2.5/go.mod h1:nC1U47gswLRiaxv6dybrhZvsDGCfQP9RGiiWC73CnoI=
 github.com/cloudwego/gopkg v0.1.4 h1:EoQiCG4sTonTPHxOGE0VlQs+sQR+Hsi2uN0qqwu8O50=
 github.com/cloudwego/gopkg v0.1.4/go.mod h1:FQuXsRWRsSqJLsMVd5SYzp8/Z1y5gXKnVvRrWUOsCMI=
-github.com/cloudwego/hertz v0.9.7 h1:tAVaiO+vTf+ZkQhvNhKbDJ0hmC4oJ7bzwDi1KhvhHy4=
-github.com/cloudwego/hertz v0.9.7/go.mod h1:t6d7NcoQxPmETvzPMMIVPHMn5C5QzpqIiFsaavoLJYQ=
+github.com/cloudwego/hertz v0.10.0 h1:V0vmBaLdQPlgL6w2TA6PZL1g6SGgQznFx6vqxWdCcKw=
+github.com/cloudwego/hertz v0.10.0/go.mod h1:lRBohmcDkGx5TLK6QKFGdzJ6n3IXqGueHsOiXcYgXA4=
 github.com/cloudwego/iasm v0.2.0 h1:1KNIy1I1H9hNNFEEH3DVnI4UujN+1zjpuk6gwHLTssg=
 github.com/cloudwego/iasm v0.2.0/go.mod h1:8rXZaNYT2n95jn+zTI1sDr+IgcD2GVs0nlbbQPiEFhY=
 github.com/cloudwego/kitex v0.13.1 h1:oPJS/hy9gvo0rlfQmJAKJj8F4PMLG74IYzpaPlCRgg8=
