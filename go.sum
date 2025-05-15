@@ -3863,8 +3863,8 @@ github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f h1:Sr/DYK
 github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f/go.mod h1:jpAkVLPnCpGSfNyVmj6Cq4YbuZsFepm/Dc+9BAOcR80=
 github.com/metacubex/tfo-go v0.0.0-20250503140532-decbcfccbfdf h1:LwID1wz4tzypidd412dd4dC1H0m1TgRCQ/XvRvMJDFM=
 github.com/metacubex/tfo-go v0.0.0-20250503140532-decbcfccbfdf/go.mod h1:l9oLnLoEXyGZ5RVLsh7QCC5XsouTUyKk4F2nLm2DHLw=
-github.com/metacubex/utls v1.7.0-alpha.2 h1:kLRg6zDV12R1uclL5qW9Tx4RD6ztGIIrTZWY5zrJXCg=
-github.com/metacubex/utls v1.7.0-alpha.2/go.mod h1:oknYT0qTOwE4hjPmZOEpzVdefnW7bAdGLvZcqmk4TLU=
+github.com/metacubex/utls v1.7.3 h1:yDcMEWojFh+t8rU9X0HPcZDPAoFze/rIIyssqivzj8A=
+github.com/metacubex/utls v1.7.3/go.mod h1:oknYT0qTOwE4hjPmZOEpzVdefnW7bAdGLvZcqmk4TLU=
 github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181 h1:hJLQviGySBuaynlCwf/oYgIxbVbGRUIKZCxdya9YrbQ=
 github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181/go.mod h1:phewKljNYiTVT31Gcif8RiCKnTUOgVWFJjccqYM8s+Y=
 github.com/mfridman/interpolate v0.0.2 h1:pnuTK7MQIxxFz1Gr+rjSIx9u7qVjf5VOoM/u6BbAxPY=
