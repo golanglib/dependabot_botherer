@@ -401,7 +401,7 @@ require (
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250507072407-18b685d23f94
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250515033522-7c4ae57b7288
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -517,7 +517,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.4
-	github.com/facebook/time v0.0.0-20250514214514-a2efbd2af768
+	github.com/facebook/time v0.0.0-20250515172556-44b262b3ea6e
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -664,7 +664,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20210211234256-740aa86cb551
+	github.com/golang/geo v0.0.0-20250509130527-0a13e5a5d53d
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
