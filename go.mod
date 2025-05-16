@@ -1477,7 +1477,7 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.70.2
 	go.etcd.io/bbolt v1.4.0
-	go.etcd.io/etcd/api/v3 v3.5.21
+	go.etcd.io/etcd/api/v3 v3.6.0
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
 	go.etcd.io/etcd/client/v2 v2.305.21
 	go.etcd.io/etcd/client/v3 v3.5.21
@@ -1579,9 +1579,9 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.33.0
+	k8s.io/api v0.33.1
 	k8s.io/apiextensions-apiserver v0.33.0
-	k8s.io/apimachinery v0.33.0
+	k8s.io/apimachinery v0.33.1
 	k8s.io/apiserver v0.33.0
 	k8s.io/client-go v0.33.0
 	k8s.io/code-generator v0.33.0
