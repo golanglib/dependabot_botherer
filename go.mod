@@ -1580,11 +1580,11 @@ require (
 	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
 	k8s.io/api v0.33.1
-	k8s.io/apiextensions-apiserver v0.33.0
+	k8s.io/apiextensions-apiserver v0.33.1
 	k8s.io/apimachinery v0.33.1
-	k8s.io/apiserver v0.33.0
+	k8s.io/apiserver v0.33.1
 	k8s.io/client-go v0.33.1
-	k8s.io/code-generator v0.33.0
+	k8s.io/code-generator v0.33.1
 	k8s.io/component-base v0.33.1
 	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7
 	k8s.io/klog/v2 v2.130.1
