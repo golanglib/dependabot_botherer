@@ -3209,8 +3209,8 @@ github.com/hbollon/go-edlib v1.6.0 h1:ga7AwwVIvP8mHm9GsPueC0d71cfRU/52hmPJ7Tprv4
 github.com/hbollon/go-edlib v1.6.0/go.mod h1:wnt6o6EIVEzUfgbUZY7BerzQ2uvzp354qmS2xaLkrhM=
 github.com/hedhyw/rex v1.0.0 h1:f7QNmVMBsmuEop/wg85byq6YbOHQr0q3Y78Q3IwKp+I=
 github.com/hedhyw/rex v1.0.0/go.mod h1:n9CYz3ztkAp56mrMXw65Q3LeXCO2AZSUvO7VMHsVMF8=
-github.com/hellofresh/health-go/v5 v5.5.3 h1:i+mfJcA8te/QhBzrBZxOw344XgIvHrc9IQzrEyn3OUQ=
-github.com/hellofresh/health-go/v5 v5.5.3/go.mod h1:maWprKoK7N9zno7l2ubFEGVF2SDmTHq5D9sV+lCFmGs=
+github.com/hellofresh/health-go/v5 v5.5.4 h1:aOCIf1eHSRrPegRUJ2rzc7avck/lFSFLn+Zl3qKJcjc=
+github.com/hellofresh/health-go/v5 v5.5.4/go.mod h1:W+6uiWHS/m9jaB0aYBVlUBTeyE98yom6f+0ewLoBPYQ=
 github.com/henomis/langfuse-go v0.0.3 h1:Z5Mqlnj1fsok7eAT7jt+N4tegjbhY5HnZQ7wu1iVKss=
 github.com/henomis/langfuse-go v0.0.3/go.mod h1:gSRuO3nvjAvk/mgmb7b+9BcoN9s64GvXeaSN7PfVEKQ=
 github.com/henomis/restclientgo v1.2.0 h1:KINVh4zW4qAeqgO8qbsI1QhiQcn4xgMv3Px4H7++BCk=

@@ -803,7 +803,7 @@ require (
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
 	github.com/hedhyw/rex v1.0.0
-	github.com/hellofresh/health-go/v5 v5.5.3
+	github.com/hellofresh/health-go/v5 v5.5.4
 	github.com/henomis/langfuse-go v0.0.3
 	github.com/henomis/restclientgo v1.2.0
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
