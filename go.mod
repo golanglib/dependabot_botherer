@@ -156,7 +156,7 @@ require (
 	github.com/alecthomas/assert/v2 v2.11.0
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
-	github.com/alecthomas/chroma/v2 v2.17.2
+	github.com/alecthomas/chroma/v2 v2.18.0
 	github.com/alecthomas/go-check-sumtype v0.3.1
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.4.0
@@ -803,7 +803,7 @@ require (
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
 	github.com/hedhyw/rex v1.0.0
-	github.com/hellofresh/health-go/v5 v5.5.3
+	github.com/hellofresh/health-go/v5 v5.5.4
 	github.com/henomis/langfuse-go v0.0.3
 	github.com/henomis/restclientgo v1.2.0
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
@@ -1477,7 +1477,7 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.70.2
 	go.etcd.io/bbolt v1.4.0
-	go.etcd.io/etcd/api/v3 v3.5.21
+	go.etcd.io/etcd/api/v3 v3.6.0
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
 	go.etcd.io/etcd/client/v2 v2.305.21
 	go.etcd.io/etcd/client/v3 v3.5.21
