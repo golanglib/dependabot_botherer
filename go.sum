@@ -1068,8 +1068,8 @@ github.com/alecthomas/atomic v0.1.0-alpha2/go.mod h1:zD6QGEyw49HIq19caJDc2NMXAy8
 github.com/alecthomas/chroma v0.10.0 h1:7XDcGkCQopCNKjZHfYrNLraA+M7e0fMiJ/Mfikbfjek=
 github.com/alecthomas/chroma v0.10.0/go.mod h1:jtJATyUxlIORhUOFNA9NZDWGAQ8wpxQQqNSB4rjA/1s=
 github.com/alecthomas/chroma/v2 v2.2.0/go.mod h1:vf4zrexSH54oEjJ7EdB65tGNHmH3pGZmVkgTP5RHvAs=
-github.com/alecthomas/chroma/v2 v2.17.2 h1:Rm81SCZ2mPoH+Q8ZCc/9YvzPUN/E7HgPiPJD8SLV6GI=
-github.com/alecthomas/chroma/v2 v2.17.2/go.mod h1:RVX6AvYm4VfYe/zsk7mjHueLDZor3aWCNE14TFlepBk=
+github.com/alecthomas/chroma/v2 v2.18.0 h1:6h53Q4hW83SuF+jcsp7CVhLsMozzvQvO8HBbKQW+gn4=
+github.com/alecthomas/chroma/v2 v2.18.0/go.mod h1:RVX6AvYm4VfYe/zsk7mjHueLDZor3aWCNE14TFlepBk=
 github.com/alecthomas/colour v0.1.0 h1:nOE9rJm6dsZ66RGWYSFrXw461ZIt9A6+nHgL7FRrDUk=
 github.com/alecthomas/colour v0.1.0/go.mod h1:QO9JBoKquHd+jz9nshCh40fOfO+JzsoXy8qTHF68zU0=
 github.com/alecthomas/go-check-sumtype v0.3.1 h1:u9aUvbGINJxLVXiFvHUlPEaD7VDULsrxJb4Aq31NLkU=
