@@ -1,11 +1,11 @@
 code.gitea.io/gitea
-//go: code.gitea.io/gitea@latest (v1.23.7) requires github.com/charmbracelet/git-lfs-transfer@v0.2.0: reading github.com/charmbracelet/git-lfs-transfer/go.mod at revision v0.2.0: unknown revision v0.2.0
+//go: code.gitea.io/gitea@latest (v1.23.8) requires github.com/charmbracelet/git-lfs-transfer@v0.2.0: reading github.com/charmbracelet/git-lfs-transfer/go.mod at revision v0.2.0: unknown revision v0.2.0
 github.com/antlr/antlr4/runtime/Go/antlr/v4
 //go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20250403164407-cb850120378d) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20250403164407-cb850120378d: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antonmedv/expr
-//go: github.com/antonmedv/expr@latest (v1.17.2) requires github.com/antonmedv/expr@v1.17.2: parsing go.mod:
+//go: github.com/antonmedv/expr@latest (v1.17.3) requires github.com/antonmedv/expr@v1.17.3: parsing go.mod:
 //	module declares its path as: github.com/expr-lang/expr
 //	        but was required as: github.com/antonmedv/expr
 github.com/armon/go-metrics
@@ -186,7 +186,7 @@ github.com/hashicorp/nomad
 //go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
 github.com/hashicorp/vault
-//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.19.3
+//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.19.4
 //[github.com/hashicorp/vault] module has replace
 github.com/henrylee2cn/ameda
 //go: github.com/henrylee2cn/ameda@latest (v1.5.3) requires github.com/henrylee2cn/ameda@v1.5.3: parsing go.mod:
@@ -240,45 +240,45 @@ github.com/mozillazg/go-pinyin/cli/pinyin
 github.com/nats-io/nats.go
 //stat github.com/nats-io/nats.go: no such file or directory
 github.com/open-telemetry/opentelemetry-collector-contrib
-//[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0
-//[github.com/open-telemetry/opentelemetry-collector-contrib] ".chloggen": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/.chloggen
-//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/.github
-//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/.github/ISSUE_TEMPLATE
-//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/.github/workflows
-//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/workflows/configs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/.github/workflows/configs
-//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/.github/workflows/scripts
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/cmd
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/checkapi": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/cmd/checkapi
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/githubgen": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/cmd/githubgen
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/otelcontribcol": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/cmd/otelcontribcol
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/oteltestbedcol": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/cmd/oteltestbedcol
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "docs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/docs
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/couchbase": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/couchbase
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/couchbase/scripts": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/couchbase/scripts
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/fault-tolerant-logs-collection": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/fault-tolerant-logs-collection
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888/logs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888/logs
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999/logs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999/logs
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000/logs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000/logs
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000/otel-collector": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000/otel-collector
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/logline-filtering": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/logline-filtering
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/nomad": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/nomad
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/secure-tracing": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/secure-tracing
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/secure-tracing/certs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/examples/secure-tracing/certs
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/internal
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal/aws": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/internal/aws
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/internal/buildscripts
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal/tidylist": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/internal/tidylist
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "pkg": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/pkg
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "reports": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/reports
-//[github.com/open-telemetry/opentelemetry-collector-contrib] "reports/distributions": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.125.0/reports/distributions
+//[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0
+//[github.com/open-telemetry/opentelemetry-collector-contrib] ".chloggen": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/.chloggen
+//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/.github
+//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/.github/ISSUE_TEMPLATE
+//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/.github/workflows
+//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/workflows/configs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/.github/workflows/configs
+//[github.com/open-telemetry/opentelemetry-collector-contrib] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/.github/workflows/scripts
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/cmd
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/checkapi": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/cmd/checkapi
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/githubgen": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/cmd/githubgen
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/otelcontribcol": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/cmd/otelcontribcol
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "cmd/oteltestbedcol": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/cmd/oteltestbedcol
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "docs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/docs
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/couchbase": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/couchbase
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/couchbase/scripts": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/couchbase/scripts
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/fault-tolerant-logs-collection": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/fault-tolerant-logs-collection
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888/logs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/containerd_logs-0_000011112222333344445555666677778888/logs
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999/logs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/crio_logs-0_111122223333444455556666777788889999/logs
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000/logs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/docker_logs-0_222233334444555566667777888899990000/logs
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000/otel-collector": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/kubernetes/varlogpods/otel_otel_888877776666555544443333222211110000/otel-collector
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/logline-filtering": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/logline-filtering
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/nomad": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/nomad
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/secure-tracing": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/secure-tracing
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "examples/secure-tracing/certs": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/examples/secure-tracing/certs
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/internal
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal/aws": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/internal/aws
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/internal/buildscripts
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "internal/tidylist": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/internal/tidylist
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "pkg": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/pkg
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "reports": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/reports
+//[github.com/open-telemetry/opentelemetry-collector-contrib] "reports/distributions": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.126.0/reports/distributions
 //[github.com/open-telemetry/opentelemetry-collector-contrib] no importable packages found
 github.com/prometheus/prometheus
 //[github.com/prometheus/prometheus] dir: /gopath/pkg/mod/github.com/prometheus/prometheus@v0.302.1
@@ -307,28 +307,28 @@ go.mongodb.org/mongo-driver
 //[go.mongodb.org/mongo-driver] dir: /gopath/pkg/mod/go.mongodb.org/mongo-driver@v1.17.3
 //[go.mongodb.org/mongo-driver] module has replace
 go.opentelemetry.io/collector
-//[go.opentelemetry.io/collector] dir: /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0
-//[go.opentelemetry.io/collector] "": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0
-//[go.opentelemetry.io/collector] ".chloggen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.chloggen
-//[go.opentelemetry.io/collector] ".github": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github
-//[go.opentelemetry.io/collector] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/ISSUE_TEMPLATE
-//[go.opentelemetry.io/collector] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/workflows
-//[go.opentelemetry.io/collector] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/workflows/scripts
-//[go.opentelemetry.io/collector] ".github/workflows/utils": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/.github/workflows/utils
-//[go.opentelemetry.io/collector] "cmd": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/cmd
-//[go.opentelemetry.io/collector] "cmd/githubgen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/cmd/githubgen
-//[go.opentelemetry.io/collector] "docs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/docs
-//[go.opentelemetry.io/collector] "docs/img": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/docs/img
-//[go.opentelemetry.io/collector] "docs/rfcs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/docs/rfcs
-//[go.opentelemetry.io/collector] "examples": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/examples
-//[go.opentelemetry.io/collector] "examples/k8s": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/examples/k8s
-//[go.opentelemetry.io/collector] "examples/local": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/examples/local
-//[go.opentelemetry.io/collector] "internal": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/internal
-//[go.opentelemetry.io/collector] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/internal/buildscripts
+//[go.opentelemetry.io/collector] dir: /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0
+//[go.opentelemetry.io/collector] "": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0
+//[go.opentelemetry.io/collector] ".chloggen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/.chloggen
+//[go.opentelemetry.io/collector] ".github": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/.github
+//[go.opentelemetry.io/collector] ".github/ISSUE_TEMPLATE": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/.github/ISSUE_TEMPLATE
+//[go.opentelemetry.io/collector] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/.github/workflows
+//[go.opentelemetry.io/collector] ".github/workflows/scripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/.github/workflows/scripts
+//[go.opentelemetry.io/collector] ".github/workflows/utils": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/.github/workflows/utils
+//[go.opentelemetry.io/collector] "cmd": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/cmd
+//[go.opentelemetry.io/collector] "cmd/githubgen": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/cmd/githubgen
+//[go.opentelemetry.io/collector] "docs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/docs
+//[go.opentelemetry.io/collector] "docs/img": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/docs/img
+//[go.opentelemetry.io/collector] "docs/rfcs": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/docs/rfcs
+//[go.opentelemetry.io/collector] "examples": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/examples
+//[go.opentelemetry.io/collector] "examples/k8s": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/examples/k8s
+//[go.opentelemetry.io/collector] "examples/local": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/examples/local
+//[go.opentelemetry.io/collector] "internal": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/internal
+//[go.opentelemetry.io/collector] "internal/buildscripts": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/internal/buildscripts
 //[go.opentelemetry.io/collector] "internal/statusutil": package is internal
 //[go.opentelemetry.io/collector] "internal/testutil": package is internal
-//[go.opentelemetry.io/collector] "reports": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/reports
-//[go.opentelemetry.io/collector] "reports/distributions": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.125.0/reports/distributions
+//[go.opentelemetry.io/collector] "reports": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/reports
+//[go.opentelemetry.io/collector] "reports/distributions": no buildable Go source files in /gopath/pkg/mod/go.opentelemetry.io/collector@v0.126.0/reports/distributions
 //[go.opentelemetry.io/collector] no importable packages found
 go.opentelemetry.io/contrib/instrumentation/net/http
 //go: go.opentelemetry.io/contrib/instrumentation/net/http imports
