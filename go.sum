@@ -4332,8 +4332,8 @@ github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTK
 github.com/paulmach/orb v0.11.1 h1:3koVegMC4X/WeiXYz9iswopaTwMem53NzTJuTF20JzU=
 github.com/paulmach/orb v0.11.1/go.mod h1:5mULz1xQfs3bmQm63QEJA6lNGujuRafwA5S/EnuLaLU=
 github.com/paulmach/protoscan v0.2.1/go.mod h1:SpcSwydNLrxUGSDvXvO0P7g7AuhJ7lcKfDlhJCDw2gY=
-github.com/pb33f/libopenapi v0.21.11 h1:vY979cdd8pw5podxcDZDs1edF1IiYg+1cRxTryhv+Ew=
-github.com/pb33f/libopenapi v0.21.11/go.mod h1:Gc8oQkjr2InxwumK0zOBtKN9gIlv9L2VmSVIUk2YxcU=
+github.com/pb33f/libopenapi v0.21.12 h1:ityKYYWjiirJlz+slNaVF2NGfVF4Zn32H6CQEcrZQhg=
+github.com/pb33f/libopenapi v0.21.12/go.mod h1:utT5sD2/mnN7YK68FfZT5yEPbI1wwRBpSS4Hi0oOrBU=
 github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 h1:onHthvaw9LFnH4t2DcNVpwGmV9E1BkGknEliJkfwQj0=
 github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58/go.mod h1:DXv8WO4yhMYhSNPKjeNKa5WY9YCIEBRbNzFFPJbWO6Y=
 github.com/pborman/getopt v0.0.0-20190409184431-ee0cd42419d3/go.mod h1:85jBQOZwpVEaDAr341tbn15RS4fCAsIst0qp7i8ex1o=
@@ -4979,8 +4979,8 @@ github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89 h1:dArkMwZ7Mf2JiU8Ofdmq
 github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89/go.mod h1:uKWaldnbMnjsSAXRurWqqrdyZen1R7kxl8TkmWk2OyM=
 github.com/spdx/tools-golang v0.5.5 h1:61c0KLfAcNqAjlg6UNMdkwpMernhw3zVRwDZ2x9XOmk=
 github.com/spdx/tools-golang v0.5.5/go.mod h1:MVIsXx8ZZzaRWNQpUDhC4Dud34edUYJYecciXgrw5vE=
-github.com/speakeasy-api/jsonpath v0.6.1 h1:FWbuCEPGaJTVB60NZg2orcYHGZlelbNJAcIk/JGnZvo=
-github.com/speakeasy-api/jsonpath v0.6.1/go.mod h1:ymb2iSkyOycmzKwbEAYPJV/yi2rSmvBCLZJcyD+VVWw=
+github.com/speakeasy-api/jsonpath v0.6.2 h1:Mys71yd6u8kuowNCR0gCVPlVAHCmKtoGXYoAtcEbqXQ=
+github.com/speakeasy-api/jsonpath v0.6.2/go.mod h1:ymb2iSkyOycmzKwbEAYPJV/yi2rSmvBCLZJcyD+VVWw=
 github.com/spf13/afero v1.1.2/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=
 github.com/spf13/afero v1.3.3/go.mod h1:5KUK8ByomD5Ti5Artl0RtHeI5pTF7MIDuXL3yY520V4=
 github.com/spf13/afero v1.6.0/go.mod h1:Ai8FlHk4v/PARR026UzYexafAt9roJ7LcLMAmO6Z93I=
