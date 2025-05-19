@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.1
 	cloud.google.com/go/auth v0.16.1
@@ -388,13 +388,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.34
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250514085234-473e80da5261
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250519091007-282cc7eb18d3
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.8
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250514085234-473e80da5261
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250514085234-473e80da5261
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250519091007-282cc7eb18d3
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250519091007-282cc7eb18d3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250514085234-473e80da5261
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250514085234-473e80da5261
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250519091007-282cc7eb18d3
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250519091007-282cc7eb18d3
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -517,7 +517,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.4
-	github.com/facebook/time v0.0.0-20250515172556-44b262b3ea6e
+	github.com/facebook/time v0.0.0-20250519142016-f282ca817cbf
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
