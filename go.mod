@@ -1455,7 +1455,7 @@ require (
 	github.com/yuin/goldmark-meta v1.1.0
 	github.com/yuin/gopher-lua v1.1.1
 	github.com/yunify/qingstor-sdk-go/v3 v3.2.0
-	github.com/zclconf/go-cty v1.16.2
+	github.com/zclconf/go-cty v1.16.3
 	github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940
 	github.com/zeebo/assert v1.3.1
 	github.com/zeebo/blake3 v0.2.4
