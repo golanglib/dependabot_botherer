@@ -1487,7 +1487,7 @@ require (
 	go.etcd.io/etcd/raft/v3 v3.5.21
 	go.etcd.io/etcd/server/v3 v3.6.0
 	go.etcd.io/etcd/tests/v3 v3.6.0
-	go.etcd.io/etcd/v3 v3.5.21
+	go.etcd.io/etcd/v3 v3.6.0
 	go.etcd.io/gofail v0.2.0
 	go.jolheiser.com/hcaptcha v0.0.4
 	go.jolheiser.com/pwn v0.0.3
