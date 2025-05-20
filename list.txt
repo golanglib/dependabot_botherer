@@ -361,6 +361,7 @@ github.com/cloudwego/eino-ext/callbacks/langfuse
 github.com/cloudwego/eino-ext/components/model/ark
 github.com/cloudwego/eino-ext/components/model/openai
 github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb
+github.com/cloudwego/eino-ext/components/tool/mcp
 github.com/cloudwego/eino-ext/devops
 github.com/cloudwego/eino-ext/libs/acl/langfuse
 github.com/cloudwego/eino-ext/libs/acl/openai
@@ -982,6 +983,7 @@ github.com/manifoldco/promptui
 github.com/maratori/testableexamples
 github.com/maratori/testpackage
 github.com/marekm4/color-extractor
+github.com/mark3labs/mcp-go
 github.com/markbates/going
 github.com/markbates/goth
 github.com/marten-seemann/qpack
@@ -1117,6 +1119,7 @@ github.com/nikolalohinski/gonja
 github.com/nikolalohinski/gonja/v2
 github.com/nishanths/exhaustive
 github.com/nishanths/predeclared
+github.com/nsqio/go-diskqueue
 github.com/nsqio/go-nsq
 github.com/nunnatsa/ginkgolinter
 github.com/nwaples/rardecode
@@ -1509,6 +1512,7 @@ github.com/yargevad/filepathx
 github.com/yeya24/promlinter
 github.com/ykadowak/zerologlint
 github.com/yohcop/openid-go
+github.com/yosida95/uritemplate/v3
 github.com/youmark/pkcs8
 github.com/yuin/goldmark
 github.com/yuin/goldmark-emoji
