@@ -210,7 +210,7 @@ github.com/junk1tm/musttag
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go
-//go: github.com/lucas-clemente/quic-go@latest (v0.51.0) requires github.com/lucas-clemente/quic-go@v0.51.0: parsing go.mod:
+//go: github.com/lucas-clemente/quic-go@latest (v0.52.0) requires github.com/lucas-clemente/quic-go@v0.52.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/lucas-clemente/quic-go
 github.com/marten-seemann/qpack

@@ -392,6 +392,7 @@ require (
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.8
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250519091007-282cc7eb18d3
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250519091007-282cc7eb18d3
+	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.0-20250519091007-282cc7eb18d3
 	github.com/cloudwego/eino-ext/devops v0.1.7
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250519091007-282cc7eb18d3
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250519091007-282cc7eb18d3
@@ -962,6 +963,7 @@ require (
 	github.com/maratori/testableexamples v1.0.0
 	github.com/maratori/testpackage v1.1.1
 	github.com/marekm4/color-extractor v1.2.1
+	github.com/mark3labs/mcp-go v0.29.0
 	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.81.0
 	github.com/marten-seemann/qtls v0.10.0
@@ -994,7 +996,7 @@ require (
 	github.com/metacubex/chacha v0.1.2
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250517090120-462e75d27336
+	github.com/metacubex/sing-quic v0.0.0-20250520025433-6e556a6bef7a
 	github.com/metacubex/sing-shadowsocks v0.2.9
 	github.com/metacubex/sing-shadowsocks2 v0.2.3
 	github.com/metacubex/sing-tun v0.4.5
@@ -1083,6 +1085,7 @@ require (
 	github.com/nikolalohinski/gonja/v2 v2.3.3
 	github.com/nishanths/exhaustive v0.12.0
 	github.com/nishanths/predeclared v0.2.2
+	github.com/nsqio/go-diskqueue v1.1.0
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/nunnatsa/ginkgolinter v0.19.1
 	github.com/nwaples/rardecode v1.1.3
@@ -1447,6 +1450,7 @@ require (
 	github.com/yeya24/promlinter v0.3.0
 	github.com/ykadowak/zerologlint v0.1.5
 	github.com/yohcop/openid-go v1.0.1
+	github.com/yosida95/uritemplate/v3 v3.0.2
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
 	github.com/yuin/goldmark v1.7.12
 	github.com/yuin/goldmark-emoji v1.0.6
