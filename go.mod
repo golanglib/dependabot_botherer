@@ -92,7 +92,7 @@ require (
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.4.2
 	github.com/BurntSushi/toml v1.5.0
-	github.com/ClickHouse/ch-go v0.65.1
+	github.com/ClickHouse/ch-go v0.66.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
 	github.com/ClickHouse/clickhouse-go/v2 v2.34.0
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
@@ -135,7 +135,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
-	github.com/RoaringBitmap/roaring/v2 v2.4.5
+	github.com/RoaringBitmap/roaring/v2 v2.5.0
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.13.6
@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.218.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.219.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
@@ -387,7 +387,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.34
+	github.com/cloudwego/eino v0.3.35
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250519091007-282cc7eb18d3
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.8
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250519091007-282cc7eb18d3
@@ -413,7 +413,7 @@ require (
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/containerd/cgroups/v3 v3.0.5
-	github.com/containerd/console v1.0.4
+	github.com/containerd/console v1.0.5
 	github.com/containerd/containerd v1.7.27
 	github.com/containerd/containerd/api v1.9.0
 	github.com/containerd/continuity v0.4.5
@@ -545,7 +545,7 @@ require (
 	github.com/gin-contrib/sessions v1.0.3
 	github.com/gin-contrib/sse v1.1.0
 	github.com/gin-contrib/timeout v1.0.2
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/git-lfs/git-lfs/v3 v3.6.1
 	github.com/git-lfs/gitobj/v2 v2.1.1
 	github.com/git-lfs/pktline v0.0.0-20210330133718-06e9096e2825
@@ -657,7 +657,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.147.3
+	github.com/gohugoio/hugo v0.147.4
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -1102,7 +1102,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
 	github.com/openacid/low v0.1.21
-	github.com/openai/openai-go v0.1.0-beta.10
+	github.com/openai/openai-go v1.0.0
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
@@ -1114,7 +1114,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.91.0
+	github.com/oracle/oci-go-sdk/v65 v65.91.1
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
@@ -1152,7 +1152,7 @@ require (
 	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.15
 	github.com/pion/sctp v1.8.39
-	github.com/pion/sdp/v3 v3.0.11
+	github.com/pion/sdp/v3 v3.0.12
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
 	github.com/pion/stun v0.6.1
@@ -1200,7 +1200,7 @@ require (
 	github.com/quic-go/qtls-go1-18 v0.2.0
 	github.com/quic-go/qtls-go1-19 v0.3.3
 	github.com/quic-go/qtls-go1-20 v0.4.1
-	github.com/quic-go/quic-go v0.51.0
+	github.com/quic-go/quic-go v0.52.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.69.2
@@ -1352,8 +1352,8 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.23.5
-	github.com/tdewolff/parse/v2 v2.8.0
+	github.com/tdewolff/minify/v2 v2.23.6
+	github.com/tdewolff/parse/v2 v2.8.1
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
@@ -1512,7 +1512,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.35.0
 	go.opentelemetry.io/proto/otlp v1.6.0
 	go.starlark.net v0.0.0-20250417143717-f57e51f710eb
-	go.step.sm/crypto v0.63.0
+	go.step.sm/crypto v0.64.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.19.0
@@ -1716,7 +1716,7 @@ require (
 	github.com/dgryski/go-farm v0.0.0-20240924180020-3414d57e47da // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
-	github.com/dmarkham/enumer v1.5.10 // indirect
+	github.com/dmarkham/enumer v1.5.11 // indirect
 	github.com/docker/cli v28.0.4+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker v28.0.4+incompatible // indirect
