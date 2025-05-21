@@ -6,18 +6,18 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.1
 	cloud.google.com/go/auth v0.16.1
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.68.0
-	cloud.google.com/go/compute v1.37.0
+	cloud.google.com/go/compute v1.38.0
 	cloud.google.com/go/compute/metadata v0.7.0
 	cloud.google.com/go/datacatalog v1.26.0
 	cloud.google.com/go/firestore v1.18.0
 	cloud.google.com/go/iam v1.5.2
-	cloud.google.com/go/kms v1.21.2
+	cloud.google.com/go/kms v1.22.0
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/monitoring v1.24.2
@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.219.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.220.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
@@ -387,7 +387,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.35
+	github.com/cloudwego/eino v0.3.36
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250520101807-b2008771903a
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.8
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250520101807-b2008771903a
@@ -692,7 +692,7 @@ require (
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3-0.20240919001351-b4b5b84fdcbc
-	github.com/google/go-containerregistry v0.20.3
+	github.com/google/go-containerregistry v0.20.4
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/go-github/v45 v45.2.0
@@ -1031,7 +1031,7 @@ require (
 	github.com/mitchellh/iochan v1.0.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/moby/buildkit v0.21.1
+	github.com/moby/buildkit v0.22.0
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
@@ -1352,7 +1352,7 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20241213150454-ec0027fb0002
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.23.6
+	github.com/tdewolff/minify/v2 v2.23.8
 	github.com/tdewolff/parse/v2 v2.8.1
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
@@ -1616,7 +1616,7 @@ require (
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.37.0
+	modernc.org/sqlite v1.37.1
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
@@ -1704,7 +1704,7 @@ require (
 	github.com/checkpoint-restore/go-criu/v6 v6.3.0 // indirect
 	github.com/cheggaaa/pb/v3 v3.1.6 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
-	github.com/containerd/containerd/v2 v2.0.4 // indirect
+	github.com/containerd/containerd/v2 v2.0.5 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
 	github.com/containerd/plugin v1.0.0 // indirect
 	github.com/couchbase/clog v0.1.0 // indirect
@@ -1717,9 +1717,9 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.11 // indirect
-	github.com/docker/cli v28.0.4+incompatible // indirect
+	github.com/docker/cli v28.1.1+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v28.0.4+incompatible // indirect
+	github.com/docker/docker v28.1.1+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
@@ -1781,6 +1781,7 @@ require (
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
 	github.com/minio/crc64nvme v1.0.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
+	github.com/moby/go-archive v0.1.0 // indirect
 	github.com/moby/sys/capability v0.4.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
