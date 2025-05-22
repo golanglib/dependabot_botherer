@@ -1423,7 +1423,7 @@ require (
 	github.com/vmware/govmomi v0.50.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
-	github.com/volcengine/volc-sdk-golang v1.0.208
+	github.com/volcengine/volc-sdk-golang v1.0.209
 	github.com/volcengine/volcengine-go-sdk v1.1.9
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
@@ -1500,11 +1500,11 @@ require (
 	go.opentelemetry.io/contrib v1.36.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.36.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
-	go.opentelemetry.io/contrib/propagators/autoprop v0.60.0
+	go.opentelemetry.io/contrib/propagators/autoprop v0.61.0
 	go.opentelemetry.io/contrib/propagators/aws v1.36.0
-	go.opentelemetry.io/contrib/propagators/b3 v1.35.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.36.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.36.0
-	go.opentelemetry.io/contrib/propagators/ot v1.35.0
+	go.opentelemetry.io/contrib/propagators/ot v1.36.0
 	go.opentelemetry.io/otel v1.36.0
 	go.opentelemetry.io/otel/metric v1.36.0
 	go.opentelemetry.io/otel/sdk v1.36.0
