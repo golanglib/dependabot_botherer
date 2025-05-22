@@ -692,7 +692,7 @@ require (
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3-0.20240919001351-b4b5b84fdcbc
-	github.com/google/go-containerregistry v0.20.4
+	github.com/google/go-containerregistry v0.20.5
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/go-github/v45 v45.2.0
@@ -1501,7 +1501,7 @@ require (
 	go.opentelemetry.io/contrib/detectors/gcp v1.35.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.60.0
-	go.opentelemetry.io/contrib/propagators/aws v1.35.0
+	go.opentelemetry.io/contrib/propagators/aws v1.36.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.35.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.35.0
 	go.opentelemetry.io/contrib/propagators/ot v1.35.0
