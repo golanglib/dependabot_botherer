@@ -1203,7 +1203,7 @@ require (
 	github.com/quic-go/quic-go v0.52.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/rclone/rclone v1.69.2
+	github.com/rclone/rclone v1.69.3
 	github.com/redis/go-redis/v9 v9.8.0
 	github.com/redis/rueidis v1.0.60
 	github.com/refraction-networking/utls v1.7.3
@@ -1724,7 +1724,7 @@ require (
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
-	github.com/ebitengine/purego v0.8.2 // indirect
+	github.com/ebitengine/purego v0.8.3 // indirect
 	github.com/echlebek/timeproxy v1.0.0 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.32.4 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
