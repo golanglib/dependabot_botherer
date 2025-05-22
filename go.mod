@@ -387,7 +387,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.36
+	github.com/cloudwego/eino v0.3.37
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250520101807-b2008771903a
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.9
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250520101807-b2008771903a
@@ -1423,7 +1423,7 @@ require (
 	github.com/vmware/govmomi v0.50.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
-	github.com/volcengine/volc-sdk-golang v1.0.208
+	github.com/volcengine/volc-sdk-golang v1.0.209
 	github.com/volcengine/volcengine-go-sdk v1.1.9
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
