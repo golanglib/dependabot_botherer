@@ -387,7 +387,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.36
+	github.com/cloudwego/eino v0.3.37
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250520101807-b2008771903a
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.9
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250520101807-b2008771903a
@@ -1497,13 +1497,13 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib v1.35.0
+	go.opentelemetry.io/contrib v1.36.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.35.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.60.0
 	go.opentelemetry.io/contrib/propagators/aws v1.36.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.35.0
-	go.opentelemetry.io/contrib/propagators/jaeger v1.35.0
+	go.opentelemetry.io/contrib/propagators/jaeger v1.36.0
 	go.opentelemetry.io/contrib/propagators/ot v1.35.0
 	go.opentelemetry.io/otel v1.36.0
 	go.opentelemetry.io/otel/metric v1.36.0
