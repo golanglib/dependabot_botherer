@@ -230,7 +230,7 @@ github.com/metacubex/gopacket
 //	module declares its path as: github.com/google/gopacket
 //	        but was required as: github.com/metacubex/gopacket
 github.com/metacubex/quic-go
-//go: github.com/metacubex/quic-go@latest (v0.51.0) requires github.com/metacubex/quic-go@v0.51.0: parsing go.mod:
+//go: github.com/metacubex/quic-go@latest (v0.52.0) requires github.com/metacubex/quic-go@v0.52.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/metacubex/quic-go
 github.com/mozillazg/go-pinyin/cli/pinyin
