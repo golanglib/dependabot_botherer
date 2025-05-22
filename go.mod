@@ -1500,9 +1500,9 @@ require (
 	go.opentelemetry.io/contrib v1.36.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.35.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
-	go.opentelemetry.io/contrib/propagators/autoprop v0.60.0
+	go.opentelemetry.io/contrib/propagators/autoprop v0.61.0
 	go.opentelemetry.io/contrib/propagators/aws v1.36.0
-	go.opentelemetry.io/contrib/propagators/b3 v1.35.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.36.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.36.0
 	go.opentelemetry.io/contrib/propagators/ot v1.36.0
 	go.opentelemetry.io/otel v1.36.0
