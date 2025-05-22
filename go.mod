@@ -1497,7 +1497,7 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib v1.35.0
+	go.opentelemetry.io/contrib v1.36.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.35.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.60.0
