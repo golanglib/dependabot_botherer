@@ -128,10 +128,10 @@ require (
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
-	github.com/ProtonMail/go-crypto v1.2.0
+	github.com/ProtonMail/go-crypto v1.3.0
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
-	github.com/ProtonMail/gopenpgp/v2 v2.8.3
+	github.com/ProtonMail/gopenpgp/v2 v2.9.0
 	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
@@ -1152,7 +1152,7 @@ require (
 	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.15
 	github.com/pion/sctp v1.8.39
-	github.com/pion/sdp/v3 v3.0.12
+	github.com/pion/sdp/v3 v3.0.13
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
 	github.com/pion/stun v0.6.1
