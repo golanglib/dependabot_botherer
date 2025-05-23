@@ -873,7 +873,7 @@ require (
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
 	github.com/jessevdk/go-flags v1.6.1
-	github.com/jgautheron/goconst v1.8.1
+	github.com/jgautheron/goconst v1.8.2
 	github.com/jhillyerd/enmime v1.3.0
 	github.com/jhump/protoreflect v1.17.0
 	github.com/jingyugao/rowserrcheck v1.1.1
