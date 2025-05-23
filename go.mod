@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/auth v0.16.1
@@ -128,10 +128,10 @@ require (
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 	github.com/ProtonMail/gluon v0.17.1-0.20230724134000-308be39be96e
-	github.com/ProtonMail/go-crypto v1.2.0
+	github.com/ProtonMail/go-crypto v1.3.0
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 	github.com/ProtonMail/go-srp v0.0.7
-	github.com/ProtonMail/gopenpgp/v2 v2.8.3
+	github.com/ProtonMail/gopenpgp/v2 v2.9.0
 	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.221.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.4
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.19
@@ -873,7 +873,7 @@ require (
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
 	github.com/jessevdk/go-flags v1.6.1
-	github.com/jgautheron/goconst v1.8.1
+	github.com/jgautheron/goconst v1.8.2
 	github.com/jhillyerd/enmime v1.3.0
 	github.com/jhump/protoreflect v1.17.0
 	github.com/jingyugao/rowserrcheck v1.1.1
@@ -1091,7 +1091,7 @@ require (
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
-	github.com/nyaruka/phonenumbers v1.6.1
+	github.com/nyaruka/phonenumbers v1.6.3
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
@@ -1145,14 +1145,14 @@ require (
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
 	github.com/pion/ice/v2 v2.3.37
-	github.com/pion/interceptor v0.1.37
+	github.com/pion/interceptor v0.1.38
 	github.com/pion/logging v0.2.3
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.15
 	github.com/pion/sctp v1.8.39
-	github.com/pion/sdp/v3 v3.0.12
+	github.com/pion/sdp/v3 v3.0.13
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
 	github.com/pion/stun v0.6.1
@@ -1424,7 +1424,7 @@ require (
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
 	github.com/volcengine/volc-sdk-golang v1.0.209
-	github.com/volcengine/volcengine-go-sdk v1.1.9
+	github.com/volcengine/volcengine-go-sdk v1.1.10
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1610,7 +1610,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.65.7
+	modernc.org/libc v1.65.8
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.11.0
 	modernc.org/opt v0.1.4
@@ -1689,7 +1689,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.3 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.34 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.7.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.7.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.15 // indirect
