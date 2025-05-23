@@ -5295,8 +5295,8 @@ github.com/valyala/fasttemplate v1.0.1/go.mod h1:UQGH1tvbgY+Nz5t2n7tXsz52dQxojPU
 github.com/valyala/fasttemplate v1.1.0/go.mod h1:UQGH1tvbgY+Nz5t2n7tXsz52dQxojPUpymEIMZ47gx8=
 github.com/valyala/fasttemplate v1.2.2 h1:lxLXG0uE3Qnshl9QyaK6XJxMXlQZELvChBOCmQD0Loo=
 github.com/valyala/fasttemplate v1.2.2/go.mod h1:KHLXt3tVN2HBp8eijSv/kGJopbvo7S+qRAEEKiv+SiQ=
-github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11 h1:YzrpNqpAuAgUQ0vseiI3mAVz7zr0rM5LWdaGCCr6Ipc=
-github.com/vapourismo/knx-go v0.0.0-20240915133544-a6ab43471c11/go.mod h1:+iC7aAxEwuJ4mvdKaY0zCGT0dpIC/AtHt4yv2jr5FOo=
+github.com/vapourismo/knx-go v0.0.0-20250522221645-2169524c43ba h1:cvnHWlozIe4YXSgXYnnwhs5sW1AF7Ry/vUTt/wYQlRY=
+github.com/vapourismo/knx-go v0.0.0-20250522221645-2169524c43ba/go.mod h1:hWBFtUC75s4SYmRjyuwjbgaXG4ceC5WpQx/epn/ZrAs=
 github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec h1:DGmKwyZwEB8dI7tbLt/I/gQuP559o/0FrAkHKlQM/Ks=
 github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec/go.mod h1:owBmyHYMLkxyrugmfwE/DLJyW8Ro9mkphwuVErQ0iUw=
 github.com/vbatts/tar-split v0.12.1 h1:CqKoORW7BUWBe7UL/iqTVvkTBOF8UvOMKOIZykxnnbo=
