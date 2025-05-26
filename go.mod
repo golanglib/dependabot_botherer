@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.221.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.222.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.4
@@ -389,7 +389,7 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.37
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250522060253-ddb617598b09
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.9
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250522060253-ddb617598b09
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250522060253-ddb617598b09
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.1
@@ -897,7 +897,7 @@ require (
 	github.com/jtolio/noiseconn v0.0.0-20231127013910-f6d9ecbf1de7
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
-	github.com/kaptinlin/go-i18n v0.1.3
+	github.com/kaptinlin/go-i18n v0.1.4
 	github.com/kaptinlin/jsonschema v0.2.3
 	github.com/karamaru-alpha/copyloopvar v1.2.1
 	github.com/karrick/godirwalk v1.17.0
@@ -1555,7 +1555,7 @@ require (
 	google.golang.org/genproto v0.0.0-20250505200425-f936aa4a68b2
 	google.golang.org/genproto/googleapis/api v0.0.0-20250505200425-f936aa4a68b2
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250519155744-55703ea1f237
-	google.golang.org/grpc v1.72.1
+	google.golang.org/grpc v1.72.2
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
@@ -1572,9 +1572,9 @@ require (
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/driver/postgres v1.5.11
 	gorm.io/driver/sqlite v1.5.7
-	gorm.io/driver/sqlserver v1.5.4
+	gorm.io/driver/sqlserver v1.6.0
 	gorm.io/gen v0.3.27
-	gorm.io/gorm v1.26.1
+	gorm.io/gorm v1.30.0
 	gorm.io/hints v1.1.2
 	gorm.io/plugin/dbresolver v1.6.0
 	gortc.io/stun v1.23.0
@@ -1648,7 +1648,7 @@ require (
 	vitess.io/vitess v0.20.4
 	xorm.io/builder v0.3.13
 	xorm.io/xorm v1.3.9
-	zombiezen.com/go/sqlite v1.4.0
+	zombiezen.com/go/sqlite v1.4.2
 )
 
 require (
