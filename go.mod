@@ -1648,7 +1648,7 @@ require (
 	vitess.io/vitess v0.20.4
 	xorm.io/builder v0.3.13
 	xorm.io/xorm v1.3.9
-	zombiezen.com/go/sqlite v1.4.0
+	zombiezen.com/go/sqlite v1.4.2
 )
 
 require (
