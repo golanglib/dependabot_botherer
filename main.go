@@ -995,7 +995,7 @@ import (
 	_ "github.com/metacubex/chacha"
 	_ "github.com/metacubex/gvisor/pkg/abi"
 	_ "github.com/metacubex/randv2"
-	_ "github.com/metacubex/sing-quic/hysteria2"
+	_ "github.com/metacubex/sing-quic"
 	_ "github.com/metacubex/sing-shadowsocks"
 	_ "github.com/metacubex/sing-shadowsocks2"
 	_ "github.com/metacubex/sing-tun"
