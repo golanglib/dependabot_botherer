@@ -1420,7 +1420,7 @@ require (
 	github.com/vmihailenco/tagparser v0.1.2
 	github.com/vmihailenco/tagparser/v2 v2.0.0
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
-	github.com/vmware/govmomi v0.50.0
+	github.com/vmware/govmomi v0.51.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
 	github.com/volcengine/volc-sdk-golang v1.0.209
