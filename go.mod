@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/auth v0.16.1
@@ -963,7 +963,7 @@ require (
 	github.com/maratori/testableexamples v1.0.0
 	github.com/maratori/testpackage v1.1.1
 	github.com/marekm4/color-extractor v1.2.1
-	github.com/mark3labs/mcp-go v0.29.0
+	github.com/mark3labs/mcp-go v0.30.0
 	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.81.0
 	github.com/marten-seemann/qtls v0.10.0
