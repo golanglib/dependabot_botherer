@@ -2567,8 +2567,8 @@ github.com/go-task/slim-sprig/v3 v3.0.0 h1:sUs3vkvUymDpBKi3qH1YSqBQk9+9D/8M2mN1v
 github.com/go-task/slim-sprig/v3 v3.0.0/go.mod h1:W848ghGpv3Qj3dhTPRyJypKRiqCdHZiAzKg9hl15HA8=
 github.com/go-test/deep v1.1.1 h1:0r/53hagsehfO4bzD2Pgr/+RgHqhmf+k1Bpse2cTu1U=
 github.com/go-test/deep v1.1.1/go.mod h1:5C2ZWiW0ErCdrYzpqxLbTX7MG14M9iiw8DgHncVwcsE=
-github.com/go-testfixtures/testfixtures/v3 v3.15.0 h1:fu8Pqu2xto9OHbnWm4go0ZHXZrQB8nYlu3bXfaRYw8k=
-github.com/go-testfixtures/testfixtures/v3 v3.15.0/go.mod h1:0Du505tczzCjEVuFXa74gd95Z4PwuHsFW4t4PB9xNH0=
+github.com/go-testfixtures/testfixtures/v3 v3.16.0 h1:bSjH1206tTSXSQZLtUjLvy6sbSrSXO8lGtcB454QP8Q=
+github.com/go-testfixtures/testfixtures/v3 v3.16.0/go.mod h1:fH6IT/2lM5yV5cuTkPkuQv3f6JW+AE9tMUovxUhWUhE=
 github.com/go-toolsmith/astcast v1.1.0 h1:+JN9xZV1A+Re+95pgnMgDboWNVnIMMQXwfBwLRPgSC8=
 github.com/go-toolsmith/astcast v1.1.0/go.mod h1:qdcuFWeGGS2xX5bLM/c3U9lewg7+Zu4mr+xPwZIB4ZU=
 github.com/go-toolsmith/astcopy v1.1.0 h1:YGwBN0WM+ekI/6SS6+52zLDEf8Yvp3n2seZITCUBt5s=
