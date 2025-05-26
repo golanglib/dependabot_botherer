@@ -897,7 +897,7 @@ require (
 	github.com/jtolio/noiseconn v0.0.0-20231127013910-f6d9ecbf1de7
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
-	github.com/kaptinlin/go-i18n v0.1.3
+	github.com/kaptinlin/go-i18n v0.1.4
 	github.com/kaptinlin/jsonschema v0.2.3
 	github.com/karamaru-alpha/copyloopvar v1.2.1
 	github.com/karrick/godirwalk v1.17.0
