@@ -1574,7 +1574,7 @@ require (
 	gorm.io/driver/sqlite v1.5.7
 	gorm.io/driver/sqlserver v1.5.4
 	gorm.io/gen v0.3.27
-	gorm.io/gorm v1.26.1
+	gorm.io/gorm v1.30.0
 	gorm.io/hints v1.1.2
 	gorm.io/plugin/dbresolver v1.6.0
 	gortc.io/stun v1.23.0
