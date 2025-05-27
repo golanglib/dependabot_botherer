@@ -1387,7 +1387,7 @@ require (
 	github.com/twmb/murmur3 v1.1.8
 	github.com/u-root/uio v0.0.0-20240224005618-d2acac8f3701
 	github.com/ugorji/go v1.2.12
-	github.com/ugorji/go/codec v1.2.12
+	github.com/ugorji/go/codec v1.2.14
 	github.com/ulikunitz/xz v0.5.12
 	github.com/ultraware/funlen v0.2.0
 	github.com/ultraware/whitespace v0.2.0
