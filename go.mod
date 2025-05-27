@@ -657,7 +657,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.147.5
+	github.com/gohugoio/hugo v0.147.6
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -997,7 +997,7 @@ require (
 	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250523120938-f1a248e5ec7f
-	github.com/metacubex/sing-shadowsocks v0.2.9
+	github.com/metacubex/sing-shadowsocks v0.2.10
 	github.com/metacubex/sing-shadowsocks2 v0.2.4
 	github.com/metacubex/sing-tun v0.4.5
 	github.com/metacubex/sing-vmess v0.2.1
@@ -1150,7 +1150,7 @@ require (
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.15
+	github.com/pion/rtp v1.8.16
 	github.com/pion/sctp v1.8.39
 	github.com/pion/sdp/v3 v3.0.13
 	github.com/pion/srtp v1.5.2
@@ -1237,7 +1237,7 @@ require (
 	github.com/sagernet/sing v0.6.10
 	github.com/sagernet/sing-mux v0.3.2
 	github.com/sagernet/sing-shadowtls v0.2.0
-	github.com/sagernet/sing-vmess v0.2.1
+	github.com/sagernet/sing-vmess v0.2.3
 	github.com/sagernet/smux v1.5.34-mod.2
 	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.9.0
@@ -1404,7 +1404,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.32.0
+	github.com/v2fly/v2ray-core/v5 v5.33.0
 	github.com/valyala/fasthttp v1.62.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
@@ -1570,7 +1570,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/datatypes v1.2.5
 	gorm.io/driver/mysql v1.5.7
-	gorm.io/driver/postgres v1.5.11
+	gorm.io/driver/postgres v1.6.0
 	gorm.io/driver/sqlite v1.5.7
 	gorm.io/driver/sqlserver v1.6.0
 	gorm.io/gen v0.3.27
