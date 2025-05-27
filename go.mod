@@ -517,7 +517,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.4
+	github.com/evanw/esbuild v0.25.5
 	github.com/facebook/time v0.0.0-20250523111311-14f4b15077e8
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -679,7 +679,7 @@ require (
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.7.0
 	github.com/golangci/modinfo v0.3.4
-	github.com/golangci/plugin-module-register v0.1.1
+	github.com/golangci/plugin-module-register v0.1.2
 	github.com/golangci/revgrep v0.8.0
 	github.com/golangci/unconvert v0.0.0-20240309020433-c5143eacb3ed
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
@@ -998,7 +998,7 @@ require (
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250523120938-f1a248e5ec7f
 	github.com/metacubex/sing-shadowsocks v0.2.9
-	github.com/metacubex/sing-shadowsocks2 v0.2.3
+	github.com/metacubex/sing-shadowsocks2 v0.2.4
 	github.com/metacubex/sing-tun v0.4.5
 	github.com/metacubex/sing-vmess v0.2.1
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
@@ -1424,7 +1424,7 @@ require (
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
 	github.com/volcengine/volc-sdk-golang v1.0.209
-	github.com/volcengine/volcengine-go-sdk v1.1.10
+	github.com/volcengine/volcengine-go-sdk v1.1.11
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1775,7 +1775,7 @@ require (
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250523041550-e202cd57070c // indirect
 	github.com/metacubex/quic-go v0.51.1-0.20250511032541-4e34341cf18b // indirect
-	github.com/metacubex/sing v0.5.2 // indirect
+	github.com/metacubex/sing v0.5.3 // indirect
 	github.com/mgechev/dots v0.0.0-20210922191527-e955255bf517 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
