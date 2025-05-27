@@ -388,21 +388,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.37
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250526061219-600837d0bdf3
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250527025003-c8588b6dc7a9
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250526061219-600837d0bdf3
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250526061219-600837d0bdf3
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250527025003-c8588b6dc7a9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250527025003-c8588b6dc7a9
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.1
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250526061219-600837d0bdf3
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250526061219-600837d0bdf3
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250527025003-c8588b6dc7a9
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250527025003-c8588b6dc7a9
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250515033522-7c4ae57b7288
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250527044619-7a3b4e9b09ca
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -518,7 +518,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.5
-	github.com/facebook/time v0.0.0-20250523111311-14f4b15077e8
+	github.com/facebook/time v0.0.0-20250527153615-8838ee20456b
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
@@ -557,8 +557,8 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20250501090939-71edba4a7137
-	github.com/go-ap/errors v0.0.0-20250501090840-cd50c6a0a4e6
+	github.com/go-ap/activitypub v0.0.0-20250527110644-1410ed93404d
+	github.com/go-ap/errors v0.0.0-20250527110557-c8db454e53fd
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
 	github.com/go-chi/chi v4.1.2+incompatible
