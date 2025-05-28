@@ -402,7 +402,7 @@ require (
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250527044619-7a3b4e9b09ca
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250528034014-c5d41fa0464e
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -518,7 +518,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.5
-	github.com/facebook/time v0.0.0-20250527153615-8838ee20456b
+	github.com/facebook/time v0.0.0-20250528105403-2aede5eaf0ac
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
