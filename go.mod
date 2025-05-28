@@ -49,7 +49,7 @@ require (
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.73
 	github.com/99designs/keyring v1.2.2
-	github.com/Abirdcfly/dupword v0.1.4
+	github.com/Abirdcfly/dupword v0.1.5
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2
 	github.com/AlecAivazis/survey/v2 v2.3.7
@@ -1096,7 +1096,7 @@ require (
 	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
 	github.com/oleiade/lane v1.0.1
-	github.com/olekukonko/tablewriter v1.0.6
+	github.com/olekukonko/tablewriter v1.0.7
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/ginkgo/v2 v2.23.4
@@ -1796,7 +1796,7 @@ require (
 	github.com/oasdiff/yaml3 v0.0.0-20250309153720-d2182401db90 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/errors v0.0.0-20250405072817-4e6d85265da6 // indirect
-	github.com/olekukonko/ll v0.0.8-0.20250516010636-22ea57d81985 // indirect
+	github.com/olekukonko/ll v0.0.8 // indirect
 	github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.111.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.116.0 // indirect
