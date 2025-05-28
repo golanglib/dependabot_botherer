@@ -1309,7 +1309,7 @@ require (
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
-	github.com/snowflakedb/gosnowflake v1.14.0
+	github.com/snowflakedb/gosnowflake v1.14.1
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.3.3
 	github.com/sony/gobreaker v1.0.0
