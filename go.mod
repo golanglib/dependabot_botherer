@@ -49,7 +49,7 @@ require (
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.73
 	github.com/99designs/keyring v1.2.2
-	github.com/Abirdcfly/dupword v0.1.5
+	github.com/Abirdcfly/dupword v0.1.6
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2
 	github.com/AlecAivazis/survey/v2 v2.3.7
@@ -236,7 +236,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.223.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.224.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.4
@@ -641,7 +641,7 @@ require (
 	github.com/gobwas/ws v1.4.0
 	github.com/gocarina/gocsv v0.0.0-20240520201108-78e41c74b4b1
 	github.com/goccy/go-json v0.10.5
-	github.com/goccy/go-yaml v1.17.1
+	github.com/goccy/go-yaml v1.18.0
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.4.0
 	github.com/gochore/emailt v0.8.0
@@ -1015,7 +1015,7 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.27
 	github.com/micromdm/scep/v2 v2.3.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
-	github.com/microsoft/go-mssqldb v1.8.1
+	github.com/microsoft/go-mssqldb v1.8.2
 	github.com/miekg/dns v1.1.66
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
@@ -1129,7 +1129,7 @@ require (
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
 	github.com/paulmach/orb v0.11.1
-	github.com/pb33f/libopenapi v0.22.0
+	github.com/pb33f/libopenapi v0.22.1
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pborman/uuid v1.2.1
 	github.com/pdfcpu/pdfcpu v0.11.0
@@ -1250,7 +1250,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
-	github.com/sashabaranov/go-openai v1.40.0
+	github.com/sashabaranov/go-openai v1.40.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.29.0
 	github.com/sassoftware/go-rpmutils v0.4.0
@@ -1423,7 +1423,7 @@ require (
 	github.com/vmware/govmomi v0.51.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
-	github.com/volcengine/volc-sdk-golang v1.0.209
+	github.com/volcengine/volc-sdk-golang v1.0.210
 	github.com/volcengine/volcengine-go-sdk v1.1.11
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
@@ -1550,7 +1550,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.234.0
+	google.golang.org/api v0.235.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250505200425-f936aa4a68b2
 	google.golang.org/genproto/googleapis/api v0.0.0-20250505200425-f936aa4a68b2
