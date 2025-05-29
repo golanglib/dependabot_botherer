@@ -283,7 +283,7 @@ github.com/prometheus/prometheus
 //[github.com/prometheus/prometheus] dir: /gopath/pkg/mod/github.com/prometheus/prometheus@v0.302.1
 //[github.com/prometheus/prometheus] module has replace
 github.com/Shopify/sarama
-//go: github.com/Shopify/sarama@latest (v1.45.1) requires github.com/Shopify/sarama@v1.45.1: parsing go.mod:
+//go: github.com/Shopify/sarama@latest (v1.45.2) requires github.com/Shopify/sarama@v1.45.2: parsing go.mod:
 //	module declares its path as: github.com/IBM/sarama
 //	        but was required as: github.com/Shopify/sarama
 github.com/smallstep/go-attestation
