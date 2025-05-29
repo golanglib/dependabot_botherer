@@ -4335,8 +4335,8 @@ github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTK
 github.com/paulmach/orb v0.11.1 h1:3koVegMC4X/WeiXYz9iswopaTwMem53NzTJuTF20JzU=
 github.com/paulmach/orb v0.11.1/go.mod h1:5mULz1xQfs3bmQm63QEJA6lNGujuRafwA5S/EnuLaLU=
 github.com/paulmach/protoscan v0.2.1/go.mod h1:SpcSwydNLrxUGSDvXvO0P7g7AuhJ7lcKfDlhJCDw2gY=
-github.com/pb33f/libopenapi v0.22.0 h1:xUXvKnenzLsZbocqKItbkgCTK6jYR1/R8MoDMBDPteM=
-github.com/pb33f/libopenapi v0.22.0/go.mod h1:utT5sD2/mnN7YK68FfZT5yEPbI1wwRBpSS4Hi0oOrBU=
+github.com/pb33f/libopenapi v0.22.1 h1:OvvAgAFCMRDuRtVzzrCX4jQBpgZ0zH26TkbHf81Wvfs=
+github.com/pb33f/libopenapi v0.22.1/go.mod h1:utT5sD2/mnN7YK68FfZT5yEPbI1wwRBpSS4Hi0oOrBU=
 github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 h1:onHthvaw9LFnH4t2DcNVpwGmV9E1BkGknEliJkfwQj0=
 github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58/go.mod h1:DXv8WO4yhMYhSNPKjeNKa5WY9YCIEBRbNzFFPJbWO6Y=
 github.com/pborman/getopt v0.0.0-20190409184431-ee0cd42419d3/go.mod h1:85jBQOZwpVEaDAr341tbn15RS4fCAsIst0qp7i8ex1o=
