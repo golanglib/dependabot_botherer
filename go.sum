@@ -5326,8 +5326,8 @@ github.com/vmware/govmomi v0.51.0 h1:n3RLS9aw/irTOKbiIyJzAb6rOat4YOVv/uDoRsNTSQI
 github.com/vmware/govmomi v0.51.0/go.mod h1:3ywivawGRfMP2SDCeyKqxTl2xNIHTXF0ilvp72dot5A=
 github.com/volcengine/ve-tos-golang-sdk v0.2.2 h1:CY7GDsCzLZY/DDUi8sGgCZboRLfEJLNUVvnvOt+1iUU=
 github.com/volcengine/ve-tos-golang-sdk v0.2.2/go.mod h1:FOtBV2Nceh5vaaY5SOjaNlqVYiLOwsxpOzKhYod9LBQ=
-github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12 h1:u9+32DXQIOFPG8oQ3xrjSAUSyAcaq5bqO4cEBom/6lA=
-github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12/go.mod h1:IrjK84IJJTuOZOTMv/P18Ydjy/x+ow7fF7q11jAxXLM=
+github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.13 h1:Sayz3IgQscHHAct1IkKKbXLBdmttnC/7MvzSlVGNJMo=
+github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.13/go.mod h1:IrjK84IJJTuOZOTMv/P18Ydjy/x+ow7fF7q11jAxXLM=
 github.com/volcengine/volc-sdk-golang v1.0.23/go.mod h1:AfG/PZRUkHJ9inETvbjNifTDgut25Wbkm2QoYBTbvyU=
 github.com/volcengine/volc-sdk-golang v1.0.210 h1:cEOHlBxopRSQ939W+lxA7S8OwuyCkkBbC+NguES+3Z8=
 github.com/volcengine/volc-sdk-golang v1.0.210/go.mod h1:stZX+EPgv1vF4nZwOlEe8iGcriUPRBKX8zA19gXycOQ=
