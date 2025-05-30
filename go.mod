@@ -388,14 +388,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.38
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250527025003-c8588b6dc7a9
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250530094010-bd1c4fc20bbe
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250527025003-c8588b6dc7a9
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250527025003-c8588b6dc7a9
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250530094010-bd1c4fc20bbe
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250530094010-bd1c4fc20bbe
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.2
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250527025003-c8588b6dc7a9
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250527025003-c8588b6dc7a9
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250530094010-bd1c4fc20bbe
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250530094010-bd1c4fc20bbe
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -463,7 +463,7 @@ require (
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
-	github.com/digitalocean/go-libvirt v0.0.0-20250417173424-a6a66ef779d6
+	github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf
 	github.com/digitalocean/godo v1.150.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
@@ -518,7 +518,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.5
-	github.com/facebook/time v0.0.0-20250529131756-5f6aba2c6489
+	github.com/facebook/time v0.0.0-20250530160448-c04d70721828
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.5.0
