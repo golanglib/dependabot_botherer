@@ -1824,8 +1824,8 @@ github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250527025003-c858
 github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250527025003-c8588b6dc7a9/go.mod h1:LNe4KWTiK8uGf21d1nL1MR9PfFadDOiiHRrCcHMUYyM=
 github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250527025003-c8588b6dc7a9 h1:+YtfwsYqPuD7NjlSU/aQRLLk6UvVg5YT/JQQrv5EHyY=
 github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250527025003-c8588b6dc7a9/go.mod h1:ApUFwaGYvMEhsOa0eEn6wbuuT+/ejVHaNZamzNhY3NQ=
-github.com/cloudwego/eino-ext/components/tool/mcp v0.0.1 h1:Bz1v4CePvmmpoZuRpE30oFd6cPsgXySQk1s37V3dQag=
-github.com/cloudwego/eino-ext/components/tool/mcp v0.0.1/go.mod h1:D1Yircehgx7em8EH6vw8If+ATjtXl60IpBzVaqFBx3c=
+github.com/cloudwego/eino-ext/components/tool/mcp v0.0.2 h1:wIrulRVGltHdCtqwGwvinYicluIRzycrYk4urPNuL1g=
+github.com/cloudwego/eino-ext/components/tool/mcp v0.0.2/go.mod h1:D1Yircehgx7em8EH6vw8If+ATjtXl60IpBzVaqFBx3c=
 github.com/cloudwego/eino-ext/devops v0.1.7 h1:w8q4SGDtrZk+8WUrLyVidX7GNsyWFsYPPz5HoJKgRcA=
 github.com/cloudwego/eino-ext/devops v0.1.7/go.mod h1:W53NPBmkmM7ClyQqwOcFUC2kV4bsvCfh2FtHUcyMzMY=
 github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250527025003-c8588b6dc7a9 h1:oD+2J38NTXTjgNkc9naKEO5lmegZ4qLv3JcyAor7nIo=
