@@ -1230,7 +1230,7 @@ require (
 	github.com/ryanrolds/sqlclosecheck v0.5.1
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
-	github.com/safchain/ethtool v0.6.0
+	github.com/safchain/ethtool v0.6.1
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-beta.4
