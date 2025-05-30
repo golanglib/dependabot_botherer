@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/monitoring v1.24.2
 	cloud.google.com/go/pubsub v1.49.0
-	cloud.google.com/go/storage v1.54.0
+	cloud.google.com/go/storage v1.55.0
 	cloud.google.com/go/trace v1.11.6
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.21.0
@@ -106,8 +106,8 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct v1.0.0
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.3.0
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.27.0
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.51.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.28.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.52.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/IBM/nzgo/v12 v12.0.10
 	github.com/IBM/sarama v1.45.2
@@ -230,7 +230,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.67
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.76
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.77
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.45.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.50.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.224.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.38.3
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.4
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.80.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.19
@@ -392,7 +392,7 @@ require (
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250527025003-c8588b6dc7a9
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250527025003-c8588b6dc7a9
-	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.1
+	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.2
 	github.com/cloudwego/eino-ext/devops v0.1.7
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250527025003-c8588b6dc7a9
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250527025003-c8588b6dc7a9
@@ -950,7 +950,7 @@ require (
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
-	github.com/lxc/incus/v6 v6.12.0
+	github.com/lxc/incus/v6 v6.13.0
 	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
 	github.com/magefile/mage v1.15.0
@@ -963,7 +963,7 @@ require (
 	github.com/maratori/testableexamples v1.0.0
 	github.com/maratori/testpackage v1.1.1
 	github.com/marekm4/color-extractor v1.2.1
-	github.com/mark3labs/mcp-go v0.30.1
+	github.com/mark3labs/mcp-go v0.31.0
 	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.81.0
 	github.com/marten-seemann/qtls v0.10.0
@@ -1422,7 +1422,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.51.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
-	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.12
+	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.13
 	github.com/volcengine/volc-sdk-golang v1.0.210
 	github.com/volcengine/volcengine-go-sdk v1.1.13
 	github.com/vulcand/oxy v1.4.2
@@ -1466,7 +1466,7 @@ require (
 	github.com/zeebo/errs v1.4.0
 	github.com/zeebo/pcg v1.0.1
 	github.com/zeebo/xxh3 v1.0.2
-	github.com/zerobounce/zerobouncego v1.1.0
+	github.com/zerobounce/zerobouncego v1.1.1
 	github.com/zitadel/logging v0.6.2
 	github.com/zitadel/oidc/v2 v2.12.2
 	github.com/zitadel/oidc/v3 v3.38.1
@@ -1512,7 +1512,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.36.0
 	go.opentelemetry.io/proto/otlp v1.7.0
 	go.starlark.net v0.0.0-20250417143717-f57e51f710eb
-	go.step.sm/crypto v0.65.0
+	go.step.sm/crypto v0.66.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.19.0
@@ -1593,7 +1593,7 @@ require (
 	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff
-	k8s.io/utils v0.0.0-20250321185631-1f6e0b77f77e
+	k8s.io/utils v0.0.0-20250502105355-0f33e8f1c979
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11002.0
 	lukechampine.com/blake3 v1.4.1
@@ -1664,7 +1664,7 @@ require (
 	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
 	github.com/Crocmagnon/fatcontext v0.7.2 // indirect
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.51.0 // indirect
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.52.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
 	github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c // indirect
 	github.com/KimMachineGun/automemlimit v0.7.1 // indirect
@@ -1682,6 +1682,7 @@ require (
 	github.com/andeya/goutil v1.0.1 // indirect
 	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
 	github.com/apache/arrow-go/v18 v18.0.0 // indirect
+	github.com/apex/log v1.9.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
@@ -1780,7 +1781,7 @@ require (
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
-	github.com/minio/crc64nvme v1.0.1 // indirect
+	github.com/minio/crc64nvme v1.0.2 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/moby/go-archive v0.1.0 // indirect
 	github.com/moby/sys/capability v0.4.0 // indirect
@@ -1803,6 +1804,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.116.0 // indirect
 	github.com/opencontainers/cgroups v0.0.1 // indirect
 	github.com/opencontainers/runtime-spec v1.2.1 // indirect
+	github.com/opencontainers/umoci v0.5.0 // indirect
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db // indirect
 	github.com/petermattis/goid v0.0.0-20240813172612-4fcff4a6cae7 // indirect
@@ -1819,6 +1821,7 @@ require (
 	github.com/raeperd/recvcheck v0.2.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
+	github.com/rootless-containers/proto/go-proto v0.0.0-20230421021042-4cd87ebadd67 // indirect
 	github.com/rubyist/tracerx v0.0.0-20170927163412-787959303086 // indirect
 	github.com/ryszard/goskiplist v0.0.0-20150312221310-2dfbae5fcf46 // indirect
 	github.com/sahilm/fuzzy v0.1.1 // indirect
@@ -1845,6 +1848,7 @@ require (
 	github.com/uudashr/iface v1.3.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec // indirect
+	github.com/vbatts/go-mtree v0.5.4 // indirect
 	github.com/willf/bitset v1.1.10 // indirect
 	github.com/willf/bloom v2.0.3+incompatible // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
@@ -1864,7 +1868,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.26.0 // indirect
 	go.opentelemetry.io/collector/pdata/pprofile v0.120.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.118.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.60.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.61.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.34.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.34.0 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
