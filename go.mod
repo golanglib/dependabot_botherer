@@ -1321,7 +1321,7 @@ require (
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.5
 	github.com/spf13/afero v1.14.0
-	github.com/spf13/cast v1.8.0
+	github.com/spf13/cast v1.9.2
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/cobra-cli v1.3.0
 	github.com/spf13/jwalterweatherman v1.1.0
