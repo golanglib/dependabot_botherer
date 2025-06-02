@@ -149,7 +149,7 @@ require (
 	github.com/agext/levenshtein v1.2.3
 	github.com/agiledragon/gomonkey/v2 v2.13.0
 	github.com/agnivade/levenshtein v1.2.1
-	github.com/air-verse/air v1.61.7
+	github.com/air-verse/air v1.62.0
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0
 	github.com/akavel/rsrc v0.10.2
 	github.com/alecthomas/assert v1.0.0
@@ -657,7 +657,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.147.6
+	github.com/gohugoio/hugo v0.147.7
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -1528,7 +1528,7 @@ require (
 	golang.org/x/arch v0.17.0
 	golang.org/x/crypto v0.38.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
-	golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6
+	golang.org/x/exp v0.0.0-20250531010427-b6e5de432a8b
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.27.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
