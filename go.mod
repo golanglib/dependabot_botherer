@@ -814,7 +814,7 @@ require (
 	github.com/hertz-contrib/localsession v0.1.0
 	github.com/hertz-contrib/sse v0.1.0
 	github.com/hetznercloud/hcloud-go v1.59.2
-	github.com/hetznercloud/hcloud-go/v2 v2.21.0
+	github.com/hetznercloud/hcloud-go/v2 v2.21.1
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/hhrutter/lzw v1.0.0
 	github.com/hhrutter/tiff v1.0.2
