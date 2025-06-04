@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250603165357-b52ab10f4468.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/auth v0.16.2
@@ -388,21 +388,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.40
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250530094010-bd1c4fc20bbe
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250604063857-19ef29584858
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250530094010-bd1c4fc20bbe
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250530094010-bd1c4fc20bbe
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250604063857-19ef29584858
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250604063857-19ef29584858
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.2
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250530094010-bd1c4fc20bbe
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250530094010-bd1c4fc20bbe
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250604063857-19ef29584858
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250604063857-19ef29584858
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250603073045-09f82450e135
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250604093344-b36d010baf87
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -437,7 +437,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250513140224-e18b50805682
+	github.com/coze-dev/coze-go v0.0.0-20250604025746-0d3b62f445d2
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
