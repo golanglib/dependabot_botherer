@@ -9,7 +9,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
-	cloud.google.com/go/auth v0.16.1
+	cloud.google.com/go/auth v0.16.2
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.69.0
 	cloud.google.com/go/compute v1.38.0
