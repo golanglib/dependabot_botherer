@@ -68,7 +68,7 @@ github.com/EzeXchange-API/go-listmonk
 //	module declares its path as: github.com/Exayn/go-listmonk
 //	        but was required as: github.com/EzeXchange-API/go-listmonk
 github.com/fclairamb/ftpserverlib
-//[github.com/fclairamb/ftpserverlib] dir: /gopath/pkg/mod/github.com/fclairamb/ftpserverlib@v0.25.0
+//[github.com/fclairamb/ftpserverlib] dir: /gopath/pkg/mod/github.com/fclairamb/ftpserverlib@v0.26.0
 //[github.com/fclairamb/ftpserverlib] module has replace
 github.com/go-darwin/apfs
 //[github.com/go-darwin/apfs] dir: /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348
