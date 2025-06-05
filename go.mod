@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250603165357-b52ab10f4468.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/auth v0.16.2
@@ -388,14 +388,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.41
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250604063857-19ef29584858
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250605072634-0f875e04269d
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250604063857-19ef29584858
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250604063857-19ef29584858
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250605072634-0f875e04269d
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250605072634-0f875e04269d
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250604063857-19ef29584858
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250604063857-19ef29584858
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250605072634-0f875e04269d
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250605072634-0f875e04269d
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
@@ -665,7 +665,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250602202553-92e1c6cfbc31
+	github.com/golang/geo v0.0.0-20250605062131-18014e71d570
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
