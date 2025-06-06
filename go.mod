@@ -1267,7 +1267,7 @@ require (
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
 	github.com/sensu/sensu-go/api/core v0.0.0-20221108055736-999d91931d17
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
-	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3
+	github.com/sergi/go-diff v1.4.0
 	github.com/sethvargo/go-retry v0.3.0
 	github.com/shirou/gopsutil/v3 v3.24.5
 	github.com/shoenig/go-m1cpu v0.1.6
