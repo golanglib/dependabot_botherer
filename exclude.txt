@@ -377,6 +377,16 @@ golang.org/x/tools/gopls
 //	golang.org/x/tools/gopls/internal/cmd imports
 //	golang.org/x/tools/gopls/internal/debug imports
 //	golang.org/x/tools/internal/event/export/ocagent: cannot find module providing package golang.org/x/tools/internal/event/export/ocagent
+//go: golang.org/x/tools/gopls imports
+//	golang.org/x/tools/gopls/internal/cmd imports
+//	golang.org/x/tools/gopls/internal/settings imports
+//	golang.org/x/tools/gopls/internal/analysis/gofix imports
+//	golang.org/x/tools/internal/astutil/cursor: cannot find module providing package golang.org/x/tools/internal/astutil/cursor
+//go: golang.org/x/tools/gopls imports
+//	golang.org/x/tools/gopls/internal/cmd imports
+//	golang.org/x/tools/gopls/internal/settings imports
+//	golang.org/x/tools/gopls/internal/analysis/gofix imports
+//	golang.org/x/tools/internal/astutil/edge: cannot find module providing package golang.org/x/tools/internal/astutil/edge
 golang.zx2c4.com/wintun
 //[golang.zx2c4.com/wintun] dir: /gopath/pkg/mod/golang.zx2c4.com/wintun@v0.0.0-20230126152724-0fa3db229ce2
 //[golang.zx2c4.com/wintun] "": no buildable Go source files in /gopath/pkg/mod/golang.zx2c4.com/wintun@v0.0.0-20230126152724-0fa3db229ce2
@@ -385,20 +395,20 @@ golang.zx2c4.com/wireguard/windows
 //[golang.zx2c4.com/wireguard/windows] dir: /gopath/pkg/mod/golang.zx2c4.com/wireguard/windows@v0.5.3
 //[golang.zx2c4.com/wireguard/windows] module has replace
 src.techknowlogick.com/xgo
-//[src.techknowlogick.com/xgo] dir: /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3
+//[src.techknowlogick.com/xgo] dir: /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05
 //[src.techknowlogick.com/xgo] "": package is main
-//[src.techknowlogick.com/xgo] ".github": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/.github
-//[src.techknowlogick.com/xgo] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/.github/workflows
-//[src.techknowlogick.com/xgo] "docker": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker
-//[src.techknowlogick.com/xgo] "docker/build": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/build
-//[src.techknowlogick.com/xgo] "docker/go-1.23.9": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/go-1.23.9
-//[src.techknowlogick.com/xgo] "docker/go-1.23.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/go-1.23.x
-//[src.techknowlogick.com/xgo] "docker/go-1.24.3": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/go-1.24.3
-//[src.techknowlogick.com/xgo] "docker/go-1.24.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/go-1.24.x
-//[src.techknowlogick.com/xgo] "docker/go-latest": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/go-latest
-//[src.techknowlogick.com/xgo] "docker/toolchain": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/toolchain
-//[src.techknowlogick.com/xgo] "docker/toolchain/patches": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/docker/toolchain/patches
-//[src.techknowlogick.com/xgo] "tests": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250530172434-52ee11de56a3/tests
+//[src.techknowlogick.com/xgo] ".github": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/.github
+//[src.techknowlogick.com/xgo] ".github/workflows": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/.github/workflows
+//[src.techknowlogick.com/xgo] "docker": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker
+//[src.techknowlogick.com/xgo] "docker/build": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/build
+//[src.techknowlogick.com/xgo] "docker/go-1.23.10": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/go-1.23.10
+//[src.techknowlogick.com/xgo] "docker/go-1.23.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/go-1.23.x
+//[src.techknowlogick.com/xgo] "docker/go-1.24.4": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/go-1.24.4
+//[src.techknowlogick.com/xgo] "docker/go-1.24.x": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/go-1.24.x
+//[src.techknowlogick.com/xgo] "docker/go-latest": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/go-latest
+//[src.techknowlogick.com/xgo] "docker/toolchain": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/toolchain
+//[src.techknowlogick.com/xgo] "docker/toolchain/patches": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/docker/toolchain/patches
+//[src.techknowlogick.com/xgo] "tests": no buildable Go source files in /gopath/pkg/mod/src.techknowlogick.com/xgo@v1.8.1-0.20250605190157-7694f8a8ff05/tests
 //[src.techknowlogick.com/xgo] "tests/embedded_c": package is main
 //[src.techknowlogick.com/xgo] "tests/embedded_cpp": package is main
 //[src.techknowlogick.com/xgo] no importable packages found
