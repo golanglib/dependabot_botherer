@@ -2754,8 +2754,8 @@ github.com/golang/snappy v0.0.3/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEW
 github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/golang/snappy v1.0.0 h1:Oy607GVXHs7RtbggtPBnr2RmDArIsAefDwvrdWvRhGs=
 github.com/golang/snappy v1.0.0/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
-github.com/golang/vscode-go v0.47.2 h1:7s1IvQgDCOTXSCxnZ/ldtQBqW+LgnplOr5ZzwmN6YDc=
-github.com/golang/vscode-go v0.47.2/go.mod h1:b9oZaWpFR4bORS/oBAJyasvilGkyXmt6L2RyQWc4Wbo=
+github.com/golang/vscode-go v0.47.3 h1:BkxhklCpT5N53dbyxQzSxVQchLPi94T2tSWbI7NK6mY=
+github.com/golang/vscode-go v0.47.3/go.mod h1:b9oZaWpFR4bORS/oBAJyasvilGkyXmt6L2RyQWc4Wbo=
 github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32 h1:WUvBfQL6EW/40l6OmeSBYQJNSif4O11+bmWEz+C7FYw=
 github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32/go.mod h1:NUw9Zr2Sy7+HxzdjIULge71wI6yEg1lWQr7Evcu8K0E=
 github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe h1:6RGUuS7EGotKx6J5HIP8ZtyMdiDscjMLfRBSPuzVVeo=
