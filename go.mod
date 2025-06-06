@@ -249,7 +249,7 @@ require (
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20210630091500-54e17340d32f
 	github.com/aymanbagabas/go-osc52 v1.2.2
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1
-	github.com/aymanbagabas/go-udiff v0.3.0
+	github.com/aymanbagabas/go-udiff v0.3.1
 	github.com/bahlo/generic-list-go v0.2.0
 	github.com/baulk/chardet v0.1.0
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3
