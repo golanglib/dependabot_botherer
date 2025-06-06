@@ -538,7 +538,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.9
 	github.com/gaissmai/bart v0.20.4
 	github.com/gaukas/godicttls v0.0.4
-	github.com/geoffgarside/ber v1.1.0
+	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.132.0
 	github.com/ghostiam/protogetter v0.3.15
 	github.com/gin-contrib/gzip v1.2.3
