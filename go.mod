@@ -388,21 +388,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.41
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250605072634-0f875e04269d
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250609134950-1d43f4416aea
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.11
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250605072634-0f875e04269d
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250605072634-0f875e04269d
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250609134950-1d43f4416aea
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250609134950-1d43f4416aea
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250605072634-0f875e04269d
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250605072634-0f875e04269d
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250609134950-1d43f4416aea
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250609134950-1d43f4416aea
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
 	github.com/cloudwego/gopkg v0.1.4
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.13.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250606064414-62475fe8f01d
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250609063301-b3ca38dbc9cb
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.0
 	github.com/cloudwego/runtimex v0.1.1
@@ -1774,7 +1774,7 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
-	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250523041550-e202cd57070c // indirect
+	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250530094841-88286040d3c1 // indirect
 	github.com/metacubex/quic-go v0.51.1-0.20250511032541-4e34341cf18b // indirect
 	github.com/metacubex/sing v0.5.3 // indirect
 	github.com/mgechev/dots v1.0.0 // indirect
