@@ -226,15 +226,15 @@ require (
 	github.com/aws/aws-sdk-go v1.55.7
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10
-	github.com/aws/aws-sdk-go-v2/config v1.29.14
+	github.com/aws/aws-sdk-go-v2/config v1.29.15
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.68
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.0
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.1
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.77
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.45.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.50.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.1
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.4
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.224.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
@@ -389,7 +389,7 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.41
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250605072634-0f875e04269d
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.11
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250605072634-0f875e04269d
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250605072634-0f875e04269d
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
@@ -521,7 +521,7 @@ require (
 	github.com/facebook/time v0.0.0-20250606160342-e4e39b629fe9
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
-	github.com/fclairamb/go-log v0.5.0
+	github.com/fclairamb/go-log v0.6.0
 	github.com/felixge/fgprof v0.9.5
 	github.com/felixge/httpsnoop v1.0.4
 	github.com/firefart/nonamedreturns v1.0.6
@@ -618,7 +618,7 @@ require (
 	github.com/go-resty/resty/v2 v2.16.5
 	github.com/go-sql-driver/mysql v1.9.2
 	github.com/go-stack/stack v1.8.1
-	github.com/go-swagger/go-swagger v0.31.0
+	github.com/go-swagger/go-swagger v0.32.3
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-test/deep v1.1.1
@@ -1145,7 +1145,7 @@ require (
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
 	github.com/pion/ice/v2 v2.3.37
-	github.com/pion/interceptor v0.1.38
+	github.com/pion/interceptor v0.1.39
 	github.com/pion/logging v0.2.3
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
@@ -1167,7 +1167,7 @@ require (
 	github.com/pjbgf/sha1cd v0.3.2
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/sftp v1.13.9
-	github.com/pkg/xattr v0.4.10
+	github.com/pkg/xattr v0.4.11
 	github.com/pkoukk/tiktoken-go v0.1.7
 	github.com/pkoukk/tiktoken-go-loader v0.0.1
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
