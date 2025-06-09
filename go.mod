@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.4
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.224.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.0
-	github.com/aws/aws-sdk-go-v2/service/kms v1.39.0
+	github.com/aws/aws-sdk-go-v2/service/kms v1.40.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.80.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.1
@@ -389,7 +389,7 @@ require (
 	github.com/cloudwego/dynamicgo v0.6.3
 	github.com/cloudwego/eino v0.3.41
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250605072634-0f875e04269d
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.10
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.11
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250605072634-0f875e04269d
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250605072634-0f875e04269d
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
@@ -521,7 +521,7 @@ require (
 	github.com/facebook/time v0.0.0-20250606160342-e4e39b629fe9
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
-	github.com/fclairamb/go-log v0.5.0
+	github.com/fclairamb/go-log v0.6.0
 	github.com/felixge/fgprof v0.9.5
 	github.com/felixge/httpsnoop v1.0.4
 	github.com/firefart/nonamedreturns v1.0.6
@@ -618,7 +618,7 @@ require (
 	github.com/go-resty/resty/v2 v2.16.5
 	github.com/go-sql-driver/mysql v1.9.2
 	github.com/go-stack/stack v1.8.1
-	github.com/go-swagger/go-swagger v0.31.0
+	github.com/go-swagger/go-swagger v0.32.3
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-test/deep v1.1.1
@@ -941,7 +941,7 @@ require (
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v1.1.0
-	github.com/linkedin/goavro/v2 v2.13.1
+	github.com/linkedin/goavro/v2 v2.14.0
 	github.com/linode/linodego v1.52.1
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
@@ -1167,7 +1167,7 @@ require (
 	github.com/pjbgf/sha1cd v0.3.2
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/sftp v1.13.9
-	github.com/pkg/xattr v0.4.10
+	github.com/pkg/xattr v0.4.11
 	github.com/pkoukk/tiktoken-go v0.1.7
 	github.com/pkoukk/tiktoken-go-loader v0.0.1
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
@@ -1424,7 +1424,7 @@ require (
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.13
 	github.com/volcengine/volc-sdk-golang v1.0.211
-	github.com/volcengine/volcengine-go-sdk v1.1.14
+	github.com/volcengine/volcengine-go-sdk v1.1.15
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1485,13 +1485,13 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.6.1
 	go.etcd.io/etcd/client/v2 v2.305.21
 	go.etcd.io/etcd/client/v3 v3.6.1
-	go.etcd.io/etcd/etcdctl/v3 v3.6.0
-	go.etcd.io/etcd/etcdutl/v3 v3.6.0
+	go.etcd.io/etcd/etcdctl/v3 v3.6.1
+	go.etcd.io/etcd/etcdutl/v3 v3.6.1
 	go.etcd.io/etcd/pkg/v3 v3.6.1
 	go.etcd.io/etcd/raft/v3 v3.5.21
 	go.etcd.io/etcd/server/v3 v3.6.1
-	go.etcd.io/etcd/tests/v3 v3.6.0
-	go.etcd.io/etcd/v3 v3.6.0
+	go.etcd.io/etcd/tests/v3 v3.6.1
+	go.etcd.io/etcd/v3 v3.6.1
 	go.etcd.io/gofail v0.2.0
 	go.jolheiser.com/hcaptcha v0.0.4
 	go.jolheiser.com/pwn v0.0.3
@@ -1616,7 +1616,7 @@ require (
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.37.1
+	modernc.org/sqlite v1.38.0
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
