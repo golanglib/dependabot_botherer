@@ -521,7 +521,7 @@ require (
 	github.com/facebook/time v0.0.0-20250606160342-e4e39b629fe9
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
-	github.com/fclairamb/go-log v0.5.0
+	github.com/fclairamb/go-log v0.6.0
 	github.com/felixge/fgprof v0.9.5
 	github.com/felixge/httpsnoop v1.0.4
 	github.com/firefart/nonamedreturns v1.0.6
