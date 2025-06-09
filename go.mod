@@ -941,7 +941,7 @@ require (
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v1.1.0
-	github.com/linkedin/goavro/v2 v2.13.1
+	github.com/linkedin/goavro/v2 v2.14.0
 	github.com/linode/linodego v1.52.1
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
