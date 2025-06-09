@@ -1167,7 +1167,7 @@ require (
 	github.com/pjbgf/sha1cd v0.3.2
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/sftp v1.13.9
-	github.com/pkg/xattr v0.4.10
+	github.com/pkg/xattr v0.4.11
 	github.com/pkoukk/tiktoken-go v0.1.7
 	github.com/pkoukk/tiktoken-go-loader v0.0.1
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
