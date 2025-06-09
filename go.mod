@@ -1482,7 +1482,7 @@ require (
 	go.einride.tech/aip v0.70.3
 	go.etcd.io/bbolt v1.4.0
 	go.etcd.io/etcd/api/v3 v3.6.0
-	go.etcd.io/etcd/client/pkg/v3 v3.6.0
+	go.etcd.io/etcd/client/pkg/v3 v3.6.1
 	go.etcd.io/etcd/client/v2 v2.305.21
 	go.etcd.io/etcd/client/v3 v3.6.0
 	go.etcd.io/etcd/etcdctl/v3 v3.6.0
