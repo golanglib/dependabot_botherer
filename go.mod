@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250603165357-b52ab10f4468.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/auth v0.16.2
@@ -138,7 +138,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.5.0
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.13.6
+	github.com/SAP/go-hdb v1.13.7
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -313,7 +313,7 @@ require (
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
 	github.com/bombsimon/wsl/v4 v4.7.0
-	github.com/bool64/dev v0.2.39
+	github.com/bool64/dev v0.2.40
 	github.com/bool64/shared v0.1.5
 	github.com/boombuler/barcode v1.0.2
 	github.com/boschrexroth/ctrlx-datalayer-golang v1.3.1
@@ -387,7 +387,7 @@ require (
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.3
-	github.com/cloudwego/eino v0.3.41
+	github.com/cloudwego/eino v0.3.42
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250609134950-1d43f4416aea
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.11
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250609134950-1d43f4416aea
@@ -1102,7 +1102,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
 	github.com/openacid/low v0.1.21
-	github.com/openai/openai-go v1.4.0
+	github.com/openai/openai-go v1.5.0
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.2
 	github.com/opencontainers/go-digest v1.0.0
@@ -1114,7 +1114,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
-	github.com/oracle/oci-go-sdk/v65 v65.93.0
+	github.com/oracle/oci-go-sdk/v65 v65.93.1
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
@@ -1145,7 +1145,7 @@ require (
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
 	github.com/pion/ice/v2 v2.3.37
-	github.com/pion/interceptor v0.1.39
+	github.com/pion/interceptor v0.1.40
 	github.com/pion/logging v0.2.3
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
@@ -1286,7 +1286,7 @@ require (
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
 	github.com/signalfx/golib/v3 v3.3.55
 	github.com/signalfx/sapm-proto v0.17.0
-	github.com/sijms/go-ora/v2 v2.8.24
+	github.com/sijms/go-ora/v2 v2.9.0
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
 	github.com/sina-ghaderi/rabaead v0.0.0-20220730151906-ab6e06b96e8c
 	github.com/sina-ghaderi/rabbitio v0.0.0-20220730151941-9ce26f4f872e
