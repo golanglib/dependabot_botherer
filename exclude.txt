@@ -1,5 +1,5 @@
 code.gitea.io/gitea
-//go: code.gitea.io/gitea@latest (v1.23.8) requires github.com/charmbracelet/git-lfs-transfer@v0.2.0: reading github.com/charmbracelet/git-lfs-transfer/go.mod at revision v0.2.0: unknown revision v0.2.0
+//go: code.gitea.io/gitea@latest (v1.24.0) requires github.com/charmbracelet/git-lfs-transfer@v0.2.0: reading github.com/charmbracelet/git-lfs-transfer/go.mod at revision v0.2.0: unknown revision v0.2.0
 github.com/antlr/antlr4/runtime/Go/antlr/v4
 //go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20250524203111-09d527fddd8d) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20250524203111-09d527fddd8d: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
