@@ -233,7 +233,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.78
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.45.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.50.1
-	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
+	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.25.4
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.225.0
@@ -243,7 +243,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.3
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.20
-	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.31.0
+	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.31.1
 	github.com/aws/smithy-go v1.22.3
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20210630091500-54e17340d32f
@@ -963,7 +963,7 @@ require (
 	github.com/maratori/testableexamples v1.0.0
 	github.com/maratori/testpackage v1.1.1
 	github.com/marekm4/color-extractor v1.2.1
-	github.com/mark3labs/mcp-go v0.31.0
+	github.com/mark3labs/mcp-go v0.32.0
 	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.81.0
 	github.com/marten-seemann/qtls v0.10.0
@@ -994,12 +994,12 @@ require (
 	github.com/meilisearch/meilisearch-go v0.32.0
 	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
 	github.com/metacubex/chacha v0.1.2
-	github.com/metacubex/gvisor v0.0.0-20241126021258-5b028898cc5a
+	github.com/metacubex/gvisor v0.0.0-20250324165734-5857f47bd43b
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250523120938-f1a248e5ec7f
 	github.com/metacubex/sing-shadowsocks v0.2.10
 	github.com/metacubex/sing-shadowsocks2 v0.2.4
-	github.com/metacubex/sing-tun v0.4.5
+	github.com/metacubex/sing-tun v0.4.6
 	github.com/metacubex/sing-vmess v0.2.2
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
 	github.com/metacubex/tfo-go v0.0.0-20250516165257-e29c16ae41d4
@@ -1775,6 +1775,8 @@ require (
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250530094841-88286040d3c1 // indirect
+	github.com/metacubex/fswatch v0.1.1 // indirect
+	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
 	github.com/metacubex/quic-go v0.51.1-0.20250511032541-4e34341cf18b // indirect
 	github.com/metacubex/sing v0.5.3 // indirect
 	github.com/mgechev/dots v1.0.0 // indirect
