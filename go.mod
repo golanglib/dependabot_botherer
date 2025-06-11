@@ -231,7 +231,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.1
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.31
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.78
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.45.1
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.45.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.50.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.3
