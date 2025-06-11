@@ -197,7 +197,7 @@ github.com/imdario/mergo
 //	module declares its path as: dario.cat/mergo
 //	        but was required as: github.com/imdario/mergo
 github.com/jaegertracing/jaeger
-//[github.com/jaegertracing/jaeger] dir: /gopath/pkg/mod/github.com/jaegertracing/jaeger@v1.69.0
+//[github.com/jaegertracing/jaeger] dir: /gopath/pkg/mod/github.com/jaegertracing/jaeger@v1.70.0
 //[github.com/jaegertracing/jaeger] module has replace
 github.com/jirfag/go-printf-func-name
 //go: github.com/jirfag/go-printf-func-name@latest (v0.1.0) requires github.com/jirfag/go-printf-func-name@v0.1.0: parsing go.mod:
