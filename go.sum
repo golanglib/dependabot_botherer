@@ -4360,8 +4360,8 @@ github.com/perimeterx/marshmallow v1.1.5/go.mod h1:dsXbUu8CRzfYP5a87xpp0xq9S3u0V
 github.com/peterbourgon/diskv/v3 v3.0.1 h1:x06SQA46+PKIUftmEujdwSEpIx8kR+M9eLYsUxeYveU=
 github.com/peterbourgon/diskv/v3 v3.0.1/go.mod h1:kJ5Ny7vLdARGU3WUuy6uzO6T0nb/2gWcT1JiBvRmb5o=
 github.com/peterbourgon/ff/v3 v3.3.1/go.mod h1:zjJVUhx+twciwfDl0zBcFzl4dW8axCRyXE/eKY9RztQ=
-github.com/peterbourgon/unixtransport v0.0.4 h1:UTF0FxXCAglvoZz9jaGPYjEg52DjBLDYGMJvJni6Tfw=
-github.com/peterbourgon/unixtransport v0.0.4/go.mod h1:o8aUkOCa8W/BIXpi15uKvbSabjtBh0JhSOJGSfoOhAU=
+github.com/peterbourgon/unixtransport v0.0.5 h1:jZif8pJMVepB+7Dcwr0OiupqklNmw/33WpLqKN+m/OU=
+github.com/peterbourgon/unixtransport v0.0.5/go.mod h1:o8aUkOCa8W/BIXpi15uKvbSabjtBh0JhSOJGSfoOhAU=
 github.com/petermattis/goid v0.0.0-20240813172612-4fcff4a6cae7 h1:Dx7Ovyv/SFnMFw3fD4oEoeorXc6saIiQ23LrGLth0Gw=
 github.com/petermattis/goid v0.0.0-20240813172612-4fcff4a6cae7/go.mod h1:pxMtw7cyUw6B2bRH0ZBANSPg+AoSud1I1iyJHI69jH4=
 github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2 h1:JhzVVoYvbOACxoUmOs6V/G4D5nPVUW73rKvXxP4XUJc=

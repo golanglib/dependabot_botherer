@@ -1137,7 +1137,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/perimeterx/marshmallow v1.1.5
 	github.com/peterbourgon/diskv/v3 v3.0.1
-	github.com/peterbourgon/unixtransport v0.0.4
+	github.com/peterbourgon/unixtransport v0.0.5
 	github.com/philhofer/fwd v1.1.3-0.20240916144458-20a13a1f6b7c
 	github.com/pierrec/lz4/v4 v4.1.22
 	github.com/pion/datachannel v1.5.10
