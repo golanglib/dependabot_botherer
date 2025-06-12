@@ -767,7 +767,7 @@ require (
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
 	github.com/hairyhenderson/go-codeowners v0.7.0
 	github.com/hanwen/go-fuse v1.0.0
-	github.com/hanwen/go-fuse/v2 v2.7.2
+	github.com/hanwen/go-fuse/v2 v2.8.0
 	github.com/hanzoai/gochimp3 v0.0.0-20241127054040-6051f77e24f1
 	github.com/harlow/kinesis-consumer v0.3.6
 	github.com/hashicorp/errwrap v1.1.0
