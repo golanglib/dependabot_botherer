@@ -41,7 +41,7 @@ github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal/v3
 github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal
 //[github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal] module is internal
 github.com/bufbuild/protovalidate-go
-//go: github.com/bufbuild/protovalidate-go@latest (v0.13.0) requires github.com/bufbuild/protovalidate-go@v0.13.0: parsing go.mod:
+//go: github.com/bufbuild/protovalidate-go@latest (v0.13.1) requires github.com/bufbuild/protovalidate-go@v0.13.1: parsing go.mod:
 //	module declares its path as: buf.build/go/protovalidate
 //	        but was required as: github.com/bufbuild/protovalidate-go
 github.com/cosmtrek/air
