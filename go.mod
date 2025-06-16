@@ -692,7 +692,7 @@ require (
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3
-	github.com/google/go-containerregistry v0.20.5
+	github.com/google/go-containerregistry v0.20.6
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/go-github/v45 v45.2.0
@@ -1718,7 +1718,7 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.11 // indirect
-	github.com/docker/cli v28.1.1+incompatible // indirect
+	github.com/docker/cli v28.2.2+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker v28.2.2+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
