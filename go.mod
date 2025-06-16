@@ -631,7 +631,7 @@ require (
 	github.com/go-toolsmith/pkgload v1.2.2
 	github.com/go-toolsmith/strparse v1.1.0
 	github.com/go-toolsmith/typep v1.1.0
-	github.com/go-viper/mapstructure/v2 v2.2.1
+	github.com/go-viper/mapstructure/v2 v2.3.0
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.13.0
 	github.com/go-webauthn/x v0.1.21
