@@ -1410,7 +1410,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20250526213830-144cabb1138d
 	github.com/vbatts/tar-split v0.12.1
-	github.com/vektah/gqlparser/v2 v2.5.27
+	github.com/vektah/gqlparser/v2 v2.5.28
 	github.com/vektra/mockery/v2 v2.53.4
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
