@@ -1120,7 +1120,7 @@ require (
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
 	github.com/otiai10/copy v1.14.1
 	github.com/otiai10/mint v1.6.3
-	github.com/ovh/go-ovh v1.7.0
+	github.com/ovh/go-ovh v1.8.0
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/owenrumney/go-sarif/v2 v2.3.3
 	github.com/p4lang/p4runtime v1.4.1
