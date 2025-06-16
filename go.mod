@@ -380,7 +380,7 @@ require (
 	github.com/clbanning/mxj/v2 v2.7.0
 	github.com/cli/safeexec v1.0.1
 	github.com/cloudevents/sdk-go v1.2.0
-	github.com/cloudevents/sdk-go/v2 v2.16.0
+	github.com/cloudevents/sdk-go/v2 v2.16.1
 	github.com/cloudflare/cfssl v1.6.5
 	github.com/cloudflare/circl v1.6.1
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
