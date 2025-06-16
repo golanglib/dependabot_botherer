@@ -1398,7 +1398,7 @@ require (
 	github.com/unidoc/unitype v0.5.1
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
-	github.com/urfave/cli v1.22.16
+	github.com/urfave/cli v1.22.17
 	github.com/urfave/cli/v2 v2.27.6
 	github.com/uudashr/gocognit v1.2.0
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
