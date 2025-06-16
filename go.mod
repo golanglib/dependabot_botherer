@@ -47,7 +47,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920
 	github.com/4meepo/tagalign v1.4.2
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.74
+	github.com/99designs/gqlgen v0.17.75
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.6
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -386,7 +386,7 @@ require (
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
-	github.com/cloudwego/dynamicgo v0.6.3
+	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.43
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250612061754-5a3deb091dc5
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.12
@@ -398,13 +398,13 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250612061754-5a3deb091dc5
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
-	github.com/cloudwego/gopkg v0.1.4
+	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
-	github.com/cloudwego/kitex v0.13.1
+	github.com/cloudwego/kitex v0.14.0
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250612082531-c42c19367947
 	github.com/cloudwego/localsession v0.1.2
-	github.com/cloudwego/netpoll v0.7.0
+	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thriftgo v0.4.2
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
@@ -464,7 +464,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf
-	github.com/digitalocean/godo v1.151.0
+	github.com/digitalocean/godo v1.152.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -631,7 +631,7 @@ require (
 	github.com/go-toolsmith/pkgload v1.2.2
 	github.com/go-toolsmith/strparse v1.1.0
 	github.com/go-toolsmith/typep v1.1.0
-	github.com/go-viper/mapstructure/v2 v2.2.1
+	github.com/go-viper/mapstructure/v2 v2.3.0
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.13.0
 	github.com/go-webauthn/x v0.1.21
@@ -692,7 +692,7 @@ require (
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3
-	github.com/google/go-containerregistry v0.20.5
+	github.com/google/go-containerregistry v0.20.6
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/go-github/v45 v45.2.0
@@ -718,7 +718,7 @@ require (
 	github.com/google/logger v1.1.1
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/pprof v0.0.0-20250403155104-27863c87afa6
+	github.com/google/pprof v0.0.0-20250607225305-033d6d78b36a
 	github.com/google/s2a-go v0.1.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
@@ -824,7 +824,7 @@ require (
 	github.com/huandu/xstrings v1.5.0
 	github.com/iancoleman/orderedmap v0.3.0
 	github.com/iancoleman/strcase v0.3.0
-	github.com/ianlancetaylor/demangle v0.0.0-20240912202439-0a2b6291aafd
+	github.com/ianlancetaylor/demangle v0.0.0-20250417193237-f615e6bd150b
 	github.com/inconshreveable/mousetrap v1.1.0
 	github.com/incu6us/goimports-reviser v0.1.6
 	github.com/incu6us/goimports-reviser/v3 v3.9.1
@@ -1120,7 +1120,7 @@ require (
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
 	github.com/otiai10/copy v1.14.1
 	github.com/otiai10/mint v1.6.3
-	github.com/ovh/go-ovh v1.7.0
+	github.com/ovh/go-ovh v1.8.0
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/owenrumney/go-sarif/v2 v2.3.3
 	github.com/p4lang/p4runtime v1.4.1
@@ -1150,7 +1150,7 @@ require (
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.18
+	github.com/pion/rtp v1.8.19
 	github.com/pion/sctp v1.8.39
 	github.com/pion/sdp/v3 v3.0.13
 	github.com/pion/srtp v1.5.2
@@ -1260,7 +1260,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.11.0
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.22.4
+	github.com/securego/gosec/v2 v2.22.5
 	github.com/segmentio/asm v1.2.0
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.48
@@ -1387,7 +1387,7 @@ require (
 	github.com/twmb/murmur3 v1.1.8
 	github.com/u-root/uio v0.0.0-20240224005618-d2acac8f3701
 	github.com/ugorji/go v1.2.14
-	github.com/ugorji/go/codec v1.2.14
+	github.com/ugorji/go/codec v1.3.0
 	github.com/ulikunitz/xz v0.5.12
 	github.com/ultraware/funlen v0.2.0
 	github.com/ultraware/whitespace v0.2.0
@@ -1398,8 +1398,8 @@ require (
 	github.com/unidoc/unitype v0.5.1
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
-	github.com/urfave/cli v1.22.16
-	github.com/urfave/cli/v2 v2.27.6
+	github.com/urfave/cli v1.22.17
+	github.com/urfave/cli/v2 v2.27.7
 	github.com/uudashr/gocognit v1.2.0
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
@@ -1410,7 +1410,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20250526213830-144cabb1138d
 	github.com/vbatts/tar-split v0.12.1
-	github.com/vektah/gqlparser/v2 v2.5.27
+	github.com/vektah/gqlparser/v2 v2.5.28
 	github.com/vektra/mockery/v2 v2.53.4
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
@@ -1424,7 +1424,7 @@ require (
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.15
 	github.com/volcengine/volc-sdk-golang v1.0.211
-	github.com/volcengine/volcengine-go-sdk v1.1.16
+	github.com/volcengine/volcengine-go-sdk v1.1.17
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1479,7 +1479,7 @@ require (
 	go-simpler.org/sloglint v0.11.0
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.70.3
+	go.einride.tech/aip v0.71.0
 	go.etcd.io/bbolt v1.4.1
 	go.etcd.io/etcd/api/v3 v3.6.1
 	go.etcd.io/etcd/client/pkg/v3 v3.6.1
@@ -1553,7 +1553,7 @@ require (
 	google.golang.org/api v0.237.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250505200425-f936aa4a68b2
-	google.golang.org/genproto/googleapis/api v0.0.0-20250528174236-200df99c418a
+	google.golang.org/genproto/googleapis/api v0.0.0-20250603155806-513f23925822
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250603155806-513f23925822
 	google.golang.org/grpc v1.73.0
 	google.golang.org/protobuf v1.36.6
@@ -1604,7 +1604,7 @@ require (
 	modernc.org/ccgo/v4 v4.28.0
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.2
-	modernc.org/fileutil v1.3.4
+	modernc.org/fileutil v1.3.6
 	modernc.org/gc/v2 v2.6.5
 	modernc.org/gc/v3 v3.1.0
 	modernc.org/httpfs v1.0.6
@@ -1718,7 +1718,7 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dmarkham/enumer v1.5.11 // indirect
-	github.com/docker/cli v28.1.1+incompatible // indirect
+	github.com/docker/cli v28.2.2+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker v28.2.2+incompatible // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
