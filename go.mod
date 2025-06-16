@@ -47,7 +47,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920
 	github.com/4meepo/tagalign v1.4.2
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.74
+	github.com/99designs/gqlgen v0.17.75
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.6
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -1399,7 +1399,7 @@ require (
 	github.com/unknwon/com v1.0.1
 	github.com/unrolled/render v1.7.0
 	github.com/urfave/cli v1.22.17
-	github.com/urfave/cli/v2 v2.27.6
+	github.com/urfave/cli/v2 v2.27.7
 	github.com/uudashr/gocognit v1.2.0
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
