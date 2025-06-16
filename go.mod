@@ -386,7 +386,7 @@ require (
 	github.com/cloudsoda/go-smb2 v0.0.0-20241223203758-52b943b88fd6
 	github.com/cloudwego/base64x v0.1.5
 	github.com/cloudwego/configmanager v0.2.3
-	github.com/cloudwego/dynamicgo v0.6.3
+	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.43
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250612061754-5a3deb091dc5
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.12
@@ -398,15 +398,15 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250612061754-5a3deb091dc5
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.5
-	github.com/cloudwego/gopkg v0.1.4
+	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
-	github.com/cloudwego/kitex v0.13.1
+	github.com/cloudwego/kitex v0.14.0
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250612082531-c42c19367947
 	github.com/cloudwego/localsession v0.1.2
-	github.com/cloudwego/netpoll v0.7.0
+	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
-	github.com/cloudwego/thriftgo v0.4.1
+	github.com/cloudwego/thriftgo v0.4.2
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
 	github.com/cncf/xds/go v0.0.0-20250326154945-ae57f3c0d45f
 	github.com/cockroachdb/datadriven v1.0.2
