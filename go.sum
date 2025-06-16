@@ -5304,8 +5304,8 @@ github.com/vbatts/go-mtree v0.5.4 h1:OMAb8jaCyiFA7zXj0Zc/oARcxBDBoeu2LizjB8BVJl0
 github.com/vbatts/go-mtree v0.5.4/go.mod h1:5GqJbVhm9BBiCc4K5uc/c42FPgXulHaQs4sFUEfIWMo=
 github.com/vbatts/tar-split v0.12.1 h1:CqKoORW7BUWBe7UL/iqTVvkTBOF8UvOMKOIZykxnnbo=
 github.com/vbatts/tar-split v0.12.1/go.mod h1:eF6B6i6ftWQcDqEn3/iGFRFRo8cBIMSJVOpnNdfTMFA=
-github.com/vektah/gqlparser/v2 v2.5.27 h1:RHPD3JOplpk5mP5JGX8RKZkt2/Vwj/PZv0HxTdwFp0s=
-github.com/vektah/gqlparser/v2 v2.5.27/go.mod h1:D1/VCZtV3LPnQrcPBeR/q5jkSQIPti0uYCP/RI0gIeo=
+github.com/vektah/gqlparser/v2 v2.5.28 h1:bIulcl3LF69ba6EiZVGD88y4MkM+Jxrf3P2MX8xLRkY=
+github.com/vektah/gqlparser/v2 v2.5.28/go.mod h1:D1/VCZtV3LPnQrcPBeR/q5jkSQIPti0uYCP/RI0gIeo=
 github.com/vektra/mockery/v2 v2.53.4 h1:abBWJLUQppM7T/VsLasBwgl7XXQRWH6lC3bnbJpOCLk=
 github.com/vektra/mockery/v2 v2.53.4/go.mod h1:hIFFb3CvzPdDJJiU7J4zLRblUMv7OuezWsHPmswriwo=
 github.com/viant/assertly v0.4.8/go.mod h1:aGifi++jvCrUaklKEKT0BU95igDNaqkvz+49uaYMPRU=
