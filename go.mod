@@ -1610,7 +1610,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.65.10
+	modernc.org/libc v1.66.0
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.11.0
 	modernc.org/opt v0.1.4
