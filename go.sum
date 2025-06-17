@@ -1021,8 +1021,8 @@ github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3 h1:hhdWprfSpFbN7lz3W
 github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3/go.mod h1:XaUnRxSCYgL3kkgX0QHIV0D+znljPIDImxlv2kbGv0Y=
 github.com/abbot/go-http-auth v0.4.0 h1:QjmvZ5gSC7jm3Zg54DqWE/T5m1t2AfDu6QlXJT0EVT0=
 github.com/abbot/go-http-auth v0.4.0/go.mod h1:Cz6ARTIzApMJDzh5bRMSUou6UMSp0IEXg9km/ci7TJM=
-github.com/abice/go-enum v0.6.1 h1:IyOseasFyBOeunA03jWqaFtuH1CDP+7gp0FKZCDZauc=
-github.com/abice/go-enum v0.6.1/go.mod h1:RfzB7jxNRG88N1q2Vnb6NK/gVysUWG1Ph5U6GDcLXBE=
+github.com/abice/go-enum v0.7.0 h1:jhtzTu0bul0zkVi0SI3vUB5cYvKW5n/AgtHn+cRGE+o=
+github.com/abice/go-enum v0.7.0/go.mod h1:RfzB7jxNRG88N1q2Vnb6NK/gVysUWG1Ph5U6GDcLXBE=
 github.com/acomagu/bufpipe v1.0.4 h1:e3H4WUzM3npvo5uv95QuJM3cQspFNtFBzvJ2oNjKIDQ=
 github.com/acomagu/bufpipe v1.0.4/go.mod h1:mxdxdup/WdsKVreO5GpW4+M/1CE2sMG4jeGJ2sYmHc4=
 github.com/adrg/xdg v0.5.3 h1:xRnxJXne7+oWDatRhR1JLnvuccuIeCoBu2rtuLqQB78=
