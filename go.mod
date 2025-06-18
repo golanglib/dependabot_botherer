@@ -360,7 +360,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.10.0
 	github.com/charmbracelet/lipgloss v1.1.1-0.20250404203927-76690c660834
-	github.com/charmbracelet/x/ansi v0.9.2
+	github.com/charmbracelet/x/ansi v0.9.3
 	github.com/charmbracelet/x/exp/golden v0.0.0-20241011142426-46044092ad91
 	github.com/charmbracelet/x/term v0.2.1
 	github.com/chavacava/garif v0.1.0
