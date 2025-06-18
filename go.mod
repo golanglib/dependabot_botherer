@@ -227,7 +227,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.36.5
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.11
 	github.com/aws/aws-sdk-go-v2/config v1.29.16
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.69
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.70
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.3
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.32
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.79
