@@ -898,7 +898,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
 	github.com/kaptinlin/go-i18n v0.1.4
-	github.com/kaptinlin/jsonschema v0.4.2
+	github.com/kaptinlin/jsonschema v0.4.3
 	github.com/karamaru-alpha/copyloopvar v1.2.1
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.11
