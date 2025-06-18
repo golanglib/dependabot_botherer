@@ -388,21 +388,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.43
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250617072335-ea672a499f00
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250618074023-43c9d2687195
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.13
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250617072335-ea672a499f00
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250617072335-ea672a499f00
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250618074023-43c9d2687195
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250618074023-43c9d2687195
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250617072335-ea672a499f00
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250618021627-25c72caea350
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250618074023-43c9d2687195
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250618074023-43c9d2687195
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.0
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250616085016-9d69bf5bbe03
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250618035352-918985c2c59f
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
@@ -437,7 +437,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250604025746-0d3b62f445d2
+	github.com/coze-dev/coze-go v0.0.0-20250618114346-4bad091fdee1
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
@@ -518,7 +518,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.5
-	github.com/facebook/time v0.0.0-20250617133737-abc95e471140
+	github.com/facebook/time v0.0.0-20250618165657-dcac5a7ad8fc
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
