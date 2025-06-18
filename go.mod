@@ -397,7 +397,7 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250617072335-ea672a499f00
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250618021627-25c72caea350
 	github.com/cloudwego/fastpb v0.0.5
-	github.com/cloudwego/frugal v0.2.5
+	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.0
 	github.com/cloudwego/iasm v0.2.0
@@ -781,7 +781,7 @@ require (
 	github.com/hashicorp/go-msgpack v0.5.5
 	github.com/hashicorp/go-msgpack/v2 v2.1.3
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/hashicorp/go-retryablehttp v0.7.7
+	github.com/hashicorp/go-retryablehttp v0.7.8
 	github.com/hashicorp/go-rootcerts v1.0.2
 	github.com/hashicorp/go-safetemp v1.0.0
 	github.com/hashicorp/go-secure-stdlib/awsutil v0.3.0
@@ -1550,7 +1550,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.237.0
+	google.golang.org/api v0.238.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250505200425-f936aa4a68b2
 	google.golang.org/genproto/googleapis/api v0.0.0-20250603155806-513f23925822
