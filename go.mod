@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250613105001-9f2d3c737feb.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/auth v0.16.2
@@ -388,14 +388,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.44
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250618074023-43c9d2687195
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250620100056-146b562f0c16
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.13
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250618074023-43c9d2687195
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250618074023-43c9d2687195
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250620100056-146b562f0c16
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250620100056-146b562f0c16
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250618074023-43c9d2687195
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250618074023-43c9d2687195
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250620100056-146b562f0c16
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250620100056-146b562f0c16
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -437,7 +437,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250618114346-4bad091fdee1
+	github.com/coze-dev/coze-go v0.0.0-20250620153542-6f7482acf448
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
@@ -1737,7 +1737,6 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
-	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32 // indirect
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
@@ -1775,7 +1774,7 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
-	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250530094841-88286040d3c1 // indirect
+	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250620092828-0d508a1dcdde // indirect
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
 	github.com/metacubex/quic-go v0.51.1-0.20250511032541-4e34341cf18b // indirect
