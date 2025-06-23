@@ -1952,8 +1952,8 @@ github.com/couchbase/goutils v0.1.2/go.mod h1:h89Ek/tiOxxqjz30nPPlwZdQbdB8BwgnuB
 github.com/couchbase/moss v0.1.0/go.mod h1:9MaHIaRuy9pvLPUJxB8sh8OrLfyDczECVL37grCIubs=
 github.com/couchbase/vellum v1.0.2 h1:BrbP0NKiyDdndMPec8Jjhy0U47CZ0Lgx3xUC2r9rZqw=
 github.com/couchbase/vellum v1.0.2/go.mod h1:FcwrEivFpNi24R3jLOs3n+fs5RnuQnQqCLBJ1uAg1W4=
-github.com/coze-dev/coze-go v0.0.0-20250620153542-6f7482acf448 h1:ii4cbuwZlt+TvlglVS997/HJ5wSMPUt3WRJkdopz6g0=
-github.com/coze-dev/coze-go v0.0.0-20250620153542-6f7482acf448/go.mod h1:OKwE5NXD7dUhGUtRyFPdBufz1npuNNmEG7yWjv9a5f0=
+github.com/coze-dev/coze-go v0.0.0-20250622070609-0a65e1db21ea h1:0fzwILaxT/iPQbE+Fv02L+1IzgquqgsXJa5ga9jE3u4=
+github.com/coze-dev/coze-go v0.0.0-20250622070609-0a65e1db21ea/go.mod h1:OKwE5NXD7dUhGUtRyFPdBufz1npuNNmEG7yWjv9a5f0=
 github.com/cpu/goacmedns v0.0.1/go.mod h1:sesf/pNnCYwUevQEQfEwY0Y3DydlQWSGZbaMElOWxok=
 github.com/cpu/goacmedns v0.0.2/go.mod h1:4MipLkI+qScwqtVxcNO6okBhbgRrr7/tKXUSgSL0teQ=
 github.com/cpuguy83/dockercfg v0.3.2 h1:DlJTyZGBDlXqUZ2Dk2Q3xHs/FtnooJJVaad2S9GKorA=
