@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250613105001-9f2d3c737feb.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.2
 	cloud.google.com/go/auth v0.16.2
@@ -464,7 +464,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf
-	github.com/digitalocean/godo v1.152.0
+	github.com/digitalocean/godo v1.154.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -657,7 +657,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.147.8
+	github.com/gohugoio/hugo v0.147.9
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -1179,7 +1179,7 @@ require (
 	github.com/prometheus-community/pro-bing v0.7.0
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/client_model v0.6.2
-	github.com/prometheus/common v0.64.0
+	github.com/prometheus/common v0.65.0
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.16.1
 	github.com/prometheus/prom2json v1.4.2
@@ -1422,7 +1422,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.51.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
-	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.16
+	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.17
 	github.com/volcengine/volc-sdk-golang v1.0.212
 	github.com/volcengine/volcengine-go-sdk v1.1.18
 	github.com/vulcand/oxy v1.4.2
@@ -1512,7 +1512,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.36.0
 	go.opentelemetry.io/proto/otlp v1.7.0
 	go.starlark.net v0.0.0-20250417143717-f57e51f710eb
-	go.step.sm/crypto v0.66.0
+	go.step.sm/crypto v0.67.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.19.0

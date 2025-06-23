@@ -5,8 +5,8 @@
 bazil.org/fuse v0.0.0-20180421153158-65cc252bf669/go.mod h1:Xbm+BRKSBEpa4q4hTSxohYNQpsxXPbPry4JJWOB3LB8=
 bitbucket.org/creachadair/stringset v0.0.14 h1:t1ejQyf8utS4GZV/4fM+1gvYucggZkfhb+tMobDxYOE=
 bitbucket.org/creachadair/stringset v0.0.14/go.mod h1:Ej8fsr6rQvmeMDf6CCWMWGb14H9mz8kmDgPPTdiVT0w=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1 h1:tdpHgTbmbvEIARu+bixzmleMi14+3imnpoFXz+Qzjp4=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1/go.mod h1:xafc+XIsTxTy76GJQ1TKgvJWsSugFBqMaN27WhUblew=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250613105001-9f2d3c737feb.1 h1:AUL6VF5YWL01j/1H/DQbPUSDkEwYqwVCNw7yhbpOxSQ=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250613105001-9f2d3c737feb.1/go.mod h1:avRlCjnFzl98VPaeCtJ24RrV/wwHFzB8sWXhj26+n/U=
 cel.dev/expr v0.24.0 h1:56OvJKSH3hDGL0ml5uSxZmz3/3Pq4tJ+fb1unVLAFcY=
 cel.dev/expr v0.24.0/go.mod h1:hLPLo1W4QUmuYdA72RBX06QTs6MXw941piREPl3Yfiw=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
@@ -2055,8 +2055,8 @@ github.com/dgryski/trifles v0.0.0-20230903005119-f50d829f2e54 h1:SG7nF6SRlWhcT7c
 github.com/dgryski/trifles v0.0.0-20230903005119-f50d829f2e54/go.mod h1:if7Fbed8SFyPtHLHbg49SI7NAdJiC5WIA09pe59rfAA=
 github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf h1:h4rZWky29dm4Az+qm/CYEryhHpNhbxpeyOvENErNeQ8=
 github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf/go.mod h1:gif07jzN8UZdvL//uvbtFMEkvKWGiYr4y4KWdrNj36o=
-github.com/digitalocean/godo v1.152.0 h1:WRgkPMogZSXEJK70IkZKTB/PsMn16hMQ+NI3wCIQdzA=
-github.com/digitalocean/godo v1.152.0/go.mod h1:tYeiWY5ZXVpU48YaFv0M5irUFHXGorZpDNm7zzdWMzM=
+github.com/digitalocean/godo v1.154.0 h1:Z/YmnJ2uGPaRZOc6EL+E1M4PKvDweCsr1z8CMaq2mlE=
+github.com/digitalocean/godo v1.154.0/go.mod h1:tYeiWY5ZXVpU48YaFv0M5irUFHXGorZpDNm7zzdWMzM=
 github.com/dimchansky/utfbom v1.0.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dimchansky/utfbom v1.1.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dimchansky/utfbom v1.1.1 h1:vV6w1AhK4VMnhBno/TPVCoK9U/LP0PkLCS9tbxHdi/U=
@@ -2668,8 +2668,8 @@ github.com/gohugoio/hashstructure v0.5.0 h1:G2fjSBU36RdwEJBWJ+919ERvOVqAg9tfcYp4
 github.com/gohugoio/hashstructure v0.5.0/go.mod h1:Ser0TniXuu/eauYmrwM4o64EBvySxNzITEOLlm4igec=
 github.com/gohugoio/httpcache v0.7.0 h1:ukPnn04Rgvx48JIinZvZetBfHaWE7I01JR2Q2RrQ3Vs=
 github.com/gohugoio/httpcache v0.7.0/go.mod h1:fMlPrdY/vVJhAriLZnrF5QpN3BNAcoBClgAyQd+lGFI=
-github.com/gohugoio/hugo v0.147.8 h1:5kSwq8H3grK1MKJ+y521ElxKm8fB3A4SOOsu2Q7rdHE=
-github.com/gohugoio/hugo v0.147.8/go.mod h1:9vbGCmOP9fKPLhibSQcbqlE7LxynAoKTIZL9DVsn/NU=
+github.com/gohugoio/hugo v0.147.9 h1:a9jMXIiIJz6McYIZw1eXzH7TyfxsTmrr/1Sn94dsHqI=
+github.com/gohugoio/hugo v0.147.9/go.mod h1:NM+37OENb3UodpTmsZ5PhwNZF3GOsvUgqZQ0n8mCj1U=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0 h1:gj49kTR5Z4Hnm0ZaQrgPVazL3DUkppw+x6XhHCmh+Wk=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0/go.mod h1:IMMj7xiUbLt1YNJ6m7AM4cnsX4cFnnfkleO/lBHGzUg=
 github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1 h1:nUzXfRTszLliZuN0JTKeunXTRaiFX6ksaWP0puLLYAY=
@@ -4550,8 +4550,8 @@ github.com/prometheus/common v0.10.0/go.mod h1:Tlit/dnDKsSWFlCLTWaA1cyBgKHSMdTB8
 github.com/prometheus/common v0.26.0/go.mod h1:M7rCNAaPfAosfx8veZJCuw84e35h3Cfd9VFqTh1DIvc=
 github.com/prometheus/common v0.29.0/go.mod h1:vu+V0TpY+O6vW9J44gczi3Ap/oXXR10b+M/gUGO4Hls=
 github.com/prometheus/common v0.30.0/go.mod h1:vu+V0TpY+O6vW9J44gczi3Ap/oXXR10b+M/gUGO4Hls=
-github.com/prometheus/common v0.64.0 h1:pdZeA+g617P7oGv1CzdTzyeShxAGrTBsolKNOLQPGO4=
-github.com/prometheus/common v0.64.0/go.mod h1:0gZns+BLRQ3V6NdaerOhMbwwRbNh9hkGINtQAsP5GS8=
+github.com/prometheus/common v0.65.0 h1:QDwzd+G1twt//Kwj/Ww6E9FQq1iVMmODnILtW1t2VzE=
+github.com/prometheus/common v0.65.0/go.mod h1:0gZns+BLRQ3V6NdaerOhMbwwRbNh9hkGINtQAsP5GS8=
 github.com/prometheus/common/sigv4 v0.1.0 h1:qoVebwtwwEhS85Czm2dSROY5fTo2PAPEVdDeppTwGX4=
 github.com/prometheus/common/sigv4 v0.1.0/go.mod h1:2Jkxxk9yYvCkE5G1sQT7GuEXm57JrvHu9k5YwTjsNtI=
 github.com/prometheus/procfs v0.0.0-20180725123919-05ee40e3a273/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
@@ -5336,8 +5336,8 @@ github.com/vmware/govmomi v0.51.0 h1:n3RLS9aw/irTOKbiIyJzAb6rOat4YOVv/uDoRsNTSQI
 github.com/vmware/govmomi v0.51.0/go.mod h1:3ywivawGRfMP2SDCeyKqxTl2xNIHTXF0ilvp72dot5A=
 github.com/volcengine/ve-tos-golang-sdk v0.2.2 h1:CY7GDsCzLZY/DDUi8sGgCZboRLfEJLNUVvnvOt+1iUU=
 github.com/volcengine/ve-tos-golang-sdk v0.2.2/go.mod h1:FOtBV2Nceh5vaaY5SOjaNlqVYiLOwsxpOzKhYod9LBQ=
-github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.16 h1:fYTNiUEIRb15T3Anlss0gTy+FAFL7OwOv2mEdK/Z8Cs=
-github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.16/go.mod h1:IrjK84IJJTuOZOTMv/P18Ydjy/x+ow7fF7q11jAxXLM=
+github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.17 h1:j3czHCTIG/xwjzQ71bwM57+Wg7R1XTe757o6PeCh+B4=
+github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.17/go.mod h1:IrjK84IJJTuOZOTMv/P18Ydjy/x+ow7fF7q11jAxXLM=
 github.com/volcengine/volc-sdk-golang v1.0.23/go.mod h1:AfG/PZRUkHJ9inETvbjNifTDgut25Wbkm2QoYBTbvyU=
 github.com/volcengine/volc-sdk-golang v1.0.212 h1:evyoDoYTPqc1j23cnTnbHO7Vu813O2VERWQ/FVm8z+k=
 github.com/volcengine/volc-sdk-golang v1.0.212/go.mod h1:stZX+EPgv1vF4nZwOlEe8iGcriUPRBKX8zA19gXycOQ=
@@ -5645,8 +5645,8 @@ go.opentelemetry.io/proto/otlp v1.7.0/go.mod h1:fSKjH6YJ7HDlwzltzyMj036AJ3ejJLCg
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 go.starlark.net v0.0.0-20250417143717-f57e51f710eb h1:zOg9DxxrorEmgGUr5UPdCEwKqiqG0MlZciuCuA3XiDE=
 go.starlark.net v0.0.0-20250417143717-f57e51f710eb/go.mod h1:YKMCv9b1WrfWmeqdV5MAuEHWsu5iC+fe6kYl2sQjdI8=
-go.step.sm/crypto v0.66.0 h1:9TW6BEguOtcS9NIjja9bDQ+j8OjhenU/F6lJfHjbXNU=
-go.step.sm/crypto v0.66.0/go.mod h1:anqGyvO/Px05D1mznHq4/a9wwP1I1DmMZvk+TWX5Dzo=
+go.step.sm/crypto v0.67.0 h1:1km9LmxMKG/p+mKa1R4luPN04vlJYnRLlLQrWv7egGU=
+go.step.sm/crypto v0.67.0/go.mod h1:+AoDpB0mZxbW/PmOXuwkPSpXRgaUaoIK+/Wx/HGgtAU=
 go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
 go.uber.org/atomic v1.4.0/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
 go.uber.org/atomic v1.5.0/go.mod h1:sABNBOSYdrvTF6hTgEIbc7YasKWGhgEQZyfxyTvoXHQ=
@@ -6719,7 +6719,6 @@ google.golang.org/protobuf v1.28.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqw
 google.golang.org/protobuf v1.28.1/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.29.1/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.30.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
-google.golang.org/protobuf v1.31.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.36.6 h1:z1NpPI8ku2WgiWnf+t9wTPsn6eP1L7ksHUlkfLvd9xY=
 google.golang.org/protobuf v1.36.6/go.mod h1:jduwjTPXsFjZGTmRluh+L6NjiWu7pchiJ2/5YcXBHnY=
 gopkg.in/AlecAivazis/survey.v1 v1.8.8 h1:5UtTowJZTz1j7NxVzDGKTz6Lm9IWm8DDF6b7a2wq9VY=
