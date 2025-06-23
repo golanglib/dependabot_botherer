@@ -3840,8 +3840,8 @@ github.com/meilisearch/meilisearch-go v0.32.0 h1:cWcycpONSH3VLTZ5npUl1O5aXPkNM0v
 github.com/meilisearch/meilisearch-go v0.32.0/go.mod h1:aNtyuwurDg/ggxQIcKqWH6G9g2ptc8GyY7PLY4zMn/g=
 github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399 h1:oBowHVKZycNtAFbZ6avaCSZJYeme2Nrj+4RpV2cNJig=
 github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399/go.mod h1:4xcieuIK+M4bGQmQYZVqEaIYqjS1ahO4kXG7EmDgEro=
-github.com/metacubex/chacha v0.1.2 h1:QulCq3eVm3TO6+4nVIWJtmSe7BT2GMrgVHuAoqRQnlc=
-github.com/metacubex/chacha v0.1.2/go.mod h1:Djn9bPZxLTXbJFSeyo0/qzEzQI+gUSSzttuzZM75GH8=
+github.com/metacubex/chacha v0.1.5 h1:fKWMb/5c7ZrY8Uoqi79PPFxl+qwR7X/q0OrsAubyX2M=
+github.com/metacubex/chacha v0.1.5/go.mod h1:Djn9bPZxLTXbJFSeyo0/qzEzQI+gUSSzttuzZM75GH8=
 github.com/metacubex/fswatch v0.1.1 h1:jqU7C/v+g0qc2RUFgmAOPoVvfl2BXXUXEumn6oQuxhU=
 github.com/metacubex/fswatch v0.1.1/go.mod h1:czrTT7Zlbz7vWft8RQu9Qqh+JoX+Nnb+UabuyN1YsgI=
 github.com/metacubex/gvisor v0.0.0-20250324165734-5857f47bd43b h1:RUh4OdVPz/jDrM9MQ2ySuqu2aeBqcA8rtfWUYLZ8RtI=
