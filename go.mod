@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250625184727-c923a0c2a132.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.3
 	cloud.google.com/go/auth v0.16.2
@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.226.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.3
 	github.com/aws/aws-sdk-go-v2/service/kms v1.41.1
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.81.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.82.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.5
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.3
 	github.com/aws/aws-sdk-go-v2/service/sts v1.34.0
@@ -1424,7 +1424,7 @@ require (
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.17
 	github.com/volcengine/volc-sdk-golang v1.0.212
-	github.com/volcengine/volcengine-go-sdk v1.1.18
+	github.com/volcengine/volcengine-go-sdk v1.1.19
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
@@ -1497,14 +1497,14 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib v1.36.0
+	go.opentelemetry.io/contrib v1.37.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.36.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.61.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.61.0
 	go.opentelemetry.io/contrib/propagators/aws v1.36.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.36.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.36.0
-	go.opentelemetry.io/contrib/propagators/ot v1.36.0
+	go.opentelemetry.io/contrib/propagators/ot v1.37.0
 	go.opentelemetry.io/otel v1.37.0
 	go.opentelemetry.io/otel/metric v1.37.0
 	go.opentelemetry.io/otel/sdk v1.37.0
@@ -1599,7 +1599,7 @@ require (
 	lukechampine.com/blake3 v1.4.1
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.26.1
+	modernc.org/cc/v4 v4.26.2
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.28.0
 	modernc.org/ccorpus v1.11.6
