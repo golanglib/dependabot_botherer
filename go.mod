@@ -687,7 +687,7 @@ require (
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.25.0
 	github.com/google/certificate-transparency-go v1.3.2
-	github.com/google/gnostic-models v0.6.9
+	github.com/google/gnostic-models v0.7.0
 	github.com/google/gnxi v0.0.0-20250508123956-f34a75d41930
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.7.0
