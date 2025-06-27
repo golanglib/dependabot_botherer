@@ -546,7 +546,7 @@ require (
 	github.com/gin-contrib/sse v1.1.0
 	github.com/gin-contrib/timeout v1.0.2
 	github.com/gin-gonic/gin v1.10.1
-	github.com/git-lfs/git-lfs/v3 v3.6.1
+	github.com/git-lfs/git-lfs/v3 v3.7.0
 	github.com/git-lfs/gitobj/v2 v2.1.1
 	github.com/git-lfs/pktline v0.0.0-20210330133718-06e9096e2825
 	github.com/git-lfs/wildmatch/v2 v2.0.1
@@ -1731,7 +1731,7 @@ require (
 	github.com/envoyproxy/go-control-plane/envoy v1.32.4 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
-	github.com/git-lfs/go-netrc v0.0.0-20210914205454-f0c862dd687a // indirect
+	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
 	github.com/go-xmlfmt/xmlfmt v1.1.3 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
