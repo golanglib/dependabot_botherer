@@ -114,7 +114,7 @@ require (
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/MakeNowJust/heredoc v1.0.0
-	github.com/Masterminds/semver/v3 v3.3.1
+	github.com/Masterminds/semver/v3 v3.4.0
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/Max-Sum/base32768 v0.0.0-20230304063302-18e6ce5945fd
 	github.com/Mellanox/rdmamap v1.1.0
