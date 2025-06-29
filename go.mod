@@ -996,7 +996,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250324165734-5857f47bd43b
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250523120938-f1a248e5ec7f
+	github.com/metacubex/sing-quic v0.0.0-20250628100430-24f13f1e846e
 	github.com/metacubex/sing-shadowsocks v0.2.10
 	github.com/metacubex/sing-shadowsocks2 v0.2.4
 	github.com/metacubex/sing-tun v0.4.6
@@ -1777,7 +1777,7 @@ require (
 	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250620092828-0d508a1dcdde // indirect
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
-	github.com/metacubex/quic-go v0.51.1-0.20250511032541-4e34341cf18b // indirect
+	github.com/metacubex/quic-go v0.53.1-0.20250628094454-fda5262d1d9c // indirect
 	github.com/metacubex/sing v0.5.3 // indirect
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
