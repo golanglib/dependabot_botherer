@@ -1633,7 +1633,7 @@ require (
 	sigs.k8s.io/controller-tools v0.18.0
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
 	sigs.k8s.io/kustomize/api v0.20.0
-	sigs.k8s.io/kustomize/cmd/config v0.19.0
+	sigs.k8s.io/kustomize/cmd/config v0.20.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.6.0
 	sigs.k8s.io/kustomize/kyaml v0.20.0
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
