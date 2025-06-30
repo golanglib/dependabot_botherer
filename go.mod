@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250625184727-c923a0c2a132.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.3
 	cloud.google.com/go/auth v0.16.2
@@ -47,7 +47,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920
 	github.com/4meepo/tagalign v1.4.2
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.75
+	github.com/99designs/gqlgen v0.17.76
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.6
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -135,10 +135,10 @@ require (
 	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
-	github.com/RoaringBitmap/roaring/v2 v2.5.0
+	github.com/RoaringBitmap/roaring/v2 v2.6.0
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.13.8
+	github.com/SAP/go-hdb v1.13.9
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
@@ -499,7 +499,7 @@ require (
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
 	github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6
-	github.com/emersion/go-smtp v0.22.0
+	github.com/emersion/go-smtp v0.23.0
 	github.com/emersion/go-vcard v0.0.0-20241024213814-c9703dde27ff
 	github.com/emicklei/go-restful/v3 v3.12.2
 	github.com/emirpasic/gods v1.18.1
@@ -671,7 +671,7 @@ require (
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v1.0.0
-	github.com/golang/vscode-go v0.47.4
+	github.com/golang/vscode-go v0.48.0
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
@@ -1015,7 +1015,7 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.27
 	github.com/micromdm/scep/v2 v2.3.0
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
-	github.com/microsoft/go-mssqldb v1.9.1
+	github.com/microsoft/go-mssqldb v1.9.2
 	github.com/miekg/dns v1.1.66
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.3
@@ -1080,7 +1080,7 @@ require (
 	github.com/netsampler/goflow2/v2 v2.2.3
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
-	github.com/niklasfasching/go-org v1.8.0
+	github.com/niklasfasching/go-org v1.9.0
 	github.com/nikolalohinski/gonja v1.5.3
 	github.com/nikolalohinski/gonja/v2 v2.3.4
 	github.com/nishanths/exhaustive v0.12.0
@@ -1150,7 +1150,7 @@ require (
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.19
+	github.com/pion/rtp v1.8.20
 	github.com/pion/sctp v1.8.39
 	github.com/pion/sdp/v3 v3.0.14
 	github.com/pion/srtp v1.5.2
@@ -1295,7 +1295,7 @@ require (
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.12.1
 	github.com/skeema/knownhosts v1.3.1
-	github.com/slack-go/slack v0.17.1
+	github.com/slack-go/slack v0.17.2
 	github.com/slackhq/nebula v1.9.5
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
@@ -1404,13 +1404,13 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.34.0
+	github.com/v2fly/v2ray-core/v5 v5.35.0
 	github.com/valyala/fasthttp v1.62.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/vapourismo/knx-go v0.0.0-20250526213830-144cabb1138d
 	github.com/vbatts/tar-split v0.12.1
-	github.com/vektah/gqlparser/v2 v2.5.28
+	github.com/vektah/gqlparser/v2 v2.5.30
 	github.com/vektra/mockery/v2 v2.53.4
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
@@ -1632,10 +1632,10 @@ require (
 	sigs.k8s.io/controller-runtime v0.21.0
 	sigs.k8s.io/controller-tools v0.18.0
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
-	sigs.k8s.io/kustomize/api v0.19.0
-	sigs.k8s.io/kustomize/cmd/config v0.19.0
+	sigs.k8s.io/kustomize/api v0.20.0
+	sigs.k8s.io/kustomize/cmd/config v0.20.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.6.0
-	sigs.k8s.io/kustomize/kyaml v0.19.0
+	sigs.k8s.io/kustomize/kyaml v0.20.0
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.5.0
 	storj.io/common v0.0.0-20250605163628-70ca83b6228e
@@ -1697,6 +1697,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
+	github.com/carapace-sh/carapace-shlex v1.0.1 // indirect
 	github.com/ccoveille/go-safecast v1.6.0 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
 	github.com/charmbracelet/colorprofile v0.2.3-0.20250311203215-f60798e515dc // indirect
