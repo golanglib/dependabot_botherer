@@ -1632,10 +1632,10 @@ require (
 	sigs.k8s.io/controller-runtime v0.21.0
 	sigs.k8s.io/controller-tools v0.18.0
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
-	sigs.k8s.io/kustomize/api v0.19.0
+	sigs.k8s.io/kustomize/api v0.20.0
 	sigs.k8s.io/kustomize/cmd/config v0.19.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.6.0
-	sigs.k8s.io/kustomize/kyaml v0.19.0
+	sigs.k8s.io/kustomize/kyaml v0.20.0
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.5.0
 	storj.io/common v0.0.0-20250605163628-70ca83b6228e
@@ -1697,6 +1697,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
+	github.com/carapace-sh/carapace-shlex v1.0.1 // indirect
 	github.com/ccoveille/go-safecast v1.6.0 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
 	github.com/charmbracelet/colorprofile v0.2.3-0.20250311203215-f60798e515dc // indirect
