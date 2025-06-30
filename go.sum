@@ -4126,8 +4126,8 @@ github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1 h1:6OX5VXMuj2salqNBc41eXKz6
 github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1/go.mod h1:2kY6OeOxrJ+RIQlVjWDc/pZlT3MIf30prs6drzMfJ6E=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e h1:fD57ERR4JtEqsWbfPhv4DMiApHyliiK5xCTNVSPiaAs=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
-github.com/niklasfasching/go-org v1.8.0 h1:WyGLaajLLp8JbQzkmapZ1y0MOzKuKV47HkZRloi+HGY=
-github.com/niklasfasching/go-org v1.8.0/go.mod h1:e2A9zJs7cdONrEGs3gvxCcaAEpwwPNPG7csDpXckMNg=
+github.com/niklasfasching/go-org v1.9.0 h1:4/Sr68Qx06hjC9MVDB/4etGP67JionLHGscLMOClpnk=
+github.com/niklasfasching/go-org v1.9.0/go.mod h1:ZAGFFkWvUQcpazmi/8nHqwvARpr1xpb+Es67oUGX/48=
 github.com/nikolalohinski/gonja v1.5.3 h1:GsA+EEaZDZPGJ8JtpeGN78jidhOlxeJROpqMT9fTj9c=
 github.com/nikolalohinski/gonja v1.5.3/go.mod h1:RmjwxNiXAEqcq1HeK5SSMmqFJvKOfTfXhkJv6YBtPa4=
 github.com/nikolalohinski/gonja/v2 v2.3.4 h1:s6KnOc5UTEXoaVd8/Yfvnv7KAm1W9UxKs139DsqaMGs=
