@@ -858,7 +858,6 @@ github.com/AzureAD/microsoft-authentication-library-for-go v1.4.2/go.mod h1:wP83
 github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69 h1:+tu3HOoMXB7RXEINRVIpxJCT+KdYiI7LAEAUrOw3dIU=
 github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69/go.mod h1:L1AbZdiDllfyYH5l5OkAaZtk7VkWe89bPJFmnDBNHxg=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/BurntSushi/toml v1.1.0/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/BurntSushi/toml v1.3.2/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/BurntSushi/toml v1.5.0 h1:W5quZX/G/csjUnuI8SUYlsHs9M38FC7znL0lIO+DvMg=
 github.com/BurntSushi/toml v1.5.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
@@ -5342,8 +5341,8 @@ github.com/volcengine/ve-tos-golang-sdk v0.2.2/go.mod h1:FOtBV2Nceh5vaaY5SOjaNlq
 github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.18 h1:uint/YlMWuQ5et0ab+AOHq+re+yi8pOvjS77gker8ms=
 github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.18/go.mod h1:IrjK84IJJTuOZOTMv/P18Ydjy/x+ow7fF7q11jAxXLM=
 github.com/volcengine/volc-sdk-golang v1.0.23/go.mod h1:AfG/PZRUkHJ9inETvbjNifTDgut25Wbkm2QoYBTbvyU=
-github.com/volcengine/volc-sdk-golang v1.0.213 h1:Y/OlbZfv6hTI+r4vmcvtyKZ+KEsoibm9DGeEtNlymJE=
-github.com/volcengine/volc-sdk-golang v1.0.213/go.mod h1:stZX+EPgv1vF4nZwOlEe8iGcriUPRBKX8zA19gXycOQ=
+github.com/volcengine/volc-sdk-golang v1.0.214 h1:70M2qibj0UeSjO9r+CRf/UuFqh/Iu0J86NSKUD6EEtc=
+github.com/volcengine/volc-sdk-golang v1.0.214/go.mod h1:zHJlaqiMbIB+0mcrsZPTwOb3FB7S/0MCfqlnO8R7hlM=
 github.com/volcengine/volcengine-go-sdk v1.1.20 h1:+ifZdF7IIIagqF8yVNfk9CmNUl5wgRfU/8orlH+JQhA=
 github.com/volcengine/volcengine-go-sdk v1.1.20/go.mod h1:EyKoi6t6eZxoPNGr2GdFCZti2Skd7MO3eUzx7TtSvNo=
 github.com/vulcand/oxy v1.4.2 h1:KibUVdKrwy7eXR3uHS2pYoZ9dCzKVcgDNHD2jkPZmxU=
