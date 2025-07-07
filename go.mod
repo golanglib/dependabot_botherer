@@ -1117,7 +1117,7 @@ require (
 	github.com/oracle/oci-go-sdk/v65 v65.95.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
-	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
+	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.7
 	github.com/otiai10/copy v1.14.1
 	github.com/otiai10/mint v1.6.3
 	github.com/ovh/go-ovh v1.9.0
