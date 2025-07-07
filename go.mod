@@ -988,7 +988,7 @@ require (
 	github.com/mbilski/exhaustivestruct v1.2.0
 	github.com/mdlayher/apcupsd v0.0.0-20230802135538-48f5030bcd58
 	github.com/mdlayher/genetlink v1.3.2
-	github.com/mdlayher/netlink v1.7.2
+	github.com/mdlayher/netlink v1.7.3-0.20250113171957-fbb4dce95f42
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meilisearch/meilisearch-go v0.32.0
@@ -1233,7 +1233,7 @@ require (
 	github.com/safchain/ethtool v0.6.1
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
-	github.com/sagernet/nftables v0.3.0-beta.4
+	github.com/sagernet/nftables v0.3.0-mod.1
 	github.com/sagernet/sing v0.6.11
 	github.com/sagernet/sing-mux v0.3.2
 	github.com/sagernet/sing-shadowtls v0.2.0
