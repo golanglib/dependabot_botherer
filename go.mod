@@ -464,7 +464,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.7.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf
-	github.com/digitalocean/godo v1.155.0
+	github.com/digitalocean/godo v1.156.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
@@ -517,7 +517,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.5
+	github.com/evanw/esbuild v0.25.6
 	github.com/facebook/time v0.0.0-20250702114322-ce3f3a9140b2
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -633,8 +633,8 @@ require (
 	github.com/go-toolsmith/typep v1.1.0
 	github.com/go-viper/mapstructure/v2 v2.3.0
 	github.com/go-webauthn/revoke v0.1.10
-	github.com/go-webauthn/webauthn v0.13.0
-	github.com/go-webauthn/x v0.1.21
+	github.com/go-webauthn/webauthn v0.13.1
+	github.com/go-webauthn/x v0.1.22
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
@@ -671,7 +671,7 @@ require (
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v1.0.0
-	github.com/golang/vscode-go v0.48.0
+	github.com/golang/vscode-go v0.49.0
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
@@ -794,7 +794,7 @@ require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hc-install v0.9.2
 	github.com/hashicorp/hcl v1.0.1-vault-7
-	github.com/hashicorp/hcl/v2 v2.23.0
+	github.com/hashicorp/hcl/v2 v2.24.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.3
 	github.com/hashicorp/packer-plugin-sdk v0.6.2
@@ -804,7 +804,7 @@ require (
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.6.0
 	github.com/hedhyw/rex v1.0.0
-	github.com/hellofresh/health-go/v5 v5.5.4
+	github.com/hellofresh/health-go/v5 v5.5.5
 	github.com/henomis/langfuse-go v0.0.3
 	github.com/henomis/restclientgo v1.2.0
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
@@ -988,7 +988,7 @@ require (
 	github.com/mbilski/exhaustivestruct v1.2.0
 	github.com/mdlayher/apcupsd v0.0.0-20230802135538-48f5030bcd58
 	github.com/mdlayher/genetlink v1.3.2
-	github.com/mdlayher/netlink v1.7.2
+	github.com/mdlayher/netlink v1.7.3-0.20250113171957-fbb4dce95f42
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meilisearch/meilisearch-go v0.32.0
@@ -1117,7 +1117,7 @@ require (
 	github.com/oracle/oci-go-sdk/v65 v65.95.0
 	github.com/oschwald/geoip2-golang v1.11.0
 	github.com/oschwald/maxminddb-golang v1.13.1
-	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.3
+	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.7
 	github.com/otiai10/copy v1.14.1
 	github.com/otiai10/mint v1.6.3
 	github.com/ovh/go-ovh v1.9.0
@@ -1233,7 +1233,7 @@ require (
 	github.com/safchain/ethtool v0.6.1
 	github.com/sagernet/fswatch v0.1.1
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
-	github.com/sagernet/nftables v0.3.0-beta.4
+	github.com/sagernet/nftables v0.3.0-mod.1
 	github.com/sagernet/sing v0.6.11
 	github.com/sagernet/sing-mux v0.3.2
 	github.com/sagernet/sing-shadowtls v0.2.0
@@ -1313,7 +1313,7 @@ require (
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.3.5
 	github.com/sony/gobreaker v1.0.0
-	github.com/sony/sonyflake v1.2.1
+	github.com/sony/sonyflake v1.3.0
 	github.com/sosodev/duration v1.3.1
 	github.com/sourcegraph/conc v0.3.0
 	github.com/sourcegraph/go-diff v0.7.0
@@ -1363,7 +1363,7 @@ require (
 	github.com/tetafro/godot v1.5.1
 	github.com/tetratelabs/wazero v1.9.0
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
-	github.com/tidwall/btree v1.7.0
+	github.com/tidwall/btree v1.8.0
 	github.com/tidwall/gjson v1.18.0
 	github.com/tidwall/match v1.1.1
 	github.com/tidwall/pretty v1.2.1
@@ -1404,7 +1404,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.36.0
+	github.com/v2fly/v2ray-core/v5 v5.37.0
 	github.com/valyala/fasthttp v1.63.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
