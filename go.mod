@@ -809,7 +809,7 @@ require (
 	github.com/henomis/restclientgo v1.2.0
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
 	github.com/henrybear327/go-proton-api v1.0.0
-	github.com/henrylee2cn/goutil v1.0.1
+	github.com/henrylee2cn/goutil v1.1.2
 	github.com/hertz-contrib/http2 v0.1.8
 	github.com/hertz-contrib/localsession v0.1.0
 	github.com/hertz-contrib/sse v0.1.0
