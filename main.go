@@ -664,7 +664,7 @@ import (
 	_ "github.com/golang-jwt/jwt/v4"
 	_ "github.com/golang-jwt/jwt/v5"
 	_ "github.com/golang-sql/sqlexp"
-	_ "github.com/golang/geo/r1"
+	_ "github.com/golang/geo/earth"
 	_ "github.com/golang/glog"
 	_ "github.com/golang/groupcache"
 	_ "github.com/golang/mock/gomock"

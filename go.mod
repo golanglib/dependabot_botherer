@@ -388,21 +388,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.48
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250703162323-8553b6952bf3
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250707040601-2fab92740585
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.15
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250703162323-8553b6952bf3
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250703162323-8553b6952bf3
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250707040601-2fab92740585
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250707040601-2fab92740585
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250703162323-8553b6952bf3
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250703162323-8553b6952bf3
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250707040601-2fab92740585
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250707040601-2fab92740585
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.1
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250704085051-9c11210864ee
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250707025030-6db56125b4b3
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
@@ -437,7 +437,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250701071254-8082a2c3da76
+	github.com/coze-dev/coze-go v0.0.0-20250707113729-e7f8bfa6ecbf
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
@@ -557,7 +557,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20250624113752-67e4989cab6d
+	github.com/go-ap/activitypub v0.0.0-20250707121747-61ebb8da72cd
 	github.com/go-ap/errors v0.0.0-20250527110557-c8db454e53fd
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
@@ -665,7 +665,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250704082316-8c117c302233
+	github.com/golang/geo v0.0.0-20250707181242-c5087ca84cf4
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -1408,7 +1408,7 @@ require (
 	github.com/valyala/fasthttp v1.63.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
-	github.com/vapourismo/knx-go v0.0.0-20250526213830-144cabb1138d
+	github.com/vapourismo/knx-go v0.0.0-20250707093940-740ae6da1af6
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.30
 	github.com/vektra/mockery/v2 v2.53.4
@@ -1742,6 +1742,7 @@ require (
 	github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32 // indirect
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
+	github.com/google/go-units v0.0.0-20250612230646-eddd77f68220 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
 	github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976 // indirect
 	github.com/graphql-go/graphql v0.8.1 // indirect
