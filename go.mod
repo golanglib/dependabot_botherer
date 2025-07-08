@@ -260,7 +260,7 @@ require (
 	github.com/beorn7/perks v1.0.1
 	github.com/bep/clocks v0.5.0
 	github.com/bep/debounce v1.2.1
-	github.com/bep/gitmap v1.7.0
+	github.com/bep/gitmap v1.9.0
 	github.com/bep/goat v0.5.0
 	github.com/bep/godartsass v1.2.0
 	github.com/bep/godartsass/v2 v2.5.0
@@ -657,7 +657,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.147.9
+	github.com/gohugoio/hugo v0.148.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.3.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
