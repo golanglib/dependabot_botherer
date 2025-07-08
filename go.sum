@@ -1001,8 +1001,8 @@ github.com/RyuaNerin/testingutil v0.1.3 h1:ZFa6xkIC8FWgTjzgzeis/RaXozdfp5SfK8a2i
 github.com/RyuaNerin/testingutil v0.1.3/go.mod h1:yTqj6Ta/ycHMPJHRyO12Mz3VrvTloWOsy23WOZH19AA=
 github.com/SAP/go-hdb v1.13.11 h1:DhHGUfeeFS9BlgGAtw+Ln24PCJ5T0IeNwwfMSxC677M=
 github.com/SAP/go-hdb v1.13.11/go.mod h1:FaFpT7GJwxdou1weby+gb+K3psukpAspvln/LJzVFFE=
-github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3 h1:BP0HiyNT3AQEYi+if3wkRcIdQFHtsw6xX3Kx0glckgA=
-github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3/go.mod h1:hMNtySovKkn2gdDuLqnqveP+mfhUSaBdoBcr2I7Zt0E=
+github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.8.0 h1:tgjwQrDH5m6jIYB7kac5IQZmfUzQNseac/e3H4VoCNE=
+github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.8.0/go.mod h1:1HmmMEVsr+0R1QWahSeMJkjSkq6CYAZu1aIbYSpfJ4o=
 github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06 h1:KkH3I3sJuOLP3TjA/dfr4NAY8bghDwnXiU7cTKxQqo0=
 github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06/go.mod h1:7erjKLwalezA0k99cWs5L11HWOAPNjdUZ6RxH1BXbbM=
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
