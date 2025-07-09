@@ -1164,7 +1164,7 @@ require (
 	github.com/pion/udp v0.1.4
 	github.com/pion/webrtc/v3 v3.3.5
 	github.com/pires/go-proxyproto v0.8.1
-	github.com/pjbgf/sha1cd v0.3.2
+	github.com/pjbgf/sha1cd v0.4.0
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/sftp v1.13.9
 	github.com/pkg/xattr v0.4.12
