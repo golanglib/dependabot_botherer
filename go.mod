@@ -1104,7 +1104,7 @@ require (
 	github.com/openacid/low v0.1.21
 	github.com/openai/openai-go v1.9.0
 	github.com/openconfig/gnmi v0.14.1
-	github.com/openconfig/goyang v1.6.2
+	github.com/openconfig/goyang v1.6.3
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.1
 	github.com/opencontainers/runc v1.3.0
