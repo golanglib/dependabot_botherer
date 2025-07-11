@@ -634,7 +634,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.3.0
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.13.1
-	github.com/go-webauthn/x v0.1.22
+	github.com/go-webauthn/x v0.1.23
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
@@ -1526,7 +1526,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.19.0
-	golang.org/x/crypto v0.39.0
+	golang.org/x/crypto v0.40.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
 	golang.org/x/exp v0.0.0-20250620022241-b7579e27df2b
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
