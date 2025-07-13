@@ -199,7 +199,6 @@ import (
 	_ "github.com/antchfx/jsonquery"
 	_ "github.com/antchfx/xmlquery"
 	_ "github.com/antchfx/xpath"
-	_ "github.com/anthony-zh/osv-proxy/pkg/local"
 	_ "github.com/antlr/antlr4/runtime/Go/antlr"
 	_ "github.com/antlr4-go/antlr"
 	_ "github.com/antlr4-go/antlr/v4"
