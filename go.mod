@@ -162,7 +162,7 @@ require (
 	github.com/alecthomas/repr v0.4.0
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
 	github.com/alexbrainman/sspi v0.0.0-20231016080023-1a75b4708caa
-	github.com/alexflint/go-arg v1.5.1
+	github.com/alexflint/go-arg v1.6.0
 	github.com/alexflint/go-scalar v1.2.0
 	github.com/alexkohler/nakedret v1.0.2
 	github.com/alexkohler/nakedret/v2 v2.0.6
