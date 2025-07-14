@@ -1300,7 +1300,7 @@ require (
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.28.4
-	github.com/smallstep/cli v0.28.6
+	github.com/smallstep/cli v0.28.7
 	github.com/smallstep/cli-utils v0.12.1
 	github.com/smallstep/nosql v0.7.0
 	github.com/smallstep/pkcs7 v0.2.1
