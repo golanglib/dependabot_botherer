@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250625184727-c923a0c2a132.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.3
 	cloud.google.com/go/auth v0.16.2
@@ -387,21 +387,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.52
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250710065240-482d48888f25
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250715055739-0d0e28441a2f
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.15
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250710065240-482d48888f25
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250710065240-482d48888f25
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250715055739-0d0e28441a2f
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250715055739-0d0e28441a2f
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250710065240-482d48888f25
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250710065240-482d48888f25
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250715055739-0d0e28441a2f
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250715055739-0d0e28441a2f
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.1
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250710080049-b3a437ed3e60
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250715031028-a9907969c16f
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
