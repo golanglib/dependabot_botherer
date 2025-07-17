@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250625184727-c923a0c2a132.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.3
 	cloud.google.com/go/auth v0.16.2
@@ -755,7 +755,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.1
-	github.com/grid-x/modbus v0.0.0-20250714121349-f7cc8b80d85c
+	github.com/grid-x/modbus v0.0.0-20250717144429-344b140e33c1
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
@@ -991,7 +991,7 @@ require (
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meilisearch/meilisearch-go v0.32.0
-	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399
+	github.com/metacubex/bbolt v0.0.0-20250715134201-d343f11712df
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250324165734-5857f47bd43b
 	github.com/metacubex/randv2 v0.2.0
