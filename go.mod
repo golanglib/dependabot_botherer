@@ -1380,7 +1380,7 @@ require (
 	github.com/tmc/langchaingo v0.1.13
 	github.com/tomarrell/wrapcheck/v2 v2.11.0
 	github.com/tommy-muehle/go-mnd/v2 v2.5.1
-	github.com/toqueteos/webbrowser v1.2.0
+	github.com/toqueteos/webbrowser v1.2.1
 	github.com/tv42/httpunix v0.0.0-20191220191345-2ba4b9c3382c
 	github.com/twitchyliquid64/golang-asm v0.15.1
 	github.com/twmb/murmur3 v1.1.8
