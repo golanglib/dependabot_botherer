@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250717185734-6c6e0d3c608e.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.4
 	cloud.google.com/go/auth v0.16.3
@@ -387,14 +387,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.52
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250716114210-6b285e194382
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250718041314-444cfd7822ec
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.16
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250716114210-6b285e194382
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250716114210-6b285e194382
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250718041314-444cfd7822ec
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250718041314-444cfd7822ec
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250716114210-6b285e194382
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250716114210-6b285e194382
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250718041314-444cfd7822ec
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250718041314-444cfd7822ec
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -995,7 +995,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250324165734-5857f47bd43b
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250628100430-24f13f1e846e
+	github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb
 	github.com/metacubex/sing-shadowsocks v0.2.10
 	github.com/metacubex/sing-shadowsocks2 v0.2.4
 	github.com/metacubex/sing-tun v0.4.6
