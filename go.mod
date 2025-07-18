@@ -8,7 +8,7 @@ require (
 	bitbucket.org/creachadair/stringset v0.0.14
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250717185734-6c6e0d3c608e.1
 	cel.dev/expr v0.24.0
-	cloud.google.com/go v0.121.3
+	cloud.google.com/go v0.121.4
 	cloud.google.com/go/auth v0.16.2
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.69.0
