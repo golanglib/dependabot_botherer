@@ -243,7 +243,7 @@ github.com/metacubex/quic-go
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/metacubex/quic-go
 github.com/mozillazg/go-pinyin/cli/pinyin
-//[github.com/mozillazg/go-pinyin/cli/pinyin] dir: /gopath/pkg/mod/github.com/mozillazg/go-pinyin/cli/pinyin@v0.0.0-20230514120159-e3fbf1cbc11b
+//[github.com/mozillazg/go-pinyin/cli/pinyin] dir: /gopath/pkg/mod/github.com/mozillazg/go-pinyin/cli/pinyin@v0.0.0-20250719031703-0562d652b86d
 //[github.com/mozillazg/go-pinyin/cli/pinyin] "": package is main
 //[github.com/mozillazg/go-pinyin/cli/pinyin] no importable packages found
 github.com/nats-io/nats.go
