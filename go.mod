@@ -1044,7 +1044,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2
 	github.com/montanaflynn/stats v0.7.1
 	github.com/moricho/tparallel v0.3.2
-	github.com/mozillazg/go-pinyin v0.20.0
+	github.com/mozillazg/go-pinyin v0.21.0
 	github.com/mozillazg/go-unidecode v0.2.0
 	github.com/mr-tron/base58 v1.2.0
 	github.com/mroth/weightedrand v1.0.0
