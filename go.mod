@@ -996,7 +996,7 @@ require (
 	github.com/metacubex/gvisor v0.0.0-20250324165734-5857f47bd43b
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb
-	github.com/metacubex/sing-shadowsocks v0.2.10
+	github.com/metacubex/sing-shadowsocks v0.2.11
 	github.com/metacubex/sing-shadowsocks2 v0.2.4
 	github.com/metacubex/sing-tun v0.4.6
 	github.com/metacubex/sing-vmess v0.2.2
@@ -1779,7 +1779,7 @@ require (
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
 	github.com/metacubex/quic-go v0.53.1-0.20250628094454-fda5262d1d9c // indirect
-	github.com/metacubex/sing v0.5.3 // indirect
+	github.com/metacubex/sing v0.5.4 // indirect
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
