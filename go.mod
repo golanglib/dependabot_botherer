@@ -225,11 +225,11 @@ require (
 	github.com/aws/aws-sdk-go v1.55.7
 	github.com/aws/aws-sdk-go-v2 v1.36.6
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.11
-	github.com/aws/aws-sdk-go-v2/config v1.29.17
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.70
+	github.com/aws/aws-sdk-go-v2/config v1.29.18
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.71
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.5
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.33
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.84
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.85
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.45.4
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.52.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.5
@@ -238,9 +238,9 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.233.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.35.3
 	github.com/aws/aws-sdk-go-v2/service/kms v1.41.3
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.84.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.84.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.6
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.3
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.34.1
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.31.3
 	github.com/aws/smithy-go v1.22.4
@@ -1687,12 +1687,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.37 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.37 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.3 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.36 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.37 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.4 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.7.4 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.7.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.18 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.18 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.17 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.18 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
