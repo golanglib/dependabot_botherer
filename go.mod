@@ -997,7 +997,7 @@ require (
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb
 	github.com/metacubex/sing-shadowsocks v0.2.11
-	github.com/metacubex/sing-shadowsocks2 v0.2.4
+	github.com/metacubex/sing-shadowsocks2 v0.2.5
 	github.com/metacubex/sing-tun v0.4.6
 	github.com/metacubex/sing-vmess v0.2.3
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
