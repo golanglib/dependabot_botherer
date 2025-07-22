@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250717185734-6c6e0d3c608e.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.4
 	cloud.google.com/go/auth v0.16.3
@@ -51,7 +51,7 @@ require (
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.6
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
-	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2
+	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20230306123547-8075edf89bb0
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Antonboom/errname v1.1.0
 	github.com/Antonboom/nilnil v1.1.0
@@ -387,14 +387,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.53
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250721082501-cbc8987cacb6
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250722133552-125fd76ad8d9
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.16
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250721082501-cbc8987cacb6
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250721082501-cbc8987cacb6
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250722133552-125fd76ad8d9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250722133552-125fd76ad8d9
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250721082501-cbc8987cacb6
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250721082501-cbc8987cacb6
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250722133552-125fd76ad8d9
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250722133552-125fd76ad8d9
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
