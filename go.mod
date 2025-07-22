@@ -664,7 +664,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.2.3
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250707181242-c5087ca84cf4
+	github.com/golang/geo v0.0.0-20250721223919-39f9059cf0f2
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
