@@ -1002,7 +1002,7 @@ require (
 	github.com/metacubex/sing-vmess v0.2.3
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
 	github.com/metacubex/tfo-go v0.0.0-20250516165257-e29c16ae41d4
-	github.com/metacubex/utls v1.7.3
+	github.com/metacubex/utls v1.8.0
 	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
