@@ -387,14 +387,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.3.55
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250722133552-125fd76ad8d9
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250723081056-bfd909c62442
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.16
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250722133552-125fd76ad8d9
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250722133552-125fd76ad8d9
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250723081056-bfd909c62442
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250723081056-bfd909c62442
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250722133552-125fd76ad8d9
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250722133552-125fd76ad8d9
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250723081056-bfd909c62442
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250723081056-bfd909c62442
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -664,7 +664,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.2.3
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250721223919-39f9059cf0f2
+	github.com/golang/geo v0.0.0-20250723132703-4547674171cb
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
