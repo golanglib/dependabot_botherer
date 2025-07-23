@@ -5552,8 +5552,8 @@ go.etcd.io/etcd/etcdctl/v3 v3.6.2 h1:oPinKwlpzYH5LwoIi431mvMCaUlCUXIqwaGh7p6/YZE
 go.etcd.io/etcd/etcdctl/v3 v3.6.2/go.mod h1:69gFKd1t8+C+la9i916wslP4Eymy9tkE5hSAo84h4q0=
 go.etcd.io/etcd/etcdutl/v3 v3.6.2 h1:m6nQmtqAAzjQ1vnRHgeRcWEAePXqpyXRDmayZx1+o2s=
 go.etcd.io/etcd/etcdutl/v3 v3.6.2/go.mod h1:Fo+yCO9OJ60HEJgWwOxW5wM2FimnkFfL/6n6IEHJIVo=
-go.etcd.io/etcd/pkg/v3 v3.6.2 h1:Ds+VYdvqEnKq8/iAy1fMo0FnJ9qzB0iOCe3f/9rko5k=
-go.etcd.io/etcd/pkg/v3 v3.6.2/go.mod h1:b8Ag+HsYLuP6GgoExrswupAG6jXakxcvoNnIRhO17ZA=
+go.etcd.io/etcd/pkg/v3 v3.6.3 h1:+hob8XhXIw69v4Iee1NafszplWY05xP9xc9ptZ0Yeso=
+go.etcd.io/etcd/pkg/v3 v3.6.3/go.mod h1:BNPqrrrb2Ihmlrxw/aWlVC9AT55sL6UEPjKyH+JAky8=
 go.etcd.io/etcd/raft/v3 v3.5.21 h1:dOmE0mT55dIUsX77TKBLq+RgyumsQuYeiRQnW/ylugk=
 go.etcd.io/etcd/raft/v3 v3.5.21/go.mod h1:fmcuY5R2SNkklU4+fKVBQi2biVp5vafMrWUEj4TJ4Cs=
 go.etcd.io/etcd/server/v3 v3.6.2 h1:LY2tRcK8Rfby4aT2X9cWlRSk48FlLtP571nzc7tIhzc=
