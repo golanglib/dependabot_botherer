@@ -223,14 +223,14 @@ require (
 	github.com/awnumar/memguard v0.22.5
 	github.com/aws/aws-lambda-go v1.49.0
 	github.com/aws/aws-sdk-go v1.55.7
-	github.com/aws/aws-sdk-go-v2 v1.36.6
+	github.com/aws/aws-sdk-go-v2 v1.37.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.11
 	github.com/aws/aws-sdk-go-v2/config v1.29.17
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.71
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.6
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.33
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.84
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.45.4
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.46.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.52.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.44.1
@@ -1684,8 +1684,8 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.37 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.37 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.0 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.3 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.37 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.4 // indirect
