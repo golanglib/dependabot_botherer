@@ -962,7 +962,7 @@ require (
 	github.com/maratori/testableexamples v1.0.0
 	github.com/maratori/testpackage v1.1.1
 	github.com/marekm4/color-extractor v1.2.1
-	github.com/mark3labs/mcp-go v0.35.0
+	github.com/mark3labs/mcp-go v0.36.0
 	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.81.0
 	github.com/marten-seemann/qtls v0.10.0
@@ -1756,6 +1756,7 @@ require (
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
+	github.com/invopop/jsonschema v0.13.0 // indirect
 	github.com/jaegertracing/jaeger v1.62.0 // indirect
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
