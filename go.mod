@@ -45,7 +45,7 @@ require (
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
 	github.com/42wim/httpsig v1.2.3
 	github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920
-	github.com/4meepo/tagalign v1.4.2
+	github.com/4meepo/tagalign v1.4.3
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.76
 	github.com/99designs/keyring v1.2.2
@@ -1675,6 +1675,7 @@ require (
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
+	github.com/alfatraining/structtag v1.0.0 // indirect
 	github.com/alingse/nilnesserr v0.1.2 // indirect
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
