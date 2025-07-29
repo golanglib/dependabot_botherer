@@ -2323,8 +2323,8 @@ github.com/g-rath/osv-detector v0.14.0 h1:chv+VUBSarZVUCoPriIha0PWgosDPAEatOhIgK
 github.com/g-rath/osv-detector v0.14.0/go.mod h1:lBI8nPBJSyPtbldZLMTcMSrj7BqKFrb3ZNpeG2KnmQA=
 github.com/gabriel-vasile/mimetype v1.4.9 h1:5k+WDwEsD9eTLL8Tz3L0VnmVh9QxGjRmjBvAG7U/oYY=
 github.com/gabriel-vasile/mimetype v1.4.9/go.mod h1:WnSQhFKJuBlRyLiKohA/2DtIlPFAbguNaG7QCHcyGok=
-github.com/gaissmai/bart v0.22.2 h1:otlRgT9B1V3gvJ6JuudnoPCAKb4YQfQC4cIVz+k4kkc=
-github.com/gaissmai/bart v0.22.2/go.mod h1:RpLtt3lWq1BoRz3AAyDAJ7jhLWBkYhVCfi+ximB2t68=
+github.com/gaissmai/bart v0.23.0 h1:ct+78nySK5MaO+citQAUeef7QZ0ApXM3b+AYuCZYGIk=
+github.com/gaissmai/bart v0.23.0/go.mod h1:RpLtt3lWq1BoRz3AAyDAJ7jhLWBkYhVCfi+ximB2t68=
 github.com/gammazero/toposort v0.1.1/go.mod h1:H2cozTnNpMw0hg2VHAYsAxmkHXBYroNangj2NTBQDvw=
 github.com/garyburd/redigo v1.6.0/go.mod h1:NR3MbYisc3/PwhQ00EMzDiPmrwpPxAn5GI05/YaO1SY=
 github.com/gaukas/godicttls v0.0.4 h1:NlRaXb3J6hAnTmWdsEKb9bcSBD6BvcIjdGdeb0zfXbk=
