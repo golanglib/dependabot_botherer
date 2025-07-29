@@ -2361,8 +2361,8 @@ github.com/git-lfs/pktline v0.0.0-20210330133718-06e9096e2825 h1:riQhgheTL7tMF4d
 github.com/git-lfs/pktline v0.0.0-20210330133718-06e9096e2825/go.mod h1:fenKRzpXDjNpsIBhuhUzvjCKlDjKam0boRAenTE0Q6A=
 github.com/git-lfs/wildmatch/v2 v2.0.1 h1:Ds+aobrV5bK0wStILUOn9irllPyf9qrFETbKzwzoER8=
 github.com/git-lfs/wildmatch/v2 v2.0.1/go.mod h1:EVqonpk9mXbREP3N8UkwoWdrF249uHpCUo5CPXY81gw=
-github.com/gkampitakis/ciinfo v0.3.2 h1:JcuOPk8ZU7nZQjdUhctuhQofk7BGHuIy0c9Ez8BNhXs=
-github.com/gkampitakis/ciinfo v0.3.2/go.mod h1:1NIwaOcFChN4fa/B0hEBdAb6npDlFL8Bwx4dfRLRqAo=
+github.com/gkampitakis/ciinfo v0.3.3 h1:28PgAHtW3wG7UCAKuCK+17rBib9iqtLjajuWsVLUPQY=
+github.com/gkampitakis/ciinfo v0.3.3/go.mod h1:1NIwaOcFChN4fa/B0hEBdAb6npDlFL8Bwx4dfRLRqAo=
 github.com/gkampitakis/go-diff v1.3.2 h1:Qyn0J9XJSDTgnsgHRdz9Zp24RaJeKMUHg2+PDZZdC4M=
 github.com/gkampitakis/go-diff v1.3.2/go.mod h1:LLgOrpqleQe26cte8s36HTWcTmMEur6OPYerdAAS9tk=
 github.com/gkampitakis/go-snaps v0.5.13 h1:Hhjmvv1WboSCxkR9iU2mj5PQ8tsz/y8ECGrIbjjPF8Q=
