@@ -387,14 +387,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.4.0
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250728111816-90d294e367aa
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250729134059-2ccbac3c0210
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.18
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250728111816-90d294e367aa
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250728111816-90d294e367aa
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250729134059-2ccbac3c0210
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250729134059-2ccbac3c0210
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250728111816-90d294e367aa
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250728111816-90d294e367aa
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250729134059-2ccbac3c0210
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250729134059-2ccbac3c0210
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -517,7 +517,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.8
-	github.com/facebook/time v0.0.0-20250725142134-e673c303eb22
+	github.com/facebook/time v0.0.0-20250729145516-5e672303eef2
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1169,7 +1169,6 @@ require (
 	github.com/pkg/xattr v0.4.12
 	github.com/pkoukk/tiktoken-go v0.1.7
 	github.com/pkoukk/tiktoken-go-loader v0.0.1
-	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
 	github.com/polyfloyd/go-errorlint v1.8.0
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.5.0
@@ -1820,6 +1819,7 @@ require (
 	github.com/pion/turn/v4 v4.0.0 // indirect
 	github.com/pion/webrtc/v4 v4.0.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/prometheus v0.302.1 // indirect
 	github.com/raeperd/recvcheck v0.2.0 // indirect
