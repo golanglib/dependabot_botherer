@@ -4737,8 +4737,8 @@ github.com/sagernet/sing-mux v0.3.2 h1:meZVFiiStvHThb/trcpAkCrmtJOuItG5Dzl1RRP5/
 github.com/sagernet/sing-mux v0.3.2/go.mod h1:pht8iFY4c9Xltj7rhVd208npkNaeCxzyXCgulDPLUDA=
 github.com/sagernet/sing-shadowtls v0.2.0 h1:cLKe4OAOFwuhmAIuPLj//CIL7Q9js+pIDardhJ+/osk=
 github.com/sagernet/sing-shadowtls v0.2.0/go.mod h1:agU+Fw5X+xnWVyRHyFthoZCX3MfWKCFPm4JUf+1oaxo=
-github.com/sagernet/sing-vmess v0.2.4 h1:wSg/SdxThELAvoRIN2yCZgu5xsmP1FWPBrP2ab2wq3A=
-github.com/sagernet/sing-vmess v0.2.4/go.mod h1:5aYoOtYksAyS0NXDm0qKeTYW1yoE1bJVcv+XLcVoyJs=
+github.com/sagernet/sing-vmess v0.2.5 h1:UI9KKqfDnMiyvNRknhd2ZCiHdvBl/Gv+Vg/y1yC6RIU=
+github.com/sagernet/sing-vmess v0.2.5/go.mod h1:5aYoOtYksAyS0NXDm0qKeTYW1yoE1bJVcv+XLcVoyJs=
 github.com/sagernet/smux v1.5.34-mod.2 h1:gkmBjIjlJ2zQKpLigOkFur5kBKdV6bNRoFu2WkltRQ4=
 github.com/sagernet/smux v1.5.34-mod.2/go.mod h1:0KW0+R+ycvA2INW4gbsd7BNyg+HEfLIAxa5N02/28Zc=
 github.com/sagernet/wireguard-go v0.0.1-beta.7 h1:ltgBwYHfr+9Wz1eG59NiWnHrYEkDKHG7otNZvu85DXI=
