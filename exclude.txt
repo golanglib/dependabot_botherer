@@ -281,43 +281,6 @@ github.com/open-telemetry/opentelemetry-collector-contrib
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "reports": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.131.0/reports
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "reports/distributions": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.131.0/reports/distributions
 //[github.com/open-telemetry/opentelemetry-collector-contrib] no importable packages found
-github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest
-//go: module github.com/open-telemetry/opentelemetry-collector-contrib@latest found (v0.131.0), but does not contain package github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest
-github.com/planetscale/vtprotobuf
-//go: github.com/smallstep/linkedca@v0.22.2: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.22.1
-//go: github.com/smallstep/linkedca@v0.22.1: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.22.0
-//go: github.com/smallstep/linkedca@v0.22.0: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.21.1
-//go: github.com/smallstep/linkedca@v0.21.1: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.21.0
-//go: github.com/smallstep/linkedca@v0.21.0: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.20.1
-//go: github.com/smallstep/linkedca@v0.20.1: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.20.0
-//go: github.com/smallstep/linkedca@v0.20.0: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.19.1
-//go: github.com/smallstep/linkedca@v0.19.1: parsing go.mod:
-//	module declares its path as: go.step.sm/linkedca
-//	        but was required as: github.com/smallstep/linkedca
-//	trying github.com/smallstep/linkedca@v0.19.0
-//go: loading module retractions for github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest@v0.70.0: verifying go.mod: github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest@v0.131.0/go.mod: reading https://sum.golang.org/lookup/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest@v0.131.0: 404 Not Found
-//	server response: not found: github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest@v0.131.0: invalid version: unknown revision pkg/pdatatest/v0.131.0
 github.com/prometheus/prometheus
 //[github.com/prometheus/prometheus] dir: /gopath/pkg/mod/github.com/prometheus/prometheus@v0.302.1
 //[github.com/prometheus/prometheus] module has replace

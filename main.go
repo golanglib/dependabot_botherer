@@ -1168,6 +1168,7 @@ import (
 	_ "github.com/pkg/xattr"
 	_ "github.com/pkoukk/tiktoken-go"
 	_ "github.com/pkoukk/tiktoken-go-loader"
+	_ "github.com/planetscale/vtprotobuf/codec/drpc"
 	_ "github.com/polyfloyd/go-errorlint/errorlint"
 	_ "github.com/power-devops/perfstat"
 	_ "github.com/pquerna/otp"
