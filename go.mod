@@ -1239,7 +1239,7 @@ require (
 	github.com/sagernet/sing-vmess v0.2.4
 	github.com/sagernet/smux v1.5.34-mod.2
 	github.com/sagernet/wireguard-go v0.0.1-beta.7
-	github.com/sagikazarmark/locafero v0.9.0
+	github.com/sagikazarmark/locafero v0.10.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.51.0
 	github.com/samber/slog-betterstack v1.4.2
@@ -1314,7 +1314,7 @@ require (
 	github.com/sony/gobreaker v1.0.0
 	github.com/sony/sonyflake v1.3.0
 	github.com/sosodev/duration v1.3.1
-	github.com/sourcegraph/conc v0.3.0
+	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
 	github.com/sourcegraph/go-diff v0.7.0
 	github.com/spacemonkeygo/monkit/v3 v3.0.24
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
