@@ -1143,7 +1143,7 @@ require (
 	github.com/pion/dtls v1.5.4
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
-	github.com/pion/ice/v2 v2.3.37
+	github.com/pion/ice/v2 v2.3.38
 	github.com/pion/interceptor v0.1.40
 	github.com/pion/logging v0.2.4
 	github.com/pion/mdns v0.0.12
@@ -1161,7 +1161,7 @@ require (
 	github.com/pion/turn v1.4.0
 	github.com/pion/turn/v2 v2.1.6
 	github.com/pion/udp v0.1.4
-	github.com/pion/webrtc/v3 v3.3.5
+	github.com/pion/webrtc/v3 v3.3.6
 	github.com/pires/go-proxyproto v0.8.1
 	github.com/pjbgf/sha1cd v0.4.0
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
