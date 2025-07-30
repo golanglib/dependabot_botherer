@@ -341,7 +341,7 @@ require (
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.10.0
 	github.com/caddyserver/certmagic v0.23.0
-	github.com/caddyserver/xcaddy v0.4.4
+	github.com/caddyserver/xcaddy v0.4.5
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.0.1
 	github.com/calebcase/tmpfile v1.0.3
