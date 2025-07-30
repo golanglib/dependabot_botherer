@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250717185734-6c6e0d3c608e.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.4
 	cloud.google.com/go/auth v0.16.3
@@ -387,14 +387,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.4.0
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250729134059-2ccbac3c0210
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250730145739-d634baf86da0
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.18
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250729134059-2ccbac3c0210
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250729134059-2ccbac3c0210
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250730145739-d634baf86da0
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250730145739-d634baf86da0
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.7
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250729134059-2ccbac3c0210
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250729134059-2ccbac3c0210
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250730145739-d634baf86da0
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250730145739-d634baf86da0
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -436,7 +436,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250714105120-a8d478684f20
+	github.com/coze-dev/coze-go v0.0.0-20250730025431-5f816af8c3df
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
@@ -517,7 +517,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.8
-	github.com/facebook/time v0.0.0-20250729145516-5e672303eef2
+	github.com/facebook/time v0.0.0-20250730125200-941f361fabb2
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
