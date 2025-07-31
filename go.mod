@@ -237,7 +237,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.27.0
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.237.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.36.0
-	github.com/aws/aws-sdk-go-v2/service/kms v1.42.0
+	github.com/aws/aws-sdk-go-v2/service/kms v1.42.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.85.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.26.1
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.31.1
