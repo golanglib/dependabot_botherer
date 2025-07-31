@@ -183,7 +183,7 @@ require (
 	github.com/anacrolix/lsan v0.0.0-20211126052245-807000409a62
 	github.com/anacrolix/missinggo v1.3.0
 	github.com/anacrolix/missinggo/perf v1.0.0
-	github.com/anacrolix/missinggo/v2 v2.9.0
+	github.com/anacrolix/missinggo/v2 v2.10.0
 	github.com/anacrolix/mmsg v1.1.1
 	github.com/anacrolix/multiless v0.4.0
 	github.com/anacrolix/possum/go v0.3.2
