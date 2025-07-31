@@ -166,6 +166,7 @@ github.com/hashicorp/consul
 //go: module github.com/Azure/go-autorest/autorest/validation is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/logger is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
+//go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
 //go: warning: github.com/hashicorp/go-msgpack@v1.1.5: retracted by module author: v1.1.5 merged upstream ugorji/go which breaks compatibility with previous versions.
 //go: to switch to the latest unretracted version, run:
@@ -186,6 +187,7 @@ github.com/hashicorp/nomad
 //go: module github.com/Azure/go-autorest/autorest/validation is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/logger is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
+//go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
 github.com/hashicorp/vault
 //[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.20.1
