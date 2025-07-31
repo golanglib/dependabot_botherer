@@ -1509,7 +1509,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.37.0
 	go.opentelemetry.io/otel/sdk/metric v1.37.0
 	go.opentelemetry.io/otel/trace v1.37.0
-	go.opentelemetry.io/proto/otlp v1.7.0
+	go.opentelemetry.io/proto/otlp v1.7.1
 	go.starlark.net v0.0.0-20250623223156-8bf495bf4e9a
 	go.step.sm/crypto v0.68.0
 	go.uber.org/atomic v1.11.0
@@ -1552,7 +1552,7 @@ require (
 	google.golang.org/api v0.244.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250603155806-513f23925822
-	google.golang.org/genproto/googleapis/api v0.0.0-20250721164621-a45f3dfb1074
+	google.golang.org/genproto/googleapis/api v0.0.0-20250728155136-f173205681a0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250728155136-f173205681a0
 	google.golang.org/grpc v1.74.2
 	google.golang.org/protobuf v1.36.6
