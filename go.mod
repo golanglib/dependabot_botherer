@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250717185734-6c6e0d3c608e.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.4
 	cloud.google.com/go/auth v0.16.3
@@ -387,14 +387,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.6.4
 	github.com/cloudwego/eino v0.4.1
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250731133601-8efdd149cf2f
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250801075622-6721dae36fe9
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.19
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250731133601-8efdd149cf2f
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250731133601-8efdd149cf2f
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250801075622-6721dae36fe9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250801075622-6721dae36fe9
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250731133601-8efdd149cf2f
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250731133601-8efdd149cf2f
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250801075622-6721dae36fe9
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250801075622-6721dae36fe9
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -755,7 +755,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc
 	github.com/gravitational/trace v1.5.1
-	github.com/grid-x/modbus v0.0.0-20250717144429-344b140e33c1
+	github.com/grid-x/modbus v0.0.0-20250801110857-752051ed9df7
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
