@@ -949,7 +949,7 @@ require (
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
-	github.com/lxc/incus/v6 v6.14.0
+	github.com/lxc/incus/v6 v6.15.0
 	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
 	github.com/magefile/mage v1.15.0
@@ -1510,7 +1510,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.37.0
 	go.opentelemetry.io/otel/trace v1.37.0
 	go.opentelemetry.io/proto/otlp v1.7.1
-	go.starlark.net v0.0.0-20250623223156-8bf495bf4e9a
+	go.starlark.net v0.0.0-20250717191651-336a4b3a6d1d
 	go.step.sm/crypto v0.68.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
@@ -1527,7 +1527,7 @@ require (
 	golang.org/x/arch v0.19.0
 	golang.org/x/crypto v0.40.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
-	golang.org/x/exp v0.0.0-20250620022241-b7579e27df2b
+	golang.org/x/exp v0.0.0-20250718183923-645b1fa84792
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.29.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
@@ -1785,7 +1785,7 @@ require (
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
-	github.com/minio/crc64nvme v1.0.2 // indirect
+	github.com/minio/crc64nvme v1.1.0 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/moby/go-archive v0.1.0 // indirect
 	github.com/moby/sys/capability v0.4.0 // indirect
@@ -1879,7 +1879,6 @@ require (
 	go.yaml.in/yaml/v3 v3.0.3 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.org/x/tools/go/expect v0.1.1-deprecated // indirect
-	golang.org/x/tools/go/packages/packagestest v0.1.1-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.5.1 // indirect
