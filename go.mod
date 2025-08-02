@@ -517,7 +517,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.8
-	github.com/facebook/time v0.0.0-20250730125200-941f361fabb2
+	github.com/facebook/time v0.0.0-20250801204112-d4624bee54cb
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
