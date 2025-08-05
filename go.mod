@@ -452,7 +452,7 @@ require (
 	github.com/datadope-io/go-zabbix/v2 v2.0.1
 	github.com/deanishe/awgo v0.29.1
 	github.com/deepmap/oapi-codegen v1.16.3
-	github.com/denis-tingaikin/go-header v0.5.0
+	github.com/denis-tingaikin/go-header v1.0.0
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/dennwc/varint v1.0.0
 	github.com/devalexandre/langsmithgo v1.0.1
