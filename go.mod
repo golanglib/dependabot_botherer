@@ -1362,7 +1362,7 @@ require (
 	github.com/tetafro/godot v1.5.1
 	github.com/tetratelabs/wazero v1.9.0
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
-	github.com/tidwall/btree v1.8.0
+	github.com/tidwall/btree v1.8.1
 	github.com/tidwall/gjson v1.18.0
 	github.com/tidwall/match v1.1.1
 	github.com/tidwall/pretty v1.2.1
