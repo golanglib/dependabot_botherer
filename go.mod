@@ -375,7 +375,7 @@ require (
 	github.com/cilium/ebpf v0.19.0
 	github.com/cisco-ie/nx-telemetry-proto v0.0.0-20230117155933-f64c045c77df
 	github.com/ckaznocha/intrange v0.3.1
-	github.com/clarify/clarify-go v0.4.0
+	github.com/clarify/clarify-go v0.4.1
 	github.com/clbanning/mxj/v2 v2.7.0
 	github.com/cli/safeexec v1.0.1
 	github.com/cloudevents/sdk-go v1.2.0
