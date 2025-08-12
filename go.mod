@@ -1348,7 +1348,7 @@ require (
 	github.com/stbenjam/no-sprintf-host-port v0.2.0
 	github.com/steveyen/gtreap v0.1.0
 	github.com/stoewer/go-strcase v1.3.1
-	github.com/streadway/amqp v1.0.0
+	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/objx v0.5.2
 	github.com/stretchr/testify v1.10.0
 	github.com/stripe/stripe-go/v75 v75.11.0
