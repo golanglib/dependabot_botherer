@@ -2,6 +2,8 @@
 
 set -euo pipefail
 
+EXCLUDE_PREFIX=${EXCLUDE_PREFIX:-""}
+
 # make sure the network is available
 curl -f -s "https://proxy.golang.org/cached-only/" -o /dev/null
 
@@ -38,8 +40,13 @@ done | sort -u | while read -r MODULE; do
     echo "ignore $MODULE" >&2
     continue
   fi
-  # make sure the module is public
   ESCAPED_MODULE=$(echo "$MODULE" | sed 's/[A-Z]/!&/g' | tr '[:upper:]' '[:lower:]')
+  # make sure the module does not match any exclude prefix
+  if [[ -n "$EXCLUDE_PREFIX" ]] && echo "$MODULE" | grep -qE "^($EXCLUDE_PREFIX)"; then
+    echo "exclude $MODULE" >&2
+    continue
+  fi
+  # make sure the module is public
   if ! curl -f -s "https://proxy.golang.org/cached-only/$ESCAPED_MODULE/@v/list" -o /dev/null; then
     echo "exclude $MODULE" >&2
     continue
