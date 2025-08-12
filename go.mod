@@ -140,6 +140,7 @@ require (
 	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.13.13
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.8.0
+	github.com/Shopify/go-lua v0.0.0-20250718183320-1e37f32ad7d0
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
 	github.com/abice/go-enum v0.9.1
@@ -213,6 +214,7 @@ require (
 	github.com/apparentlymart/go-textseg/v13 v13.0.0
 	github.com/apparentlymart/go-textseg/v15 v15.0.0
 	github.com/armon/go-radix v1.0.1-0.20221118154546-54df44f2176c
+	github.com/arran4/golang-ical v0.3.2
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
 	github.com/ashanbrown/makezero v1.2.0
@@ -405,6 +407,7 @@ require (
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
+	github.com/cloudwego/thrift-gen-validator v0.2.6
 	github.com/cloudwego/thriftgo v0.4.2
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
 	github.com/cncf/xds/go v0.0.0-20250501225837-2ac532fd4443
@@ -517,6 +520,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.8
+	github.com/expr-lang/expr v1.16.9
 	github.com/facebook/time v0.0.0-20250805163543-82061c810412
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
@@ -540,6 +544,7 @@ require (
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.132.0
 	github.com/ghostiam/protogetter v0.3.15
+	github.com/gin-contrib/cors v1.7.6
 	github.com/gin-contrib/gzip v1.2.3
 	github.com/gin-contrib/sessions v1.0.4
 	github.com/gin-contrib/sse v1.1.0
@@ -664,7 +669,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250806055131-e46a1d5e4545
+	github.com/golang/geo v0.0.0-20250812090027-44f18bf34695
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -839,11 +844,15 @@ require (
 	github.com/insomniacslk/dhcp v0.0.0-20250417080101-5f8cf70e8c5f
 	github.com/intel/iaevents v1.1.0
 	github.com/intel/powertelemetry v1.0.2
+	github.com/invopop/jsonschema v0.13.0
 	github.com/invopop/yaml v0.3.1
 	github.com/ionos-cloud/sdk-go/v6 v6.3.4
 	github.com/ip2location/ip2location-go/v9 v9.7.1
 	github.com/iris-contrib/httpexpect/v2 v2.15.2
 	github.com/iris-contrib/schema v0.0.6
+	github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar v0.0.0-20241114095618-b2653ad59acb
+	github.com/itchyny/gojq v0.12.17
+	github.com/itchyny/timefmt-go v0.1.6
 	github.com/jackc/chunkreader v1.0.0
 	github.com/jackc/chunkreader/v2 v2.0.1
 	github.com/jackc/pgconn v1.14.3
@@ -896,6 +905,7 @@ require (
 	github.com/jtolio/noiseconn v0.0.0-20231127013910-f6d9ecbf1de7
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
+	github.com/jxskiss/base62 v1.1.0
 	github.com/kaptinlin/go-i18n v0.1.4
 	github.com/kaptinlin/jsonschema v0.4.6
 	github.com/karamaru-alpha/copyloopvar v1.2.1
@@ -940,6 +950,7 @@ require (
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
 	github.com/libdns/libdns v1.1.0
+	github.com/lightjameslyy/maxminddb-golang v1.9.1
 	github.com/linkedin/goavro/v2 v2.14.0
 	github.com/linode/linodego v1.54.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
@@ -990,6 +1001,7 @@ require (
 	github.com/mdlayher/netlink v1.7.3-0.20250113171957-fbb4dce95f42
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
+	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250806125007-913c83bed60c
 	github.com/meilisearch/meilisearch-go v0.33.0
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
@@ -1114,6 +1126,7 @@ require (
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.3
 	github.com/oracle/oci-go-sdk/v65 v65.97.1
+	github.com/orcaman/concurrent-map/v2 v2.0.1
 	github.com/oschwald/geoip2-golang v1.13.0
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/oschwald/maxminddb-golang/v2 v2.0.0-beta.8
@@ -1326,6 +1339,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.7
 	github.com/spf13/viper v1.20.1
+	github.com/spiffe/spire-api-sdk v1.12.4
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.4
 	github.com/srebhan/protobufquery v1.0.4
@@ -1334,6 +1348,7 @@ require (
 	github.com/stbenjam/no-sprintf-host-port v0.2.0
 	github.com/steveyen/gtreap v0.1.0
 	github.com/stoewer/go-strcase v1.3.1
+	github.com/streadway/amqp v1.0.0
 	github.com/stretchr/objx v0.5.2
 	github.com/stretchr/testify v1.10.0
 	github.com/stripe/stripe-go/v75 v75.11.0
@@ -1374,6 +1389,7 @@ require (
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.3.0
 	github.com/tj/assert v0.0.3
+	github.com/tjfoc/gmsm v1.4.1
 	github.com/tklauser/go-sysconf v0.3.15
 	github.com/tklauser/numcpus v0.10.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
@@ -1758,7 +1774,6 @@ require (
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
-	github.com/invopop/jsonschema v0.13.0 // indirect
 	github.com/jaegertracing/jaeger v1.62.0 // indirect
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
@@ -1777,7 +1792,6 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
-	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250723112853-3bce976e5ccc // indirect
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
 	github.com/metacubex/quic-go v0.53.1-0.20250628094454-fda5262d1d9c // indirect
