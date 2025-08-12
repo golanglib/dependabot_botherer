@@ -129,6 +129,7 @@ github.com/apparentlymart/go-textseg/v13
 github.com/apparentlymart/go-textseg/v15
 github.com/armon/go-metrics
 github.com/armon/go-radix
+github.com/arran4/golang-ical
 github.com/asaskevich/govalidator
 github.com/ashanbrown/forbidigo
 github.com/ashanbrown/makezero
@@ -217,6 +218,7 @@ github.com/AzureAD/microsoft-authentication-library-for-go
 github.com/bahlo/generic-list-go
 github.com/baulk/chardet
 github.com/bboreham/go-loser
+github.com/beego/beego/v2
 github.com/beevik/etree
 github.com/belong-inc/go-hubspot
 github.com/benbjohnson/clock
@@ -375,6 +377,7 @@ github.com/cloudwego/kitex/pkg/protocol/bthrift
 github.com/cloudwego/localsession
 github.com/cloudwego/netpoll
 github.com/cloudwego/runtimex
+github.com/cloudwego/thrift-gen-validator
 github.com/cloudwego/thriftgo
 github.com/CloudyKit/fastprinter
 github.com/CloudyKit/jet/v6
@@ -499,6 +502,7 @@ github.com/evanphx/json-patch
 github.com/evanphx/json-patch/v5
 github.com/evanw/esbuild
 github.com/Exayn/go-listmonk
+github.com/expr-lang/expr
 github.com/EzeXchange-API/go-listmonk
 github.com/facebook/time
 github.com/fatih/color
@@ -527,6 +531,7 @@ github.com/gaukas/godicttls
 github.com/geoffgarside/ber
 github.com/getkin/kin-openapi
 github.com/ghostiam/protogetter
+github.com/gin-contrib/cors
 github.com/gin-contrib/gzip
 github.com/gin-contrib/sessions
 github.com/gin-contrib/sse
@@ -818,7 +823,9 @@ github.com/henomis/restclientgo
 github.com/henrybear327/go-proton-api
 github.com/henrybear327/Proton-API-Bridge
 github.com/henrylee2cn/ameda
+github.com/henrylee2cn/aster
 github.com/henrylee2cn/goutil
+github.com/henrylee2cn/structtag
 github.com/hertz-contrib/http2
 github.com/hertz-contrib/localsession
 github.com/hertz-contrib/sse
@@ -852,11 +859,15 @@ github.com/influxdata/tail
 github.com/insomniacslk/dhcp
 github.com/intel/iaevents
 github.com/intel/powertelemetry
+github.com/invopop/jsonschema
 github.com/invopop/yaml
 github.com/ionos-cloud/sdk-go/v6
 github.com/ip2location/ip2location-go/v9
 github.com/iris-contrib/httpexpect/v2
 github.com/iris-contrib/schema
+github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar
+github.com/itchyny/gojq
+github.com/itchyny/timefmt-go
 github.com/jackc/chunkreader
 github.com/jackc/chunkreader/v2
 github.com/jackc/pgconn
@@ -915,6 +926,7 @@ github.com/jtolio/noiseconn
 github.com/julienschmidt/httprouter
 github.com/julz/importas
 github.com/junk1tm/musttag
+github.com/jxskiss/base62
 github.com/kaptinlin/go-i18n
 github.com/kaptinlin/jsonschema
 github.com/karamaru-alpha/copyloopvar
@@ -959,6 +971,7 @@ github.com/leonelquinteros/gotext
 github.com/leonklingele/grouper
 github.com/lib/pq
 github.com/libdns/libdns
+github.com/lightjameslyy/maxminddb-golang
 github.com/linkedin/goavro/v2
 github.com/linode/linodego
 github.com/logzio/azure-monitor-metrics-receiver
@@ -1017,6 +1030,7 @@ github.com/mdlayher/genetlink
 github.com/mdlayher/netlink
 github.com/mdlayher/socket
 github.com/mdlayher/vsock
+github.com/meguminnnnnnnnn/go-openai
 github.com/meilisearch/meilisearch-go
 github.com/Mellanox/rdmamap
 github.com/metacubex/bbolt
@@ -1053,6 +1067,7 @@ github.com/minio/highwayhash
 github.com/minio/md5-simd
 github.com/minio/minio-go/v7
 github.com/minio/sha256-simd
+github.com/miscreant/miscreant.go
 github.com/mitchellh/copystructure
 github.com/mitchellh/go-homedir
 github.com/mitchellh/go-ps
@@ -1156,6 +1171,7 @@ github.com/opentracing/opentracing-go
 github.com/openzipkin-contrib/zipkin-go-opentracing
 github.com/openzipkin/zipkin-go
 github.com/oracle/oci-go-sdk/v65
+github.com/orcaman/concurrent-map/v2
 github.com/oschwald/geoip2-golang
 github.com/oschwald/maxminddb-golang
 github.com/oschwald/maxminddb-golang/v2
@@ -1329,6 +1345,7 @@ github.com/sethvargo/go-retry
 github.com/shirou/gopsutil/v3
 github.com/shoenig/go-m1cpu
 github.com/shoenig/test
+github.com/Shopify/go-lua
 github.com/Shopify/goreferrer
 github.com/Shopify/sarama
 github.com/shopspring/decimal
@@ -1388,6 +1405,7 @@ github.com/spf13/cobra-cli
 github.com/spf13/jwalterweatherman
 github.com/spf13/pflag
 github.com/spf13/viper
+github.com/spiffe/spire-api-sdk
 github.com/sqids/sqids-go
 github.com/srebhan/cborquery
 github.com/srebhan/protobufquery
@@ -1396,6 +1414,7 @@ github.com/ssgreg/nlreturn/v2
 github.com/stbenjam/no-sprintf-host-port
 github.com/steveyen/gtreap
 github.com/stoewer/go-strcase
+github.com/streadway/amqp
 github.com/stretchr/objx
 github.com/stretchr/testify
 github.com/stripe/stripe-go/v75
@@ -1436,6 +1455,7 @@ github.com/timonwong/loggercheck
 github.com/timshannon/bolthold
 github.com/tinylib/msgp
 github.com/tj/assert
+github.com/tjfoc/gmsm
 github.com/tklauser/go-sysconf
 github.com/tklauser/numcpus
 github.com/tmc/grpc-websocket-proxy
