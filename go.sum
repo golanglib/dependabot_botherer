@@ -5,8 +5,8 @@
 bazil.org/fuse v0.0.0-20180421153158-65cc252bf669/go.mod h1:Xbm+BRKSBEpa4q4hTSxohYNQpsxXPbPry4JJWOB3LB8=
 bitbucket.org/creachadair/stringset v0.0.14 h1:t1ejQyf8utS4GZV/4fM+1gvYucggZkfhb+tMobDxYOE=
 bitbucket.org/creachadair/stringset v0.0.14/go.mod h1:Ej8fsr6rQvmeMDf6CCWMWGb14H9mz8kmDgPPTdiVT0w=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.7-20250717185734-6c6e0d3c608e.1 h1:/AZH8sVB6LHv8G+hZlAMCP31NevnesHwYgnlgS5Vt14=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.7-20250717185734-6c6e0d3c608e.1/go.mod h1:eva/VCrd8X7xuJw+JtwCEyrCKiRRASukFqmirnWBvFU=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1 h1:tdpHgTbmbvEIARu+bixzmleMi14+3imnpoFXz+Qzjp4=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1/go.mod h1:xafc+XIsTxTy76GJQ1TKgvJWsSugFBqMaN27WhUblew=
 cel.dev/expr v0.24.0 h1:56OvJKSH3hDGL0ml5uSxZmz3/3Pq4tJ+fb1unVLAFcY=
 cel.dev/expr v0.24.0/go.mod h1:hLPLo1W4QUmuYdA72RBX06QTs6MXw941piREPl3Yfiw=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
@@ -3900,8 +3900,8 @@ github.com/metacubex/sing-vmess v0.2.3 h1:QKLdIk5A2FcR3Y7m2/JO1XhfzgDA8tF4W9/ffs
 github.com/metacubex/sing-vmess v0.2.3/go.mod h1:21R5R1u90uUvBQF0owoooEu96/SAYYD56nDrwm6nFaM=
 github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f h1:Sr/DYKYofKHKc4GF3qkRGNuj6XA6c0eqPgEDN+VAsYU=
 github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f/go.mod h1:jpAkVLPnCpGSfNyVmj6Cq4YbuZsFepm/Dc+9BAOcR80=
-github.com/metacubex/tfo-go v0.0.0-20250516165257-e29c16ae41d4 h1:j1VRTiC9JLR4nUbSikx9OGdu/3AgFDqgcLj4GoqyQkc=
-github.com/metacubex/tfo-go v0.0.0-20250516165257-e29c16ae41d4/go.mod h1:l9oLnLoEXyGZ5RVLsh7QCC5XsouTUyKk4F2nLm2DHLw=
+github.com/metacubex/tfo-go v0.0.0-20250813102221-315ef9a38c2c h1:Rtx1js6bWA1ly1DTb7OIBFHY2OZOYwUHq60vp+v8uoM=
+github.com/metacubex/tfo-go v0.0.0-20250813102221-315ef9a38c2c/go.mod h1:l9oLnLoEXyGZ5RVLsh7QCC5XsouTUyKk4F2nLm2DHLw=
 github.com/metacubex/utls v1.8.0 h1:mSYi6FMnmc5riARl5UZDmWVy710z+P5b7xuGW0lV9ac=
 github.com/metacubex/utls v1.8.0/go.mod h1:FdjYzVfCtgtna19hX0ER1Xsa5uJInwdQ4IcaaI98lEQ=
 github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181 h1:hJLQviGySBuaynlCwf/oYgIxbVbGRUIKZCxdya9YrbQ=
@@ -6779,6 +6779,7 @@ google.golang.org/protobuf v1.28.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqw
 google.golang.org/protobuf v1.28.1/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.29.1/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.30.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
+google.golang.org/protobuf v1.31.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.36.7 h1:IgrO7UwFQGJdRNXH/sQux4R1Dj1WAKcLElzeeRaXV2A=
 google.golang.org/protobuf v1.36.7/go.mod h1:jduwjTPXsFjZGTmRluh+L6NjiWu7pchiJ2/5YcXBHnY=
 gopkg.in/AlecAivazis/survey.v1 v1.8.8 h1:5UtTowJZTz1j7NxVzDGKTz6Lm9IWm8DDF6b7a2wq9VY=
