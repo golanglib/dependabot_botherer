@@ -272,7 +272,7 @@ require (
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.10.0
 	github.com/bep/tmc v0.5.1
-	github.com/bitly/go-hostpool v0.1.0
+	github.com/bitly/go-hostpool v0.1.1
 	github.com/bitly/go-simplejson v0.5.1
 	github.com/bits-and-blooms/bitset v1.24.0
 	github.com/bits-and-blooms/bloom/v3 v3.7.0
