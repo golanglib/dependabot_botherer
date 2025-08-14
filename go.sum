@@ -3872,8 +3872,12 @@ github.com/meguminnnnnnnnn/go-openai v0.0.0-20250806125007-913c83bed60c h1:lUtd2
 github.com/meguminnnnnnnnn/go-openai v0.0.0-20250806125007-913c83bed60c/go.mod h1:qs96ysDmxhE4BZoU45I43zcyfnaYxU3X+aRzLko/htY=
 github.com/meilisearch/meilisearch-go v0.33.0 h1:vDJtB5Ba5X0XaDmrazDiX89QEpi3zuee5Lvt7FJu7Q0=
 github.com/meilisearch/meilisearch-go v0.33.0/go.mod h1:dY4nxhVc0Ext8Kn7u2YohJCsEjirg80DdcOmfNezUYg=
+github.com/metacubex/ascon v0.1.0 h1:6ZWxmXYszT1XXtwkf6nxfFhc/OTtQ9R3Vyj1jN32lGM=
+github.com/metacubex/ascon v0.1.0/go.mod h1:eV5oim4cVPPdEL8/EYaTZ0iIKARH9pnhAK/fcT5Kacc=
 github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b h1:j7dadXD8I2KTmMt8jg1JcaP1ANL3JEObJPdANKcSYPY=
 github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b/go.mod h1:+WmP0VJZDkDszvpa83HzfUp6QzARl/IKkMorH4+nODw=
+github.com/metacubex/blake3 v0.1.0 h1:KGnjh/56REO7U+cgZA8dnBhxdP7jByrG7hTP+bu6cqY=
+github.com/metacubex/blake3 v0.1.0/go.mod h1:CCkLdzFrqf7xmxCdhQFvJsRRV2mwOLDoSPg6vUTB9Uk=
 github.com/metacubex/chacha v0.1.5 h1:fKWMb/5c7ZrY8Uoqi79PPFxl+qwR7X/q0OrsAubyX2M=
 github.com/metacubex/chacha v0.1.5/go.mod h1:Djn9bPZxLTXbJFSeyo0/qzEzQI+gUSSzttuzZM75GH8=
 github.com/metacubex/fswatch v0.1.1 h1:jqU7C/v+g0qc2RUFgmAOPoVvfl2BXXUXEumn6oQuxhU=
@@ -3892,8 +3896,8 @@ github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb h1:U/m3h8lp/j7
 github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb/go.mod h1:B60FxaPHjR1SeQB0IiLrgwgvKsaoASfOWdiqhLjmMGA=
 github.com/metacubex/sing-shadowsocks v0.2.11 h1:p2NGNOdF95e6XvdDKipLj1FRRqR8dnbfC/7pw2CCTlw=
 github.com/metacubex/sing-shadowsocks v0.2.11/go.mod h1:bT1PCTV316zFnlToRMk5zt9HmIQYRBveiT71mplYPfc=
-github.com/metacubex/sing-shadowsocks2 v0.2.5 h1:MnPn0hbcDkSJt6TlpI15XImHKK6IqaOwBUGPKyMnJnE=
-github.com/metacubex/sing-shadowsocks2 v0.2.5/go.mod h1:Zyh+rAQRyevYfG/COCvDs1c/YMhGqCuknn7QrGmoQIw=
+github.com/metacubex/sing-shadowsocks2 v0.2.6 h1:ZR1kYT0f0Vi64iQSS09OdhFfppiNkh7kjgRdMm0SB98=
+github.com/metacubex/sing-shadowsocks2 v0.2.6/go.mod h1:vOEbfKC60txi0ca+yUlqEwOGc3Obl6cnSgx9Gf45KjE=
 github.com/metacubex/sing-tun v0.4.6 h1:rpRE18vsfLkWA+ktcDNghGKiYYFiXVigYgrNBdhiIdo=
 github.com/metacubex/sing-tun v0.4.6/go.mod h1:2YywXPWW8Z97kTH7RffOeykKzU+l0aiKlglWV1PAS64=
 github.com/metacubex/sing-vmess v0.2.3 h1:QKLdIk5A2FcR3Y7m2/JO1XhfzgDA8tF4W9/ffsH9opo=

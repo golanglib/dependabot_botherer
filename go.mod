@@ -1009,7 +1009,7 @@ require (
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb
 	github.com/metacubex/sing-shadowsocks v0.2.11
-	github.com/metacubex/sing-shadowsocks2 v0.2.5
+	github.com/metacubex/sing-shadowsocks2 v0.2.6
 	github.com/metacubex/sing-tun v0.4.6
 	github.com/metacubex/sing-vmess v0.2.3
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
@@ -1792,6 +1792,8 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
+	github.com/metacubex/ascon v0.1.0 // indirect
+	github.com/metacubex/blake3 v0.1.0 // indirect
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
 	github.com/metacubex/quic-go v0.53.1-0.20250628094454-fda5262d1d9c // indirect
