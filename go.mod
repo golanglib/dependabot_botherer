@@ -952,7 +952,7 @@ require (
 	github.com/libdns/libdns v1.1.0
 	github.com/lightjameslyy/maxminddb-golang v1.9.1
 	github.com/linkedin/goavro/v2 v2.14.0
-	github.com/linode/linodego v1.54.0
+	github.com/linode/linodego v1.55.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/lufeee/execinquery v1.2.1
