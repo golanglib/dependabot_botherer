@@ -692,7 +692,7 @@ require (
 	github.com/google/cel-go v0.26.0
 	github.com/google/certificate-transparency-go v1.3.2
 	github.com/google/gnostic-models v0.7.0
-	github.com/google/gnxi v0.0.0-20250508123956-f34a75d41930
+	github.com/google/gnxi v0.0.0-20250814212710-c9e3a4334bfc
 	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3
