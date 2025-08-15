@@ -180,7 +180,7 @@ require (
 	github.com/anacrolix/fuse v0.4.0
 	github.com/anacrolix/generics v0.1.0
 	github.com/anacrolix/go-libutp v1.3.2
-	github.com/anacrolix/log v0.16.0
+	github.com/anacrolix/log v0.17.0
 	github.com/anacrolix/lsan v0.1.0
 	github.com/anacrolix/missinggo v1.3.0
 	github.com/anacrolix/missinggo/perf v1.0.0
