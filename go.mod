@@ -503,7 +503,7 @@ require (
 	github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6
 	github.com/emersion/go-smtp v0.24.0
 	github.com/emersion/go-vcard v0.0.0-20241024213814-c9703dde27ff
-	github.com/emicklei/go-restful/v3 v3.12.2
+	github.com/emicklei/go-restful/v3 v3.13.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane v0.13.4
 	github.com/envoyproxy/protoc-gen-validate v1.2.1
