@@ -181,7 +181,7 @@ require (
 	github.com/anacrolix/generics v0.0.3
 	github.com/anacrolix/go-libutp v1.3.2
 	github.com/anacrolix/log v0.16.0
-	github.com/anacrolix/lsan v0.0.0-20211126052245-807000409a62
+	github.com/anacrolix/lsan v0.1.0
 	github.com/anacrolix/missinggo v1.3.0
 	github.com/anacrolix/missinggo/perf v1.0.0
 	github.com/anacrolix/missinggo/v2 v2.10.0
