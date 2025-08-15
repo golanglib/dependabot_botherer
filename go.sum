@@ -1129,8 +1129,8 @@ github.com/aliyun/alibaba-cloud-sdk-go v1.61.112/go.mod h1:pUKYbK5JQ+1Dfxk80P0qx
 github.com/aliyun/alibaba-cloud-sdk-go v1.63.107 h1:qagvUyrgOnBIlVRQWOyCZGVKUIYbMBdGdJ104vBpRFU=
 github.com/aliyun/alibaba-cloud-sdk-go v1.63.107/go.mod h1:SOSDHfe1kX91v3W5QiBsWSLqeLxImobbMX1mxrFHsVQ=
 github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
-github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d h1:ypNOsIwvdumNRlqWj/hsnLs5TyQWQOylwi+T9Qs454A=
-github.com/anacrolix/bargle v0.0.0-20221014000746-4f2739072e9d/go.mod h1:9xUiZbkh+94FbiIAL1HXpAIBa832f3Mp07rRPl5c5RQ=
+github.com/anacrolix/bargle v1.0.0 h1:jc4EKULEJx4GV10rpERpQp1jsiJWWOEGplsqssc4sAQ=
+github.com/anacrolix/bargle v1.0.0/go.mod h1:9xUiZbkh+94FbiIAL1HXpAIBa832f3Mp07rRPl5c5RQ=
 github.com/anacrolix/chansync v0.7.0 h1:wgwxbsJRmOqNjil4INpxHrDp4rlqQhECxR8/WBP4Et0=
 github.com/anacrolix/chansync v0.7.0/go.mod h1:DZsatdsdXxD0WiwcGl0nJVwyjCKMDv+knl1q2iBjA2k=
 github.com/anacrolix/dht v0.0.0-20180412060941-24cbf25b72a4/go.mod h1:hQfX2BrtuQsLQMYQwsypFAab/GvHg8qxwVi4OJdR1WI=
