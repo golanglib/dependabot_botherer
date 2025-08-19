@@ -1249,7 +1249,7 @@ require (
 	github.com/sagernet/sing v0.7.5
 	github.com/sagernet/sing-mux v0.3.3
 	github.com/sagernet/sing-shadowtls v0.2.0
-	github.com/sagernet/sing-vmess v0.2.6
+	github.com/sagernet/sing-vmess v0.2.7
 	github.com/sagernet/smux v1.5.34-mod.2
 	github.com/sagernet/wireguard-go v0.0.1-beta.7
 	github.com/sagikazarmark/locafero v0.10.0
