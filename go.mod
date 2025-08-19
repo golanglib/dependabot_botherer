@@ -1072,7 +1072,7 @@ require (
 	github.com/muhlemmer/gu v0.3.1
 	github.com/muhlemmer/httpforwarded v0.1.0
 	github.com/multiformats/go-multihash v0.2.3
-	github.com/multiformats/go-varint v0.0.7
+	github.com/multiformats/go-varint v0.1.0
 	github.com/multiplay/go-ts3 v1.2.0
 	github.com/mustafaturan/bus v1.0.2
 	github.com/mustafaturan/monoton v1.0.0
