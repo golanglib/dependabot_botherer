@@ -1565,11 +1565,11 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.247.0
+	google.golang.org/api v0.248.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250603155806-513f23925822
 	google.golang.org/genproto/googleapis/api v0.0.0-20250804133106-a7a43d27e69b
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250804133106-a7a43d27e69b
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250818200422-3122310a409c
 	google.golang.org/grpc v1.74.2
 	google.golang.org/protobuf v1.36.7
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
