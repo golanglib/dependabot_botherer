@@ -765,7 +765,7 @@ require (
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.1
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.2
 	github.com/h12w/go-socks5 v0.0.0-20200522160539-76189e178364
 	github.com/h2non/gock v1.2.0
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
@@ -1568,9 +1568,9 @@ require (
 	google.golang.org/api v0.248.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250603155806-513f23925822
-	google.golang.org/genproto/googleapis/api v0.0.0-20250804133106-a7a43d27e69b
+	google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250818200422-3122310a409c
-	google.golang.org/grpc v1.74.2
+	google.golang.org/grpc v1.75.0
 	google.golang.org/protobuf v1.36.7
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
@@ -1894,7 +1894,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.35.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.35.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
-	go.yaml.in/yaml/v3 v3.0.3 // indirect
+	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.org/x/tools/go/expect v0.1.1-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
