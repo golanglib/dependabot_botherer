@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.7-20250717185734-6c6e0d3c608e.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.6
 	cloud.google.com/go/auth v0.16.5
@@ -389,21 +389,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.0
 	github.com/cloudwego/eino v0.4.4
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250819065230-0fb5ad04c85f
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250820120452-cb4c949a1d4c
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.20
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250819065230-0fb5ad04c85f
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250819065230-0fb5ad04c85f
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250820120452-cb4c949a1d4c
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250820120452-cb4c949a1d4c
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250819065230-0fb5ad04c85f
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250819065230-0fb5ad04c85f
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250820120452-cb4c949a1d4c
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250820120452-cb4c949a1d4c
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.2
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250731054635-6c996664cebe
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250820105714-62979e4b95e5
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
@@ -1015,7 +1015,7 @@ require (
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
 	github.com/metacubex/tfo-go v0.0.0-20250813102221-315ef9a38c2c
 	github.com/metacubex/utls v1.8.0
-	github.com/metacubex/wireguard-go v0.0.0-20240922131502-c182e7471181
+	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
 	github.com/mgechev/revive v1.11.0
