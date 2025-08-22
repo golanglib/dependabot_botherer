@@ -389,21 +389,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.0
 	github.com/cloudwego/eino v0.4.4
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250820120452-cb4c949a1d4c
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250821122458-ae35393076b3
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.20
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250820120452-cb4c949a1d4c
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250820120452-cb4c949a1d4c
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250821122458-ae35393076b3
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250821122458-ae35393076b3
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.3
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250820120452-cb4c949a1d4c
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250820120452-cb4c949a1d4c
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250821122458-ae35393076b3
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250821122458-ae35393076b3
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
 	github.com/cloudwego/hertz v0.10.2
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250820105714-62979e4b95e5
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250821060308-4cfae2c82674
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
@@ -521,7 +521,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.9
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20250820213237-9c2a714aeb51
+	github.com/facebook/time v0.0.0-20250821153557-ead49819683f
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -669,7 +669,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250813021530-247f39904721
+	github.com/golang/geo v0.0.0-20250821133510-ecfc33a939ac
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -1001,7 +1001,7 @@ require (
 	github.com/mdlayher/netlink v1.7.3-0.20250113171957-fbb4dce95f42
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
-	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250806125007-913c83bed60c
+	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250821095446-07791bea23a0
 	github.com/meilisearch/meilisearch-go v0.33.1
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
