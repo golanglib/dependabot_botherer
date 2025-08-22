@@ -1215,7 +1215,7 @@ require (
 	github.com/quic-go/quic-go v0.54.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/rclone/rclone v1.70.3
+	github.com/rclone/rclone v1.71.0
 	github.com/redis/go-redis/v9 v9.12.1
 	github.com/redis/rueidis v1.0.64
 	github.com/refraction-networking/utls v1.8.0
@@ -1543,11 +1543,11 @@ require (
 	golang.org/x/arch v0.20.0
 	golang.org/x/crypto v0.41.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
-	golang.org/x/exp v0.0.0-20250718183923-645b1fa84792
+	golang.org/x/exp v0.0.0-20250811191247-51f88131bc50
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.30.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
-	golang.org/x/mobile v0.0.0-20250606033058-a2a15c67f36f
+	golang.org/x/mobile v0.0.0-20250808145247-395d808d53cd
 	golang.org/x/mod v0.27.0
 	golang.org/x/net v0.43.0
 	golang.org/x/oauth2 v0.30.0
@@ -1653,7 +1653,7 @@ require (
 	sigs.k8s.io/kustomize/kyaml v0.20.1
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.6.0
-	storj.io/common v0.0.0-20250605163628-70ca83b6228e
+	storj.io/common v0.0.0-20250808122759-804533d519c1
 	storj.io/drpc v0.0.35-0.20250513201419-f7819ea69b55
 	storj.io/eventkit v0.0.0-20250410172343-61f26d3de156
 	storj.io/infectious v0.0.2
@@ -1803,7 +1803,7 @@ require (
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.2 // indirect
-	github.com/minio/crc64nvme v1.1.0 // indirect
+	github.com/minio/crc64nvme v1.1.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/moby/go-archive v0.1.0 // indirect
 	github.com/moby/sys/capability v0.4.0 // indirect
@@ -1854,7 +1854,7 @@ require (
 	github.com/schollz/closestmatch v2.1.0+incompatible // indirect
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
-	github.com/shirou/gopsutil/v4 v4.25.5 // indirect
+	github.com/shirou/gopsutil/v4 v4.25.7 // indirect
 	github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 // indirect
 	github.com/smallstep/go-attestation v0.4.4-0.20241119153605-2306d5b464ca // indirect
 	github.com/smallstep/linkedca v0.23.0 // indirect
@@ -1896,8 +1896,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.37.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63 // indirect
-	golang.org/x/tools/go/expect v0.1.1-deprecated // indirect
+	golang.org/x/exp/shiny v0.0.0-20250718183923-645b1fa84792 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.5.1 // indirect
