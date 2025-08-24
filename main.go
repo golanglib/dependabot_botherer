@@ -473,6 +473,7 @@ import (
 	_ "github.com/djherbis/nio/v3"
 	_ "github.com/djherbis/times"
 	_ "github.com/dlclark/regexp2"
+	_ "github.com/dmarkham/enumer/enumerrs"
 	_ "github.com/dnaeon/go-vcr/cassette"
 	_ "github.com/docker/docker-credential-helpers/client"
 	_ "github.com/docker/go-connections"

@@ -475,6 +475,7 @@ require (
 	github.com/djherbis/nio/v3 v3.0.1
 	github.com/djherbis/times v1.6.0
 	github.com/dlclark/regexp2 v1.11.5
+	github.com/dmarkham/enumer v1.6.1
 	github.com/dnaeon/go-vcr v1.2.0
 	github.com/docker/docker-credential-helpers v0.9.3
 	github.com/docker/go-connections v0.6.0
@@ -1736,7 +1737,6 @@ require (
 	github.com/dgryski/go-farm v0.0.0-20240924180020-3414d57e47da // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
-	github.com/dmarkham/enumer v1.5.11 // indirect
 	github.com/docker/cli v28.3.2+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker v28.3.3+incompatible // indirect
