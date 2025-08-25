@@ -1489,6 +1489,7 @@ github.com/v2fly/VSign
 github.com/valyala/fasthttp
 github.com/valyala/fastjson
 github.com/valyala/fasttemplate
+github.com/valyala/gozstd
 github.com/vapourismo/knx-go
 github.com/vbatts/tar-split
 github.com/vektah/gqlparser/v2
