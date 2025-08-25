@@ -403,7 +403,7 @@ require (
 	github.com/cloudwego/hertz v0.10.2
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250821060308-4cfae2c82674
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250825074827-ca63109d85b7
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
@@ -670,7 +670,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250821133510-ecfc33a939ac
+	github.com/golang/geo v0.0.0-20250825110136-d4dbdf980d26
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -1424,6 +1424,7 @@ require (
 	github.com/valyala/fasthttp v1.65.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
+	github.com/valyala/gozstd v1.22.0
 	github.com/vapourismo/knx-go v0.0.0-20250707093940-740ae6da1af6
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.30

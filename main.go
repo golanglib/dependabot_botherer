@@ -1423,6 +1423,7 @@ import (
 	_ "github.com/valyala/fasthttp"
 	_ "github.com/valyala/fastjson"
 	_ "github.com/valyala/fasttemplate"
+	_ "github.com/valyala/gozstd"
 	_ "github.com/vapourismo/knx-go/knx"
 	_ "github.com/vbatts/tar-split/archive/tar"
 	_ "github.com/vektah/gqlparser/v2"
