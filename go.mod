@@ -1188,7 +1188,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.5.0
 	github.com/prashantv/gostub v1.1.0
-	github.com/pressly/goose/v3 v3.24.3
+	github.com/pressly/goose/v3 v3.25.0
 	github.com/prometheus-community/pro-bing v0.7.0
 	github.com/prometheus/client_golang v1.23.0
 	github.com/prometheus/client_model v0.6.2
@@ -1351,7 +1351,7 @@ require (
 	github.com/stoewer/go-strcase v1.3.1
 	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/objx v0.5.2
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.0
 	github.com/stripe/stripe-go/v75 v75.11.0
 	github.com/stripe/stripe-go/v76 v76.25.0
 	github.com/stripe/stripe-go/v78 v78.12.0
