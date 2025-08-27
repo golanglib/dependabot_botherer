@@ -1424,7 +1424,7 @@ require (
 	github.com/valyala/fasthttp v1.65.0
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
-	github.com/valyala/gozstd v1.23.0
+	github.com/valyala/gozstd v1.23.2
 	github.com/vapourismo/knx-go v0.0.0-20250707093940-740ae6da1af6
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.30
