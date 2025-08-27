@@ -740,7 +740,7 @@ require (
 	github.com/gophercloud/gophercloud/v2 v2.8.0
 	github.com/gopherjs/gopherjs v1.17.2
 	github.com/gorcon/rcon v1.4.0
-	github.com/gordonklaus/ineffassign v0.1.0
+	github.com/gordonklaus/ineffassign v0.2.0
 	github.com/gorilla/context v1.1.2
 	github.com/gorilla/css v1.0.1
 	github.com/gorilla/feeds v1.2.0
