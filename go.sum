@@ -1489,6 +1489,8 @@ github.com/bep/goportabletext v0.1.0 h1:8dqym2So1cEqVZiBa4ZnMM1R9l/DnC1h4ONg4J5k
 github.com/bep/goportabletext v0.1.0/go.mod h1:6lzSTsSue75bbcyvVc0zqd1CdApuT+xkZQ6Re5DzZFg=
 github.com/bep/gowebp v0.4.0 h1:QihuVnvIKbRoeBNQkN0JPMM8ClLmD6V2jMftTFwSK3Q=
 github.com/bep/gowebp v0.4.0/go.mod h1:95gtYkAA8iIn1t3HkAPurRCVGV/6NhgaHJ1urz0iIwc=
+github.com/bep/helpers v0.6.0 h1:qtqMCK8XPFNM9hp5Ztu9piPjxNNkk8PIyUVjg6v8Bsw=
+github.com/bep/helpers v0.6.0/go.mod h1:IOZlgx5PM/R/2wgyCatfsgg5qQ6rNZJNDpWGXqDR044=
 github.com/bep/imagemeta v0.12.0 h1:ARf+igs5B7pf079LrqRnwzQ/wEB8Q9v4NSDRZO1/F5k=
 github.com/bep/imagemeta v0.12.0/go.mod h1:23AF6O+4fUi9avjiydpKLStUNtJr5hJB4rarG18JpN8=
 github.com/bep/lazycache v0.8.0 h1:lE5frnRjxaOFbkPZ1YL6nijzOPPz6zeXasJq8WpG4L8=
@@ -2694,8 +2696,8 @@ github.com/gohugoio/hashstructure v0.5.0 h1:G2fjSBU36RdwEJBWJ+919ERvOVqAg9tfcYp4
 github.com/gohugoio/hashstructure v0.5.0/go.mod h1:Ser0TniXuu/eauYmrwM4o64EBvySxNzITEOLlm4igec=
 github.com/gohugoio/httpcache v0.7.0 h1:ukPnn04Rgvx48JIinZvZetBfHaWE7I01JR2Q2RrQ3Vs=
 github.com/gohugoio/httpcache v0.7.0/go.mod h1:fMlPrdY/vVJhAriLZnrF5QpN3BNAcoBClgAyQd+lGFI=
-github.com/gohugoio/hugo v0.148.2 h1:q54a5+DEWXzra3g0TcZ73VO12iLfhM3Nvk4IkOClcyI=
-github.com/gohugoio/hugo v0.148.2/go.mod h1:z/FL0CwJm9Ue/xFdMEVO4VOqogDuSlknCG9UnjBKkRk=
+github.com/gohugoio/hugo v0.149.0 h1:JNjq8nos+qsPZCDjsMHlSEPVrMu8EOa20Tp9EcN9D+g=
+github.com/gohugoio/hugo v0.149.0/go.mod h1:s36c0JBBpifM+PY6sV2BkzW+ogR4nxbEPxH2g3ZPieQ=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.5.0 h1:dco+7YiOryRoPOMXwwaf+kktZSCtlFtreNdiJbETvYE=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.5.0/go.mod h1:CRrxQTKeM3imw+UoS4EHKyrqB7Zp6sAJiqHit+aMGTE=
 github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1 h1:nUzXfRTszLliZuN0JTKeunXTRaiFX6ksaWP0puLLYAY=
@@ -5687,8 +5689,8 @@ go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.37.0 h1:EtFWS
 go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.37.0/go.mod h1:QjUEoiGCPkvFZ/MjK6ZZfNOS6mfVEVKYE99dFhuN2LI=
 go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.35.0 h1:xJ2qHD0C1BeYVTLLR9sX12+Qb95kfeD/byKj6Ky1pXg=
 go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.35.0/go.mod h1:u5BF1xyjstDowA1R5QAO9JHzqK+ublenEW/dyqTjBVk=
-go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.36.0 h1:rixTyDGXFxRy1xzhKrotaHy3/KXdPhlWARrCgK+eqUY=
-go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.36.0/go.mod h1:dowW6UsM9MKbJq5JTz2AMVp3/5iW5I/TStsk8S+CfHw=
+go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.37.0 h1:6VjV6Et+1Hd2iLZEPtdV7vie80Yyqf7oikJLjQ/myi0=
+go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.37.0/go.mod h1:u8hcp8ji5gaM/RfcOo8z9NMnf1pVLfVY7lBY2VOGuUU=
 go.opentelemetry.io/otel/metric v1.37.0 h1:mvwbQS5m0tbmqML4NqK+e3aDiO02vsf/WgbsdpcPoZE=
 go.opentelemetry.io/otel/metric v1.37.0/go.mod h1:04wGrZurHYKOc+RKeye86GwKiTb9FKm1WHtO+4EVr2E=
 go.opentelemetry.io/otel/oteltest v1.0.0-RC1/go.mod h1:+eoIG0gdEOaPNftuy1YScLr1Gb4mL/9lpDkZ0JjMRq4=
@@ -5868,8 +5870,8 @@ golang.org/x/exp v0.0.0-20200207192155-f17229e696bd/go.mod h1:J/WKrq2StrnmMY6+EH
 golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6/go.mod h1:3jZMyOhIsHpP37uCMkUooju7aAi5cS1Q23tOzKc+0MU=
 golang.org/x/exp v0.0.0-20220428152302-39d4317da171/go.mod h1:lgLbSvA5ygNOMpwM/9anMpWVlVJ7Z+cHWq/eFuinpGE=
 golang.org/x/exp v0.0.0-20220827204233-334a2380cb91/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
-golang.org/x/exp v0.0.0-20250811191247-51f88131bc50 h1:3yiSh9fhy5/RhCSntf4Sy0Tnx50DmMpQ4MQdKKk4yg4=
-golang.org/x/exp v0.0.0-20250811191247-51f88131bc50/go.mod h1:rT6SFzZ7oxADUDx58pcaKFTcZ+inxAa9fTrYx/uVYwg=
+golang.org/x/exp v0.0.0-20250819193227-8b4c13bb791b h1:DXr+pvt3nC887026GRP39Ej11UATqWDmWuS99x26cD0=
+golang.org/x/exp v0.0.0-20250819193227-8b4c13bb791b/go.mod h1:4QTo5u+SEIbbKW1RacMZq1YEfOBqeXa19JeshGi+zc4=
 golang.org/x/exp/shiny v0.0.0-20250718183923-645b1fa84792 h1:YkeFUC3wFzzmWTi5lYbb5af46Tpk9DLWHXXwGjLF3R0=
 golang.org/x/exp/shiny v0.0.0-20250718183923-645b1fa84792/go.mod h1:DUdAjGCS1V5oj0c1HZTX5UNuMxBjfxuU/NIoy/wuiRw=
 golang.org/x/exp/typeparams v0.0.0-20220428152302-39d4317da171/go.mod h1:AbB0pIl9nAr9wVwH+Z2ZpaocVmF5I4GyWCDIsVjR0bk=
@@ -6720,8 +6722,8 @@ google.golang.org/genproto v0.0.0-20230323212658-478b75c54725/go.mod h1:UUQDJDOl
 google.golang.org/genproto v0.0.0-20230330154414-c0448cd141ea/go.mod h1:UUQDJDOlWu4KYeJZffbWgBkS1YFobzKbLVfK69pe0Ak=
 google.golang.org/genproto v0.0.0-20230331144136-dcfb400f0633/go.mod h1:UUQDJDOlWu4KYeJZffbWgBkS1YFobzKbLVfK69pe0Ak=
 google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1/go.mod h1:nKE/iIaLqn2bQwXBg8f1g2Ylh6r5MN5CmZvuzZCgsCU=
-google.golang.org/genproto v0.0.0-20250603155806-513f23925822 h1:rHWScKit0gvAPuOnu87KpaYtjK5zBMLcULh7gxkCXu4=
-google.golang.org/genproto v0.0.0-20250603155806-513f23925822/go.mod h1:HubltRL7rMh0LfnQPkMH4NPDFEWp0jw3vixw7jEM53s=
+google.golang.org/genproto v0.0.0-20250715232539-7130f93afb79 h1:Nt6z9UHqSlIdIGJdz6KhTIs2VRx/iOsA5iE8bmQNcxs=
+google.golang.org/genproto v0.0.0-20250715232539-7130f93afb79/go.mod h1:kTmlBHMPqR5uCZPBvwa2B18mvubkjyY3CRLI0c6fj0s=
 google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c h1:AtEkQdl5b6zsybXcbz00j1LwNodDuH6hVifIaNqk7NQ=
 google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c/go.mod h1:ea2MjsO70ssTfCjiwHgI0ZFqcw45Ksuk2ckf9G468GA=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20250818200422-3122310a409c h1:qXWI/sQtv5UKboZ/zUk7h+mrf/lXORyI+n9DKDAusdg=

@@ -662,7 +662,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/gohugoio/httpcache v0.7.0
-	github.com/gohugoio/hugo v0.148.2
+	github.com/gohugoio/hugo v0.149.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.5.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
@@ -1545,7 +1545,7 @@ require (
 	golang.org/x/arch v0.20.0
 	golang.org/x/crypto v0.41.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
-	golang.org/x/exp v0.0.0-20250811191247-51f88131bc50
+	golang.org/x/exp v0.0.0-20250819193227-8b4c13bb791b
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/image v0.30.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
@@ -1569,7 +1569,7 @@ require (
 	gonum.org/v1/gonum v0.16.0
 	google.golang.org/api v0.248.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genproto v0.0.0-20250603155806-513f23925822
+	google.golang.org/genproto v0.0.0-20250715232539-7130f93afb79
 	google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250818200422-3122310a409c
 	google.golang.org/grpc v1.75.0
@@ -1897,6 +1897,7 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.62.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.37.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.37.0 // indirect
+	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.37.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/exp/shiny v0.0.0-20250718183923-645b1fa84792 // indirect
