@@ -943,7 +943,7 @@ require (
 	github.com/larksuite/oapi-sdk-go/v3 v3.4.24
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/gomoddirectives v0.7.0
-	github.com/ldez/tagliatelle v0.7.1
+	github.com/ldez/tagliatelle v0.7.2
 	github.com/leodido/go-syslog/v4 v4.2.0
 	github.com/leodido/go-urn v1.4.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
