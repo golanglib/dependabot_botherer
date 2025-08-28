@@ -1297,7 +1297,7 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
 	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/signalfx/golib/v3 v3.3.55
+	github.com/signalfx/golib/v3 v3.4.1
 	github.com/signalfx/sapm-proto v0.18.0
 	github.com/sijms/go-ora/v2 v2.9.0
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
@@ -1777,7 +1777,6 @@ require (
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
-	github.com/jaegertracing/jaeger v1.62.0 // indirect
 	github.com/jaegertracing/jaeger-idl v0.6.0 // indirect
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
