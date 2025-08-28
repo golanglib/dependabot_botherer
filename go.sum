@@ -1348,8 +1348,8 @@ github.com/aws/aws-sdk-go-v2 v1.11.2/go.mod h1:SQfA+m2ltnu1cA0soUkj4dRSsmITiVQUJ
 github.com/aws/aws-sdk-go-v2 v1.18.0/go.mod h1:uzbQtefpm44goOPmdKyAlXSNcwlRgF3ePWVW6EtJvvw=
 github.com/aws/aws-sdk-go-v2 v1.38.2 h1:QUkLO1aTW0yqW95pVzZS0LGFanL71hJ0a49w4TJLMyM=
 github.com/aws/aws-sdk-go-v2 v1.38.2/go.mod h1:sDioUELIUO9Znk23YVmIk86/9DOpkbyyVb1i/gUNFXY=
-github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.0 h1:6GMWV6CNpA/6fbFHnoAjrv4+LGfyTqZz2LtCHnspgDg=
-github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.0/go.mod h1:/mXlTIVG9jbxkqDnr5UQNQxW1HRYxeGklkM9vAFeabg=
+github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1 h1:i8p8P4diljCr60PpJp6qZXNlgX4m2yQFpYk+9ZT+J4E=
+github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1/go.mod h1:ddqbooRZYNoJ2dsTwOty16rM+/Aqmk/GOXrK8cg7V00=
 github.com/aws/aws-sdk-go-v2/config v1.6.1/go.mod h1:t/y3UPu0XEDy0cEw6mvygaBQaPzWiYAxfP2SzgtvclA=
 github.com/aws/aws-sdk-go-v2/config v1.18.25/go.mod h1:dZnYpD5wTW/dQF0rRNLVypB396zWCcPiBIvdvSWHEg4=
 github.com/aws/aws-sdk-go-v2/config v1.31.3 h1:RIb3yr/+PZ18YYNe6MDiG/3jVoJrPmdoCARwNkMGvco=
@@ -1383,8 +1383,8 @@ github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.4/go.mod h1:SPBBhkJxjcrzJBc+qY85e
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.8.1/go.mod h1:CM+19rL1+4dFWnOQKwDc7H1KwXTz+h61oUSHyhV0b3o=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.49.1 h1:laOaNfrx9LuLfsDXRQv5yu6kAIY4XDwva18rqbvvzWA=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.49.1/go.mod h1:QJBeAX9imA8RWLG7/X2RJtTmSerdENe/hCGIjllPGHI=
-github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.57.0 h1:MFvplof6F2vBGxtYtWspgrLro9xe3yFuGSmElBbZmwE=
-github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.57.0/go.mod h1:0GB2dl4sDw+wVpOd3MUqIzLW2TkEii/2gAAtQfcfBII=
+github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.57.1 h1:EaZZMoyDYiYyS2xd8GrPvqyX7FWskN2C7qJscceONAs=
+github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.57.1/go.mod h1:yfmvd1yoaZOPxwn97mnTnF6Jt/d8sThRqfs2RISPQi0=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.32.1 h1:zqrLMYxiBhTcApxEmmD0MkFssRjK/yn8qrPFyZgHe90=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.32.1/go.mod h1:MdO/rN8DiJUtWlY5XCoOjHaAAY/AvxQ5L4rFRUhe3NU=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.5.0/go.mod h1:XY5YhCS9SLul3JSQ08XG/nfxXxrkh6RR21XPq/J//NY=
