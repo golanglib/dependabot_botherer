@@ -25,7 +25,7 @@ require (
 	cloud.google.com/go/storage v1.56.1
 	cloud.google.com/go/trace v1.11.6
 	code.gitea.io/actions-proto-go v0.4.1
-	code.gitea.io/sdk/gitea v0.21.0
+	code.gitea.io/sdk/gitea v0.22.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.18.1
