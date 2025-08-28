@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20230802163732-1c33ebd9ecfa.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.121.6
 	cloud.google.com/go/auth v0.16.5
@@ -1600,16 +1600,16 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.6.1
 	howett.net/plist v1.0.1
-	k8s.io/api v0.33.4
+	k8s.io/api v0.34.0
 	k8s.io/apiextensions-apiserver v0.33.4
-	k8s.io/apimachinery v0.33.4
-	k8s.io/apiserver v0.33.4
-	k8s.io/client-go v0.33.4
+	k8s.io/apimachinery v0.34.0
+	k8s.io/apiserver v0.34.0
+	k8s.io/client-go v0.34.0
 	k8s.io/code-generator v0.33.4
-	k8s.io/component-base v0.33.4
-	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7
+	k8s.io/component-base v0.34.0
+	k8s.io/gengo/v2 v2.0.0-20250604051438-85fd79dbfd9f
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff
+	k8s.io/kube-openapi v0.0.0-20250710124328-f3f2b991d03b
 	k8s.io/utils v0.0.0-20250604170112-4c0f3b243397
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11006.0
@@ -1648,7 +1648,7 @@ require (
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.33.0
 	sigs.k8s.io/controller-runtime v0.21.0
 	sigs.k8s.io/controller-tools v0.18.0
-	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3
+	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8
 	sigs.k8s.io/kustomize/api v0.20.1
 	sigs.k8s.io/kustomize/cmd/config v0.20.1
 	sigs.k8s.io/kustomize/kustomize/v5 v5.7.1
@@ -1768,7 +1768,7 @@ require (
 	github.com/graphql-go/handler v0.2.3 // indirect
 	github.com/groob/finalizer v0.0.0-20170707115354-4c2ed49aabda // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.0.1 // indirect
-	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.1.0 // indirect
+	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.0 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hashicorp/consul/api v1.31.0 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
@@ -1917,4 +1917,5 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	pack.ag/amqp v0.11.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
+	sigs.k8s.io/structured-merge-diff/v6 v6.3.0 // indirect
 )
