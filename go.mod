@@ -1621,7 +1621,7 @@ require (
 	modernc.org/ccgo/v4 v4.28.0
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.4
-	modernc.org/fileutil v1.3.26
+	modernc.org/fileutil v1.3.28
 	modernc.org/gc/v2 v2.6.5
 	modernc.org/gc/v3 v3.1.1
 	modernc.org/httpfs v1.0.6
