@@ -2408,8 +2408,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20250810115208-cb73b20a1742 h1:X+SsQlZSgJO0A4d1+nI7+g4axZ8u3iUKPirYb5nB5ic=
-github.com/go-ap/activitypub v0.0.0-20250810115208-cb73b20a1742/go.mod h1:0rgUaERG5qjYenwz4oN5OnUjvkdRuHRjb+2c8FRjz+w=
+github.com/go-ap/activitypub v0.0.0-20250831121713-4e61cc722305 h1:WH5zZj95fxwijhkRaCTKL95s1biSZs3gDhV6vjgm21M=
+github.com/go-ap/activitypub v0.0.0-20250831121713-4e61cc722305/go.mod h1:0rgUaERG5qjYenwz4oN5OnUjvkdRuHRjb+2c8FRjz+w=
 github.com/go-ap/errors v0.0.0-20250527110557-c8db454e53fd h1:fM5mNIWTPoxoOYoTLd6ifkKXSlXa830l5MYXsrt1UmE=
 github.com/go-ap/errors v0.0.0-20250527110557-c8db454e53fd/go.mod h1:Vkh+Z3f24K8nMsJKXo1FHn5ebPsXvB/WDH5JRtYqdNo=
 github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73 h1:GMKIYXyXPGIp+hYiWOhfqK4A023HdgisDT4YGgf99mw=
@@ -5362,8 +5362,8 @@ github.com/valyala/fasttemplate v1.2.2 h1:lxLXG0uE3Qnshl9QyaK6XJxMXlQZELvChBOCmQ
 github.com/valyala/fasttemplate v1.2.2/go.mod h1:KHLXt3tVN2HBp8eijSv/kGJopbvo7S+qRAEEKiv+SiQ=
 github.com/valyala/gozstd v1.23.2 h1:S3rRsskaDvBCM2XJzQFYIDAO6txxmvTc1arA/9Wgi9o=
 github.com/valyala/gozstd v1.23.2/go.mod h1:y5Ew47GLlP37EkTB+B4s7r6A5rdaeB7ftbl9zoYiIPQ=
-github.com/vapourismo/knx-go v0.0.0-20250707093940-740ae6da1af6 h1:GtWYrmxsJacqZsmK5VjC1oe1GCHDOBwExo+kKG87Rt0=
-github.com/vapourismo/knx-go v0.0.0-20250707093940-740ae6da1af6/go.mod h1:IA7Pa9cQxp+L7Tb31V8Yq7fky7cyCVLglDiqDg4WwyA=
+github.com/vapourismo/knx-go v0.0.0-20250831181332-a3e1827f37e3 h1:Npqi6PqXdJCf2d3mf106ewfy16JI6nKA9YDtd5Q19J4=
+github.com/vapourismo/knx-go v0.0.0-20250831181332-a3e1827f37e3/go.mod h1:P8dpnI2v8MdxN6NTP6bBM8XFtEv1GoLXeVutRx/Tn7E=
 github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec h1:DGmKwyZwEB8dI7tbLt/I/gQuP559o/0FrAkHKlQM/Ks=
 github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec/go.mod h1:owBmyHYMLkxyrugmfwE/DLJyW8Ro9mkphwuVErQ0iUw=
 github.com/vbatts/go-mtree v0.5.4 h1:OMAb8jaCyiFA7zXj0Zc/oARcxBDBoeu2LizjB8BVJl0=

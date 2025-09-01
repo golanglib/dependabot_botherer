@@ -562,7 +562,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20250810115208-cb73b20a1742
+	github.com/go-ap/activitypub v0.0.0-20250831121713-4e61cc722305
 	github.com/go-ap/errors v0.0.0-20250527110557-c8db454e53fd
 	github.com/go-ap/jsonld v0.0.0-20221030091449-f2a191312c73
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
@@ -1425,7 +1425,7 @@ require (
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.23.2
-	github.com/vapourismo/knx-go v0.0.0-20250707093940-740ae6da1af6
+	github.com/vapourismo/knx-go v0.0.0-20250831181332-a3e1827f37e3
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.30
 	github.com/vektra/mockery/v2 v2.53.5
