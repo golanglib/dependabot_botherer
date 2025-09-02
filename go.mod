@@ -950,7 +950,7 @@ require (
 	github.com/leonelquinteros/gotext v1.7.2
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lib/pq v1.10.9
-	github.com/libdns/libdns v1.1.0
+	github.com/libdns/libdns v1.1.1
 	github.com/lightjameslyy/maxminddb-golang v1.9.1
 	github.com/linkedin/goavro/v2 v2.14.0
 	github.com/linode/linodego v1.56.0
