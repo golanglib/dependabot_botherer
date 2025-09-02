@@ -1518,7 +1518,7 @@ require (
 	go.opentelemetry.io/contrib/detectors/gcp v1.38.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.62.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.62.0
-	go.opentelemetry.io/contrib/propagators/aws v1.37.0
+	go.opentelemetry.io/contrib/propagators/aws v1.38.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.37.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.37.0
 	go.opentelemetry.io/contrib/propagators/ot v1.37.0
