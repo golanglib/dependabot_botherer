@@ -604,7 +604,7 @@ require (
 	github.com/go-openapi/analysis v0.23.0
 	github.com/go-openapi/errors v0.22.2
 	github.com/go-openapi/inflect v0.21.3
-	github.com/go-openapi/jsonpointer v0.21.2
+	github.com/go-openapi/jsonpointer v0.22.0
 	github.com/go-openapi/jsonreference v0.21.0
 	github.com/go-openapi/loads v0.22.0
 	github.com/go-openapi/runtime v0.28.0
@@ -1753,6 +1753,7 @@ require (
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
+	github.com/go-openapi/swag/jsonname v0.24.0 // indirect
 	github.com/go-xmlfmt/xmlfmt v1.1.3 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
