@@ -317,10 +317,6 @@ github.com/open-telemetry/opentelemetry-collector-contrib
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "reports": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.134.0/reports
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "reports/distributions": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.134.0/reports/distributions
 //[github.com/open-telemetry/opentelemetry-collector-contrib] no importable packages found
-github.com/prometheus/common
-//go: github.com/prometheus/common@latest (v1.20.3) requires github.com/prometheus/common@v1.20.3: parsing go.mod:
-//	module declares its path as: github.com/prometheus/client_golang
-//	        but was required as: github.com/prometheus/common
 github.com/prometheus/prometheus
 //[github.com/prometheus/prometheus] dir: /gopath/pkg/mod/github.com/prometheus/prometheus@v0.302.1
 //[github.com/prometheus/prometheus] module has replace
