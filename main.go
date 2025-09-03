@@ -1191,8 +1191,6 @@ import (
 	_ "github.com/prometheus-community/pro-bing"
 	_ "github.com/prometheus/client_golang/api"
 	_ "github.com/prometheus/client_model/go"
-	_ "github.com/prometheus/common/config"
-	_ "github.com/prometheus/common/sigv4"
 	_ "github.com/prometheus/procfs"
 	_ "github.com/prometheus/prom2json"
 	_ "github.com/protolambda/ctxlock"

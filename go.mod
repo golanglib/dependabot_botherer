@@ -389,14 +389,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.0
 	github.com/cloudwego/eino v0.4.7
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250828061307-a19adf5c9b50
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250902131858-bb959c912204
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.23
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250828061307-a19adf5c9b50
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250828061307-a19adf5c9b50
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250902131858-bb959c912204
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250902131858-bb959c912204
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.4
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250828061307-a19adf5c9b50
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250828061307-a19adf5c9b50
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250902131858-bb959c912204
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250902131858-bb959c912204
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -522,7 +522,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.9
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20250901174833-87bed4b54021
+	github.com/facebook/time v0.0.0-20250902083503-388f5e1a7914
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -670,7 +670,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250825151631-54d70cc7cb31
+	github.com/golang/geo v0.0.0-20250902123317-522ac1fc691f
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -1192,8 +1192,6 @@ require (
 	github.com/prometheus-community/pro-bing v0.7.0
 	github.com/prometheus/client_golang v1.23.0
 	github.com/prometheus/client_model v0.6.2
-	github.com/prometheus/common v0.65.0
-	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.17.0
 	github.com/prometheus/prom2json v1.4.2
 	github.com/protolambda/ctxlock v0.1.0
@@ -1425,7 +1423,7 @@ require (
 	github.com/valyala/fastjson v1.6.4
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.23.2
-	github.com/vapourismo/knx-go v0.0.0-20250831181332-a3e1827f37e3
+	github.com/vapourismo/knx-go v0.0.0-20250902075700-a1489e386d6c
 	github.com/vbatts/tar-split v0.12.1
 	github.com/vektah/gqlparser/v2 v2.5.30
 	github.com/vektra/mockery/v2 v2.53.5
@@ -1824,7 +1822,6 @@ require (
 	github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
-	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
 	github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86 // indirect
 	github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c // indirect
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
@@ -1853,6 +1850,7 @@ require (
 	github.com/pion/webrtc/v4 v4.0.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
+	github.com/prometheus/common v0.65.0 // indirect
 	github.com/prometheus/prometheus v0.302.1 // indirect
 	github.com/raeperd/recvcheck v0.2.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20250401214520-65e299d6c5c9 // indirect
