@@ -848,7 +848,7 @@ require (
 	github.com/invopop/jsonschema v0.13.0
 	github.com/invopop/yaml v0.3.1
 	github.com/ionos-cloud/sdk-go/v6 v6.3.4
-	github.com/ip2location/ip2location-go/v9 v9.7.1
+	github.com/ip2location/ip2location-go/v9 v9.8.0
 	github.com/iris-contrib/httpexpect/v2 v2.15.2
 	github.com/iris-contrib/schema v0.0.6
 	github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar v0.0.0-20241114095618-b2653ad59acb
