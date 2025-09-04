@@ -342,7 +342,7 @@ require (
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.10.2
-	github.com/caddyserver/certmagic v0.24.0
+	github.com/caddyserver/certmagic v0.25.0
 	github.com/caddyserver/xcaddy v0.4.5
 	github.com/caddyserver/zerossl v0.1.3
 	github.com/caio/go-tdigest/v4 v4.1.0
@@ -1815,7 +1815,7 @@ require (
 	github.com/metacubex/sing v0.5.5 // indirect
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
-	github.com/mholt/acmez/v3 v3.1.2 // indirect
+	github.com/mholt/acmez/v3 v3.1.3 // indirect
 	github.com/minio/crc64nvme v1.1.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/moby/go-archive v0.1.0 // indirect
