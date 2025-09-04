@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.8-20250717185734-6c6e0d3c608e.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.122.0
 	cloud.google.com/go/auth v0.16.5
@@ -389,14 +389,14 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.0
 	github.com/cloudwego/eino v0.4.8
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250903035842-96774a3ec845
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250904121005-ad78ed3e5e49
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.27
-	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250903035842-96774a3ec845
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250903035842-96774a3ec845
+	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250904121005-ad78ed3e5e49
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250904121005-ad78ed3e5e49
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.4
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250903035842-96774a3ec845
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250903035842-96774a3ec845
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250904121005-ad78ed3e5e49
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250904121005-ad78ed3e5e49
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.2.6
 	github.com/cloudwego/gopkg v0.1.5
@@ -439,7 +439,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.1.2
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20250902040415-2b32c3fae42d
+	github.com/coze-dev/coze-go v0.0.0-20250904083123-d5e3dc1610ff
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
