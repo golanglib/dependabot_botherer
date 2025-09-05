@@ -357,7 +357,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.10
 	github.com/charmbracelet/bubbles v0.21.0
-	github.com/charmbracelet/bubbletea v1.3.6
+	github.com/charmbracelet/bubbletea v1.3.7
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.10.0
 	github.com/charmbracelet/lipgloss v1.1.1-0.20250404203927-76690c660834
