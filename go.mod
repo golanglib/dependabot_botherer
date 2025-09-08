@@ -1620,7 +1620,7 @@ require (
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.28.1
 	modernc.org/ccorpus v1.11.6
-	modernc.org/ccorpus2 v1.5.4
+	modernc.org/ccorpus2 v1.5.5
 	modernc.org/fileutil v1.3.29
 	modernc.org/gc/v2 v2.6.5
 	modernc.org/gc/v3 v3.1.1
