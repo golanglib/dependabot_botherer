@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.8-20250717185734-6c6e0d3c608e.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.122.0
 	cloud.google.com/go/auth v0.16.5
@@ -403,7 +403,7 @@ require (
 	github.com/cloudwego/hertz v0.10.2
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250901040319-024fedbc2da3
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250908070836-3ef1979de0ca
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
@@ -522,7 +522,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.9
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20250903181936-656fcbfb94a4
+	github.com/facebook/time v0.0.0-20250908105656-3c533fa3bc2f
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
