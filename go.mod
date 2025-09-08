@@ -955,7 +955,7 @@ require (
 	github.com/linkedin/goavro/v2 v2.14.0
 	github.com/linode/linodego v1.56.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
-	github.com/lucasb-eyer/go-colorful v1.2.0
+	github.com/lucasb-eyer/go-colorful v1.3.0
 	github.com/lufeee/execinquery v1.2.1
 	github.com/lufia/plan9stats v0.0.0-20250317134145-8bc96cf8fc35
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
