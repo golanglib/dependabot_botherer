@@ -3734,8 +3734,8 @@ github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac/go.mod h
 github.com/linkedin/goavro/v2 v2.14.0 h1:aNO/js65U+Mwq4yB5f1h01c3wiM458qtRad1DN0CMUI=
 github.com/linkedin/goavro/v2 v2.14.0/go.mod h1:KXx+erlq+RPlGSPmLF7xGo6SAbh8sCQ53x064+ioxhk=
 github.com/linode/linodego v0.10.0/go.mod h1:cziNP7pbvE3mXIPneHj0oRY8L1WtGEIKlZ8LANE4eXA=
-github.com/linode/linodego v1.56.0 h1:WO2ztR6/hdfqCIeZnC8DyYb+AXnuWOl4FB/qqK6T5HE=
-github.com/linode/linodego v1.56.0/go.mod h1:W5+QH6nCppgi5gud/b16uAKOzTtfuwzjOHEFA7bKOd0=
+github.com/linode/linodego v1.57.0 h1:B5cl2gRNtaY1TIQ7B4uAhDa8NjtiWdEnWUO8nkHaU0A=
+github.com/linode/linodego v1.57.0/go.mod h1:7zol1dqpLRdAT9s04mIaUhA+rXaRERFnKBERcQZiEeg=
 github.com/liquidweb/liquidweb-go v1.6.0/go.mod h1:UDcVnAMDkZxpw4Y7NOHkqoeiGacVLEIG/i5J9cyixzQ=
 github.com/logzio/azure-monitor-metrics-receiver v1.1.0 h1:L2LU/jWTOFibZeSKUeEDBdPY6iFL1gkSE3A/9mnk/Ms=
 github.com/logzio/azure-monitor-metrics-receiver v1.1.0/go.mod h1:6J/ZJtFGAuv3XvLWOWTefbi1BBHvnawNjUTGcx2qUG4=
