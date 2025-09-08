@@ -1554,7 +1554,7 @@ require (
 	golang.org/x/net v0.43.0
 	golang.org/x/oauth2 v0.30.0
 	golang.org/x/sync v0.17.0
-	golang.org/x/sys v0.35.0
+	golang.org/x/sys v0.36.0
 	golang.org/x/telemetry v0.0.0-20250807160809-1a19826ec488
 	golang.org/x/telemetry/config v0.65.0
 	golang.org/x/term v0.34.0
