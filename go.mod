@@ -150,7 +150,7 @@ require (
 	github.com/agext/levenshtein v1.2.3
 	github.com/agiledragon/gomonkey/v2 v2.13.0
 	github.com/agnivade/levenshtein v1.2.1
-	github.com/air-verse/air v1.62.0
+	github.com/air-verse/air v1.63.0
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0
 	github.com/akavel/rsrc v0.10.2
 	github.com/alecthomas/assert v1.0.0
