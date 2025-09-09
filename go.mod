@@ -160,7 +160,7 @@ require (
 	github.com/alecthomas/chroma/v2 v2.20.0
 	github.com/alecthomas/go-check-sumtype v0.3.1
 	github.com/alecthomas/participle v0.7.1
-	github.com/alecthomas/repr v0.5.1
+	github.com/alecthomas/repr v0.5.2
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
 	github.com/alexbrainman/sspi v0.0.0-20231016080023-1a75b4708caa
 	github.com/alexflint/go-arg v1.6.0
