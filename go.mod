@@ -1008,7 +1008,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250324165734-5857f47bd43b
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb
+	github.com/metacubex/sing-quic v0.0.0-20250909002258-06122df8f231
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.6
 	github.com/metacubex/sing-tun v0.4.7
