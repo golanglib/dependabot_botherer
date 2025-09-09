@@ -1567,7 +1567,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.16.0
-	google.golang.org/api v0.248.0
+	google.golang.org/api v0.249.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250715232539-7130f93afb79
 	google.golang.org/genproto/googleapis/api v0.0.0-20250825161204-c5933d9347a5
