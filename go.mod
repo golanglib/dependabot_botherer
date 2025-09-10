@@ -1602,7 +1602,7 @@ require (
 	howett.net/plist v1.0.1
 	k8s.io/api v0.34.0
 	k8s.io/apiextensions-apiserver v0.34.0
-	k8s.io/apimachinery v0.34.0
+	k8s.io/apimachinery v0.34.1
 	k8s.io/apiserver v0.34.0
 	k8s.io/client-go v0.34.0
 	k8s.io/code-generator v0.34.0
