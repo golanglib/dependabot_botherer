@@ -1605,7 +1605,7 @@ require (
 	k8s.io/apimachinery v0.34.1
 	k8s.io/apiserver v0.34.0
 	k8s.io/client-go v0.34.1
-	k8s.io/code-generator v0.34.0
+	k8s.io/code-generator v0.34.1
 	k8s.io/component-base v0.34.1
 	k8s.io/gengo/v2 v2.0.0-20250604051438-85fd79dbfd9f
 	k8s.io/klog/v2 v2.130.1
