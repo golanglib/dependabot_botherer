@@ -1182,7 +1182,7 @@ require (
 	github.com/pkg/sftp v1.13.9
 	github.com/pkg/xattr v0.4.12
 	github.com/pkoukk/tiktoken-go v0.1.7
-	github.com/pkoukk/tiktoken-go-loader v0.0.1
+	github.com/pkoukk/tiktoken-go-loader v0.0.2
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
 	github.com/polyfloyd/go-errorlint v1.8.0
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
