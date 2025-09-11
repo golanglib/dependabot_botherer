@@ -1555,12 +1555,12 @@ require (
 	golang.org/x/oauth2 v0.30.0
 	golang.org/x/sync v0.17.0
 	golang.org/x/sys v0.36.0
-	golang.org/x/telemetry v0.0.0-20250807160809-1a19826ec488
+	golang.org/x/telemetry v0.0.0-20250908211612-aef8a434d053
 	golang.org/x/telemetry/config v0.65.0
 	golang.org/x/term v0.35.0
 	golang.org/x/text v0.29.0
 	golang.org/x/time v0.13.0
-	golang.org/x/tools v0.36.0
+	golang.org/x/tools v0.37.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
@@ -1914,6 +1914,7 @@ require (
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/exp/shiny v0.0.0-20250718183923-645b1fa84792 // indirect
+	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.5.1 // indirect
