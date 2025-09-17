@@ -494,6 +494,7 @@ import (
 	_ "github.com/editorconfig-checker/editorconfig-checker/pkg/config"
 	_ "github.com/editorconfig/editorconfig-core-go/v2"
 	_ "github.com/edsrzf/mmap-go"
+	_ "github.com/eino-contrib/jsonschema"
 	_ "github.com/elazarl/goproxy"
 	_ "github.com/elazarl/goproxy/ext/auth"
 	_ "github.com/elliotchance/orderedmap"

@@ -496,6 +496,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.3
 	github.com/edsrzf/mmap-go v1.2.0
+	github.com/eino-contrib/jsonschema v1.0.0
 	github.com/elazarl/goproxy v1.7.2
 	github.com/elazarl/goproxy/ext v0.0.0-20250305112401-088f758167d2
 	github.com/elliotchance/orderedmap v1.8.0
@@ -1747,7 +1748,6 @@ require (
 	github.com/eapache/queue v1.1.0 // indirect
 	github.com/ebitengine/purego v0.8.4 // indirect
 	github.com/echlebek/timeproxy v1.0.0 // indirect
-	github.com/eino-contrib/jsonschema v1.0.0 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.32.4 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
