@@ -909,7 +909,7 @@ require (
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
 	github.com/kaptinlin/go-i18n v0.1.7
-	github.com/kaptinlin/jsonschema v0.4.13
+	github.com/kaptinlin/jsonschema v0.4.14
 	github.com/karamaru-alpha/copyloopvar v1.2.1
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.12
@@ -1753,7 +1753,7 @@ require (
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
-	github.com/go-json-experiment/json v0.0.0-20250813233538-9b1f9ea2e11b // indirect
+	github.com/go-json-experiment/json v0.0.0-20250910080747-cc2cfa0554c3 // indirect
 	github.com/go-openapi/swag/cmdutils v0.24.0 // indirect
 	github.com/go-openapi/swag/conv v0.24.0 // indirect
 	github.com/go-openapi/swag/fileutils v0.24.0 // indirect
