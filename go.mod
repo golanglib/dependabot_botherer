@@ -670,7 +670,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20250912065020-b504328d3ef3
+	github.com/golang/geo v0.0.0-20250916190230-ebe3c72f992a
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
