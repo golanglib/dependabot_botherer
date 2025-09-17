@@ -1,0 +1,14 @@
+name: Stale
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v10
+        with:
+          stale-pr-message: '@dependabot recreate'
+          days-before-pr-stale: 7
+          days-before-pr-close: 1
