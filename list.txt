@@ -476,6 +476,7 @@ github.com/eclipse/paho.mqtt.golang
 github.com/editorconfig-checker/editorconfig-checker
 github.com/editorconfig/editorconfig-core-go/v2
 github.com/edsrzf/mmap-go
+github.com/eino-contrib/jsonschema
 github.com/elazarl/goproxy
 github.com/elazarl/goproxy/ext
 github.com/elliotchance/orderedmap
