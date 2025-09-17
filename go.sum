@@ -3253,8 +3253,8 @@ github.com/hashicorp/serf v0.10.2 h1:m5IORhuNSjaxeljg5DeQVDlQyVkhRIjJDimbkCa8aAc
 github.com/hashicorp/serf v0.10.2/go.mod h1:T1CmSGfSeGfnfNy/w0odXQUR1rfECGd2Qdsp84DjOiY=
 github.com/hashicorp/terraform-exec v0.23.1 h1:diK5NSSDXDKqHEOIQefBMu9ny+FhzwlwV0xgUTB7VTo=
 github.com/hashicorp/terraform-exec v0.23.1/go.mod h1:e4ZEg9BJDRaSalGm2z8vvrPONt0XWG0/tXpmzYTf+dM=
-github.com/hashicorp/terraform-json v0.27.0 h1:REIlFzMMkIyTbhq69NC30bYiUYLv7iVhwM8ObnLo0p8=
-github.com/hashicorp/terraform-json v0.27.0/go.mod h1:GzPLJ1PLdUG5xL6xn1OXWIjteQRT2CNT9o/6A9mi9hE=
+github.com/hashicorp/terraform-json v0.27.2 h1:BwGuzM6iUPqf9JYM/Z4AF1OJ5VVJEEzoKST/tRDBJKU=
+github.com/hashicorp/terraform-json v0.27.2/go.mod h1:GzPLJ1PLdUG5xL6xn1OXWIjteQRT2CNT9o/6A9mi9hE=
 github.com/hashicorp/vault/api v1.20.0 h1:KQMHElgudOsr+IbJgmbjHnCTxEpKs9LnozA1D3nozU4=
 github.com/hashicorp/vault/api v1.20.0/go.mod h1:GZ4pcjfzoOWpkJ3ijHNpEoAxKEsBJnVljyTe3jM2Sms=
 github.com/hashicorp/yamux v0.1.2 h1:XtB8kyFOyHXYVFnwT5C3+Bdo8gArse7j2AQ0DA0Uey8=
