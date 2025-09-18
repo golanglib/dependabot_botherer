@@ -933,7 +933,7 @@ require (
 	github.com/kr/fs v0.1.0
 	github.com/kr/pretty v0.3.1
 	github.com/kr/text v0.2.0
-	github.com/kulti/thelper v0.7.0
+	github.com/kulti/thelper v0.7.1
 	github.com/kunwardeep/paralleltest v1.0.14
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyoh86/exportloopref v0.1.11
