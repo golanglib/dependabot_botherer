@@ -1500,12 +1500,12 @@ require (
 	go.einride.tech/aip v0.73.0
 	go.etcd.io/bbolt v1.4.3
 	go.etcd.io/etcd/api/v3 v3.6.4
-	go.etcd.io/etcd/client/pkg/v3 v3.6.4
+	go.etcd.io/etcd/client/pkg/v3 v3.6.5
 	go.etcd.io/etcd/client/v2 v2.305.22
 	go.etcd.io/etcd/client/v3 v3.6.4
 	go.etcd.io/etcd/etcdctl/v3 v3.6.4
 	go.etcd.io/etcd/etcdutl/v3 v3.6.4
-	go.etcd.io/etcd/pkg/v3 v3.6.4
+	go.etcd.io/etcd/pkg/v3 v3.6.5
 	go.etcd.io/etcd/raft/v3 v3.5.22
 	go.etcd.io/etcd/server/v3 v3.6.4
 	go.etcd.io/etcd/tests/v3 v3.6.4
