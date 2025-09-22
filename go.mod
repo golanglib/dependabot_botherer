@@ -1254,7 +1254,7 @@ require (
 	github.com/sagernet/sing-vmess v0.2.7
 	github.com/sagernet/smux v1.5.34-mod.2
 	github.com/sagernet/wireguard-go v0.0.2-beta.1
-	github.com/sagikazarmark/locafero v0.11.0
+	github.com/sagikazarmark/locafero v0.12.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.51.0
 	github.com/samber/slog-betterstack v1.4.2
