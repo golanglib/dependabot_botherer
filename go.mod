@@ -1,6 +1,6 @@
 module dependabot_botherer
 
-go 1.25
+go 1.25.1
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
@@ -785,7 +785,7 @@ require (
 	github.com/hashicorp/go-immutable-radix v1.3.1
 	github.com/hashicorp/go-metrics v0.5.4
 	github.com/hashicorp/go-msgpack v0.5.5
-	github.com/hashicorp/go-msgpack/v2 v2.1.3
+	github.com/hashicorp/go-msgpack/v2 v2.1.4
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.7.8
 	github.com/hashicorp/go-rootcerts v1.0.2
