@@ -1015,7 +1015,7 @@ require (
 	github.com/metacubex/sing-tun v0.4.7
 	github.com/metacubex/sing-vmess v0.2.3
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
-	github.com/metacubex/tfo-go v0.0.0-20250827083229-aa432b865617
+	github.com/metacubex/tfo-go v0.0.0-20250921095601-b102db4216c0
 	github.com/metacubex/utls v1.8.0
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
 	github.com/mfridman/interpolate v0.0.2
