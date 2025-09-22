@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.9-20250912141014-52f32327d4b0.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.16.5
@@ -389,21 +389,21 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.0
 	github.com/cloudwego/eino v0.5.3
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250919093114-b7a34962a8d8
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20250922100652-4a4306a8bf2c
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.28
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.1
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250919093114-b7a34962a8d8
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20250922100652-4a4306a8bf2c
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.4
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250919093114-b7a34962a8d8
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250919093114-b7a34962a8d8
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20250922100652-4a4306a8bf2c
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250918130948-16e3a249e721
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.3.0
 	github.com/cloudwego/gopkg v0.1.6
 	github.com/cloudwego/hertz v0.10.2
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.14.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250919063808-cabe68409634
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250922094815-37b92600f087
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.1
 	github.com/cloudwego/runtimex v0.1.1
@@ -523,7 +523,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.10
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20250918105917-f254eab8a2ea
+	github.com/facebook/time v0.0.0-20250922171156-6ecdc659aa19
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1003,7 +1003,7 @@ require (
 	github.com/mdlayher/netlink v1.8.0
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
-	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250919084741-8856a0dc88cc
+	github.com/meguminnnnnnnnn/go-openai v0.0.0-20250821095446-07791bea23a0
 	github.com/meilisearch/meilisearch-go v0.34.0
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
