@@ -1219,7 +1219,7 @@ require (
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.71.0
 	github.com/redis/go-redis/v9 v9.14.0
-	github.com/redis/rueidis v1.0.64
+	github.com/redis/rueidis v1.0.65
 	github.com/refraction-networking/utls v1.8.0
 	github.com/relvacode/iso8601 v1.7.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
