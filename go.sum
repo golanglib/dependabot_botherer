@@ -1874,8 +1874,8 @@ github.com/cloudwego/runtimex v0.1.1/go.mod h1:23vL/HGV0W8nSCHbe084AgEBdDV4rvXen
 github.com/cloudwego/thrift-gen-validator v0.2.6 h1:w6kg6JDGhaqyOMx3+ilIohigh0v+fHdX/88AYcfZlL0=
 github.com/cloudwego/thrift-gen-validator v0.2.6/go.mod h1:V35APif7VsaRsUL7GKMk04ga8v4N7KpDgODBmew1JAg=
 github.com/cloudwego/thriftgo v0.3.14-0.20240612073149-c1e5299511d2/go.mod h1:R4a+4aVDI0V9YCTfpNgmvbkq/9ThKgF7Om8Z0I36698=
-github.com/cloudwego/thriftgo v0.4.2 h1:+XioeEgBOVqyKMJqUuqeJbKUtQ0XIkXhlNIqoWSESFw=
-github.com/cloudwego/thriftgo v0.4.2/go.mod h1:/D4zRAEj1t3/Tq1bVGDMnRt3wxpHfalXfZWvq/n4YmY=
+github.com/cloudwego/thriftgo v0.4.3 h1:Ig80u/nQdOiB4K36BG4oqud2f8LMykZkbnk4R4QywiM=
+github.com/cloudwego/thriftgo v0.4.3/go.mod h1:/D4zRAEj1t3/Tq1bVGDMnRt3wxpHfalXfZWvq/n4YmY=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/cncf/udpa/go v0.0.0-20200629203442-efcf912fb354/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
 github.com/cncf/udpa/go v0.0.0-20201120205902-5459f2c99403/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
