@@ -402,13 +402,13 @@ require (
 	github.com/cloudwego/gopkg v0.1.6
 	github.com/cloudwego/hertz v0.10.2
 	github.com/cloudwego/iasm v0.2.0
-	github.com/cloudwego/kitex v0.14.1
+	github.com/cloudwego/kitex v0.15.0
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250922094815-37b92600f087
 	github.com/cloudwego/localsession v0.1.2
-	github.com/cloudwego/netpoll v0.7.1
+	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thrift-gen-validator v0.2.6
-	github.com/cloudwego/thriftgo v0.4.2
+	github.com/cloudwego/thriftgo v0.4.3
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
 	github.com/cncf/xds/go v0.0.0-20250501225837-2ac532fd4443
 	github.com/cockroachdb/datadriven v1.0.2
