@@ -118,47 +118,6 @@ github.com/gwos/tcg
 //	k8s.io/api/networking/v1alpha1: cannot find module providing package k8s.io/api/networking/v1alpha1
 github.com/hashicorp/consul
 //go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/connect/envoy imports
-//	github.com/hashicorp/consul/agent/xds imports
-//	github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/action/v3: cannot find module providing package github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/action/v3
-//go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/connect/envoy imports
-//	github.com/hashicorp/consul/agent/xds imports
-//	github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/codecs/dubbo/v3: cannot find module providing package github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/codecs/dubbo/v3
-//go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/connect/envoy imports
-//	github.com/hashicorp/consul/agent/xds imports
-//	github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/matcher/v3: cannot find module providing package github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/matcher/v3
-//go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/connect/envoy imports
-//	github.com/hashicorp/consul/agent/xds imports
-//	github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/router/v3: cannot find module providing package github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/router/v3
-//go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/connect/envoy imports
-//	github.com/hashicorp/consul/agent/xds imports
-//	github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/v3: cannot find module providing package github.com/envoyproxy/go-control-plane/contrib/envoy/extensions/filters/network/generic_proxy/v3
-//go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/connect/envoy imports
-//	github.com/hashicorp/consul/agent/xds imports
-//	github.com/envoyproxy/go-control-plane/envoy/service/trace/v2: cannot find module providing package github.com/envoyproxy/go-control-plane/envoy/service/trace/v2
-//go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/connect/envoy imports
-//	github.com/hashicorp/consul/agent/xds imports
-//	github.com/envoyproxy/go-control-plane/envoy/service/trace/v3: cannot find module providing package github.com/envoyproxy/go-control-plane/envoy/service/trace/v3
-//go: github.com/hashicorp/consul imports
-//	github.com/hashicorp/consul/command imports
-//	github.com/hashicorp/consul/command/agent imports
-//	github.com/hashicorp/consul/agent/hcp/client imports
-//	github.com/hashicorp/consul/agent/hcp/telemetry imports
-//	go.opentelemetry.io/otel/sdk/metric/aggregation: cannot find module providing package go.opentelemetry.io/otel/sdk/metric/aggregation
-//go: github.com/hashicorp/consul imports
 //	github.com/hashicorp/consul/command/version imports
 //	github.com/hashicorp/consul/agent/consul imports
 //	github.com/hashicorp/consul/agent/consul/authmethod/kubeauth imports
