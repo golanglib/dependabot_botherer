@@ -405,7 +405,7 @@ require (
 	github.com/cloudwego/kitex v0.14.1
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250922094815-37b92600f087
 	github.com/cloudwego/localsession v0.1.2
-	github.com/cloudwego/netpoll v0.7.1
+	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thrift-gen-validator v0.2.6
 	github.com/cloudwego/thriftgo v0.4.2

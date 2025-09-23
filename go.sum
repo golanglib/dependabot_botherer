@@ -1867,8 +1867,8 @@ github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250922094815-37b92600f0
 github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250922094815-37b92600f087/go.mod h1:OP63V8YwwSlPVFqHZblV3mJXLPIjcIdwkT6ZYjEggcI=
 github.com/cloudwego/localsession v0.1.2 h1:RBmeLDO5sKr4ujd8iBp5LTMmuVKLdu88jjIneq/fEZ8=
 github.com/cloudwego/localsession v0.1.2/go.mod h1:J4uams2YT/2d4t7OI6A7NF7EcG8OlHJsOX2LdPbqoyc=
-github.com/cloudwego/netpoll v0.7.1 h1://3rtQV/auOCsqHn9XrXwYJhSgAS+5zSBPpYPm5vydY=
-github.com/cloudwego/netpoll v0.7.1/go.mod h1:PI+YrmyS7cIr0+SD4seJz3Eo3ckkXdu2ZVKBLhURLNU=
+github.com/cloudwego/netpoll v0.7.2 h1:4qDBGQ6CG2SvEXhZSDxMdtqt/NLDxjAVk0PC/biKiJo=
+github.com/cloudwego/netpoll v0.7.2/go.mod h1:PI+YrmyS7cIr0+SD4seJz3Eo3ckkXdu2ZVKBLhURLNU=
 github.com/cloudwego/runtimex v0.1.1 h1:lheZjFOyKpsq8TsGGfmX9/4O7F0TKpWmB8on83k7GE8=
 github.com/cloudwego/runtimex v0.1.1/go.mod h1:23vL/HGV0W8nSCHbe084AgEBdDV4rvXenEUMnUNvUd8=
 github.com/cloudwego/thrift-gen-validator v0.2.6 h1:w6kg6JDGhaqyOMx3+ilIohigh0v+fHdX/88AYcfZlL0=
