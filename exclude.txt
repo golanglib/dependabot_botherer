@@ -357,7 +357,7 @@ go.step.sm/cli-utils
 //	module declares its path as: github.com/smallstep/cli-utils
 //	        but was required as: go.step.sm/cli-utils
 go.step.sm/linkedca
-//go: go.step.sm/linkedca@latest (v0.23.0) requires go.step.sm/linkedca@v0.23.0: parsing go.mod:
+//go: go.step.sm/linkedca@latest (v0.24.0) requires go.step.sm/linkedca@v0.24.0: parsing go.mod:
 //	module declares its path as: github.com/smallstep/linkedca
 //	        but was required as: go.step.sm/linkedca
 go.tmz.dev/musttag
