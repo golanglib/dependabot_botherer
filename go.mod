@@ -229,14 +229,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1
 	github.com/aws/aws-sdk-go-v2/config v1.31.10
 	github.com/aws/aws-sdk-go-v2/credentials v1.18.14
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.11
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.12
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.8
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.19.6
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.50.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.58.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.32.5
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.50.3
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.30.4
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.50.4
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.30.5
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.254.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.40.4
 	github.com/aws/aws-sdk-go-v2/service/kms v1.45.4
