@@ -2408,8 +2408,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20250905102448-e9df599e4528 h1:6CyCdRGY7rwTUjLseGcFkCwEYUYNOghvNMzxXROjU00=
-github.com/go-ap/activitypub v0.0.0-20250905102448-e9df599e4528/go.mod h1:3ek8fXe976305mQAuuuRJgTZy4hmv0TSPWtmUYdGVfw=
+github.com/go-ap/activitypub v0.0.0-20250924114144-2429ef373dc3 h1:JtvieQo7/NcWergC+HKx4CflDjRGEvCttG4j/JIj660=
+github.com/go-ap/activitypub v0.0.0-20250924114144-2429ef373dc3/go.mod h1:3ek8fXe976305mQAuuuRJgTZy4hmv0TSPWtmUYdGVfw=
 github.com/go-ap/errors v0.0.0-20250905102357-4480b47a00c4 h1:Kpa0XF3gCAdeRSFzliN9jgg35KvsCchv3KRCRIJhi6s=
 github.com/go-ap/errors v0.0.0-20250905102357-4480b47a00c4/go.mod h1:qHHr/m8ECbV2lkT1j5VaNnauKFV1nUo+i8S53Wtrb0A=
 github.com/go-ap/jsonld v0.0.0-20250905102310-8480b0fe24d9 h1:gaBrU/E+usPHIafDIC2EwvZbehvgAEuu78Jk0zjxw5w=
