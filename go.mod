@@ -1275,7 +1275,7 @@ require (
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
 	github.com/securego/gosec/v2 v2.22.9
-	github.com/segmentio/asm v1.2.0
+	github.com/segmentio/asm v1.2.1
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.49
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
