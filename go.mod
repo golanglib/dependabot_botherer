@@ -1204,7 +1204,7 @@ require (
 	github.com/puzpuzpuz/xsync/v3 v3.5.1
 	github.com/qiniu/go-sdk/v7 v7.25.4
 	github.com/quasilyte/go-ruleguard v0.4.4
-	github.com/quasilyte/go-ruleguard/dsl v0.3.22
+	github.com/quasilyte/go-ruleguard/dsl v0.3.23
 	github.com/quasilyte/go-ruleguard/rules v0.0.0-20211022131956-028d6511ab71
 	github.com/quasilyte/gogrep v0.5.0
 	github.com/quasilyte/regex/syntax v0.0.0-20210819130434-b3f0c404a727
