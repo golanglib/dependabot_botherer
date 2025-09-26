@@ -447,7 +447,7 @@ require (
 	github.com/crewjam/saml v0.5.1
 	github.com/cronokirby/saferith v0.33.0
 	github.com/curioswitch/go-reassign v0.3.0
-	github.com/cyphar/filepath-securejoin v0.4.1
+	github.com/cyphar/filepath-securejoin v0.5.0
 	github.com/daixiang0/gci v0.13.7
 	github.com/danielgtaylor/huma v1.14.3
 	github.com/danieljoos/wincred v1.2.2
