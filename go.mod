@@ -39,7 +39,7 @@ require (
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
 	gitea.com/go-chi/cache v0.2.1
 	gitea.com/go-chi/captcha v0.0.0-20240315150714-fb487f629098
-	gitea.com/go-chi/session v0.0.0-20240316035857-16768d98ec96
+	gitea.com/go-chi/session v0.0.0-20250926004215-636cadd82e15
 	gitea.com/lunny/levelqueue v0.4.1
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
@@ -523,7 +523,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.10
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20250925141758-b89d51ec1e37
+	github.com/facebook/time v0.0.0-20250925190133-a511ac5cd774
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
