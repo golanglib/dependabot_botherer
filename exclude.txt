@@ -54,7 +54,7 @@ github.com/cosmtrek/air
 //	module declares its path as: github.com/air-verse/air
 //	        but was required as: github.com/cosmtrek/air
 github.com/Crocmagnon/fatcontext
-//go: github.com/Crocmagnon/fatcontext@latest (v0.8.1) requires github.com/Crocmagnon/fatcontext@v0.8.1: parsing go.mod:
+//go: github.com/Crocmagnon/fatcontext@latest (v0.9.0) requires github.com/Crocmagnon/fatcontext@v0.9.0: parsing go.mod:
 //	module declares its path as: go.augendre.info/fatcontext
 //	        but was required as: github.com/Crocmagnon/fatcontext
 github.com/davidmz/go-pageant
