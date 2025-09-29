@@ -225,7 +225,7 @@ require (
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.49.0
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.39.1
+	github.com/aws/aws-sdk-go-v2 v1.39.2
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1
 	github.com/aws/aws-sdk-go-v2/config v1.31.10
 	github.com/aws/aws-sdk-go-v2/credentials v1.18.14
