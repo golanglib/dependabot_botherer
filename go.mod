@@ -1323,7 +1323,7 @@ require (
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
-	github.com/snowflakedb/gosnowflake v1.16.0
+	github.com/snowflakedb/gosnowflake v1.17.0
 	github.com/soheilhy/cmux v0.1.5
 	github.com/sonatard/noctx v0.4.0
 	github.com/sony/gobreaker v1.0.0
@@ -1685,7 +1685,6 @@ require (
 	github.com/Crocmagnon/fatcontext v0.7.2 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.54.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
-	github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c // indirect
 	github.com/KimMachineGun/automemlimit v0.7.4 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
@@ -1700,7 +1699,7 @@ require (
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
 	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
-	github.com/apache/arrow-go/v18 v18.0.0 // indirect
+	github.com/apache/arrow-go/v18 v18.4.0 // indirect
 	github.com/apex/log v1.9.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
@@ -1818,6 +1817,8 @@ require (
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.3 // indirect
+	github.com/minio/asm2plan9s v0.0.0-20200509001527-cdd76441f9d8 // indirect
+	github.com/minio/c2goasm v0.0.0-20190812172519-36a3d3bbc4f3 // indirect
 	github.com/minio/crc64nvme v1.1.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/moby/go-archive v0.1.0 // indirect
