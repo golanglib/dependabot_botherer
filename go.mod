@@ -603,14 +603,14 @@ require (
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-ole/go-ole v1.3.0
 	github.com/go-openapi/analysis v0.23.0
-	github.com/go-openapi/errors v0.22.2
+	github.com/go-openapi/errors v0.22.3
 	github.com/go-openapi/inflect v0.21.3
 	github.com/go-openapi/jsonpointer v0.22.0
 	github.com/go-openapi/jsonreference v0.21.1
 	github.com/go-openapi/loads v0.22.0
 	github.com/go-openapi/runtime v0.28.0
 	github.com/go-openapi/spec v0.21.0
-	github.com/go-openapi/strfmt v0.23.0
+	github.com/go-openapi/strfmt v0.24.0
 	github.com/go-openapi/swag v0.25.1
 	github.com/go-openapi/validate v0.24.0
 	github.com/go-playground/assert/v2 v2.2.0
