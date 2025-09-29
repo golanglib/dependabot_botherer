@@ -990,7 +990,7 @@ require (
 	github.com/mattn/go-colorable v0.1.14
 	github.com/mattn/go-ieproxy v0.0.12
 	github.com/mattn/go-isatty v0.0.20
-	github.com/mattn/go-runewidth v0.0.17
+	github.com/mattn/go-runewidth v0.0.19
 	github.com/mattn/go-shellwords v1.0.12
 	github.com/mattn/go-sqlite3 v1.14.32
 	github.com/mattn/goveralls v0.0.12
@@ -1725,6 +1725,7 @@ require (
 	github.com/charmbracelet/x/exp/slice v0.0.0-20250327172914-2fdc97757edf // indirect
 	github.com/checkpoint-restore/go-criu/v6 v6.3.0 // indirect
 	github.com/cheggaaa/pb/v3 v3.1.6 // indirect
+	github.com/clipperhouse/uax29/v2 v2.2.0 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
 	github.com/cloudsoda/sddl v0.0.0-20250224235906-926454e91efc // indirect
 	github.com/containerd/containerd/v2 v2.1.4 // indirect
