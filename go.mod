@@ -1159,7 +1159,7 @@ require (
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
 	github.com/pion/ice/v2 v2.3.38
-	github.com/pion/interceptor v0.1.40
+	github.com/pion/interceptor v0.1.41
 	github.com/pion/logging v0.2.4
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
