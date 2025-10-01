@@ -854,7 +854,7 @@ require (
 	github.com/iris-contrib/schema v0.0.6
 	github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar v0.0.0-20241114095618-b2653ad59acb
 	github.com/itchyny/gojq v0.12.17
-	github.com/itchyny/timefmt-go v0.1.6
+	github.com/itchyny/timefmt-go v0.1.7
 	github.com/jackc/chunkreader v1.0.0
 	github.com/jackc/chunkreader/v2 v2.0.1
 	github.com/jackc/pgconn v1.14.3
