@@ -162,7 +162,7 @@ require (
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.5.2
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
-	github.com/alexbrainman/sspi v0.0.0-20231016080023-1a75b4708caa
+	github.com/alexbrainman/sspi v0.0.0-20250919150558-7d374ff0d59e
 	github.com/alexflint/go-arg v1.6.0
 	github.com/alexflint/go-scalar v1.2.0
 	github.com/alexkohler/nakedret v1.0.2
@@ -594,7 +594,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.9.1
 	github.com/go-lark/lark v1.16.0
 	github.com/go-lark/lark-hertz v1.1.1
-	github.com/go-ldap/ldap/v3 v3.4.11
+	github.com/go-ldap/ldap/v3 v3.4.12
 	github.com/go-llsqlite/adapter v0.2.0
 	github.com/go-llsqlite/crawshaw v0.6.0
 	github.com/go-logfmt/logfmt v0.6.0
