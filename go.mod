@@ -450,7 +450,7 @@ require (
 	github.com/cyphar/filepath-securejoin v0.5.0
 	github.com/daixiang0/gci v0.13.7
 	github.com/danielgtaylor/huma v1.14.3
-	github.com/danieljoos/wincred v1.2.2
+	github.com/danieljoos/wincred v1.2.3
 	github.com/datadope-io/go-zabbix v1.6.0
 	github.com/datadope-io/go-zabbix/v2 v2.0.1
 	github.com/deanishe/awgo v0.29.1
@@ -477,7 +477,7 @@ require (
 	github.com/dlclark/regexp2 v1.11.5
 	github.com/dmarkham/enumer v1.6.1
 	github.com/dnaeon/go-vcr v1.2.0
-	github.com/docker/docker-credential-helpers v0.9.3
+	github.com/docker/docker-credential-helpers v0.9.4
 	github.com/docker/go-connections v0.6.0
 	github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430
 	github.com/dprotaso/go-yit v0.0.0-20191028211022-135eb7262960
