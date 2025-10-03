@@ -537,7 +537,7 @@ import (
 	_ "github.com/fxamacker/cbor"
 	_ "github.com/fxamacker/cbor/v2"
 	_ "github.com/fzipp/gocyclo"
-	_ "github.com/g-rath/osv-detector/pkg/database"
+	_ "github.com/g-rath/osv-detector/generators"
 	_ "github.com/gabriel-vasile/mimetype"
 	_ "github.com/gaissmai/bart"
 	_ "github.com/gaukas/godicttls"

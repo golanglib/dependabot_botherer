@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.10-20250912141014-52f32327d4b0.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.17.0
@@ -30,10 +30,10 @@ require (
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.19.0
 	dario.cat/mergo v1.0.2
-	deps.dev/api/v3 v3.0.0-20250903005441-604c45d5b44b
-	deps.dev/util/maven v0.0.0-20250903005441-604c45d5b44b
-	deps.dev/util/resolve v0.0.0-20250903005441-604c45d5b44b
-	deps.dev/util/semver v0.0.0-20250903005441-604c45d5b44b
+	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
+	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
+	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
@@ -1774,7 +1774,6 @@ require (
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
 	github.com/google/go-units v0.0.0-20250612230646-eddd77f68220 // indirect
-	github.com/google/osv-scalibr v0.3.5-0.20251002191929-de9496dc5aa2 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
 	github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976 // indirect
 	github.com/graphql-go/graphql v0.8.1 // indirect
@@ -1885,7 +1884,6 @@ require (
 	github.com/src-d/gcfg v1.4.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/tent/http-link-go v0.0.0-20130702225549-ac974c61c2f9 // indirect
-	github.com/tidwall/jsonc v0.3.2 // indirect
 	github.com/uudashr/iface v1.3.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec // indirect
