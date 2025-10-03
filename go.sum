@@ -2020,8 +2020,8 @@ github.com/danielgtaylor/casing v0.0.0-20210126043903-4e55e6373ac3 h1:qDsADtCM9A
 github.com/danielgtaylor/casing v0.0.0-20210126043903-4e55e6373ac3/go.mod h1:eFdYmNxcuLDrRNW0efVoxSaApmvGXfHZ9k2CT/RSUF0=
 github.com/danielgtaylor/huma v1.14.3 h1:CqmODzN6xA1zxzHMND3cFuyaVWNPAPc3bI8mvgyC9qM=
 github.com/danielgtaylor/huma v1.14.3/go.mod h1:I/19C1eNQd7ojMIQvynPe3lbuD5KfQEinH+ivIqjqmg=
-github.com/danieljoos/wincred v1.2.2 h1:774zMFJrqaeYCK2W57BgAem/MLi6mtSE47MB6BOJ0i0=
-github.com/danieljoos/wincred v1.2.2/go.mod h1:w7w4Utbrz8lqeMbDAK0lkNJUv5sAOkFi7nd/ogr0Uh8=
+github.com/danieljoos/wincred v1.2.3 h1:v7dZC2x32Ut3nEfRH+vhoZGvN72+dQ/snVXo/vMFLdQ=
+github.com/danieljoos/wincred v1.2.3/go.mod h1:6qqX0WNrS4RzPZ1tnroDzq9kY3fu1KwE7MRLQK4X0bs=
 github.com/datadope-io/go-zabbix v1.6.0 h1:02k+fv7mOfvo4lYMSV5laV2qLPjM3WXlpApjkUavneE=
 github.com/datadope-io/go-zabbix v1.6.0/go.mod h1:jzkWTN7c4CB5dsIA9KL8Ljx86REgmnXtcPsHwrbZ8HM=
 github.com/datadope-io/go-zabbix/v2 v2.0.1 h1:kGlyzfFqbwhMph4Mo0hpYxxBHI14eHuV5TVy+7uNonE=
