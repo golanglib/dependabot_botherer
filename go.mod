@@ -30,10 +30,10 @@ require (
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.19.0
 	dario.cat/mergo v1.0.2
-	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
-	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
-	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
-	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/api/v3 v3.0.0-20250903005441-604c45d5b44b
+	deps.dev/util/maven v0.0.0-20250903005441-604c45d5b44b
+	deps.dev/util/resolve v0.0.0-20250903005441-604c45d5b44b
+	deps.dev/util/semver v0.0.0-20250903005441-604c45d5b44b
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
@@ -539,7 +539,7 @@ require (
 	github.com/fxamacker/cbor v1.5.1
 	github.com/fxamacker/cbor/v2 v2.9.0
 	github.com/fzipp/gocyclo v0.6.0
-	github.com/g-rath/osv-detector v0.14.0
+	github.com/g-rath/osv-detector v0.15.0
 	github.com/gabriel-vasile/mimetype v1.4.10
 	github.com/gaissmai/bart v0.25.0
 	github.com/gaukas/godicttls v0.0.4
@@ -1774,6 +1774,7 @@ require (
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
 	github.com/google/go-units v0.0.0-20250612230646-eddd77f68220 // indirect
+	github.com/google/osv-scalibr v0.3.5-0.20251002191929-de9496dc5aa2 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
 	github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976 // indirect
 	github.com/graphql-go/graphql v0.8.1 // indirect
