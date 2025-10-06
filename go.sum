@@ -5380,8 +5380,8 @@ github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e/go.mod h1:5t19P9LBIrNamL6AcMQOncg/r10y3Pc01AbHeMhwlpU=
 github.com/v2fly/struc v0.0.0-20241227015403-8e8fa1badfd6 h1:Qea2jW7g1hvQ9TkYq3aT2h0NDWjPQHtvDfmKXoWgJ9E=
 github.com/v2fly/struc v0.0.0-20241227015403-8e8fa1badfd6/go.mod h1:a/FYYQz8bW7wh2jmI+DVsbVYwLkgmgpml+GrJwV+eIo=
-github.com/v2fly/v2ray-core/v5 v5.39.0 h1:RGgQVI4xjWtRQqRCtfMIqUKMF+cvvkoHDfNFlG04Kus=
-github.com/v2fly/v2ray-core/v5 v5.39.0/go.mod h1:UxXCBle7saJ+HZll59paTxIEahdcDNxpncshfejBjGc=
+github.com/v2fly/v2ray-core/v5 v5.40.0 h1:vp/j8efJpiCoh1XCTIXVV/dKJEDOwxICktbCrkRHe3Q=
+github.com/v2fly/v2ray-core/v5 v5.40.0/go.mod h1:OGJleds9kRSXu5dGd4URPaNqZZk48huGTrE5tiIR7cg=
 github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
 github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
 github.com/valyala/fasthttp v1.66.0 h1:M87A0Z7EayeyNaV6pfO3tUTUiYO0dZfEJnRGXTVNuyU=
