@@ -431,7 +431,7 @@ require (
 	github.com/containernetworking/cni v1.3.0
 	github.com/coocood/freecache v1.2.4
 	github.com/coreos/go-iptables v0.8.0
-	github.com/coreos/go-oidc/v3 v3.15.0
+	github.com/coreos/go-oidc/v3 v3.16.0
 	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.6.0
 	github.com/couchbase/cbauth v0.1.13
@@ -584,7 +584,7 @@ require (
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.16.2
 	github.com/go-jose/go-jose/v3 v3.0.4
-	github.com/go-jose/go-jose/v4 v4.1.2
+	github.com/go-jose/go-jose/v4 v4.1.3
 	github.com/go-kit/kit v0.13.0
 	github.com/go-kit/log v0.2.1
 	github.com/go-kratos/aegis v0.2.0
