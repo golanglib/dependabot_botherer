@@ -597,7 +597,7 @@ require (
 	github.com/go-ldap/ldap/v3 v3.4.12
 	github.com/go-llsqlite/adapter v0.2.0
 	github.com/go-llsqlite/crawshaw v0.6.0
-	github.com/go-logfmt/logfmt v0.6.0
+	github.com/go-logfmt/logfmt v0.6.1
 	github.com/go-logr/logr v1.4.3
 	github.com/go-logr/stdr v1.2.2
 	github.com/go-logr/zapr v1.3.0
