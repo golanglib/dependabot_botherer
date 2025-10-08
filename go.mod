@@ -1560,7 +1560,7 @@ require (
 	golang.org/x/telemetry/config v0.66.0
 	golang.org/x/term v0.35.0
 	golang.org/x/text v0.29.0
-	golang.org/x/time v0.13.0
+	golang.org/x/time v0.14.0
 	golang.org/x/tools v0.37.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
