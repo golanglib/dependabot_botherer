@@ -661,7 +661,7 @@ require (
 	github.com/gofrs/uuid/v5 v5.3.2
 	github.com/gogo/protobuf v1.3.2
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
-	github.com/gohugoio/hashstructure v0.5.0
+	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
 	github.com/gohugoio/hugo v0.151.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.5.0
