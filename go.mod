@@ -223,7 +223,7 @@ require (
 	github.com/avast/retry-go/v4 v4.6.1
 	github.com/awnumar/memcall v0.5.0
 	github.com/awnumar/memguard v0.23.0
-	github.com/aws/aws-lambda-go v1.49.0
+	github.com/aws/aws-lambda-go v1.50.0
 	github.com/aws/aws-sdk-go v1.55.8
 	github.com/aws/aws-sdk-go-v2 v1.39.2
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1
