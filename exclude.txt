@@ -84,7 +84,7 @@ github.com/go-redsync/redsync
 //[github.com/go-redsync/redsync] dir: /gopath/pkg/mod/github.com/go-redsync/redsync@v1.4.2
 //[github.com/go-redsync/redsync] module has replace
 github.com/go-redsync/redsync/v4
-//[github.com/go-redsync/redsync/v4] dir: /gopath/pkg/mod/github.com/go-redsync/redsync/v4@v4.13.0
+//[github.com/go-redsync/redsync/v4] dir: /gopath/pkg/mod/github.com/go-redsync/redsync/v4@v4.14.0
 //[github.com/go-redsync/redsync/v4] module has replace
 github.com/gohugoio/go-i18n/v2
 //go: github.com/gohugoio/go-i18n/v2@latest (v2.1.2) requires github.com/gohugoio/go-i18n/v2@v2.1.2: parsing go.mod:
@@ -282,7 +282,7 @@ github.com/prometheus/prometheus
 //[github.com/prometheus/prometheus] dir: /gopath/pkg/mod/github.com/prometheus/prometheus@v0.302.1
 //[github.com/prometheus/prometheus] module has replace
 github.com/Shopify/sarama
-//go: github.com/Shopify/sarama@latest (v1.46.1) requires github.com/Shopify/sarama@v1.46.1: parsing go.mod:
+//go: github.com/Shopify/sarama@latest (v1.46.2) requires github.com/Shopify/sarama@v1.46.2: parsing go.mod:
 //	module declares its path as: github.com/IBM/sarama
 //	        but was required as: github.com/Shopify/sarama
 github.com/smallstep/go-attestation
