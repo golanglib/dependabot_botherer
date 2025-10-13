@@ -1218,8 +1218,8 @@ github.com/anacrolix/utp v0.0.0-20180219060659-9e0e1d1d0572/go.mod h1:MDwc+vsGEq
 github.com/anacrolix/utp v0.1.0 h1:FOpQOmIwYsnENnz7tAGohA+r6iXpRjrq8ssKSre2Cp4=
 github.com/anacrolix/utp v0.1.0/go.mod h1:MDwc+vsGEq7RMw6lr2GKOEqjWny5hO5OZXRVNaBJ2Dk=
 github.com/anchore/go-struct-converter v0.0.0-20221118182256-c68fdcfa2092/go.mod h1:rYqSE9HbjzpHTI74vwPvae4ZVYZd1lue2ta6xHPdblA=
-github.com/anchore/go-struct-converter v0.0.0-20230627203149-c72ef8859ca9 h1:6COpXWpHbhWM1wgcQN95TdsmrLTba8KQfPgImBXzkjA=
-github.com/anchore/go-struct-converter v0.0.0-20230627203149-c72ef8859ca9/go.mod h1:rYqSE9HbjzpHTI74vwPvae4ZVYZd1lue2ta6xHPdblA=
+github.com/anchore/go-struct-converter v0.1.0 h1:2rDRssAl6mgKBSLNiVCMADgZRhoqtw9dedlWa0OhD30=
+github.com/anchore/go-struct-converter v0.1.0/go.mod h1:rYqSE9HbjzpHTI74vwPvae4ZVYZd1lue2ta6xHPdblA=
 github.com/andeya/ameda v1.5.3 h1:SvqnhQPZwwabS8HQTRGfJwWPl2w9ZIPInHAw9aE1Wlk=
 github.com/andeya/ameda v1.5.3/go.mod h1:FQDHRe1I995v6GG+8aJ7UIUToEmbdTJn/U26NCPIgXQ=
 github.com/andeya/goutil v1.0.1 h1:eiYwVyAnnK0dXU5FJsNjExkJW4exUGn/xefPt3k4eXg=
