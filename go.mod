@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.10-20250912141014-52f32327d4b0.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.17.0
@@ -389,13 +389,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.0
 	github.com/cloudwego/eino v0.5.6
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251011073417-75b93b87b8a9
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251014135355-a685053fa5a4
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.31
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.1
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251011073417-75b93b87b8a9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251014135355-a685053fa5a4
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.4
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251011073417-75b93b87b8a9
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251014135355-a685053fa5a4
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250918130948-16e3a249e721
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.3.0
@@ -403,7 +403,7 @@ require (
 	github.com/cloudwego/hertz v0.10.2
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.15.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20250926083420-b00f1323d7a3
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20251014060450-5c6c29d2e43c
 	github.com/cloudwego/localsession v0.1.2
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -523,7 +523,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.10
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20251013211539-94c2c38064c1
+	github.com/facebook/time v0.0.0-20251014044043-9e708d1e7995
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -671,7 +671,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20251008113719-ccf458c07da6
+	github.com/golang/geo v0.0.0-20251014162054-f262919d8753
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
