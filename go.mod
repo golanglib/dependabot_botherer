@@ -521,7 +521,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.25.10
+	github.com/evanw/esbuild v0.25.11
 	github.com/expr-lang/expr v1.17.6
 	github.com/facebook/time v0.0.0-20251014044043-9e708d1e7995
 	github.com/fatih/color v1.18.0
@@ -663,7 +663,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.151.0
+	github.com/gohugoio/hugo v0.151.1
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.5.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.3.1
 	github.com/gohugoio/locales v0.14.0
