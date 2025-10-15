@@ -1112,7 +1112,7 @@ require (
 	github.com/olekukonko/tablewriter v1.1.0
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.25.3
+	github.com/onsi/ginkgo/v2 v2.26.0
 	github.com/onsi/gomega v1.38.2
 	github.com/openacid/low v0.1.21
 	github.com/openai/openai-go v1.12.0
@@ -1274,7 +1274,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.11.1
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.22.9
+	github.com/securego/gosec/v2 v2.22.10
 	github.com/segmentio/asm v1.2.1
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.49
