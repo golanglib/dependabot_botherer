@@ -7019,8 +7019,8 @@ launchpad.net/gocheck v0.0.0-20140225173054-000000000087 h1:Izowp2XBH6Ya6rv+hqbc
 launchpad.net/gocheck v0.0.0-20140225173054-000000000087/go.mod h1:hj7XX3B/0A+80Vse0e+BUHsHMTEhd0O4cpUHr/e/BUM=
 layeh.com/radius v0.0.0-20231213012653-1006025d24f8 h1:orYXpi6BJZdvgytfHH4ybOe4wHnLbbS71Cmd8mWdZjs=
 layeh.com/radius v0.0.0-20231213012653-1006025d24f8/go.mod h1:QRf+8aRqXc019kHkpcs/CTgyWXFzf+bxlsyuo2nAl1o=
-libvirt.org/go/libvirtxml v1.11007.0 h1:SNc8wjOprLl0nsR0H1T0qs2pRD3j/0cVrUTZiP931zI=
-libvirt.org/go/libvirtxml v1.11007.0/go.mod h1:7Oq2BLDstLr/XtoQD8Fr3mfDNrzlI3utYKySXF2xkng=
+libvirt.org/go/libvirtxml v1.11008.0 h1:R5nffNDkOn3bndLiOXvmvld38J5QLZ2D6ZJdLOYOYBg=
+libvirt.org/go/libvirtxml v1.11008.0/go.mod h1:7Oq2BLDstLr/XtoQD8Fr3mfDNrzlI3utYKySXF2xkng=
 lukechampine.com/blake3 v1.4.1 h1:I3Smz7gso8w4/TunLKec6K2fn+kyKtDxr/xcQEN84Wg=
 lukechampine.com/blake3 v1.4.1/go.mod h1:QFosUxmjB8mnrWFSNwKmvxHpfY72bmD2tQ0kBMM3kwo=
 lukechampine.com/uint128 v1.1.1/go.mod h1:c4eWIwlEGaxC/+H1VguhU4PHXNWDCDMUlWdIWl2j1gk=
