@@ -355,7 +355,7 @@ go.opentelemetry.io/otel/exporters/otlp
 go.opentelemetry.io/otel/exporters/otlp/internal/retry
 //[go.opentelemetry.io/otel/exporters/otlp/internal/retry] module is internal
 go.step.sm/cli-utils
-//go: go.step.sm/cli-utils@latest (v0.12.1) requires go.step.sm/cli-utils@v0.12.1: parsing go.mod:
+//go: go.step.sm/cli-utils@latest (v0.12.2) requires go.step.sm/cli-utils@v0.12.2: parsing go.mod:
 //	module declares its path as: github.com/smallstep/cli-utils
 //	        but was required as: go.step.sm/cli-utils
 go.step.sm/linkedca
