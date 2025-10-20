@@ -1217,7 +1217,7 @@ require (
 	github.com/quic-go/quic-go v0.55.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/rclone/rclone v1.71.1
+	github.com/rclone/rclone v1.71.2
 	github.com/redis/go-redis/v9 v9.15.0
 	github.com/redis/rueidis v1.0.67
 	github.com/refraction-networking/utls v1.8.1
@@ -1365,7 +1365,7 @@ require (
 	github.com/swaggo/gin-swagger v1.6.1
 	github.com/swaggo/swag v1.16.6
 	github.com/syndtr/goleveldb v1.0.0
-	github.com/t3rm1n4l/go-mega v0.0.0-20241213151442-a19cff0ec7b5
+	github.com/t3rm1n4l/go-mega v0.0.0-20250926104142-ccb8d3498e6c
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
 	github.com/tdewolff/minify/v2 v2.24.4
