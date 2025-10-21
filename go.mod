@@ -1665,7 +1665,7 @@ require (
 	v2ray.com/core v4.19.1+incompatible
 	vitess.io/vitess v0.20.4
 	xorm.io/builder v0.3.13
-	xorm.io/xorm v1.3.10
+	xorm.io/xorm v1.3.11
 	zombiezen.com/go/sqlite v1.4.2
 )
 
