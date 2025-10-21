@@ -909,7 +909,7 @@ require (
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
 	github.com/kaptinlin/go-i18n v0.2.0
-	github.com/kaptinlin/jsonschema v0.5.1
+	github.com/kaptinlin/jsonschema v0.5.2
 	github.com/karamaru-alpha/copyloopvar v1.2.1
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.12
