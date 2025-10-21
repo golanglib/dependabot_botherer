@@ -523,7 +523,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.11
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20251020172237-f9042fef5182
+	github.com/facebook/time v0.0.0-20251020201025-2a9c2b2a5556
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -671,7 +671,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20251014162054-f262919d8753
+	github.com/golang/geo v0.0.0-20251020193347-f750d7aa221b
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
