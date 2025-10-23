@@ -496,7 +496,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.3
 	github.com/edsrzf/mmap-go v1.2.0
-	github.com/eino-contrib/jsonschema v1.0.1
+	github.com/eino-contrib/jsonschema v1.0.2
 	github.com/elazarl/goproxy v1.7.2
 	github.com/elazarl/goproxy/ext v0.0.0-20251021114236-29d155006e8f
 	github.com/elliotchance/orderedmap v1.8.0
