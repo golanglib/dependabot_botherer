@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.10-20250912141014-52f32327d4b0.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.24.0
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.17.0
@@ -1015,7 +1015,7 @@ require (
 	github.com/metacubex/sing-tun v0.4.8
 	github.com/metacubex/sing-vmess v0.2.3
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
-	github.com/metacubex/tfo-go v0.0.0-20250921095601-b102db4216c0
+	github.com/metacubex/tfo-go v0.0.0-20251024101424-368b42b59148
 	github.com/metacubex/utls v1.8.3
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
 	github.com/mfridman/interpolate v0.0.2
