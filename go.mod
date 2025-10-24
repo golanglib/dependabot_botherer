@@ -1368,8 +1368,8 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20250926104142-ccb8d3498e6c
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.24.4
-	github.com/tdewolff/parse/v2 v2.8.4
+	github.com/tdewolff/minify/v2 v2.24.5
+	github.com/tdewolff/parse/v2 v2.8.5-0.20251020133559-0efcf90bef1a
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
