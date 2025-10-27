@@ -563,7 +563,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20251023124303-72d37526e637
+	github.com/go-ap/activitypub v0.0.0-20251026152536-abe2dfa8e494
 	github.com/go-ap/errors v0.0.0-20250905102357-4480b47a00c4
 	github.com/go-ap/jsonld v0.0.0-20250905102310-8480b0fe24d9
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
