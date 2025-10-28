@@ -695,7 +695,7 @@ require (
 	github.com/google/certificate-transparency-go v1.3.2
 	github.com/google/gnostic-models v0.7.0
 	github.com/google/gnxi v0.0.0-20251020164959-5fa24fadd047
-	github.com/google/go-attestation v0.5.1
+	github.com/google/go-attestation v0.6.0
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3
 	github.com/google/go-containerregistry v0.20.6
