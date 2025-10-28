@@ -910,7 +910,7 @@ require (
 	github.com/jxskiss/base62 v1.1.0
 	github.com/kaptinlin/go-i18n v0.2.0
 	github.com/kaptinlin/jsonschema v0.5.2
-	github.com/karamaru-alpha/copyloopvar v1.2.1
+	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.12
 	github.com/kataras/golog v0.1.15
