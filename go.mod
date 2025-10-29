@@ -1347,7 +1347,7 @@ require (
 	github.com/srebhan/protobufquery v1.0.4
 	github.com/ssgelm/cookiejarparser v1.0.1
 	github.com/ssgreg/nlreturn/v2 v2.2.1
-	github.com/stbenjam/no-sprintf-host-port v0.2.0
+	github.com/stbenjam/no-sprintf-host-port v0.3.1
 	github.com/steveyen/gtreap v0.1.0
 	github.com/stoewer/go-strcase v1.3.1
 	github.com/streadway/amqp v1.1.0
