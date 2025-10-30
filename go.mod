@@ -671,7 +671,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20251028185958-1829ac867d74
+	github.com/golang/geo v0.0.0-20251029182131-33017506d313
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -762,7 +762,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.9
 	github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853
 	github.com/gravitational/trace v1.5.1
-	github.com/grid-x/modbus v0.0.0-20250804090520-c9ca708272cb
+	github.com/grid-x/modbus v0.0.0-20251029111320-0854ba9d8748
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
