@@ -848,7 +848,7 @@ require (
 	github.com/intel/powertelemetry v1.0.2
 	github.com/invopop/jsonschema v0.13.0
 	github.com/invopop/yaml v0.3.1
-	github.com/ionos-cloud/sdk-go/v6 v6.3.4
+	github.com/ionos-cloud/sdk-go/v6 v6.3.5
 	github.com/ip2location/ip2location-go/v9 v9.8.0
 	github.com/iris-contrib/httpexpect/v2 v2.15.2
 	github.com/iris-contrib/schema v0.0.6
