@@ -3291,8 +3291,8 @@ github.com/hertz-contrib/sse v0.1.0 h1:F0xzGuk4JMgvbNC2K0AITpsmIDloztfQ4dOY9mgTs
 github.com/hertz-contrib/sse v0.1.0/go.mod h1:CU4M3xR1eA/2KkNTsDoMsKCs3ODhu1V0lmUwBar/S5c=
 github.com/hetznercloud/hcloud-go v1.59.2 h1:NkCPwYiPv85FnOV3IW9/gxfW61TPIUSwyPHRSLwCkHA=
 github.com/hetznercloud/hcloud-go v1.59.2/go.mod h1:oTebZCjd+osj75jlI76Z+zjN1sTxmMiQ1MWoO8aRl1c=
-github.com/hetznercloud/hcloud-go/v2 v2.28.0 h1:xX8Wq39MdZ5B9Cgvd8nKLbS+UVDpQoaYAVUeN4gCUxk=
-github.com/hetznercloud/hcloud-go/v2 v2.28.0/go.mod h1:XBU4+EDH2KVqu2KU7Ws0+ciZcX4ygukQl/J0L5GS8P8=
+github.com/hetznercloud/hcloud-go/v2 v2.29.0 h1:LzNFw5XLBfftyu3WM1sdSLjOZBlWORtz2hgGydHaYV8=
+github.com/hetznercloud/hcloud-go/v2 v2.29.0/go.mod h1:XBU4+EDH2KVqu2KU7Ws0+ciZcX4ygukQl/J0L5GS8P8=
 github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUqJM=
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
 github.com/hhrutter/lzw v1.0.0 h1:laL89Llp86W3rRs83LvKbwYRx6INE8gDn0XNb1oXtm0=
