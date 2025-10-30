@@ -1428,7 +1428,7 @@ require (
 	github.com/valyala/gozstd v1.23.2
 	github.com/vapourismo/knx-go v0.0.0-20250902075700-a1489e386d6c
 	github.com/vbatts/tar-split v0.12.2
-	github.com/vektah/gqlparser/v2 v2.5.30
+	github.com/vektah/gqlparser/v2 v2.5.31
 	github.com/vektra/mockery/v2 v2.53.5
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
