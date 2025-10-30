@@ -572,7 +572,7 @@ require (
 	github.com/go-chi/cors v1.2.2
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
-	github.com/go-critic/go-critic v0.14.0
+	github.com/go-critic/go-critic v0.14.2
 	github.com/go-enry/go-enry/v2 v2.9.2
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-errors/errors v1.5.1
@@ -1547,7 +1547,7 @@ require (
 	golang.org/x/crypto v0.43.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
 	golang.org/x/exp v0.0.0-20250911091902-df9299821621
-	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac
+	golang.org/x/exp/typeparams v0.0.0-20251023183803-a4bb9ffd2546
 	golang.org/x/image v0.32.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20250808145247-395d808d53cd
