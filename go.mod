@@ -240,7 +240,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.259.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.41.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.47.0
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.89.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.89.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.30.0
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.39.0
@@ -1707,12 +1707,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.12 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.12 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.4 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.11 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.12 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.11.12 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.12 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.11 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.12 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
