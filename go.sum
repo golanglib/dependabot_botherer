@@ -3111,8 +3111,8 @@ github.com/graphql-go/handler v0.2.3/go.mod h1:leLF6RpV5uZMN1CdImAxuiayrYYhOk33b
 github.com/gravitational/trace v1.5.1 h1:CdSymAjkE1VOef+lsC5x29jX9WbgI0fBtnRqeT4Fh+c=
 github.com/gravitational/trace v1.5.1/go.mod h1:sJKfJHIQ7IkG8kvYpFPEr6mj3WDEdZ0YAc7xAD8w7lw=
 github.com/gregjones/httpcache v0.0.0-20180305231024-9cad4c3443a7/go.mod h1:FecbI9+v66THATjSRHfNgh1IVFe/9kFxbXtjV0ctIMA=
-github.com/grid-x/modbus v0.0.0-20251029111320-0854ba9d8748 h1:aR+PbCtX4l1rQ7m/VvjDZGlL5oqF9YptM5Blu9AgQNA=
-github.com/grid-x/modbus v0.0.0-20251029111320-0854ba9d8748/go.mod h1:WpbUAyptAAi0VAriSRopZa6uhiJOJCTz7KFvgGtNRXc=
+github.com/grid-x/modbus v0.0.0-20251101080009-99e372e638c1 h1:cxKms52gOjE75W5GZFnwPJqCrojPeetkgP5EgUf3H6c=
+github.com/grid-x/modbus v0.0.0-20251101080009-99e372e638c1/go.mod h1:WpbUAyptAAi0VAriSRopZa6uhiJOJCTz7KFvgGtNRXc=
 github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa h1:Rsn6ARgNkXrsXJIzhkE4vQr5Gbx2LvtEMv4BJOK4LyU=
 github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa/go.mod h1:kdOd86/VGFWRrtkNwf1MPk0u1gIjc4Y7R2j7nhwc7Rk=
 github.com/grokify/html-strip-tags-go v0.1.0 h1:03UrQLjAny8xci+R+qjCce/MYnpNXCtgzltlQbOBae4=
