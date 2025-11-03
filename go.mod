@@ -336,7 +336,7 @@ require (
 	github.com/butuzov/mirror v1.3.0
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.3
-	github.com/bytedance/mockey v1.2.15
+	github.com/bytedance/mockey v1.2.16
 	github.com/bytedance/sonic v1.14.2
 	github.com/bytedance/sonic/loader v0.4.0
 	github.com/caarlos0/env/v6 v6.10.1
