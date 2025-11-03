@@ -3826,8 +3826,8 @@ github.com/marten-seemann/qtls v0.10.0 h1:ECsuYUKalRL240rRD4Ri33ISb7kAQ3qGDlrrl5
 github.com/marten-seemann/qtls v0.10.0/go.mod h1:UvMd1oaYDACI99/oZUYLzMCkBXQVT0aGm99sJhbT8hs=
 github.com/marten-seemann/qtls-go1-15 v0.1.5 h1:Ci4EIUN6Rlb+D6GmLdej/bCQ4nPYNtVXQB+xjiXE1nk=
 github.com/marten-seemann/qtls-go1-15 v0.1.5/go.mod h1:GyFwywLKkRt+6mfU99csTEY1joMZz5vmB1WNZH3P81I=
-github.com/maruel/natural v1.1.1 h1:Hja7XhhmvEFhcByqDoHz9QZbkWey+COd9xWfCfn1ioo=
-github.com/maruel/natural v1.1.1/go.mod h1:v+Rfd79xlw1AgVBjbO0BEQmptqb5HvL/k9GRHB7ZKEg=
+github.com/maruel/natural v1.2.1 h1:G/y4pwtTA07lbQsMefvsmEO0VN0NfqpxprxXDM4R/4o=
+github.com/maruel/natural v1.2.1/go.mod h1:v+Rfd79xlw1AgVBjbO0BEQmptqb5HvL/k9GRHB7ZKEg=
 github.com/mastercactapus/proxyprotocol v0.0.4 h1:qSY75IZF30ZqIU9iW1ip3I7gTnm8wRAnGWqPxCBVgq0=
 github.com/mastercactapus/proxyprotocol v0.0.4/go.mod h1:X8FRVEDZz9FkrIoL4QYTBF4Ka4ELwTv0sah0/5NxCPw=
 github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 h1:2ZKn+w/BJeL43sCxI2jhPLRv73oVVOjEKZjKkflyqxg=
