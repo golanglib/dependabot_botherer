@@ -389,13 +389,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.1
 	github.com/cloudwego/eino v0.5.11
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251030100426-0019cd119fa9
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251103074700-579ebc297766
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.41
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.2
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251030100426-0019cd119fa9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251103074700-579ebc297766
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.5
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251030100426-0019cd119fa9
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251103074700-579ebc297766
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.0
 	github.com/cloudwego/fastpb v0.0.5
 	github.com/cloudwego/frugal v0.3.0
@@ -523,7 +523,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.25.12
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20251021124542-e9709449e796
+	github.com/facebook/time v0.0.0-20251103165002-421b5f53eae5
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
