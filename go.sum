@@ -1856,8 +1856,8 @@ github.com/cloudwego/eino-ext/devops v0.1.8 h1:qBg5vjZSDnd9tHzCHG8YsjnGB5vKG2EoZ
 github.com/cloudwego/eino-ext/devops v0.1.8/go.mod h1:8yjvPNTaB5Ve4aJmJ0ysFgB10y3YbIuqMh0/Uwt5Fnw=
 github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251103074700-579ebc297766 h1:tuEvLHz/YvHOss84LLbVxnrPY1D9bCWLDJBrvvfZfPE=
 github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251103074700-579ebc297766/go.mod h1:PYcF2msym7y5RtrTceQ7zhKDjlE/8PLRWJql0rBCsNE=
-github.com/cloudwego/eino-ext/libs/acl/openai v0.1.0 h1:3CXp90Yd4BZ/Izej45I7Bq03LnLwPC/tpDUWcEDiUdI=
-github.com/cloudwego/eino-ext/libs/acl/openai v0.1.0/go.mod h1:drcWkC9BvhL7sn34mbW/2HxKDCi2Ld5WQTMnpMZa4S4=
+github.com/cloudwego/eino-ext/libs/acl/openai v0.1.1 h1:1hGUNWNnFyVSEceoeZWJ7eerFZNg9uZb7MXdXkUf8HU=
+github.com/cloudwego/eino-ext/libs/acl/openai v0.1.1/go.mod h1:f/F5SL81MsbbjNSX5xGIlRM4cxXKKWI+BidKSMM8nEM=
 github.com/cloudwego/fastpb v0.0.5 h1:vYnBPsfbAtU5TVz5+f9UTlmSCixG9F9vRwaqE0mZPZU=
 github.com/cloudwego/fastpb v0.0.5/go.mod h1:Bho7aAKBUtT9RPD2cNVkTdx4yQumfSv3If7wYnm1izk=
 github.com/cloudwego/frugal v0.3.0 h1:tgAP0nytiJuyoIM3V3TDOGzjrSNRAIlNG1HHOAzZ3Cs=
