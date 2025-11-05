@@ -1087,7 +1087,7 @@ require (
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/ncruces/go-strftime v1.0.0
 	github.com/ncw/swift v1.0.53
-	github.com/ncw/swift/v2 v2.0.4
+	github.com/ncw/swift/v2 v2.0.5
 	github.com/nektos/act v0.2.82
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.3
