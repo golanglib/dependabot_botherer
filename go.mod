@@ -423,7 +423,7 @@ require (
 	github.com/containerd/fifo v1.1.0
 	github.com/containerd/go-cni v1.1.13
 	github.com/containerd/log v0.1.0
-	github.com/containerd/platforms v1.0.0-rc.1
+	github.com/containerd/platforms v1.0.0-rc.2
 	github.com/containerd/stargz-snapshotter v0.18.0
 	github.com/containerd/stargz-snapshotter/estargz v0.18.0
 	github.com/containerd/ttrpc v1.2.7
