@@ -416,7 +416,7 @@ require (
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/containerd/cgroups/v3 v3.1.1
 	github.com/containerd/console v1.0.5
-	github.com/containerd/containerd v1.7.28
+	github.com/containerd/containerd v1.7.29
 	github.com/containerd/containerd/api v1.9.0
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
