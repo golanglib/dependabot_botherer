@@ -731,7 +731,7 @@ require (
 	github.com/google/tink/go v1.7.0
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.7.0
-	github.com/googleapis/enterprise-certificate-proxy v0.3.6
+	github.com/googleapis/enterprise-certificate-proxy v0.3.7
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.15.0
 	github.com/gopacket/gopacket v1.5.0
