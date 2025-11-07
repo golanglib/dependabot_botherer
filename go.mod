@@ -972,7 +972,7 @@ require (
 	github.com/mailru/easyjson v0.9.1
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
 	github.com/manifoldco/promptui v0.9.0
-	github.com/maratori/testableexamples v1.0.0
+	github.com/maratori/testableexamples v1.0.1
 	github.com/maratori/testpackage v1.1.2
 	github.com/marekm4/color-extractor v1.2.1
 	github.com/mark3labs/mcp-go v0.43.0
