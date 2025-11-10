@@ -1172,7 +1172,7 @@ require (
 	github.com/pion/stun v0.6.1
 	github.com/pion/transport v0.14.1
 	github.com/pion/transport/v2 v2.2.10
-	github.com/pion/transport/v3 v3.0.8
+	github.com/pion/transport/v3 v3.1.0
 	github.com/pion/turn v1.4.0
 	github.com/pion/turn/v2 v2.1.6
 	github.com/pion/udp v0.1.4
