@@ -4276,8 +4276,8 @@ github.com/olekukonko/errors v1.1.0/go.mod h1:ppzxA5jBKcO1vIpCXQ9ZqgDh8iwODz6OXI
 github.com/olekukonko/ll v0.1.2 h1:lkg/k/9mlsy0SxO5aC+WEpbdT5K83ddnNhAepz7TQc0=
 github.com/olekukonko/ll v0.1.2/go.mod h1:b52bVQRRPObe+yyBl0TxNfhesL0nedD4Cht0/zx55Ew=
 github.com/olekukonko/tablewriter v0.0.1/go.mod h1:vsDQFd/mU46D+Z4whnwzcISnGGzXWMclvtLoiIKAKIo=
-github.com/olekukonko/tablewriter v1.1.0 h1:N0LHrshF4T39KvI96fn6GT8HEjXRXYNDrDjKFDB7RIY=
-github.com/olekukonko/tablewriter v1.1.0/go.mod h1:5c+EBPeSqvXnLLgkm9isDdzR3wjfBkHR9Nhfp3NWrzo=
+github.com/olekukonko/tablewriter v1.1.1 h1:b3reP6GCfrHwmKkYwNRFh2rxidGHcT6cgxj/sHiDDx0=
+github.com/olekukonko/tablewriter v1.1.1/go.mod h1:De/bIcTF+gpBDB3Alv3fEsZA+9unTsSzAg/ZGADCtn4=
 github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0 h1:LiZB1h0GIcudcDci2bxbqI6DXV8bF8POAnArqvRrIyw=
 github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0/go.mod h1:F/7q8/HZz+TXjlsoZQQKVYvXTZaFH4QRa3y+j1p7MS0=
 github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852 h1:Yl0tPBa8QPjGmesFh1D0rDy+q1Twx6FyU7VWHi8wZbI=
