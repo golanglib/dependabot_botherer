@@ -1109,7 +1109,7 @@ require (
 	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
 	github.com/oleiade/lane v1.0.1
-	github.com/olekukonko/tablewriter v1.1.0
+	github.com/olekukonko/tablewriter v1.1.1
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/ginkgo/v2 v2.27.2
