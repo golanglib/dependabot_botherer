@@ -1650,10 +1650,10 @@ require (
 	sigs.k8s.io/controller-runtime v0.22.4
 	sigs.k8s.io/controller-tools v0.19.0
 	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8
-	sigs.k8s.io/kustomize/api v0.20.1
+	sigs.k8s.io/kustomize/api v0.21.0
 	sigs.k8s.io/kustomize/cmd/config v0.20.1
 	sigs.k8s.io/kustomize/kustomize/v5 v5.7.1
-	sigs.k8s.io/kustomize/kyaml v0.20.1
+	sigs.k8s.io/kustomize/kyaml v0.21.0
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.6.0
 	storj.io/common v0.0.0-20250808122759-804533d519c1
