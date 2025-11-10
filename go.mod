@@ -1484,7 +1484,7 @@ require (
 	github.com/zeebo/errs v1.4.0
 	github.com/zeebo/pcg v1.0.1
 	github.com/zeebo/xxh3 v1.0.2
-	github.com/zerobounce/zerobouncego v1.1.1
+	github.com/zerobounce/zerobouncego v1.2.0
 	github.com/zitadel/logging v0.6.2
 	github.com/zitadel/oidc/v2 v2.12.2
 	github.com/zitadel/oidc/v3 v3.45.0
