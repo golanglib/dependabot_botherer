@@ -607,12 +607,12 @@ require (
 	github.com/go-openapi/inflect v0.21.3
 	github.com/go-openapi/jsonpointer v0.22.1
 	github.com/go-openapi/jsonreference v0.21.3
-	github.com/go-openapi/loads v0.23.1
-	github.com/go-openapi/runtime v0.29.0
+	github.com/go-openapi/loads v0.23.2
+	github.com/go-openapi/runtime v0.29.2
 	github.com/go-openapi/spec v0.22.1
 	github.com/go-openapi/strfmt v0.25.0
 	github.com/go-openapi/swag v0.25.1
-	github.com/go-openapi/validate v0.25.0
+	github.com/go-openapi/validate v0.25.1
 	github.com/go-playground/assert/v2 v2.2.0
 	github.com/go-playground/form/v4 v4.3.0
 	github.com/go-playground/locales v0.14.1
@@ -1554,7 +1554,7 @@ require (
 	golang.org/x/mod v0.29.0
 	golang.org/x/net v0.46.0
 	golang.org/x/oauth2 v0.33.0
-	golang.org/x/sync v0.17.0
+	golang.org/x/sync v0.18.0
 	golang.org/x/sys v0.37.0
 	golang.org/x/telemetry v0.0.0-20251008203120-078029d740a8
 	golang.org/x/telemetry/config v0.72.0
