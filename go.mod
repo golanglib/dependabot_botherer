@@ -607,7 +607,7 @@ require (
 	github.com/go-openapi/inflect v0.21.3
 	github.com/go-openapi/jsonpointer v0.22.1
 	github.com/go-openapi/jsonreference v0.21.3
-	github.com/go-openapi/loads v0.23.1
+	github.com/go-openapi/loads v0.23.2
 	github.com/go-openapi/runtime v0.29.0
 	github.com/go-openapi/spec v0.22.1
 	github.com/go-openapi/strfmt v0.25.0
