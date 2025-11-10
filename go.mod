@@ -640,7 +640,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.4.0
 	github.com/go-webauthn/revoke v0.1.10
 	github.com/go-webauthn/webauthn v0.14.0
-	github.com/go-webauthn/x v0.1.25
+	github.com/go-webauthn/x v0.1.26
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
