@@ -1393,7 +1393,7 @@ require (
 	github.com/tj/assert v0.0.3
 	github.com/tjfoc/gmsm v1.4.1
 	github.com/tklauser/go-sysconf v0.3.15
-	github.com/tklauser/numcpus v0.10.0
+	github.com/tklauser/numcpus v0.11.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
 	github.com/tmc/langchaingo v0.1.14
 	github.com/tomarrell/wrapcheck/v2 v2.11.0
