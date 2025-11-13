@@ -243,7 +243,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.90.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.30.2
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.7
-	github.com/aws/aws-sdk-go-v2/service/sts v1.40.1
+	github.com/aws/aws-sdk-go-v2/service/sts v1.40.2
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.11
 	github.com/aws/smithy-go v1.23.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
