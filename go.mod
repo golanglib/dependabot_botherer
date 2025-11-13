@@ -1031,7 +1031,7 @@ require (
 	github.com/microsoft/go-mssqldb v1.9.3
 	github.com/miekg/dns v1.1.68
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
-	github.com/minio/highwayhash v1.0.3
+	github.com/minio/highwayhash v1.0.4-0.20251030100505-070ab1a87a76
 	github.com/minio/md5-simd v1.1.2
 	github.com/minio/minio-go/v7 v7.0.97
 	github.com/minio/sha256-simd v1.0.1
@@ -1081,7 +1081,7 @@ require (
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.8.0
-	github.com/nats-io/nats-server/v2 v2.12.1
+	github.com/nats-io/nats-server/v2 v2.12.2
 	github.com/nats-io/nkeys v0.4.11
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
