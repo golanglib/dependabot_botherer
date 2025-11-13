@@ -361,8 +361,17 @@ golang.org/x/tools/cmd/cover
 golang.org/x/tools/gopls
 //go: golang.org/x/tools/gopls imports
 //	golang.org/x/tools/gopls/internal/cmd imports
+//	golang.org/x/tools/gopls/internal/cache imports
+//	golang.org/x/tools/internal/analysisinternal: cannot find module providing package golang.org/x/tools/internal/analysisinternal
+//go: golang.org/x/tools/gopls imports
+//	golang.org/x/tools/gopls/internal/cmd imports
 //	golang.org/x/tools/gopls/internal/settings imports
 //	golang.org/x/tools/internal/gofix: cannot find module providing package golang.org/x/tools/internal/gofix
+//go: golang.org/x/tools/gopls imports
+//	golang.org/x/tools/gopls/internal/cmd imports
+//	golang.org/x/tools/gopls/internal/settings imports
+//	golang.org/x/tools/gopls/internal/analysis/maprange imports
+//	golang.org/x/tools/internal/analysisinternal/typeindex: cannot find module providing package golang.org/x/tools/internal/analysisinternal/typeindex
 golang.zx2c4.com/wintun
 //[golang.zx2c4.com/wintun] dir: /gopath/pkg/mod/golang.zx2c4.com/wintun@v0.0.0-20230126152724-0fa3db229ce2
 //[golang.zx2c4.com/wintun] "": no buildable Go source files in /gopath/pkg/mod/golang.zx2c4.com/wintun@v0.0.0-20230126152724-0fa3db229ce2
