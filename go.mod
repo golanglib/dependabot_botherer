@@ -30,10 +30,10 @@ require (
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.19.1
 	dario.cat/mergo v1.0.2
-	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
-	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
-	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
-	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
+	deps.dev/api/v3 v3.0.0-20250903005441-604c45d5b44b
+	deps.dev/util/maven v0.0.0-20250903005441-604c45d5b44b
+	deps.dev/util/resolve v0.0.0-20250903005441-604c45d5b44b
+	deps.dev/util/semver v0.0.0-20250903005441-604c45d5b44b
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
@@ -539,7 +539,7 @@ require (
 	github.com/fxamacker/cbor v1.5.1
 	github.com/fxamacker/cbor/v2 v2.9.0
 	github.com/fzipp/gocyclo v0.6.0
-	github.com/g-rath/osv-detector v0.15.0
+	github.com/g-rath/osv-detector v0.15.1
 	github.com/gabriel-vasile/mimetype v1.4.11
 	github.com/gaissmai/bart v0.26.0
 	github.com/gaukas/godicttls v0.0.4
