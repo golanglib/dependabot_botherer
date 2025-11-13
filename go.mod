@@ -240,7 +240,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.266.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.42.3
 	github.com/aws/aws-sdk-go-v2/service/kms v1.48.1
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.90.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.90.2
 	github.com/aws/aws-sdk-go-v2/service/sso v1.30.2
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.7
 	github.com/aws/aws-sdk-go-v2/service/sts v1.40.1
@@ -466,7 +466,7 @@ require (
 	github.com/dgraph-io/badger/v4 v4.8.0
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf
-	github.com/digitalocean/godo v1.168.0
+	github.com/digitalocean/godo v1.169.0
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1

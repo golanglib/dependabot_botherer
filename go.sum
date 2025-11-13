@@ -1417,8 +1417,8 @@ github.com/aws/aws-sdk-go-v2/service/kinesis v1.42.3 h1:A2HNxrABEFha5831yAU05G0m
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.42.3/go.mod h1:jTDNZao/9uv/6JeaeDWEqA4s+l6c8+cqaDeYFpM+818=
 github.com/aws/aws-sdk-go-v2/service/kms v1.48.1 h1:6hyImLwikJB3ZuOnasG2oo/DfTK0kF/zVgKefdW6P1M=
 github.com/aws/aws-sdk-go-v2/service/kms v1.48.1/go.mod h1:VJcNH6BLr+3VJwinRKdotLOMglHO8mIKlD3ea5c7hbw=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.90.1 h1:kKJk9r6iLMfCGy8RL9GWg3n9gUE1IpSwqYP3/5bdL1s=
-github.com/aws/aws-sdk-go-v2/service/s3 v1.90.1/go.mod h1:+wArOOrcHUevqdto9k1tKOF5++YTe9JEcPSc9Tx2ZSw=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.90.2 h1:DhdbtDl4FdNlj31+xiRXANxEE+eC7n8JQz+/ilwQ8Uc=
+github.com/aws/aws-sdk-go-v2/service/s3 v1.90.2/go.mod h1:+wArOOrcHUevqdto9k1tKOF5++YTe9JEcPSc9Tx2ZSw=
 github.com/aws/aws-sdk-go-v2/service/sso v1.3.3/go.mod h1:Jgw5O+SK7MZ2Yi9Yvzb4PggAPYaFSliiQuWR0hNjexk=
 github.com/aws/aws-sdk-go-v2/service/sso v1.12.10/go.mod h1:ouy2P4z6sJN70fR3ka3wD3Ro3KezSxU6eKGQI2+2fjI=
 github.com/aws/aws-sdk-go-v2/service/sso v1.30.2 h1:/p6MxkbQoCzaGQT3WO0JwG0FlQyG9RD8VmdmoKc5xqU=
@@ -2090,8 +2090,8 @@ github.com/dgryski/trifles v0.0.0-20230903005119-f50d829f2e54 h1:SG7nF6SRlWhcT7c
 github.com/dgryski/trifles v0.0.0-20230903005119-f50d829f2e54/go.mod h1:if7Fbed8SFyPtHLHbg49SI7NAdJiC5WIA09pe59rfAA=
 github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf h1:h4rZWky29dm4Az+qm/CYEryhHpNhbxpeyOvENErNeQ8=
 github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf/go.mod h1:gif07jzN8UZdvL//uvbtFMEkvKWGiYr4y4KWdrNj36o=
-github.com/digitalocean/godo v1.168.0 h1:mlORtUcPD91LQeJoznrH3XvfvgK3t8Wvrpph9giUT/Q=
-github.com/digitalocean/godo v1.168.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
+github.com/digitalocean/godo v1.169.0 h1:Wp9UrtIAgpFEEuY4ifWwq8JHJh7mFKPBXnkRv2Wf0Bw=
+github.com/digitalocean/godo v1.169.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
 github.com/dimchansky/utfbom v1.0.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dimchansky/utfbom v1.1.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dimchansky/utfbom v1.1.1 h1:vV6w1AhK4VMnhBno/TPVCoK9U/LP0PkLCS9tbxHdi/U=
