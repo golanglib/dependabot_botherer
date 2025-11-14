@@ -1845,8 +1845,8 @@ github.com/cloudwego/configmanager v0.2.3 h1:P0YTBgqDBnKeI/VARvut/Dc9Rfxt9Bw1Nv7
 github.com/cloudwego/configmanager v0.2.3/go.mod h1:4GeSKjH6JLvKx4/Hrbh5dse8fDqj1n/Up8HfU4wHJ+w=
 github.com/cloudwego/dynamicgo v0.7.1 h1:ITStSu+SaqXd+oFjg+OA920VTOd9GpYTFaUg9upHBKk=
 github.com/cloudwego/dynamicgo v0.7.1/go.mod h1:f9le2ULWbFFkQ8WoP+7pGl1zEI2xRLZhaaif6ROLwDw=
-github.com/cloudwego/eino v0.5.14 h1:cthGepU40W75YXYGjpbfakVHrsBOXJhqXVLLcpY+UqM=
-github.com/cloudwego/eino v0.5.14/go.mod h1:N6E+toMzWw/3ql0IVM5n5lbYFCeblCYx7ebH16kt1JQ=
+github.com/cloudwego/eino v0.6.0 h1:pobGKMOfcQHVNhD9UT/HrvO0eYG6FC2ML/NKY2Eb9+Q=
+github.com/cloudwego/eino v0.6.0/go.mod h1:JNapfU+QUrFFpboNDrNOFvmz0m9wjBFHHCr77RH6a50=
 github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251111090228-91a10bbc864f h1:5KNAOIgm3RL5FBYo5vITVFxtxXgiQ+AQTo2mfPHfh4Y=
 github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251111090228-91a10bbc864f/go.mod h1:YLoXgSmgquJeT6VaBrP5fTzM7ihm39xoEB/LQ2i9UHc=
 github.com/cloudwego/eino-ext/components/model/ark v0.1.42 h1:E+LXe2vaDz1nFzB4SXvDYaWpZu+PAH3dJE8F+sV9y1M=
@@ -1861,8 +1861,8 @@ github.com/cloudwego/eino-ext/devops v0.1.8 h1:qBg5vjZSDnd9tHzCHG8YsjnGB5vKG2EoZ
 github.com/cloudwego/eino-ext/devops v0.1.8/go.mod h1:8yjvPNTaB5Ve4aJmJ0ysFgB10y3YbIuqMh0/Uwt5Fnw=
 github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251111090228-91a10bbc864f h1:0AzQrL5fmZV7BSkdJN0E95SDuXJ1Hk+IM6dcZ+wsljE=
 github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251111090228-91a10bbc864f/go.mod h1:PYcF2msym7y5RtrTceQ7zhKDjlE/8PLRWJql0rBCsNE=
-github.com/cloudwego/eino-ext/libs/acl/openai v0.1.1 h1:1hGUNWNnFyVSEceoeZWJ7eerFZNg9uZb7MXdXkUf8HU=
-github.com/cloudwego/eino-ext/libs/acl/openai v0.1.1/go.mod h1:f/F5SL81MsbbjNSX5xGIlRM4cxXKKWI+BidKSMM8nEM=
+github.com/cloudwego/eino-ext/libs/acl/openai v0.1.2 h1:r9Id2wzJ05PoHl+Km7jQgNMgciaZI93TVnUYso89esM=
+github.com/cloudwego/eino-ext/libs/acl/openai v0.1.2/go.mod h1:S4OkvglPY9hsm9tXeShODrf/WN1Cgu4bqu4nn/CnIic=
 github.com/cloudwego/fastpb v0.0.6 h1:i/RlQhtQHe7IevZCO82SHH0+hMp0OEJM5s9shQT5S20=
 github.com/cloudwego/fastpb v0.0.6/go.mod h1:Bho7aAKBUtT9RPD2cNVkTdx4yQumfSv3If7wYnm1izk=
 github.com/cloudwego/frugal v0.3.0 h1:tgAP0nytiJuyoIM3V3TDOGzjrSNRAIlNG1HHOAzZ3Cs=
