@@ -656,7 +656,7 @@ require (
 	github.com/gochore/pt v1.3.0
 	github.com/gochore/uniq v1.1.0
 	github.com/godbus/dbus v4.1.0+incompatible
-	github.com/godbus/dbus/v5 v5.1.0
+	github.com/godbus/dbus/v5 v5.2.0
 	github.com/gofrs/flock v0.13.0
 	github.com/gofrs/uuid/v5 v5.4.0
 	github.com/gogo/protobuf v1.3.2
