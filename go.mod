@@ -1440,7 +1440,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware/govmomi v0.52.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
-	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.24
+	github.com/volcengine/ve-tos-golang-sdk/v2 v2.7.26
 	github.com/volcengine/volc-sdk-golang v1.0.227
 	github.com/volcengine/volcengine-go-sdk v1.1.48
 	github.com/vulcand/oxy v1.4.2
