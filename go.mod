@@ -398,7 +398,7 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251117090452-bd6375a0b3cf
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.2
 	github.com/cloudwego/fastpb v0.0.6
-	github.com/cloudwego/frugal v0.3.0
+	github.com/cloudwego/frugal v0.3.1
 	github.com/cloudwego/gopkg v0.1.6
 	github.com/cloudwego/hertz v0.10.3
 	github.com/cloudwego/iasm v0.2.0
