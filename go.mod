@@ -389,13 +389,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.1
 	github.com/cloudwego/eino v0.6.0
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251114102822-95f6d97bd4ee
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251117090452-bd6375a0b3cf
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.43
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.5
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251114102822-95f6d97bd4ee
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251117090452-bd6375a0b3cf
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.7
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251114102822-95f6d97bd4ee
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251117090452-bd6375a0b3cf
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.2
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.0
@@ -671,7 +671,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20251111181513-e7f3a1a58fb3
+	github.com/golang/geo v0.0.0-20251117194806-05dcfdd28b33
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -762,7 +762,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.9
 	github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853
 	github.com/gravitational/trace v1.5.1
-	github.com/grid-x/modbus v0.0.0-20251101080009-99e372e638c1
+	github.com/grid-x/modbus v0.0.0-20251117123335-c744d0425b01
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
