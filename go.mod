@@ -410,7 +410,7 @@ require (
 	github.com/cloudwego/thrift-gen-validator v0.2.6
 	github.com/cloudwego/thriftgo v0.4.3
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
-	github.com/cncf/xds/go v0.0.0-20250501225837-2ac532fd4443
+	github.com/cncf/xds/go v0.0.0-20251022180443-0feb69152e9f
 	github.com/cockroachdb/datadriven v1.0.2
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
@@ -1571,9 +1571,9 @@ require (
 	google.golang.org/api v0.256.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250922171735-9219d122eba9
-	google.golang.org/genproto/googleapis/api v0.0.0-20250929231259-57b25ae835d4
+	google.golang.org/genproto/googleapis/api v0.0.0-20251022142026-3a174f9686a8
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251103181224-f26f9409b101
-	google.golang.org/grpc v1.76.0
+	google.golang.org/grpc v1.77.0
 	google.golang.org/protobuf v1.36.10
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
@@ -1886,7 +1886,7 @@ require (
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/spiffe/go-spiffe/v2 v2.5.0 // indirect
+	github.com/spiffe/go-spiffe/v2 v2.6.0 // indirect
 	github.com/src-d/gcfg v1.4.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/tent/http-link-go v0.0.0-20130702225549-ac974c61c2f9 // indirect
