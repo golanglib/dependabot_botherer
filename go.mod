@@ -1210,7 +1210,7 @@ require (
 	github.com/quasilyte/regex/syntax v0.0.0-20210819130434-b3f0c404a727
 	github.com/quasilyte/stdinfo v0.0.0-20220114132959-f7386bf02567
 	github.com/quasoft/websspi v1.1.2
-	github.com/quic-go/qpack v0.5.1
+	github.com/quic-go/qpack v0.6.0
 	github.com/quic-go/qtls-go1-18 v0.2.0
 	github.com/quic-go/qtls-go1-19 v0.3.3
 	github.com/quic-go/qtls-go1-20 v0.4.1
