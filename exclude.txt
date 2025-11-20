@@ -6,7 +6,7 @@ code.gitea.io/gitea
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"
 github.com/antlr/antlr4/runtime/Go/antlr/v4
-//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20251029091524-857fb46e781c) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20251029091524-857fb46e781c: parsing go.mod:
+//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20251119180442-fbb20fee4510) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20251119180442-fbb20fee4510: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antonmedv/expr
@@ -160,7 +160,7 @@ github.com/hashicorp/nomad
 //go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
 github.com/hashicorp/vault
-//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.21.0
+//[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.21.1
 //[github.com/hashicorp/vault] module has replace
 github.com/henrylee2cn/ameda
 //go: github.com/henrylee2cn/ameda@latest (v1.5.3) requires github.com/henrylee2cn/ameda@v1.5.3: parsing go.mod:
