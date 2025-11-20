@@ -1539,7 +1539,7 @@ require (
 	go.uber.org/mock v0.6.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/ratelimit v0.3.1
-	go.uber.org/zap v1.27.0
+	go.uber.org/zap v1.27.1
 	go.uber.org/zap/exp v0.3.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
