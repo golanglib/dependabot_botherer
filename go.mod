@@ -1225,7 +1225,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
 	github.com/rfjakob/eme v1.1.2
-	github.com/rhysd/actionlint v1.7.8
+	github.com/rhysd/actionlint v1.7.9
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
@@ -1924,7 +1924,7 @@ require (
 	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.37.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	go.yaml.in/yaml/v4 v4.0.0-rc.2 // indirect
+	go.yaml.in/yaml/v4 v4.0.0-rc.3 // indirect
 	golang.org/x/exp/shiny v0.0.0-20250718183923-645b1fa84792 // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
