@@ -1396,7 +1396,7 @@ require (
 	github.com/tklauser/numcpus v0.11.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
 	github.com/tmc/langchaingo v0.1.14
-	github.com/tomarrell/wrapcheck/v2 v2.11.0
+	github.com/tomarrell/wrapcheck/v2 v2.12.0
 	github.com/tommy-muehle/go-mnd/v2 v2.5.1
 	github.com/toqueteos/webbrowser v1.2.1
 	github.com/tv42/httpunix v0.0.0-20191220191345-2ba4b9c3382c
