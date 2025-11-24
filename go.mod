@@ -482,7 +482,7 @@ require (
 	github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430
 	github.com/dprotaso/go-yit v0.0.0-20191028211022-135eb7262960
 	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.0.5
-	github.com/dsnet/compress v0.0.2-0.20210315054119-f66993602bf5
+	github.com/dsnet/compress v0.0.2-0.20230904184137-39efe44ab707
 	github.com/dsnet/try v0.0.3
 	github.com/duo-labs/webauthn v0.0.0-20221205164246-ebaf9b74c6ec
 	github.com/dustin/go-humanize v1.0.1
@@ -1217,7 +1217,7 @@ require (
 	github.com/quic-go/quic-go v0.57.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/rclone/rclone v1.71.2
+	github.com/rclone/rclone v1.72.0
 	github.com/redis/go-redis/v9 v9.17.0
 	github.com/redis/rueidis v1.0.68
 	github.com/refraction-networking/utls v1.8.1
@@ -1304,7 +1304,7 @@ require (
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
 	github.com/sina-ghaderi/rabaead v0.0.0-20220730151906-ab6e06b96e8c
 	github.com/sina-ghaderi/rabbitio v0.0.0-20220730151941-9ce26f4f872e
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4-0.20230606125235-dd1b4c2e81af
 	github.com/sivchari/containedctx v1.0.3
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.12.1
@@ -1331,7 +1331,7 @@ require (
 	github.com/sosodev/duration v1.3.1
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
 	github.com/sourcegraph/go-diff v0.7.0
-	github.com/spacemonkeygo/monkit/v3 v3.0.24
+	github.com/spacemonkeygo/monkit/v3 v3.0.25-0.20251022131615-eb24eb109368
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.5
 	github.com/spf13/afero v1.15.0
@@ -1365,7 +1365,7 @@ require (
 	github.com/swaggo/gin-swagger v1.6.1
 	github.com/swaggo/swag v1.16.6
 	github.com/syndtr/goleveldb v1.0.0
-	github.com/t3rm1n4l/go-mega v0.0.0-20250926104142-ccb8d3498e6c
+	github.com/t3rm1n4l/go-mega v0.0.0-20251031123324-a804aaa87491
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/tdakkota/asciicheck v0.4.1
 	github.com/tdewolff/minify/v2 v2.24.7
@@ -1550,7 +1550,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20251023183803-a4bb9ffd2546
 	golang.org/x/image v0.33.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
-	golang.org/x/mobile v0.0.0-20250808145247-395d808d53cd
+	golang.org/x/mobile v0.0.0-20251021151156-188f512ec823
 	golang.org/x/mod v0.30.0
 	golang.org/x/net v0.47.0
 	golang.org/x/oauth2 v0.33.0
@@ -1656,7 +1656,7 @@ require (
 	sigs.k8s.io/kustomize/kyaml v0.21.0
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.6.0
-	storj.io/common v0.0.0-20250808122759-804533d519c1
+	storj.io/common v0.0.0-20251107171817-6221ae45072c
 	storj.io/drpc v0.0.35-0.20250513201419-f7819ea69b55
 	storj.io/eventkit v0.0.0-20250410172343-61f26d3de156
 	storj.io/infectious v0.0.2
@@ -1681,7 +1681,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/internal v1.1.2 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.2.0 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
-	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
+	github.com/Azure/go-ntlmssp v0.0.2-0.20251110135918-10b7b7e7cd26 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
 	github.com/Crocmagnon/fatcontext v0.7.2 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.54.0 // indirect
@@ -1752,7 +1752,7 @@ require (
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
-	github.com/ebitengine/purego v0.9.0 // indirect
+	github.com/ebitengine/purego v0.9.1 // indirect
 	github.com/echlebek/timeproxy v1.0.0 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.36.0 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
@@ -1880,7 +1880,7 @@ require (
 	github.com/schollz/closestmatch v2.1.0+incompatible // indirect
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
-	github.com/shirou/gopsutil/v4 v4.25.9 // indirect
+	github.com/shirou/gopsutil/v4 v4.25.10 // indirect
 	github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 // indirect
 	github.com/smallstep/go-attestation v0.4.4-0.20241119153605-2306d5b464ca // indirect
 	github.com/smallstep/linkedca v0.23.0 // indirect
@@ -1925,7 +1925,7 @@ require (
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.3 // indirect
-	golang.org/x/exp/shiny v0.0.0-20250718183923-645b1fa84792 // indirect
+	golang.org/x/exp/shiny v0.0.0-20251002181428-27f1f14c8bb9 // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
