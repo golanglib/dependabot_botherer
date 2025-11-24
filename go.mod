@@ -39,7 +39,7 @@ require (
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
 	gitea.com/go-chi/cache v0.2.1
 	gitea.com/go-chi/captcha v0.0.0-20240315150714-fb487f629098
-	gitea.com/go-chi/session v0.0.0-20250926004215-636cadd82e15
+	gitea.com/go-chi/session v0.0.0-20251124165456-68e0254e989e
 	gitea.com/lunny/levelqueue v0.4.1
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
@@ -389,13 +389,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.1
 	github.com/cloudwego/eino v0.7.0
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251121095553-9c4349cc3e46
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251124094848-7e6bcdc933b1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.47
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.5
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251121095553-9c4349cc3e46
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251124094848-7e6bcdc933b1
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.7
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251121095553-9c4349cc3e46
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251124094848-7e6bcdc933b1
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.3
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -563,7 +563,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20251119200117-f535d00430a0
+	github.com/go-ap/activitypub v0.0.0-20251124111637-be8249f2f382
 	github.com/go-ap/errors v0.0.0-20250905102357-4480b47a00c4
 	github.com/go-ap/jsonld v0.0.0-20250905102310-8480b0fe24d9
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
