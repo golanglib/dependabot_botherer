@@ -523,7 +523,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.27.0
 	github.com/expr-lang/expr v1.17.6
-	github.com/facebook/time v0.0.0-20251120133113-e9dec26f584d
+	github.com/facebook/time v0.0.0-20251124192857-00b250d85ae1
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1088,7 +1088,6 @@ require (
 	github.com/ncruces/go-strftime v1.0.0
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.5
-	github.com/nektos/act v0.2.82
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.3
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
@@ -1699,7 +1698,6 @@ require (
 	github.com/alingse/nilnesserr v0.1.2 // indirect
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
-	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
 	github.com/apache/arrow-go/v18 v18.4.0 // indirect
 	github.com/apex/log v1.9.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect

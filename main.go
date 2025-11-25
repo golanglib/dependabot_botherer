@@ -1087,7 +1087,6 @@ import (
 	_ "github.com/ncruces/go-strftime"
 	_ "github.com/ncw/swift"
 	_ "github.com/ncw/swift/v2"
-	_ "github.com/nektos/act/cmd"
 	_ "github.com/netsampler/goflow2/cmd/enricher/pb"
 	_ "github.com/netsampler/goflow2/v2/cmd/enricher/pb"
 	_ "github.com/newrelic/newrelic-telemetry-sdk-go/cumulative"
