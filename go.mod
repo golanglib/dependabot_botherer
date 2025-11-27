@@ -388,7 +388,7 @@ require (
 	github.com/cloudwego/base64x v0.1.6
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.1
-	github.com/cloudwego/eino v0.7.0
+	github.com/cloudwego/eino v0.7.3
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251126141524-8f3f19b9c669
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.50
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.5
@@ -496,7 +496,7 @@ require (
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.3
 	github.com/edsrzf/mmap-go v1.2.0
-	github.com/eino-contrib/jsonschema v1.0.2
+	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.7.2
 	github.com/elazarl/goproxy/ext v0.0.0-20251122212328-fad3713f1715
 	github.com/elliotchance/orderedmap v1.8.0
