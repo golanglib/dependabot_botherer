@@ -230,7 +230,7 @@ github.com/nektos/act
 //	github.com/docker/cli/opts imports
 //	github.com/moby/moby/client: ambiguous import: found package github.com/moby/moby/client in multiple modules:
 //	github.com/moby/moby v28.5.2+incompatible (/gopath/pkg/mod/github.com/moby/moby@v28.5.2+incompatible/client)
-//	github.com/moby/moby/client v0.1.0 (/gopath/pkg/mod/github.com/moby/moby/client@v0.1.0)
+//	github.com/moby/moby/client v0.2.1 (/gopath/pkg/mod/github.com/moby/moby/client@v0.2.1)
 github.com/open-telemetry/opentelemetry-collector-contrib
 //[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.140.1
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "": no buildable Go source files in /gopath/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.140.1
