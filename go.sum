@@ -2870,8 +2870,8 @@ github.com/google/flatbuffers v25.2.10+incompatible h1:F3vclr7C3HpB1k9mxCGRMXq6F
 github.com/google/flatbuffers v25.2.10+incompatible/go.mod h1:1AeVuKshWv4vARoZatz6mlQ0JxURH0Kv5+zNeJKJCa8=
 github.com/google/gnostic-models v0.7.1 h1:SisTfuFKJSKM5CPZkffwi6coztzzeYUhc3v4yxLWH8c=
 github.com/google/gnostic-models v0.7.1/go.mod h1:whL5G0m6dmc5cPxKc5bdKdEN3UjI7OUGxBlw57miDrQ=
-github.com/google/gnxi v0.0.0-20251020164959-5fa24fadd047 h1:AvrelsNfpZ4QDTkXGf3xKWF87enhF+SeTgGPGBtTiws=
-github.com/google/gnxi v0.0.0-20251020164959-5fa24fadd047/go.mod h1:nve3XDn7r/PHk4fJIrXEmXkzwLppWwYzrrVCVyMKrfM=
+github.com/google/gnxi v0.0.0-20251129193624-612869a62faa h1:IuSUAXikjzQexx6YvsBAx1koUp5GFrHYa3zMK8Qf054=
+github.com/google/gnxi v0.0.0-20251129193624-612869a62faa/go.mod h1:nve3XDn7r/PHk4fJIrXEmXkzwLppWwYzrrVCVyMKrfM=
 github.com/google/go-attestation v0.6.0 h1:nVqsVA7Ka3024nBySlXfBa4dSwQHpylYyCiKUOcPkHA=
 github.com/google/go-attestation v0.6.0/go.mod h1:BcvuSzzGpsN3NDvngf9E4aWfAhOVYSYTdigzQHoWXhU=
 github.com/google/go-cmp v0.2.0/go.mod h1:oXzfMopK8JAjlY9xF4vHSVASa0yLyX7SntLO5aqRK0M=
