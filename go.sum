@@ -1430,8 +1430,8 @@ github.com/aws/aws-sdk-go-v2/service/sts v1.6.2/go.mod h1:RBhoMJB8yFToaCnbe0jNq5
 github.com/aws/aws-sdk-go-v2/service/sts v1.19.0/go.mod h1:BgQOMsg8av8jset59jelyPW7NoZcZXLVpDsXunGDrk8=
 github.com/aws/aws-sdk-go-v2/service/sts v1.41.3 h1:tzMkjh0yTChUqJDgGkcDdxvZDSrJ/WB6R6ymI5ehqJI=
 github.com/aws/aws-sdk-go-v2/service/sts v1.41.3/go.mod h1:T270C0R5sZNLbWUe8ueiAF42XSZxxPocTaGSgs5c/60=
-github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.13 h1:2D9HCfVwRSoupX9ezUb+2EyMMZFSCzB7mHRQY7TEX2E=
-github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.13/go.mod h1:a8HKhwshd+PjtMYuo+warkOKK2UOWJRHlZCywkCWwek=
+github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.14 h1:2CQ3fsf1RYCm1PigX8hQY8K2SWouxDK9Gbljq0CK54w=
+github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.14/go.mod h1:KjfcC5XQBPAB2sRr+1FpNwMSjtamTp7PeNO9XaBSmDs=
 github.com/aws/smithy-go v1.7.0/go.mod h1:SObp3lf9smib00L/v3U2eAKG8FyQ7iLrJnQiAmR5n+E=
 github.com/aws/smithy-go v1.8.0/go.mod h1:SObp3lf9smib00L/v3U2eAKG8FyQ7iLrJnQiAmR5n+E=
 github.com/aws/smithy-go v1.9.0/go.mod h1:SObp3lf9smib00L/v3U2eAKG8FyQ7iLrJnQiAmR5n+E=
