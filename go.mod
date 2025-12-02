@@ -1217,7 +1217,7 @@ require (
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/rclone/rclone v1.72.0
-	github.com/redis/go-redis/v9 v9.17.1
+	github.com/redis/go-redis/v9 v9.17.2
 	github.com/redis/rueidis v1.0.68
 	github.com/refraction-networking/utls v1.8.1
 	github.com/relvacode/iso8601 v1.7.0
