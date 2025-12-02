@@ -3,9 +3,6 @@ code.gitea.io/gitea
 //	code.gitea.io/gitea/cmd imports
 //	code.gitea.io/gitea/models/actions imports
 //	github.com/nektos/act/pkg/jobparser: cannot find module providing package github.com/nektos/act/pkg/jobparser
-//go: warning: github.com/klauspost/compress@v1.18.1: retracted by module author: https://github.com/klauspost/compress/issues/1114
-//go: to switch to the latest unretracted version, run:
-//	go get github.com/klauspost/compress@latest
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"
 github.com/antlr/antlr4/runtime/Go/antlr/v4
@@ -122,9 +119,6 @@ github.com/gwos/tcg
 //	k8s.io/client-go/kubernetes imports
 //	k8s.io/client-go/kubernetes/typed/networking/v1alpha1 imports
 //	k8s.io/api/networking/v1alpha1: cannot find module providing package k8s.io/api/networking/v1alpha1
-//go: warning: github.com/klauspost/compress@v1.18.1: retracted by module author: https://github.com/klauspost/compress/issues/1114
-//go: to switch to the latest unretracted version, run:
-//	go get github.com/klauspost/compress@latest
 github.com/hashicorp/consul
 //go: github.com/hashicorp/consul imports
 //	github.com/hashicorp/consul/command/version imports
@@ -165,9 +159,6 @@ github.com/hashicorp/nomad
 //go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
 //go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
-//go: warning: github.com/klauspost/compress@v1.18.1: retracted by module author: https://github.com/klauspost/compress/issues/1114
-//go: to switch to the latest unretracted version, run:
-//	go get github.com/klauspost/compress@latest
 github.com/hashicorp/vault
 //[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.21.1
 //[github.com/hashicorp/vault] module has replace
