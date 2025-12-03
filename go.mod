@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.10-20250912141014-52f32327d4b0.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.17.0
@@ -30,10 +30,10 @@ require (
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.19.1
 	dario.cat/mergo v1.0.2
-	deps.dev/api/v3 v3.0.0-20250903005441-604c45d5b44b
-	deps.dev/util/maven v0.0.0-20250903005441-604c45d5b44b
-	deps.dev/util/resolve v0.0.0-20250903005441-604c45d5b44b
-	deps.dev/util/semver v0.0.0-20250903005441-604c45d5b44b
+	deps.dev/api/v3 v3.0.0-20241010035105-b3ba03369df1
+	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
+	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
+	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.1.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
