@@ -176,7 +176,7 @@ require (
 	github.com/anacrolix/chansync v0.7.0
 	github.com/anacrolix/dht v1.0.1
 	github.com/anacrolix/dht/v2 v2.23.0
-	github.com/anacrolix/envpprof v1.4.0
+	github.com/anacrolix/envpprof v1.4.1-0.20251201125402-e8b52d50f714
 	github.com/anacrolix/fuse v0.4.0
 	github.com/anacrolix/generics v0.1.0
 	github.com/anacrolix/go-libutp v1.3.2
@@ -190,7 +190,7 @@ require (
 	github.com/anacrolix/possum/go v0.4.0
 	github.com/anacrolix/squirrel v0.6.4
 	github.com/anacrolix/stm v0.5.0
-	github.com/anacrolix/sync v0.5.4
+	github.com/anacrolix/sync v0.6.0
 	github.com/anacrolix/tagflag v1.4.0
 	github.com/anacrolix/torrent v1.58.1
 	github.com/anacrolix/upnp v0.1.4
