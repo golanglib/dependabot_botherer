@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/longrunning v0.7.0
 	cloud.google.com/go/monitoring v1.24.3
 	cloud.google.com/go/pubsub v1.50.1
-	cloud.google.com/go/storage v1.57.2
+	cloud.google.com/go/storage v1.58.0
 	cloud.google.com/go/trace v1.11.7
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.22.1
@@ -1570,7 +1570,7 @@ require (
 	google.golang.org/api v0.257.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genproto v0.0.0-20250922171735-9219d122eba9
-	google.golang.org/genproto/googleapis/api v0.0.0-20251022142026-3a174f9686a8
+	google.golang.org/genproto/googleapis/api v0.0.0-20251111163417-95abcf5c77ba
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251124214823-79d6a2a48846
 	google.golang.org/grpc v1.77.0
 	google.golang.org/protobuf v1.36.10
@@ -1919,7 +1919,6 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.63.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.38.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.38.0 // indirect
-	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.37.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.3 // indirect
