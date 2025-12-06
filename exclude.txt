@@ -6,7 +6,7 @@ code.gitea.io/gitea
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"
 github.com/antlr/antlr4/runtime/Go/antlr/v4
-//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20251119180442-fbb20fee4510) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20251119180442-fbb20fee4510: parsing go.mod:
+//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20251205171847-faa457ae5b9c) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20251205171847-faa457ae5b9c: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antonmedv/expr
