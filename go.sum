@@ -1147,8 +1147,8 @@ github.com/anacrolix/envpprof v0.0.0-20180404065416-323002cec2fa/go.mod h1:KgHhU
 github.com/anacrolix/envpprof v1.0.0/go.mod h1:KgHhUaQMc8cC0+cEflSgCFNFbKwi5h54gqtVn8yhP7c=
 github.com/anacrolix/envpprof v1.1.0/go.mod h1:My7T5oSqVfEn4MD4Meczkw/f5lSIndGAKu/0SM/rkf4=
 github.com/anacrolix/envpprof v1.3.0/go.mod h1:7QIG4CaX1uexQ3tqd5+BRa/9e2D02Wcertl6Yh0jCB0=
-github.com/anacrolix/envpprof v1.4.1-0.20251201125402-e8b52d50f714 h1:Dfpf5WM5tx0bsdw+5kx+gIp/Erbu6mk7pOh/UP1rgPg=
-github.com/anacrolix/envpprof v1.4.1-0.20251201125402-e8b52d50f714/go.mod h1:OQPV3SNK6uVAlXL4slcZVXv+xLcE0ybWgVKcUfr5fE8=
+github.com/anacrolix/envpprof v1.5.0 h1:eMI07YWjk86b+8N9A4k0OtLSS472/1Z0qraAW2oPZb4=
+github.com/anacrolix/envpprof v1.5.0/go.mod h1:OQPV3SNK6uVAlXL4slcZVXv+xLcE0ybWgVKcUfr5fE8=
 github.com/anacrolix/fuse v0.4.0 h1:cmYVLSPjUZ6fDavcpc8OxRMBwQhG9c+MJ0QeD15sBRU=
 github.com/anacrolix/fuse v0.4.0/go.mod h1:vN3X/6E+uHNjg5F8Oy9FD9I+pYxeDWeB8mNjIoxL5ds=
 github.com/anacrolix/generics v0.0.0-20230113004304-d6428d516633/go.mod h1:ff2rHB/joTV03aMSSn/AZNnaIpUw0h3njetGsaXcMy8=
