@@ -228,7 +228,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.41.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.4
 	github.com/aws/aws-sdk-go-v2/config v1.32.3
-	github.com/aws/aws-sdk-go-v2/credentials v1.19.3
+	github.com/aws/aws-sdk-go-v2/credentials v1.19.4
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.27
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.16
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.20.13
@@ -242,7 +242,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.49.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.93.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.30.7
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.11
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.12
 	github.com/aws/aws-sdk-go-v2/service/sts v1.41.4
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.14
 	github.com/aws/smithy-go v1.24.0
@@ -1712,7 +1712,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.11.16 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.16 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.15 // indirect
-	github.com/aws/aws-sdk-go-v2/service/signin v1.0.3 // indirect
+	github.com/aws/aws-sdk-go-v2/service/signin v1.0.4 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
