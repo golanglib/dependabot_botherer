@@ -49,7 +49,7 @@ github.com/beego/beego/v2
 //[github.com/beego/beego/v2] dir: /gopath/pkg/mod/github.com/beego/beego/v2@v2.3.8
 //[github.com/beego/beego/v2] module has replace
 github.com/bufbuild/protovalidate-go
-//go: github.com/bufbuild/protovalidate-go@latest (v1.0.1) requires github.com/bufbuild/protovalidate-go@v1.0.1: parsing go.mod:
+//go: github.com/bufbuild/protovalidate-go@latest (v1.1.0) requires github.com/bufbuild/protovalidate-go@v1.1.0: parsing go.mod:
 //	module declares its path as: buf.build/go/protovalidate
 //	        but was required as: github.com/bufbuild/protovalidate-go
 github.com/cosmtrek/air
@@ -142,23 +142,8 @@ github.com/hashicorp/consul
 //go: to switch to the latest unretracted version, run:
 //	go get github.com/hashicorp/go-msgpack@latest
 github.com/hashicorp/nomad
-//go: github.com/hashicorp/nomad imports
-//	github.com/hashicorp/nomad/drivers/shared/executor imports
-//	github.com/opencontainers/runc/libcontainer/cgroups: cannot find module providing package github.com/opencontainers/runc/libcontainer/cgroups
-//go: github.com/hashicorp/nomad imports
-//	github.com/hashicorp/nomad/drivers/shared/executor imports
-//	github.com/opencontainers/runc/libcontainer/cgroups/devices: cannot find module providing package github.com/opencontainers/runc/libcontainer/cgroups/devices
-//go: module github.com/Azure/go-autorest/autorest is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore instead.
-//go: module github.com/Azure/go-autorest/autorest/adal is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
-//go: module github.com/Azure/go-autorest/autorest/azure/auth is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
-//go: module github.com/Azure/go-autorest/autorest/azure/cli is deprecated: this module has been deprecated and is no longer supported.
-//go: module github.com/Azure/go-autorest/autorest/date is deprecated: this module has been deprecated and is no longer supported.
-//go: module github.com/Azure/go-autorest/autorest/to is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/to instead.
-//go: module github.com/Azure/go-autorest/autorest/validation is deprecated: this module has been deprecated and is no longer supported.
-//go: module github.com/Azure/go-autorest/logger is deprecated: this module has been deprecated and is no longer supported.
-//go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
-//go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
-//go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
+//[github.com/hashicorp/nomad] dir: /gopath/pkg/mod/github.com/hashicorp/nomad@v1.11.1
+//[github.com/hashicorp/nomad] module has replace
 github.com/hashicorp/vault
 //[github.com/hashicorp/vault] dir: /gopath/pkg/mod/github.com/hashicorp/vault@v1.21.1
 //[github.com/hashicorp/vault] module has replace
