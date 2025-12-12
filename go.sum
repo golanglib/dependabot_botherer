@@ -2287,8 +2287,8 @@ github.com/evanw/esbuild v0.27.1/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.6 h1:1h6i8ONk9cexhDmowO/A64VPxHScu7qfSl2k8OlINec=
 github.com/expr-lang/expr v1.17.6/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20251210160545-2419b2035d1e h1:ORZJ8lrrUFSOCKjnlABILfpcZIocFt2DyexbjlTOjzY=
-github.com/facebook/time v0.0.0-20251210160545-2419b2035d1e/go.mod h1:sGbvP+yrBddbw7e5cHoUZYMKEg9Bi/fy8VzP6k2LyUo=
+github.com/facebook/time v0.0.0-20251211174913-d00b3c63ae3a h1:7AzK48vNBuj1Ohm8vbd4FVuOGI1I0c7sQ6yXM1Brc+4=
+github.com/facebook/time v0.0.0-20251211174913-d00b3c63ae3a/go.mod h1:sGbvP+yrBddbw7e5cHoUZYMKEg9Bi/fy8VzP6k2LyUo=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
