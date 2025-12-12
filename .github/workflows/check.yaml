@@ -41,7 +41,7 @@ jobs:
           cache: false
 
       - name: Restore cache
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: |
             /gopath
@@ -55,7 +55,7 @@ jobs:
 
       - name: Always save cache
         if: always()
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: |
             /gopath
