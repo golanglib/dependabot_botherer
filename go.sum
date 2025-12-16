@@ -2196,8 +2196,8 @@ github.com/eclipse/paho.mqtt.golang v1.5.1 h1:/VSOv3oDLlpqR2Epjn1Q7b2bSTplJIeV2I
 github.com/eclipse/paho.mqtt.golang v1.5.1/go.mod h1:1/yJCneuyOoCOzKSsOTUc0AJfpsItBGWvYpBLimhArU=
 github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e h1:LX7svUiXeFV8FlsUSLA6/Ow+Fy8KXupFshotsCq3kRY=
 github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e/go.mod h1:16IduEpNboX3F78teZZRoJQoFpStM2YruwGVKirxG3o=
-github.com/editorconfig/editorconfig-core-go/v2 v2.6.3 h1:XVUp6qW3BIkmM3/1EkrHpa6bL56APOynfXcZEmIgOhs=
-github.com/editorconfig/editorconfig-core-go/v2 v2.6.3/go.mod h1:ThHVc+hqbUsmE1wmK/MASpQEhCleWu1JDJDNhUOMy0c=
+github.com/editorconfig/editorconfig-core-go/v2 v2.6.4 h1:CHwUbBVVyKWRX9kt5A/OtwhYUJB32DrFp9xzmjR6cac=
+github.com/editorconfig/editorconfig-core-go/v2 v2.6.4/go.mod h1:JWRVKHdVW+dkv6F8p+xGCa6a+TyMrqsFbFkSs/aQkrQ=
 github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712/go.mod h1:YO35OhQPt3KJa3ryjFM5Bs14WD66h8eGKpfaBNrHW5M=
 github.com/edsrzf/mmap-go v1.0.0/go.mod h1:YO35OhQPt3KJa3ryjFM5Bs14WD66h8eGKpfaBNrHW5M=
 github.com/edsrzf/mmap-go v1.2.0 h1:hXLYlkbaPzt1SaQk+anYwKSRNhufIDCchSPkUD6dD84=

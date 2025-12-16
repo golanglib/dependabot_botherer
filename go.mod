@@ -494,7 +494,7 @@ require (
 	github.com/eclipse/paho.golang v0.23.0
 	github.com/eclipse/paho.mqtt.golang v1.5.1
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
-	github.com/editorconfig/editorconfig-core-go/v2 v2.6.3
+	github.com/editorconfig/editorconfig-core-go/v2 v2.6.4
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.7.2
