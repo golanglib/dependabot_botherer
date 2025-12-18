@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20251209175733-2a1774d88802.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.18.0
@@ -439,7 +439,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.2.0
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20251029161603-312b7fd62d20
+	github.com/coze-dev/coze-go v0.0.0-20251217090046-c70184300a2f
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
@@ -563,7 +563,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20251216163124-e62e2d059636
+	github.com/go-ap/activitypub v0.0.0-20251217103921-9808e9a35f7b
 	github.com/go-ap/errors v0.0.0-20251216162958-cb99ea99a461
 	github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
@@ -1009,7 +1009,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250919004547-6122b699a301
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20251004051927-c45ee18473bb
+	github.com/metacubex/sing-quic v0.0.0-20251217080445-b15217cb57f3
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.10
@@ -1816,10 +1816,17 @@ require (
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/metacubex/ascon v0.1.0 // indirect
 	github.com/metacubex/blake3 v0.1.0 // indirect
+	github.com/metacubex/cpu v0.1.0 // indirect
 	github.com/metacubex/fswatch v0.1.1 // indirect
+	github.com/metacubex/hkdf v0.1.0 // indirect
+	github.com/metacubex/hpke v0.1.0 // indirect
+	github.com/metacubex/http v0.1.0 // indirect
+	github.com/metacubex/mlkem v0.1.0 // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
-	github.com/metacubex/quic-go v0.55.1-0.20251004050223-450bd9e32033 // indirect
+	github.com/metacubex/qpack v0.6.0 // indirect
+	github.com/metacubex/quic-go v0.57.1-0.20251217071004-e89f497a2e72 // indirect
 	github.com/metacubex/sing v0.5.6 // indirect
+	github.com/metacubex/tls v0.1.0 // indirect
 	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.3 // indirect
