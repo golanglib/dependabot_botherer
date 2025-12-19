@@ -1012,7 +1012,7 @@ require (
 	github.com/metacubex/sing-quic v0.0.0-20251217080445-b15217cb57f3
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
-	github.com/metacubex/sing-tun v0.4.10
+	github.com/metacubex/sing-tun v0.4.11
 	github.com/metacubex/sing-vmess v0.2.3
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
 	github.com/metacubex/tfo-go v0.0.0-20251204144243-738de9e3cd15
