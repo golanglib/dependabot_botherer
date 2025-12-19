@@ -1602,14 +1602,14 @@ require (
 	howett.net/plist v1.0.1
 	k8s.io/api v0.34.3
 	k8s.io/apiextensions-apiserver v0.34.3
-	k8s.io/apimachinery v0.34.3
+	k8s.io/apimachinery v0.35.0
 	k8s.io/apiserver v0.34.3
 	k8s.io/client-go v0.34.3
 	k8s.io/code-generator v0.34.3
 	k8s.io/component-base v0.34.3
 	k8s.io/gengo/v2 v2.0.0-20250604051438-85fd79dbfd9f
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/kube-openapi v0.0.0-20250710124328-f3f2b991d03b
+	k8s.io/kube-openapi v0.0.0-20250910181357-589584f1c912
 	k8s.io/utils v0.0.0-20251002143259-bc988d571ff4
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.11010.0
@@ -1648,7 +1648,7 @@ require (
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.34.0
 	sigs.k8s.io/controller-runtime v0.22.4
 	sigs.k8s.io/controller-tools v0.19.0
-	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8
+	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730
 	sigs.k8s.io/kustomize/api v0.21.0
 	sigs.k8s.io/kustomize/cmd/config v0.21.0
 	sigs.k8s.io/kustomize/kustomize/v5 v5.8.0
@@ -1936,7 +1936,7 @@ require (
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.5.1 // indirect
 	gopkg.in/cenkalti/backoff.v1 v1.1.0 // indirect
-	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
+	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 	gopkg.in/guregu/null.v4 v4.0.0 // indirect
