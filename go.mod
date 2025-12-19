@@ -402,9 +402,9 @@ require (
 	github.com/cloudwego/gopkg v0.1.7
 	github.com/cloudwego/hertz v0.10.3
 	github.com/cloudwego/iasm v0.2.0
-	github.com/cloudwego/kitex v0.15.2
+	github.com/cloudwego/kitex v0.15.3
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20251219020834-00337d274d04
-	github.com/cloudwego/localsession v0.2.0
+	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thrift-gen-validator v0.2.6
