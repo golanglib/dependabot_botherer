@@ -1332,7 +1332,7 @@ require (
 	github.com/sourcegraph/go-diff v0.7.0
 	github.com/spacemonkeygo/monkit/v3 v3.0.25-0.20251022131615-eb24eb109368
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
-	github.com/spdx/tools-golang v0.5.5
+	github.com/spdx/tools-golang v0.5.6
 	github.com/spf13/afero v1.15.0
 	github.com/spf13/cast v1.10.0
 	github.com/spf13/cobra v1.10.2
