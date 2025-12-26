@@ -402,7 +402,7 @@ require (
 	github.com/cloudwego/gopkg v0.1.8
 	github.com/cloudwego/hertz v0.10.3
 	github.com/cloudwego/iasm v0.2.0
-	github.com/cloudwego/kitex v0.15.3
+	github.com/cloudwego/kitex v0.15.4
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20251219070710-99b643499e10
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
