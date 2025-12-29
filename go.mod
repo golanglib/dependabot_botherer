@@ -1089,7 +1089,7 @@ require (
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.5
 	github.com/netsampler/goflow2 v1.3.7
-	github.com/netsampler/goflow2/v2 v2.2.3
+	github.com/netsampler/goflow2/v2 v2.2.6
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
 	github.com/niklasfasching/go-org v1.9.1
