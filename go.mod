@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20251209175733-2a1774d88802.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.18.0
@@ -389,13 +389,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.2
 	github.com/cloudwego/eino v0.7.15
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251226123311-1d93d527c144
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20251229121631-716047332ba5
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.58
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.6
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251226123311-1d93d527c144
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20251229121631-716047332ba5
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251226123311-1d93d527c144
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20251229121631-716047332ba5
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.10
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -563,8 +563,8 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20251223172601-b4d07d3da29a
-	github.com/go-ap/errors v0.0.0-20251216162958-cb99ea99a461
+	github.com/go-ap/activitypub v0.0.0-20251229135531-ed9c5f603bba
+	github.com/go-ap/errors v0.0.0-20251229095444-2702aa2d8569
 	github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
 	github.com/go-chi/chi v4.1.2+incompatible
@@ -671,7 +671,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20251223115337-4c285675e7fb
+	github.com/golang/geo v0.0.0-20251229110840-fd652594c94c
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
