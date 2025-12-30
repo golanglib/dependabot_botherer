@@ -709,7 +709,7 @@ require (
 	github.com/google/go-github/v61 v61.0.0
 	github.com/google/go-github/v64 v64.0.0
 	github.com/google/go-licenses v1.6.0
-	github.com/google/go-querystring v1.1.0
+	github.com/google/go-querystring v1.2.0
 	github.com/google/go-replayers/httpreplay v1.2.0
 	github.com/google/go-sev-guest v0.14.1
 	github.com/google/go-tdx-guest v0.3.2-0.20241009005452-097ee70d0843
