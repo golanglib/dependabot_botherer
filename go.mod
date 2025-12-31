@@ -1224,7 +1224,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
 	github.com/rfjakob/eme v1.1.2
-	github.com/rhysd/actionlint v1.7.9
+	github.com/rhysd/actionlint v1.7.10
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
