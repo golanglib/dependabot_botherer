@@ -1850,8 +1850,8 @@ github.com/cloudwego/eino v0.7.17 h1:gK7PGgaCKb2l4oXSmn36co0C3sLe+zZY62A2cb18Zew
 github.com/cloudwego/eino v0.7.17/go.mod h1:nA8Vacmuqv3pqKBQbTWENBLQ8MmGmPt/WqiyLeB8ohQ=
 github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260104131040-a1da1e0520d8 h1:VkQWjCGviL0yfwxc7yGw2aPlfFGJ03syPIDy2rpWUss=
 github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260104131040-a1da1e0520d8/go.mod h1:lrNKITZR4QUaYl9Rdz9W6qGOolHRy6mPamEZYA8uz7s=
-github.com/cloudwego/eino-ext/components/model/ark v0.1.58 h1:D3GOd1MG5qSxjXkd6jvBr60b+0W7JpFbUzk1x0zrU4Q=
-github.com/cloudwego/eino-ext/components/model/ark v0.1.58/go.mod h1:8NNdNLOiszmlIPLPyRURH++zK4YOzxvwY6ORKvgR2wU=
+github.com/cloudwego/eino-ext/components/model/ark v0.1.61 h1:B5shk7YlkGVVUBwo/KHE4sJ3dCH7fyjvu/66H8Q4C2Q=
+github.com/cloudwego/eino-ext/components/model/ark v0.1.61/go.mod h1:ozb2vj8vUBx42YB26V4xwn+HiSXX+0kMFCkg2vkkQiI=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.7 h1:CN3FfIdA8S+lUfngF3bmxZTXDseY0AbJIz5xyrudamY=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.7/go.mod h1:J9X399p5Vd0cvDg7ShVrTv7AbEf4ONfjfD6cNsHam+o=
 github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260104131040-a1da1e0520d8 h1:DZxgrLZ9wE+o8TB2qHXfPk9gmMjzn6AdZonBxaAwXs0=
