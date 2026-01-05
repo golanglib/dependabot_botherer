@@ -388,7 +388,7 @@ require (
 	github.com/cloudwego/base64x v0.1.6
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.2
-	github.com/cloudwego/eino v0.7.17
+	github.com/cloudwego/eino v0.7.18
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260104131040-a1da1e0520d8
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.61
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.7
