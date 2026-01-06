@@ -3091,8 +3091,8 @@ github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/ad
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674 h1:JeSE6pjso5THxAzdVpqr6/geYxZytqFMBCOtn/ujyeo=
 github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674/go.mod h1:r4w70xmWCQKmi1ONH4KIaBptdivuRPyosB9RmPlGEwA=
-github.com/gosnmp/gosnmp v1.43.0 h1:PCcog4pqaB5mxFUSHkn+u3HL3quj0wRo21OWHRAzQPs=
-github.com/gosnmp/gosnmp v1.43.0/go.mod h1:MQJo+kP0Ka2n1lkOL44ZgNkz3dBcDxtfgx5/hpkXMKE=
+github.com/gosnmp/gosnmp v1.43.1 h1:7wsShHqUxP7BPAv3AkGA+PyZBknrJktN0R+yxtlJSog=
+github.com/gosnmp/gosnmp v1.43.1/go.mod h1:MQJo+kP0Ka2n1lkOL44ZgNkz3dBcDxtfgx5/hpkXMKE=
 github.com/gostaticanalysis/analysisutil v0.7.1 h1:ZMCjoue3DtDWQ5WyU16YbjbQEQ3VuzwxALrpYd+HeKk=
 github.com/gostaticanalysis/analysisutil v0.7.1/go.mod h1:v21E3hY37WKMGSnbsw2S/ojApNWb6C1//mXO48CXbVc=
 github.com/gostaticanalysis/comment v1.4.2/go.mod h1:KLUTGDv6HOCotCH8h2erHKmpci2ZoR8VPu34YA2uzdM=
