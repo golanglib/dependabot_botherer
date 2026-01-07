@@ -573,7 +573,7 @@ require (
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
 	github.com/go-critic/go-critic v0.14.2
-	github.com/go-enry/go-enry/v2 v2.9.2
+	github.com/go-enry/go-enry/v2 v2.9.3
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-errors/errors v1.5.1
 	github.com/go-faster/city v1.0.1
