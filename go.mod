@@ -1111,7 +1111,7 @@ require (
 	github.com/olekukonko/tablewriter v1.1.2
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.27.3
+	github.com/onsi/ginkgo/v2 v2.27.4
 	github.com/onsi/gomega v1.39.0
 	github.com/openacid/low v0.1.21
 	github.com/openai/openai-go v1.12.0
