@@ -1153,7 +1153,7 @@ require (
 	github.com/peterbourgon/unixtransport v0.0.7
 	github.com/philhofer/fwd v1.2.0
 	github.com/pierrec/lz4/v4 v4.1.23
-	github.com/pion/datachannel v1.5.10
+	github.com/pion/datachannel v1.6.0
 	github.com/pion/dtls v1.5.4
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
@@ -1164,7 +1164,7 @@ require (
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.16
 	github.com/pion/rtp v1.10.0
-	github.com/pion/sctp v1.9.0
+	github.com/pion/sctp v1.9.1
 	github.com/pion/sdp/v3 v3.0.17
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
@@ -1868,6 +1868,7 @@ require (
 	github.com/pion/mdns/v2 v2.0.7 // indirect
 	github.com/pion/srtp/v3 v3.0.4 // indirect
 	github.com/pion/stun/v3 v3.0.0 // indirect
+	github.com/pion/transport/v4 v4.0.1 // indirect
 	github.com/pion/turn/v4 v4.0.0 // indirect
 	github.com/pion/webrtc/v4 v4.0.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
