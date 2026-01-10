@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20251209175733-2a1774d88802.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.18.0
@@ -389,13 +389,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.2
 	github.com/cloudwego/eino v0.7.18
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260108032612-f658a8b54235
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260109062358-b9080dbc7bed
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.62
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.7
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260108032612-f658a8b54235
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260109062358-b9080dbc7bed
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260108032612-f658a8b54235
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260109062358-b9080dbc7bed
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.12
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -523,7 +523,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.27.2
 	github.com/expr-lang/expr v1.17.7
-	github.com/facebook/time v0.0.0-20260107225450-2bb883bd3a5b
+	github.com/facebook/time v0.0.0-20260109150108-1b8ae26891f4
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
