@@ -46,6 +46,7 @@ github.com/4meepo/tagalign
 github.com/6543/go-version
 github.com/99designs/gqlgen
 github.com/99designs/keyring
+github.com/a2aproject/a2a-go
 github.com/aalpar/deheap
 github.com/abice/go-enum
 github.com/Abirdcfly/dupword
@@ -306,6 +307,8 @@ github.com/bytedance/gopkg
 github.com/bytedance/mockey
 github.com/bytedance/sonic
 github.com/bytedance/sonic/loader
+github.com/byteplus-sdk/byteplus-go-sdk-v2
+github.com/byteplus-sdk/byteplus-sdk-golang
 github.com/caarlos0/env/v6
 github.com/caddyserver/caddy
 github.com/caddyserver/caddy/v2
@@ -414,6 +417,7 @@ github.com/couchbase/gomemcached
 github.com/couchbase/goutils
 github.com/couchbase/vellum
 github.com/coze-dev/coze-go
+github.com/coze-dev/cozeloop-go
 github.com/cpuguy83/dockercfg
 github.com/cpuguy83/go-md2man
 github.com/cpuguy83/go-md2man/v2
@@ -529,6 +533,9 @@ github.com/GaijinEntertainment/go-exhaustruct/v2
 github.com/GaijinEntertainment/go-exhaustruct/v3
 github.com/gaissmai/bart
 github.com/gaukas/godicttls
+github.com/gdamore/encoding
+github.com/gdamore/tcell
+github.com/gdamore/tcell/v2
 github.com/geoffgarside/ber
 github.com/getkin/kin-openapi
 github.com/ghostiam/protogetter
@@ -644,6 +651,8 @@ github.com/gochore/pprofs
 github.com/gochore/protomagic
 github.com/gochore/protomagic/testdata
 github.com/gochore/pt
+github.com/gochore/timeseq
+github.com/gochore/timeseq/v3
 github.com/gochore/uniq
 github.com/godbus/dbus
 github.com/godbus/dbus/v5
@@ -709,6 +718,7 @@ github.com/google/go-tpm-tools
 github.com/google/go-tspi
 github.com/google/gofuzz
 github.com/google/gopacket
+github.com/google/jsonschema-go
 github.com/google/licensecheck
 github.com/google/licenseclassifier
 github.com/google/licenseclassifier/v2
@@ -717,6 +727,7 @@ github.com/google/martian/v3
 github.com/google/osv-scanner
 github.com/google/pprof
 github.com/google/s2a-go
+github.com/google/safehtml
 github.com/google/shlex
 github.com/google/subcommands
 github.com/google/tink/go
@@ -1145,6 +1156,8 @@ github.com/nyaruka/phonenumbers
 github.com/NYTimes/gziphandler
 github.com/oapi-codegen/runtime
 github.com/oapi-codegen/testutil
+github.com/oasdiff/yaml
+github.com/oasdiff/yaml3
 github.com/oasisprotocol/deoxysii
 github.com/oleiade/lane
 github.com/olekukonko/tablewriter
@@ -1281,6 +1294,7 @@ github.com/resendlabs/resend-go
 github.com/rfjakob/eme
 github.com/rhysd/actionlint
 github.com/riemann/riemann-go-client
+github.com/rivo/tview
 github.com/rivo/uniseg
 github.com/RoaringBitmap/roaring
 github.com/RoaringBitmap/roaring/v2
@@ -1399,6 +1413,7 @@ github.com/sourcegraph/go-diff
 github.com/spacemonkeygo/monkit/v3
 github.com/spdx/gordf
 github.com/spdx/tools-golang
+github.com/speakeasy-api/jsonpath
 github.com/spf13/afero
 github.com/spf13/cast
 github.com/spf13/cobra
@@ -1515,6 +1530,7 @@ github.com/wavefronthq/wavefront-sdk-go
 github.com/withlin/canal-go
 github.com/wk8/go-ordered-map/v2
 github.com/wlynxg/anet
+github.com/woodsbury/decimal128
 github.com/x448/float16
 github.com/xanzy/go-gitlab
 github.com/xanzy/ssh-agent
@@ -1583,6 +1599,7 @@ go.jolheiser.com/pwn
 go.mongodb.org/mongo-driver
 go.mozilla.org/pkcs7
 go.opencensus.io
+go.opentelemetry.io/auto/sdk
 go.opentelemetry.io/collector
 go.opentelemetry.io/collector/consumer
 go.opentelemetry.io/collector/pdata
@@ -1626,6 +1643,7 @@ go.uber.org/multierr
 go.uber.org/ratelimit
 go.uber.org/zap
 go.uber.org/zap/exp
+go.yaml.in/yaml/v3
 go4.org/netipx
 go4.org/unsafe/assume-no-moving-gc
 golang.org/x/arch
@@ -1657,8 +1675,10 @@ golang.zx2c4.com/wireguard/wgctrl
 golang.zx2c4.com/wireguard/windows
 gomodules.xyz/jsonpatch/v2
 gonum.org/v1/gonum
+google.golang.org/adk
 google.golang.org/api
 google.golang.org/appengine
+google.golang.org/genai
 google.golang.org/genproto
 google.golang.org/genproto/googleapis/api
 google.golang.org/genproto/googleapis/rpc
@@ -1733,6 +1753,8 @@ mvdan.cc/gofumpt
 mvdan.cc/unparam
 mvdan.cc/xurls/v2
 pgregory.net/rapid
+rsc.io/omap
+rsc.io/ordered
 rsc.io/quote/v3
 rsc.io/sampler
 sigs.k8s.io/apiserver-network-proxy/konnectivity-client
