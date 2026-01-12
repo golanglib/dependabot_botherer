@@ -1543,24 +1543,24 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.23.0
-	golang.org/x/crypto v0.46.0
+	golang.org/x/crypto v0.47.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
 	golang.org/x/exp v0.0.0-20251209150349-8475f28825e9
 	golang.org/x/exp/typeparams v0.0.0-20251023183803-a4bb9ffd2546
 	golang.org/x/image v0.34.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20251021151156-188f512ec823
-	golang.org/x/mod v0.31.0
-	golang.org/x/net v0.48.0
+	golang.org/x/mod v0.32.0
+	golang.org/x/net v0.49.0
 	golang.org/x/oauth2 v0.34.0
 	golang.org/x/sync v0.19.0
 	golang.org/x/sys v0.40.0
-	golang.org/x/telemetry v0.0.0-20251203150158-8fff8a5912fc
+	golang.org/x/telemetry v0.0.0-20260109210033-bd525da824e2
 	golang.org/x/telemetry/config v0.80.0
-	golang.org/x/term v0.38.0
-	golang.org/x/text v0.32.0
+	golang.org/x/term v0.39.0
+	golang.org/x/text v0.33.0
 	golang.org/x/time v0.14.0
-	golang.org/x/tools v0.40.0
+	golang.org/x/tools v0.41.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
