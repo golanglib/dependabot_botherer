@@ -1547,7 +1547,7 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
 	golang.org/x/exp v0.0.0-20251209150349-8475f28825e9
 	golang.org/x/exp/typeparams v0.0.0-20251023183803-a4bb9ffd2546
-	golang.org/x/image v0.34.0
+	golang.org/x/image v0.35.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20251021151156-188f512ec823
 	golang.org/x/mod v0.32.0
