@@ -142,6 +142,7 @@ require (
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.8.0
 	github.com/Shopify/go-lua v0.0.0-20250718183320-1e37f32ad7d0
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
+	github.com/a2aproject/a2a-go v0.3.3
 	github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3
 	github.com/abice/go-enum v0.9.2
 	github.com/acomagu/bufpipe v1.0.4
@@ -339,6 +340,8 @@ require (
 	github.com/bytedance/mockey v1.4.1
 	github.com/bytedance/sonic v1.14.2
 	github.com/bytedance/sonic/loader v0.4.0
+	github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.46
+	github.com/byteplus-sdk/byteplus-sdk-golang v1.0.62
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.10.2
@@ -403,7 +406,7 @@ require (
 	github.com/cloudwego/hertz v0.10.3
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.15.4
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20251226083253-6e03ff303082
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260112072316-5cf426cf9e1b
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -440,6 +443,7 @@ require (
 	github.com/couchbase/goutils v0.2.0
 	github.com/couchbase/vellum v1.0.2
 	github.com/coze-dev/coze-go v0.0.0-20251217090046-c70184300a2f
+	github.com/coze-dev/cozeloop-go v0.1.20
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
@@ -498,7 +502,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.7.2
-	github.com/elazarl/goproxy/ext v0.0.0-20251122212328-fad3713f1715
+	github.com/elazarl/goproxy/ext v0.0.0-20260112202347-8766328c5e76
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
@@ -543,6 +547,9 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.12
 	github.com/gaissmai/bart v0.26.0
 	github.com/gaukas/godicttls v0.0.4
+	github.com/gdamore/encoding v1.0.1
+	github.com/gdamore/tcell v1.4.1
+	github.com/gdamore/tcell/v2 v2.9.0
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.133.0
 	github.com/ghostiam/protogetter v0.3.18
@@ -654,6 +661,8 @@ require (
 	github.com/gochore/pprofs v0.1.1
 	github.com/gochore/protomagic v0.4.0
 	github.com/gochore/pt v1.3.0
+	github.com/gochore/timeseq v1.2.0
+	github.com/gochore/timeseq/v3 v3.2.0
 	github.com/gochore/uniq v1.1.0
 	github.com/godbus/dbus v4.1.0+incompatible
 	github.com/godbus/dbus/v5 v5.2.2
@@ -718,6 +727,7 @@ require (
 	github.com/google/go-tspi v0.3.0
 	github.com/google/gofuzz v1.2.0
 	github.com/google/gopacket v1.1.19
+	github.com/google/jsonschema-go v0.4.2
 	github.com/google/licensecheck v0.3.1
 	github.com/google/licenseclassifier v0.0.0-20210722185704-3043a050f148
 	github.com/google/licenseclassifier/v2 v2.0.0
@@ -726,6 +736,7 @@ require (
 	github.com/google/osv-scanner v1.9.2
 	github.com/google/pprof v0.0.0-20250923004556-9e5a51aed1e8
 	github.com/google/s2a-go v0.1.9
+	github.com/google/safehtml v0.1.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
 	github.com/google/tink/go v1.7.0
@@ -1009,7 +1020,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250919004547-6122b699a301
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20251217080445-b15217cb57f3
+	github.com/metacubex/sing-quic v0.0.0-20260112044712-65d17608159e
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.11
@@ -1106,6 +1117,8 @@ require (
 	github.com/nyaruka/phonenumbers v1.6.8
 	github.com/oapi-codegen/runtime v1.1.2
 	github.com/oapi-codegen/testutil v1.1.0
+	github.com/oasdiff/yaml v0.0.0-20250309154309-f31be36b4037
+	github.com/oasdiff/yaml3 v0.0.0-20250309153720-d2182401db90
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
 	github.com/oleiade/lane v1.0.1
 	github.com/olekukonko/tablewriter v1.1.2
@@ -1226,13 +1239,14 @@ require (
 	github.com/rfjakob/eme v1.1.2
 	github.com/rhysd/actionlint v1.7.10
 	github.com/riemann/riemann-go-client v0.5.0
+	github.com/rivo/tview v0.42.0
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/robinson/gos7 v0.0.0-20241205073040-7ea1d6fb9d20
 	github.com/rogpeppe/go-internal v1.14.1
 	github.com/rs/cors v1.11.1
-	github.com/rs/cors/wrapper/gin v0.0.0-20251223091524-36f5194fb450
+	github.com/rs/cors/wrapper/gin v0.0.0-20260111155459-bf2a6804eb7c
 	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
 	github.com/rs/xid v1.6.0
 	github.com/rs/zerolog v1.34.0
@@ -1333,6 +1347,7 @@ require (
 	github.com/spacemonkeygo/monkit/v3 v3.0.25-0.20251022131615-eb24eb109368
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.6
+	github.com/speakeasy-api/jsonpath v0.6.2
 	github.com/spf13/afero v1.15.0
 	github.com/spf13/cast v1.10.0
 	github.com/spf13/cobra v1.10.2
@@ -1449,6 +1464,7 @@ require (
 	github.com/withlin/canal-go v1.1.2
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 	github.com/wlynxg/anet v0.0.5
+	github.com/woodsbury/decimal128 v1.3.0
 	github.com/x448/float16 v0.8.4
 	github.com/xanzy/go-gitlab v0.115.0
 	github.com/xanzy/ssh-agent v0.3.3
@@ -1514,6 +1530,7 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.9.0
 	go.opencensus.io v0.24.0
+	go.opentelemetry.io/auto/sdk v1.2.1
 	go.opentelemetry.io/contrib v1.39.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.39.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.64.0
@@ -1540,6 +1557,7 @@ require (
 	go.uber.org/ratelimit v0.3.1
 	go.uber.org/zap v1.27.1
 	go.uber.org/zap/exp v0.3.0
+	go.yaml.in/yaml/v3 v3.0.4
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.23.0
@@ -1567,8 +1585,10 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
+	google.golang.org/adk v0.3.0
 	google.golang.org/api v0.259.0
 	google.golang.org/appengine v1.6.8
+	google.golang.org/genai v1.40.0
 	google.golang.org/genproto v0.0.0-20251202230838-ff82c1b0f217
 	google.golang.org/genproto/googleapis/api v0.0.0-20251222181119-0a764e51fe1b
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251222181119-0a764e51fe1b
@@ -1643,6 +1663,8 @@ require (
 	mvdan.cc/unparam v0.0.0-20240528143540-8a5130ca722f
 	mvdan.cc/xurls/v2 v2.6.0
 	pgregory.net/rapid v1.2.0
+	rsc.io/omap v1.2.0
+	rsc.io/ordered v1.1.1
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.34.0
@@ -1735,6 +1757,7 @@ require (
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
 	github.com/containerd/plugin v1.0.0 // indirect
 	github.com/couchbase/clog v0.1.0 // indirect
+	github.com/coze-dev/cozeloop-go/spec v0.1.4-0.20250829072213-3812ddbfb735 // indirect
 	github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432 // indirect
 	github.com/danielgtaylor/casing v0.0.0-20210126043903-4e55e6373ac3 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
@@ -1773,6 +1796,7 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
+	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32 // indirect
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
@@ -1824,7 +1848,7 @@ require (
 	github.com/metacubex/mlkem v0.1.0 // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
 	github.com/metacubex/qpack v0.6.0 // indirect
-	github.com/metacubex/quic-go v0.57.1-0.20251217071004-e89f497a2e72 // indirect
+	github.com/metacubex/quic-go v0.59.1-0.20260112033758-aa29579f2001 // indirect
 	github.com/metacubex/sing v0.5.6 // indirect
 	github.com/metacubex/tls v0.1.0 // indirect
 	github.com/mgechev/dots v1.0.0 // indirect
@@ -1846,8 +1870,6 @@ require (
 	github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86 // indirect
 	github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c // indirect
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
-	github.com/oasdiff/yaml v0.0.0-20250309154309-f31be36b4037 // indirect
-	github.com/oasdiff/yaml3 v0.0.0-20250309153720-d2182401db90 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/cat v0.0.0-20250911104152-50322a0618f6 // indirect
 	github.com/olekukonko/errors v1.1.0 // indirect
@@ -1871,7 +1893,7 @@ require (
 	github.com/pion/transport/v4 v4.0.1 // indirect
 	github.com/pion/turn/v4 v4.0.0 // indirect
 	github.com/pion/webrtc/v4 v4.0.0 // indirect
-	github.com/pkg/errors v0.9.1 // indirect
+	github.com/pkg/errors v0.9.2-0.20201214064552-5dd12d0cfe7f // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/prometheus v0.307.0 // indirect
 	github.com/raeperd/recvcheck v0.2.0 // indirect
@@ -1906,7 +1928,6 @@ require (
 	github.com/vbatts/go-mtree v0.6.1-0.20250911112631-8307d76bc1b9 // indirect
 	github.com/willf/bitset v1.1.10 // indirect
 	github.com/willf/bloom v2.0.3+incompatible // indirect
-	github.com/woodsbury/decimal128 v1.3.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
@@ -1919,7 +1940,6 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go.etcd.io/raft/v3 v3.6.0 // indirect
 	go.mongodb.org/mongo-driver v1.17.6 // indirect
-	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/collector/consumer/consumererror v0.120.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.42.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.42.0 // indirect
@@ -1929,7 +1949,6 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.38.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.38.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
-	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.3 // indirect
 	golang.org/x/exp/shiny v0.0.0-20251002181428-27f1f14c8bb9 // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect

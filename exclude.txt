@@ -53,7 +53,7 @@ github.com/bufbuild/protovalidate-go
 //	module declares its path as: buf.build/go/protovalidate
 //	        but was required as: github.com/bufbuild/protovalidate-go
 github.com/cosmtrek/air
-//go: github.com/cosmtrek/air@latest (v1.63.6) requires github.com/cosmtrek/air@v1.63.6: parsing go.mod:
+//go: github.com/cosmtrek/air@latest (v1.64.0) requires github.com/cosmtrek/air@v1.64.0: parsing go.mod:
 //	module declares its path as: github.com/air-verse/air
 //	        but was required as: github.com/cosmtrek/air
 github.com/Crocmagnon/fatcontext
@@ -69,7 +69,7 @@ github.com/EzeXchange-API/go-listmonk
 //	module declares its path as: github.com/Exayn/go-listmonk
 //	        but was required as: github.com/EzeXchange-API/go-listmonk
 github.com/fclairamb/ftpserverlib
-//[github.com/fclairamb/ftpserverlib] dir: /gopath/pkg/mod/github.com/fclairamb/ftpserverlib@v0.28.0
+//[github.com/fclairamb/ftpserverlib] dir: /gopath/pkg/mod/github.com/fclairamb/ftpserverlib@v0.29.0
 //[github.com/fclairamb/ftpserverlib] module has replace
 github.com/go-darwin/apfs
 //[github.com/go-darwin/apfs] dir: /gopath/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348
@@ -205,7 +205,7 @@ github.com/junk1tm/musttag
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go
-//go: github.com/lucas-clemente/quic-go@latest (v0.58.0) requires github.com/lucas-clemente/quic-go@v0.58.0: parsing go.mod:
+//go: github.com/lucas-clemente/quic-go@latest (v0.59.0) requires github.com/lucas-clemente/quic-go@v0.59.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/lucas-clemente/quic-go
 github.com/marten-seemann/qpack
@@ -225,7 +225,7 @@ github.com/metacubex/gopacket
 //	module declares its path as: github.com/google/gopacket
 //	        but was required as: github.com/metacubex/gopacket
 github.com/metacubex/quic-go
-//go: github.com/metacubex/quic-go@latest (v0.58.0) requires github.com/metacubex/quic-go@v0.58.0: parsing go.mod:
+//go: github.com/metacubex/quic-go@latest (v0.59.0) requires github.com/metacubex/quic-go@v0.59.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/metacubex/quic-go
 github.com/miscreant/miscreant.go
