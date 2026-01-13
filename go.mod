@@ -1464,7 +1464,7 @@ require (
 	github.com/withlin/canal-go v1.1.2
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 	github.com/wlynxg/anet v0.0.5
-	github.com/woodsbury/decimal128 v1.3.0
+	github.com/woodsbury/decimal128 v1.4.0
 	github.com/x448/float16 v0.8.4
 	github.com/xanzy/go-gitlab v0.115.0
 	github.com/xanzy/ssh-agent v0.3.3
