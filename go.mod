@@ -311,7 +311,7 @@ require (
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/bmatcuk/doublestar/v4 v4.9.2
-	github.com/boj/redistore v1.4.1
+	github.com/boj/redistore v1.4.2
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
 	github.com/bombsimon/wsl/v4 v4.7.0
