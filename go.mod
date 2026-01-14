@@ -1232,7 +1232,7 @@ require (
 	github.com/rclone/rclone v1.72.1
 	github.com/redis/go-redis/v9 v9.17.2
 	github.com/redis/rueidis v1.0.70
-	github.com/refraction-networking/utls v1.8.1
+	github.com/refraction-networking/utls v1.8.2
 	github.com/relvacode/iso8601 v1.7.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
@@ -1435,7 +1435,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.43.0
+	github.com/v2fly/v2ray-core/v5 v5.44.0
 	github.com/valyala/fasthttp v1.69.0
 	github.com/valyala/fastjson v1.6.7
 	github.com/valyala/fasttemplate v1.2.2
