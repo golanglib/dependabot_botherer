@@ -1290,7 +1290,7 @@ require (
 	github.com/securego/gosec/v2 v2.22.11
 	github.com/segmentio/asm v1.2.1
 	github.com/segmentio/fasthash v1.0.3
-	github.com/segmentio/kafka-go v0.4.49
+	github.com/segmentio/kafka-go v0.4.50
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
 	github.com/sensu/sensu-go/api/core v0.0.0-20221108055736-999d91931d17
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
