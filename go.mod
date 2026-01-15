@@ -1317,7 +1317,7 @@ require (
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
 	github.com/sina-ghaderi/rabaead v0.0.0-20220730151906-ab6e06b96e8c
 	github.com/sina-ghaderi/rabbitio v0.0.0-20220730151941-9ce26f4f872e
-	github.com/sirupsen/logrus v1.9.4-0.20230606125235-dd1b4c2e81af
+	github.com/sirupsen/logrus v1.9.4
 	github.com/sivchari/containedctx v1.0.3
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.12.1
