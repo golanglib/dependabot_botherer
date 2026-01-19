@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20251209175733-2a1774d88802.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.18.0
@@ -392,13 +392,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.7.2
 	github.com/cloudwego/eino v0.7.21
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260116084156-bb0daea635b9
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260119032004-acb76fa4e2d5
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.63
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.8
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260116084156-bb0daea635b9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260119032004-acb76fa4e2d5
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260116084156-bb0daea635b9
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260119032004-acb76fa4e2d5
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.13
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -406,7 +406,7 @@ require (
 	github.com/cloudwego/hertz v0.10.3
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.15.4
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260112072316-5cf426cf9e1b
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260119031141-f7b636267bc0
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -502,7 +502,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.8.0
-	github.com/elazarl/goproxy/ext v0.0.0-20260113151937-5f529678d4cf
+	github.com/elazarl/goproxy/ext v0.0.0-20260117161256-26d3e758aa11
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
