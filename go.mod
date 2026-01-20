@@ -814,7 +814,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.24.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.4
-	github.com/hashicorp/packer-plugin-sdk v0.6.4
+	github.com/hashicorp/packer-plugin-sdk v0.6.5
 	github.com/hashicorp/serf v0.10.2
 	github.com/hashicorp/terraform-exec v0.24.0
 	github.com/hashicorp/terraform-json v0.27.2
@@ -1734,6 +1734,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.11.17 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.17 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.17 // indirect
+	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.37.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.0.5 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
