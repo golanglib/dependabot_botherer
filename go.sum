@@ -1855,8 +1855,8 @@ github.com/cloudwego/configmanager v0.2.3 h1:P0YTBgqDBnKeI/VARvut/Dc9Rfxt9Bw1Nv7
 github.com/cloudwego/configmanager v0.2.3/go.mod h1:4GeSKjH6JLvKx4/Hrbh5dse8fDqj1n/Up8HfU4wHJ+w=
 github.com/cloudwego/dynamicgo v0.7.2 h1:pXAeVov4Z5BGNSpKmXljM1cEQUow+NVklwHr3JT+M34=
 github.com/cloudwego/dynamicgo v0.7.2/go.mod h1:f9le2ULWbFFkQ8WoP+7pGl1zEI2xRLZhaaif6ROLwDw=
-github.com/cloudwego/eino v0.7.22 h1:GiDt+MHoOsgjIN3rI6ECiQ+NX1UIr0NzLKMdjOltHBc=
-github.com/cloudwego/eino v0.7.22/go.mod h1:nA8Vacmuqv3pqKBQbTWENBLQ8MmGmPt/WqiyLeB8ohQ=
+github.com/cloudwego/eino v0.7.23 h1:5DPp7z9zL0MvpHl05ZDTB0NmE4kMuBnP0VuANA9BzsE=
+github.com/cloudwego/eino v0.7.23/go.mod h1:nA8Vacmuqv3pqKBQbTWENBLQ8MmGmPt/WqiyLeB8ohQ=
 github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260120090714-cbdb3cd3bc4f h1:YiKQ2WWw65zU8QBGhaFZOzK89CQOIy9vKgLKzzAckWk=
 github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260120090714-cbdb3cd3bc4f/go.mod h1:lrNKITZR4QUaYl9Rdz9W6qGOolHRy6mPamEZYA8uz7s=
 github.com/cloudwego/eino-ext/components/model/ark v0.1.63 h1:rVjngP5tu7f35SFG8jHJztYEx2Iq8zBLbIeYs84C6k0=
