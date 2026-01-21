@@ -896,7 +896,7 @@ require (
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jgautheron/goconst v1.8.2
 	github.com/jhillyerd/enmime v1.3.0
-	github.com/jhump/protoreflect v1.17.0
+	github.com/jhump/protoreflect v1.18.0
 	github.com/jingyugao/rowserrcheck v1.1.1
 	github.com/jinzhu/copier v0.4.0
 	github.com/jinzhu/inflection v1.0.0
@@ -1822,6 +1822,7 @@ require (
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
+	github.com/jhump/protoreflect/v2 v2.0.0-beta.1 // indirect
 	github.com/josharian/mapfs v0.0.0-20210615234106-095c008854e6 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
@@ -1885,7 +1886,7 @@ require (
 	github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db // indirect
 	github.com/pb33f/jsonpath v0.7.0 // indirect
 	github.com/pb33f/ordered-map/v2 v2.3.0 // indirect
-	github.com/petermattis/goid v0.0.0-20240813172612-4fcff4a6cae7 // indirect
+	github.com/petermattis/goid v0.0.0-20260113132338-7c7de50cc741 // indirect
 	github.com/pion/dtls/v3 v3.0.3 // indirect
 	github.com/pion/ice/v4 v4.0.2 // indirect
 	github.com/pion/mdns/v2 v2.0.7 // indirect
