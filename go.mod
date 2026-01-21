@@ -1643,7 +1643,7 @@ require (
 	modernc.org/ccorpus2 v1.5.8
 	modernc.org/fileutil v1.3.40
 	modernc.org/gc/v2 v2.6.5
-	modernc.org/gc/v3 v3.1.1
+	modernc.org/gc/v3 v3.1.2
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
