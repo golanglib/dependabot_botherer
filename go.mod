@@ -287,13 +287,13 @@ require (
 	github.com/blevesearch/go-faiss v1.0.27
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/gtreap v0.1.1
-	github.com/blevesearch/mmap-go v1.0.4
+	github.com/blevesearch/mmap-go v1.2.0
 	github.com/blevesearch/scorch_segment_api v1.0.0
 	github.com/blevesearch/scorch_segment_api/v2 v2.4.0
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
-	github.com/blevesearch/vellum v1.1.0
+	github.com/blevesearch/vellum v1.2.0
 	github.com/blevesearch/zap/v11 v11.0.14
 	github.com/blevesearch/zap/v12 v12.0.14
 	github.com/blevesearch/zap/v13 v13.0.6
