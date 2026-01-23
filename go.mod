@@ -169,7 +169,7 @@ require (
 	github.com/alexkohler/nakedret v1.0.2
 	github.com/alexkohler/nakedret/v2 v2.0.6
 	github.com/alexkohler/prealloc v1.0.2
-	github.com/alicebob/miniredis/v2 v2.36.0
+	github.com/alicebob/miniredis/v2 v2.36.1
 	github.com/alingse/asasalint v0.0.11
 	github.com/alitto/pond v1.9.2
 	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
