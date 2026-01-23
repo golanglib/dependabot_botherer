@@ -1557,8 +1557,8 @@ github.com/blevesearch/go-porterstemmer v1.0.3/go.mod h1:angGc5Ht+k2xhJdZi511Ltm
 github.com/blevesearch/gtreap v0.1.1 h1:2JWigFrzDMR+42WGIN/V2p0cUvn4UP3C4Q5nmaZGW8Y=
 github.com/blevesearch/gtreap v0.1.1/go.mod h1:QaQyDRAT51sotthUWAH4Sj08awFSSWzgYICSZ3w0tYk=
 github.com/blevesearch/mmap-go v1.0.2/go.mod h1:ol2qBqYaOUsGdm7aRMRrYGgPvnwLe6Y+7LMvAB5IbSA=
-github.com/blevesearch/mmap-go v1.0.4 h1:OVhDhT5B/M1HNPpYPBKIEJaD0F3Si+CrEKULGCDPWmc=
-github.com/blevesearch/mmap-go v1.0.4/go.mod h1:EWmEAOmdAS9z/pi/+Toxu99DnsbhG1TIxUoRmJw/pSs=
+github.com/blevesearch/mmap-go v1.2.0 h1:l33nNKPFcBjJUMwem6sAYJPUzhUCABoK9FxZDGiFNBI=
+github.com/blevesearch/mmap-go v1.2.0/go.mod h1:Vd6+20GBhEdwJnU1Xohgt88XCD/CTWcqbCNxkZpyBo0=
 github.com/blevesearch/scorch_segment_api v1.0.0 h1:BUkCPWDg2gimTEyVDXf85I2buqqt4lh28uaVMiJsIYk=
 github.com/blevesearch/scorch_segment_api v1.0.0/go.mod h1:KgRYmlfYC27NeM6cXOHx8LBgq7jn0atpV8mVWoBKBng=
 github.com/blevesearch/scorch_segment_api/v2 v2.0.1/go.mod h1:lq7yK2jQy1yQjtjTfU931aVqz7pYxEudHaDwOt1tXfU=
@@ -1574,8 +1574,8 @@ github.com/blevesearch/upsidedown_store_api v1.0.2 h1:U53Q6YoWEARVLd1OYNc9kvhBMG
 github.com/blevesearch/upsidedown_store_api v1.0.2/go.mod h1:M01mh3Gpfy56Ps/UXHjEO/knbqyQ1Oamg8If49gRwrQ=
 github.com/blevesearch/vellum v1.0.3/go.mod h1:2u5ax02KeDuNWu4/C+hVQMD6uLN4txH1JbtpaDNLJRo=
 github.com/blevesearch/vellum v1.0.4/go.mod h1:cMhywHI0de50f7Nj42YgvyD6bFJ2WkNRvNBlNMrEVgY=
-github.com/blevesearch/vellum v1.1.0 h1:CinkGyIsgVlYf8Y2LUQHvdelgXr6PYuvoDIajq6yR9w=
-github.com/blevesearch/vellum v1.1.0/go.mod h1:QgwWryE8ThtNPxtgWJof5ndPfx0/YMBh+W2weHKPw8Y=
+github.com/blevesearch/vellum v1.2.0 h1:xkDiOEsHc2t3Cp0NsNZZ36pvc130sCzcGKOPMzXe+e0=
+github.com/blevesearch/vellum v1.2.0/go.mod h1:uEcfBJz7mAOf0Kvq6qoEKQQkLODBF46SINYNkZNae4k=
 github.com/blevesearch/zap/v11 v11.0.14 h1:IrDAvtlzDylh6H2QCmS0OGcN9Hpf6mISJlfKjcwJs7k=
 github.com/blevesearch/zap/v11 v11.0.14/go.mod h1:MUEZh6VHGXv1PKx3WnCbdP404LGG2IZVa/L66pyFwnY=
 github.com/blevesearch/zap/v12 v12.0.14 h1:2o9iRtl1xaRjsJ1xcqTyLX414qPAwykHNV7wNVmbp3w=
