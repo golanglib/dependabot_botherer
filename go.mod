@@ -390,7 +390,7 @@ require (
 	github.com/cloudsoda/go-smb2 v0.0.0-20250228001242-d4c70e6251cc
 	github.com/cloudwego/base64x v0.1.6
 	github.com/cloudwego/configmanager v0.2.3
-	github.com/cloudwego/dynamicgo v0.7.2
+	github.com/cloudwego/dynamicgo v0.8.0
 	github.com/cloudwego/eino v0.7.25
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260122064704-d8be5ee82c09
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.63
