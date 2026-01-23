@@ -287,7 +287,7 @@ require (
 	github.com/blevesearch/go-faiss v1.0.27
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/gtreap v0.1.1
-	github.com/blevesearch/mmap-go v1.0.4
+	github.com/blevesearch/mmap-go v1.2.0
 	github.com/blevesearch/scorch_segment_api v1.0.0
 	github.com/blevesearch/scorch_segment_api/v2 v2.4.0
 	github.com/blevesearch/segment v0.9.1
