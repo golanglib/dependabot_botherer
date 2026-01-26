@@ -919,7 +919,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
-	github.com/kaptinlin/go-i18n v0.2.2
+	github.com/kaptinlin/go-i18n v0.2.3
 	github.com/kaptinlin/jsonschema v0.6.7
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
@@ -1827,7 +1827,7 @@ require (
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
 	github.com/kaptinlin/jsonpointer v0.4.8 // indirect
-	github.com/kaptinlin/messageformat-go v0.4.7 // indirect
+	github.com/kaptinlin/messageformat-go v0.4.9 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/klauspost/crc32 v1.3.0 // indirect
@@ -1964,7 +1964,7 @@ require (
 	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 	gopkg.in/guregu/null.v4 v4.0.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/ini.v1 v1.67.0 // indirect
+	gopkg.in/ini.v1 v1.67.1 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
