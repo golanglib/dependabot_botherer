@@ -1498,7 +1498,7 @@ require (
 	github.com/zeebo/blake3 v0.2.4
 	github.com/zeebo/errs v1.4.0
 	github.com/zeebo/pcg v1.0.1
-	github.com/zeebo/xxh3 v1.0.2
+	github.com/zeebo/xxh3 v1.1.0
 	github.com/zerobounce/zerobouncego v1.2.1
 	github.com/zitadel/logging v0.7.0
 	github.com/zitadel/oidc/v2 v2.12.2
