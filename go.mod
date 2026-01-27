@@ -1668,7 +1668,7 @@ require (
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.34.0
-	sigs.k8s.io/controller-runtime v0.23.0
+	sigs.k8s.io/controller-runtime v0.23.1
 	sigs.k8s.io/controller-tools v0.20.0
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730
 	sigs.k8s.io/kustomize/api v0.21.0
@@ -1971,5 +1971,5 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	pack.ag/amqp v0.11.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
-	sigs.k8s.io/structured-merge-diff/v6 v6.3.0 // indirect
+	sigs.k8s.io/structured-merge-diff/v6 v6.3.2-0.20260122202528-d9cc6641c482 // indirect
 )
