@@ -281,7 +281,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/blevesearch/bleve v1.0.14
 	github.com/blevesearch/bleve/v2 v2.5.7
-	github.com/blevesearch/bleve_index_api v1.3.0
+	github.com/blevesearch/bleve_index_api v1.3.1
 	github.com/blevesearch/blevex v1.0.0
 	github.com/blevesearch/geo v0.2.4
 	github.com/blevesearch/go-faiss v1.0.27
@@ -289,7 +289,7 @@ require (
 	github.com/blevesearch/gtreap v0.1.1
 	github.com/blevesearch/mmap-go v1.2.0
 	github.com/blevesearch/scorch_segment_api v1.0.0
-	github.com/blevesearch/scorch_segment_api/v2 v2.4.0
+	github.com/blevesearch/scorch_segment_api/v2 v2.4.1
 	github.com/blevesearch/segment v0.9.1
 	github.com/blevesearch/snowballstem v0.9.0
 	github.com/blevesearch/upsidedown_store_api v1.0.2
