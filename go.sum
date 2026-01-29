@@ -3630,10 +3630,10 @@ github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 h1:G+9t9cEtnC
 github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004/go.mod h1:KmHnJWQrgEvbuy0vcvj00gtMqbvNn1L+3YUZLK/B92c=
 github.com/kaptinlin/go-i18n v0.2.3 h1:jyN/YOXXLcnGRBLdU+a8+6782B97fWE5aQqAHtvvk8Q=
 github.com/kaptinlin/go-i18n v0.2.3/go.mod h1:O+Ax4HkMO0Jt4OaP4E4WCx0PAADeWkwk8Jgt9bjAU1w=
-github.com/kaptinlin/jsonpointer v0.4.8 h1:HocHcXrOBfP/nUJw0YYjed/TlQvuCAY6uRs3Qok7F6g=
-github.com/kaptinlin/jsonpointer v0.4.8/go.mod h1:9y0LgXavlmVE5FSHShY5LRlURJJVhbyVJSRWkilrTqA=
-github.com/kaptinlin/jsonschema v0.6.7 h1:ytzDGyvSMhcijnyRsr+CyRbwocp4qdeAWREESPc6nEE=
-github.com/kaptinlin/jsonschema v0.6.7/go.mod h1:EbhSbdxZ4QjzIORdMWOrRXJeCHrLTJqXDA8JzNaeFc8=
+github.com/kaptinlin/jsonpointer v0.4.9 h1:o//bYf4PCvnMJIIX8bIg77KB6DO3wBPAabRyPRKh680=
+github.com/kaptinlin/jsonpointer v0.4.9/go.mod h1:9y0LgXavlmVE5FSHShY5LRlURJJVhbyVJSRWkilrTqA=
+github.com/kaptinlin/jsonschema v0.6.8 h1:CZt3HxwYCCVtAj50rys6Cg4Z/TWRUMd3U/ePV5FGXkw=
+github.com/kaptinlin/jsonschema v0.6.8/go.mod h1:ZXZ4K5KrRmCCF1i6dgvBsQifl+WTb8XShKj0NpQNrz8=
 github.com/kaptinlin/messageformat-go v0.4.9 h1:FR5j5n4aL4nG0afKn9vvANrKxLu7HjmbhJnw5ogIwAQ=
 github.com/kaptinlin/messageformat-go v0.4.9/go.mod h1:qZzrGrlvWDz2KyyvN3dOWcK9PVSRV1BnfnNU+zB/RWc=
 github.com/karamaru-alpha/copyloopvar v1.2.2 h1:yfNQvP9YaGQR7VaWLYcfZUlRP2eo2vhExWKxD/fP6q0=
