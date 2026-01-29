@@ -961,7 +961,7 @@ require (
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
 	github.com/leonelquinteros/gotext v1.7.2
 	github.com/leonklingele/grouper v1.1.2
-	github.com/lib/pq v1.10.9
+	github.com/lib/pq v1.11.1
 	github.com/libdns/libdns v1.1.1
 	github.com/lightjameslyy/maxminddb-golang v1.9.1
 	github.com/linkedin/goavro/v2 v2.15.0
