@@ -340,7 +340,7 @@ require (
 	github.com/bytedance/mockey v1.4.4
 	github.com/bytedance/sonic v1.15.0
 	github.com/bytedance/sonic/loader v0.5.0
-	github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.48
+	github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.49
 	github.com/byteplus-sdk/byteplus-sdk-golang v1.0.62
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
