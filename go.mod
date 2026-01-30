@@ -700,7 +700,7 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.26.1
+	github.com/google/cel-go v0.27.0
 	github.com/google/certificate-transparency-go v1.3.2
 	github.com/google/gnostic-models v0.7.1
 	github.com/google/gnxi v0.0.0-20251129193624-612869a62faa
