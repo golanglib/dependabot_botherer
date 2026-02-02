@@ -4794,8 +4794,8 @@ github.com/rabbitmq/amqp091-go v1.10.0/go.mod h1:Hy4jKW5kQART1u+JkDTF9YYOQUHXqMu
 github.com/raeperd/recvcheck v0.2.0 h1:GnU+NsbiCqdC2XX5+vMZzP+jAJC5fht7rcVTAhX74UI=
 github.com/raeperd/recvcheck v0.2.0/go.mod h1:n04eYkwIR0JbgD73wT8wL4JjPC3wm0nFtzBnWNocnYU=
 github.com/rainycape/memcache v0.0.0-20150622160815-1031fa0ce2f2/go.mod h1:7tZKcyumwBO6qip7RNQ5r77yrssm9bfCowcLEBcU5IA=
-github.com/rclone/rclone v1.72.1 h1:Cc/NshKd3/TP3CC0cx9Jg9nTLG8YQ8yLYMTm6Z/LdHk=
-github.com/rclone/rclone v1.72.1/go.mod h1:QjmSgz98CjQZZJhROIeYHYjpN5kN7rTA+jtChj/+3Do=
+github.com/rclone/rclone v1.73.0 h1:G20ugCrlZHxqzBJeCsy0L9Vat9qtQLZZtsgTErizrqs=
+github.com/rclone/rclone v1.73.0/go.mod h1:PYqL/ZTcwXG53lGtTK+24qbHYyRycptwHxAuCWLXeKU=
 github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/rcrowley/go-metrics v0.0.0-20190826022208-cac0b30c2563/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
