@@ -1271,7 +1271,7 @@ require (
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.52.0
 	github.com/samber/slog-betterstack v1.4.2
-	github.com/samber/slog-common v0.19.0
+	github.com/samber/slog-common v0.20.0
 	github.com/sanity-io/litter v1.5.8
 	github.com/sanposhiho/wastedassign v1.0.0
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
