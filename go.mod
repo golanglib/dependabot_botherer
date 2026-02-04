@@ -1311,7 +1311,7 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
 	github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/signalfx/golib/v3 v3.4.2
+	github.com/signalfx/golib/v3 v3.4.3
 	github.com/signalfx/sapm-proto v0.18.0
 	github.com/sijms/go-ora/v2 v2.9.0
 	github.com/sina-ghaderi/poly1305 v0.0.0-20220724002748-c5926b03988b
