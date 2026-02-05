@@ -552,7 +552,7 @@ require (
 	github.com/gdamore/tcell/v2 v2.13.8
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.133.0
-	github.com/ghostiam/protogetter v0.3.19
+	github.com/ghostiam/protogetter v0.3.20
 	github.com/gin-contrib/cors v1.7.6
 	github.com/gin-contrib/gzip v1.2.5
 	github.com/gin-contrib/sessions v1.0.4
