@@ -1171,12 +1171,12 @@ require (
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
 	github.com/pion/ice/v2 v2.3.38
-	github.com/pion/interceptor v0.1.43
+	github.com/pion/interceptor v0.1.44
 	github.com/pion/logging v0.2.4
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.16
-	github.com/pion/rtp v1.10.0
+	github.com/pion/rtp v1.10.1
 	github.com/pion/sctp v1.9.2
 	github.com/pion/sdp/v3 v3.0.17
 	github.com/pion/srtp v1.5.2
