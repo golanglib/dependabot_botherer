@@ -467,7 +467,7 @@ require (
 	github.com/dghubble/trie v0.1.0
 	github.com/dgraph-io/badger v1.6.2
 	github.com/dgraph-io/badger/v2 v2.2007.4
-	github.com/dgraph-io/badger/v4 v4.9.0
+	github.com/dgraph-io/badger/v4 v4.9.1
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf
 	github.com/digitalocean/godo v1.173.0
