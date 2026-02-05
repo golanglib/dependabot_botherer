@@ -304,7 +304,7 @@ require (
 	github.com/blevesearch/zapx/v13 v13.4.3
 	github.com/blevesearch/zapx/v14 v14.4.2
 	github.com/blevesearch/zapx/v15 v15.4.3
-	github.com/blevesearch/zapx/v16 v16.3.0
+	github.com/blevesearch/zapx/v16 v16.3.1
 	github.com/blizzy78/varnamelen v0.8.0
 	github.com/bluele/gcache v0.0.2
 	github.com/blues/jsonata-go v1.5.4
