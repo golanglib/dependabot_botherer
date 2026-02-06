@@ -1034,8 +1034,8 @@ github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344 h1:cDVUiFo+npB0ZASqnw4
 github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344/go.mod h1:9pIqrY6SXNL8vjRQE5Hd/OL5GyK/9MrGUWs87z/eFfk=
 github.com/a2aproject/a2a-go v0.3.6 h1:VbRoM2MNsfc7o4GkjGt3KZCjbqILAJq846K1z8rpHTc=
 github.com/a2aproject/a2a-go v0.3.6/go.mod h1:I7Cm+a1oL+UT6zMoP+roaRE5vdfUa1iQGVN8aSOuZ0I=
-github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3 h1:hhdWprfSpFbN7lz3W1gM40vOgvSh1WCSMxYD6gGB4Hs=
-github.com/aalpar/deheap v0.0.0-20210914013432-0cc84d79dec3/go.mod h1:XaUnRxSCYgL3kkgX0QHIV0D+znljPIDImxlv2kbGv0Y=
+github.com/aalpar/deheap v1.0.0 h1:vVdXUiQ16b858LraxHgCg1UmRmoObS53gFRi3fFY9x0=
+github.com/aalpar/deheap v1.0.0/go.mod h1:A+nfkD4JbS05sewV0he/MYgR/90vfqyMoNNROgs+rmA=
 github.com/abbot/go-http-auth v0.4.0 h1:QjmvZ5gSC7jm3Zg54DqWE/T5m1t2AfDu6QlXJT0EVT0=
 github.com/abbot/go-http-auth v0.4.0/go.mod h1:Cz6ARTIzApMJDzh5bRMSUou6UMSp0IEXg9km/ci7TJM=
 github.com/abice/go-enum v0.9.2 h1:H9iRKCRnM9eAiN8s6jsrOjyyo7PRVKteMcL+l9ZR1Kw=
