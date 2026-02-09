@@ -934,7 +934,7 @@ require (
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.6
 	github.com/klauspost/asmfmt v1.3.2
-	github.com/klauspost/compress v1.18.3
+	github.com/klauspost/compress v1.18.4
 	github.com/klauspost/cpuid v1.3.1
 	github.com/klauspost/cpuid/v2 v2.3.0
 	github.com/klauspost/reedsolomon v1.13.2
