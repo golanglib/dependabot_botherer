@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20251209175733-2a1774d88802.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.18.1
@@ -392,13 +392,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.8.0
 	github.com/cloudwego/eino v0.7.32
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260129100151-33cdd47ff03a
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260204064123-1f91f547c77e
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.64
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.8
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260129100151-33cdd47ff03a
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260204064123-1f91f547c77e
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260129100151-33cdd47ff03a
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260204064123-1f91f547c77e
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.13
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -406,7 +406,7 @@ require (
 	github.com/cloudwego/hertz v0.10.4
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.0
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260126123619-910b39918b8b
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260209045420-f732553ebe89
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -502,7 +502,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.8.1
-	github.com/elazarl/goproxy/ext v0.0.0-20260117161256-26d3e758aa11
+	github.com/elazarl/goproxy/ext v0.0.0-20260202173010-b343a9ac1c54
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
@@ -527,7 +527,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.27.3
 	github.com/expr-lang/expr v1.17.7
-	github.com/facebook/time v0.0.0-20260128131633-8cba79823c7d
+	github.com/facebook/time v0.0.0-20260205203828-80f2c810b480
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -570,8 +570,8 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20260123105353-38736987d071
-	github.com/go-ap/errors v0.0.0-20251229095444-2702aa2d8569
+	github.com/go-ap/activitypub v0.0.0-20260208110334-902f6cf8c2cc
+	github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966
 	github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
 	github.com/go-chi/chi v4.1.2+incompatible
@@ -1440,7 +1440,7 @@ require (
 	github.com/valyala/fastjson v1.6.7
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.24.0
-	github.com/vapourismo/knx-go v0.0.0-20250902075700-a1489e386d6c
+	github.com/vapourismo/knx-go v0.0.0-20260208154845-3f9ffa9dc4c1
 	github.com/vbatts/tar-split v0.12.2
 	github.com/vektah/gqlparser/v2 v2.5.31
 	github.com/vektra/mockery/v2 v2.53.5
