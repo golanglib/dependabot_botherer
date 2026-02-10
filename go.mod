@@ -359,7 +359,7 @@ require (
 	github.com/cespare/xxhash v1.1.0
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/charithe/durationcheck v0.0.11
-	github.com/charmbracelet/bubbles v0.21.1
+	github.com/charmbracelet/bubbles v1.0.0
 	github.com/charmbracelet/bubbletea v1.3.10
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v0.10.0
