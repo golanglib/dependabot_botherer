@@ -1189,7 +1189,7 @@ require (
 	github.com/pion/turn/v2 v2.1.6
 	github.com/pion/udp v0.1.4
 	github.com/pion/webrtc/v3 v3.3.6
-	github.com/pires/go-proxyproto v0.10.0
+	github.com/pires/go-proxyproto v0.11.0
 	github.com/pjbgf/sha1cd v0.5.0
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/sftp v1.13.10
