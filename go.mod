@@ -1105,7 +1105,7 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
 	github.com/niklasfasching/go-org v1.9.1
 	github.com/nikolalohinski/gonja v1.5.3
-	github.com/nikolalohinski/gonja/v2 v2.5.2
+	github.com/nikolalohinski/gonja/v2 v2.6.0
 	github.com/nishanths/exhaustive v0.12.0
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-diskqueue v1.1.0
