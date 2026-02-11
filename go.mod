@@ -1015,7 +1015,7 @@ require (
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meguminnnnnnnnn/go-openai v0.1.1
-	github.com/meilisearch/meilisearch-go v0.36.0
+	github.com/meilisearch/meilisearch-go v0.36.1
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250919004547-6122b699a301
