@@ -4566,8 +4566,8 @@ github.com/pion/dtls/v2 v2.0.1/go.mod h1:uMQkz2W0cSqY00xav7WByQ4Hb+18xeQh2oH2fRe
 github.com/pion/dtls/v2 v2.2.7/go.mod h1:8WiMkebSHFD0T+dIU+UeBaoV7kDhOW5oDCzZ7WZ/F9s=
 github.com/pion/dtls/v2 v2.2.12 h1:KP7H5/c1EiVAAKUmXyCzPiQe5+bCJrpOeKg/L05dunk=
 github.com/pion/dtls/v2 v2.2.12/go.mod h1:d9SYc9fch0CqK90mRk1dC7AkzzpwJj6u2GU3u+9pqFE=
-github.com/pion/dtls/v3 v3.0.3 h1:j5ajZbQwff7Z8k3pE3S+rQ4STvKvXUdKsi/07ka+OWM=
-github.com/pion/dtls/v3 v3.0.3/go.mod h1:weOTUyIV4z0bQaVzKe8kpaP17+us3yAuiQsEAG1STMU=
+github.com/pion/dtls/v3 v3.1.0 h1:bz3alDjKL1DDGe8GETGcq5rDKjXFQX9mniuUo36Up0E=
+github.com/pion/dtls/v3 v3.1.0/go.mod h1:YEmmBYIoBsY3jmG56dsziTv/Lca9y4Om83370CXfqJ8=
 github.com/pion/ice v0.7.18 h1:KbAWlzWRUdX9SmehBh3gYpIFsirjhSQsCw6K2MjYMK0=
 github.com/pion/ice v0.7.18/go.mod h1:+Bvnm3nYC6Nnp7VV6glUkuOfToB/AtMRZpOU8ihuf4c=
 github.com/pion/ice/v2 v2.3.38 h1:DEpt13igPfvkE2+1Q+6e8mP30dtWnQD3CtMIKoRDRmA=
