@@ -373,7 +373,7 @@ require (
 	github.com/chenzhuoyu/iasm v0.9.1
 	github.com/chi-middleware/proxy v1.1.1
 	github.com/chigopher/pathlib v0.19.1
-	github.com/choleraehyq/pid v0.0.21
+	github.com/choleraehyq/pid v0.0.22
 	github.com/chzyer/logex v1.2.1
 	github.com/chzyer/readline v1.5.1
 	github.com/chzyer/test v1.0.0
