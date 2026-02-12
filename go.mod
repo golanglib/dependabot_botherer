@@ -402,7 +402,7 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.13
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
-	github.com/cloudwego/gopkg v0.1.9
+	github.com/cloudwego/gopkg v0.1.10
 	github.com/cloudwego/hertz v0.10.4
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.1
