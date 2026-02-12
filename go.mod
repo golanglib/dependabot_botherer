@@ -413,7 +413,7 @@ require (
 	github.com/cloudwego/thrift-gen-validator v0.2.6
 	github.com/cloudwego/thriftgo v0.4.3
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
-	github.com/cncf/xds/go v0.0.0-20251022180443-0feb69152e9f
+	github.com/cncf/xds/go v0.0.0-20251210132809-ee656c7534f5
 	github.com/cockroachdb/datadriven v1.0.2
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
@@ -1592,7 +1592,7 @@ require (
 	google.golang.org/genproto v0.0.0-20260128011058-8636f8732409
 	google.golang.org/genproto/googleapis/api v0.0.0-20260203192932-546029d2fa20
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260203192932-546029d2fa20
-	google.golang.org/grpc v1.78.0
+	google.golang.org/grpc v1.79.0
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
