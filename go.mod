@@ -750,7 +750,7 @@ require (
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
 	github.com/gophercloud/gophercloud/v2 v2.10.0
-	github.com/gopherjs/gopherjs v1.20.0
+	github.com/gopherjs/gopherjs v1.20.1
 	github.com/gorcon/rcon v1.4.0
 	github.com/gordonklaus/ineffassign v0.2.0
 	github.com/gorilla/context v1.1.2
