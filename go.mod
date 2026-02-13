@@ -439,7 +439,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.7.0
 	github.com/couchbase/cbauth v0.1.18
 	github.com/couchbase/go-couchbase v0.1.1
-	github.com/couchbase/gomemcached v0.3.3
+	github.com/couchbase/gomemcached v0.3.4
 	github.com/couchbase/goutils v0.2.0
 	github.com/couchbase/vellum v1.0.2
 	github.com/coze-dev/coze-go v0.0.0-20251217090046-c70184300a2f
