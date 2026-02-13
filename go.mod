@@ -731,7 +731,7 @@ require (
 	github.com/google/licensecheck v0.3.1
 	github.com/google/licenseclassifier v0.0.0-20210722185704-3043a050f148
 	github.com/google/licenseclassifier/v2 v2.0.0
-	github.com/google/logger v1.1.1
+	github.com/google/logger v1.1.2
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
 	github.com/google/pprof v0.0.0-20260115054156-294ebfa9ad83
