@@ -443,7 +443,7 @@ require (
 	github.com/couchbase/goutils v0.2.0
 	github.com/couchbase/vellum v1.0.2
 	github.com/coze-dev/coze-go v0.0.0-20251217090046-c70184300a2f
-	github.com/coze-dev/cozeloop-go v0.1.20
+	github.com/coze-dev/cozeloop-go v0.1.21
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
