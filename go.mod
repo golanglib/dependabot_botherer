@@ -417,7 +417,7 @@ require (
 	github.com/cockroachdb/datadriven v1.0.2
 	github.com/colinmarc/hdfs/v2 v2.4.0
 	github.com/compose-spec/compose-go v1.20.2
-	github.com/containerd/cgroups/v3 v3.1.2
+	github.com/containerd/cgroups/v3 v3.1.3
 	github.com/containerd/console v1.0.5
 	github.com/containerd/containerd v1.7.30
 	github.com/containerd/containerd/api v1.10.0
