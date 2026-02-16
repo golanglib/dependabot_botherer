@@ -526,7 +526,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.27.3
-	github.com/expr-lang/expr v1.17.7
+	github.com/expr-lang/expr v1.17.8
 	github.com/facebook/time v0.0.0-20260205203828-80f2c810b480
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
