@@ -1,6 +1,6 @@
 module dependabot_botherer
 
-go 1.26
+go 1.26.0
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
@@ -844,7 +844,7 @@ require (
 	github.com/ianlancetaylor/demangle v0.0.0-20250417193237-f615e6bd150b
 	github.com/inconshreveable/mousetrap v1.1.0
 	github.com/incu6us/goimports-reviser v0.1.6
-	github.com/incu6us/goimports-reviser/v3 v3.11.0
+	github.com/incu6us/goimports-reviser/v3 v3.12.5
 	github.com/influxdata/influxdb-client-go v1.4.0
 	github.com/influxdata/influxdb-client-go/v2 v2.14.0
 	github.com/influxdata/influxdb-observability/common v0.5.12

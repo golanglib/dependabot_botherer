@@ -3396,8 +3396,8 @@ github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/incu6us/goimports-reviser v0.1.6 h1:KgSvPzI5VRnsVHBJEyIy0so+1thtYhLpLTfhloAQoiA=
 github.com/incu6us/goimports-reviser v0.1.6/go.mod h1:Y85VqadcOjTzAbVLbjasX2qSxmHGaZYYOWdlIq7U28I=
-github.com/incu6us/goimports-reviser/v3 v3.11.0 h1:ApPsIVH/pT1XFwA8ewJR1o6u5y4sqcVZvz4dITCN6Nk=
-github.com/incu6us/goimports-reviser/v3 v3.11.0/go.mod h1:9PrNQlAiw8j+Z6xKOtheaC9N4T5J4EmwJkmbEQ3+KCQ=
+github.com/incu6us/goimports-reviser/v3 v3.12.5 h1:+ksj8iyNmLV3LZS8raIPVA8wY9TDnx+1YbvSajV4jdQ=
+github.com/incu6us/goimports-reviser/v3 v3.12.5/go.mod h1:1LqPGCVxi/uzvUplhFJmNGkn0POy7m7S6a91RvOXucc=
 github.com/influxdata/influxdb-client-go v1.4.0 h1:+KavOkwhLClHFfYcJMHHnTL5CZQhXJzOm5IKHI9BqJk=
 github.com/influxdata/influxdb-client-go v1.4.0/go.mod h1:S+oZsPivqbcP1S9ur+T+QqXvrYS3NCZeMQtBoH4D1dw=
 github.com/influxdata/influxdb-client-go/v2 v2.14.0 h1:AjbBfJuq+QoaXNcrova8smSjwJdUHnwvfjMF71M1iI4=
