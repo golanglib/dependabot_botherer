@@ -34,7 +34,7 @@ require (
 	deps.dev/util/maven v0.0.0-20241218001045-3890182485f3
 	deps.dev/util/resolve v0.0.0-20241218001045-3890182485f3
 	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
-	filippo.io/edwards25519 v1.1.0
+	filippo.io/edwards25519 v1.2.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
 	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
 	gitea.com/go-chi/cache v0.2.1
