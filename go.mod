@@ -1437,7 +1437,7 @@ require (
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/v2fly/v2ray-core/v5 v5.45.1
 	github.com/valyala/fasthttp v1.69.0
-	github.com/valyala/fastjson v1.6.7
+	github.com/valyala/fastjson v1.6.9
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.24.0
 	github.com/vapourismo/knx-go v0.0.0-20260208154845-3f9ffa9dc4c1
