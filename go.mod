@@ -272,7 +272,7 @@ require (
 	github.com/bep/lazycache v0.8.1
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.10.0
-	github.com/bep/tmc v0.5.1
+	github.com/bep/tmc v0.6.0
 	github.com/bitly/go-hostpool v0.1.1
 	github.com/bitly/go-simplejson v0.5.1
 	github.com/bits-and-blooms/bitset v1.24.4
@@ -672,7 +672,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.155.3
+	github.com/gohugoio/hugo v0.156.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.6.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.4.0
 	github.com/gohugoio/locales v0.14.0
@@ -1565,7 +1565,7 @@ require (
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20250305170421-49bf5b80c810
 	golang.org/x/exp v0.0.0-20260112195511-716be5621a96
 	golang.org/x/exp/typeparams v0.0.0-20251023183803-a4bb9ffd2546
-	golang.org/x/image v0.35.0
+	golang.org/x/image v0.36.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20251021151156-188f512ec823
 	golang.org/x/mod v0.33.0
@@ -1586,7 +1586,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
 	google.golang.org/adk v0.4.0
-	google.golang.org/api v0.266.0
+	google.golang.org/api v0.267.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.46.0
 	google.golang.org/genproto v0.0.0-20260128011058-8636f8732409
