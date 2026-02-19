@@ -1006,7 +1006,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.34
 	github.com/mattn/goveralls v0.0.12
 	github.com/matttproud/golang_protobuf_extensions v1.0.4
-	github.com/maxatome/go-testdeep v1.14.0
+	github.com/maxatome/go-testdeep v1.15.0
 	github.com/maxmind/mmdbwriter v1.2.0
 	github.com/mbilski/exhaustivestruct v1.2.0
 	github.com/mdlayher/apcupsd v0.0.0-20230802135538-48f5030bcd58
