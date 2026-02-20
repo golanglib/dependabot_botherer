@@ -1150,7 +1150,7 @@ require (
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/owenrumney/go-sarif/v2 v2.3.3
 	github.com/p4lang/p4runtime v1.5.0
-	github.com/package-url/packageurl-go v0.1.3
+	github.com/package-url/packageurl-go v0.1.4
 	github.com/pandatix/go-cvss v0.6.2
 	github.com/pascaldekloe/goe v0.1.1
 	github.com/pascaldekloe/name v1.0.1
