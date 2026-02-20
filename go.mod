@@ -512,7 +512,7 @@ require (
 	github.com/emicklei/go-restful/v3 v3.13.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane v0.14.0
-	github.com/envoyproxy/protoc-gen-validate v1.3.0
+	github.com/envoyproxy/protoc-gen-validate v1.3.3
 	github.com/ericlagergren/aegis v0.0.0-20250325060835-cd0defd64358
 	github.com/ericlagergren/polyval v0.0.0-20220411101811-e25bc10ba391
 	github.com/ericlagergren/saferand v0.0.0-20220206064634-960a4dd2bc5c
