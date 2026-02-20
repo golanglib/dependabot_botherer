@@ -283,7 +283,7 @@ require (
 	github.com/blevesearch/bleve/v2 v2.5.7
 	github.com/blevesearch/bleve_index_api v1.3.2
 	github.com/blevesearch/blevex v1.0.0
-	github.com/blevesearch/geo v0.2.4
+	github.com/blevesearch/geo v0.2.5
 	github.com/blevesearch/go-faiss v1.0.27
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/gtreap v0.1.1
