@@ -202,7 +202,7 @@ require (
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.6
 	github.com/antchfx/xmlquery v1.5.0
-	github.com/antchfx/xpath v1.3.5
+	github.com/antchfx/xpath v1.3.6
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
 	github.com/antlr4-go/antlr v0.0.0-20230518091524-98b52378c522
 	github.com/antlr4-go/antlr/v4 v4.13.1
