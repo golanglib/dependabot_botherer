@@ -142,7 +142,7 @@ require (
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.8.0
 	github.com/Shopify/go-lua v0.0.0-20250718183320-1e37f32ad7d0
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
-	github.com/a2aproject/a2a-go v0.3.6
+	github.com/a2aproject/a2a-go v0.3.7
 	github.com/aalpar/deheap v1.0.0
 	github.com/abice/go-enum v0.9.2
 	github.com/acomagu/bufpipe v1.0.4
