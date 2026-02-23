@@ -215,7 +215,7 @@ require (
 	github.com/apparentlymart/go-textseg/v13 v13.0.0
 	github.com/apparentlymart/go-textseg/v15 v15.0.0
 	github.com/armon/go-radix v1.0.0
-	github.com/arran4/golang-ical v0.3.2
+	github.com/arran4/golang-ical v0.3.3
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/ashanbrown/forbidigo v1.6.0
 	github.com/ashanbrown/makezero v1.2.0
