@@ -9,7 +9,7 @@ on:
         type: string
 
 env:
-  GOPATH: /gopath
+  GOPATH: /home/gopath
 
 jobs:
   execute:
@@ -20,7 +20,7 @@ jobs:
         with:
           root-reserve-mb: 10240
           swap-size-mb: 1024
-          build-mount-path: /gopath
+          build-mount-path: /home
           remove-dotnet: 'true'
           remove-android: 'true'
           remove-haskell: 'true'
@@ -40,7 +40,7 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: |
-            /gopath
+            /home/gopath
           key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-go-
