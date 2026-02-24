@@ -21,7 +21,8 @@ jobs:
     steps:
       - name: Set up GOPATH
         run: |
-          mkdir -p /gopath
+          sudo mkdir -p /gopath
+          sudo chmod 777 /gopath
 
       - name: Checkout
         uses: actions/checkout@v6
