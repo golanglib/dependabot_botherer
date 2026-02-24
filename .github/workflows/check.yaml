@@ -19,6 +19,10 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
+      - name: Set up GOPATH
+        run: |
+          mkdir -p /gopath
+
       - name: Checkout
         uses: actions/checkout@v6
 
