@@ -1431,7 +1431,7 @@ require (
 	github.com/unrolled/render v1.7.0
 	github.com/urfave/cli v1.22.17
 	github.com/urfave/cli/v2 v2.27.7
-	github.com/uudashr/gocognit v1.2.0
+	github.com/uudashr/gocognit v1.2.1
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
