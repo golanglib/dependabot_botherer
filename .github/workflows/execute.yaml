@@ -9,7 +9,7 @@ on:
         type: string
 
 env:
-  GOPATH: /root/gopath
+  GOPATH: /gopath
 
 jobs:
   execute:
@@ -28,7 +28,7 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: |
-            /root/gopath
+            /gopath
           key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-go-
