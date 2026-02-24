@@ -8,18 +8,10 @@ on:
         required: true
         type: string
 
-env:
-  GOPATH: /gopath
-
 jobs:
   execute:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up GOPATH
-        run: |
-          sudo mkdir -p /gopath
-          sudo chmod 777 /gopath
-
       - name: Checkout
         uses: actions/checkout@v6
 
@@ -27,16 +19,7 @@ jobs:
         uses: actions/setup-go@v6
         with:
           go-version: 'stable'
-          cache: false
-
-      - name: Restore cache
-        uses: actions/cache/restore@v5
-        with:
-          path: |
-            /gopath
-          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-go-
+          cache: true
 
       - name: Execute
         run: |
