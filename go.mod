@@ -242,7 +242,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/kms v1.50.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.96.1
-	github.com/aws/aws-sdk-go-v2/service/sso v1.30.10
+	github.com/aws/aws-sdk-go-v2/service/sso v1.30.11
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.15
 	github.com/aws/aws-sdk-go-v2/service/sts v1.41.6
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.17
