@@ -13,11 +13,11 @@ CHECK_OUTPUT=$(mktemp)
 
 while read -r MODULE; do
   if ! go get "$MODULE@latest" &> "$CHECK_OUTPUT"; then
-    echo "$MODULE" >> exclude.txt
-    sed 's#^#//#' "$CHECK_OUTPUT" | grep -vE '^//go: downloading' >> exclude.txt
+    echo "$MODULE" | tee -a exclude.txt
+    sed 's#^#//#' "$CHECK_OUTPUT" | grep -vE '^//go: downloading' | tee -a exclude.txt
   elif ! go run scripts/importable.go "$MODULE" &> "$CHECK_OUTPUT"; then
-    echo "$MODULE" >> exclude.txt
-    sed 's#^#//#' "$CHECK_OUTPUT" | grep -vE '^//exit status 1' >> exclude.txt
+    echo "$MODULE" | tee -a exclude.txt
+    sed 's#^#//#' "$CHECK_OUTPUT" | grep -vE '^//exit status 1' | tee -a exclude.txt
   fi
 done < list.txt
 
