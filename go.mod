@@ -1200,7 +1200,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.5.0
 	github.com/prashantv/gostub v1.1.0
-	github.com/pressly/goose/v3 v3.26.0
+	github.com/pressly/goose/v3 v3.27.0
 	github.com/prometheus-community/pro-bing v0.8.0
 	github.com/prometheus/client_golang v1.23.2
 	github.com/prometheus/client_model v0.6.2
@@ -1562,7 +1562,7 @@ require (
 	golang.org/x/arch v0.24.0
 	golang.org/x/crypto v0.48.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
-	golang.org/x/exp v0.0.0-20260112195511-716be5621a96
+	golang.org/x/exp v0.0.0-20260218203240-3dfff04db8fa
 	golang.org/x/exp/typeparams v0.0.0-20251023183803-a4bb9ffd2546
 	golang.org/x/image v0.36.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
@@ -1590,7 +1590,7 @@ require (
 	google.golang.org/genai v1.47.0
 	google.golang.org/genproto v0.0.0-20260128011058-8636f8732409
 	google.golang.org/genproto/googleapis/api v0.0.0-20260209200024-4cfbd4190f57
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260209200024-4cfbd4190f57
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260217215200-42d3e9bedb6d
 	google.golang.org/grpc v1.79.1
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
@@ -1637,7 +1637,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.27.1
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.30.1
+	modernc.org/ccgo/v4 v4.30.2
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.5.8
 	modernc.org/fileutil v1.3.40
@@ -1646,13 +1646,13 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.67.7
+	modernc.org/libc v1.68.0
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.11.0
 	modernc.org/opt v0.1.4
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.45.0
+	modernc.org/sqlite v1.46.1
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
