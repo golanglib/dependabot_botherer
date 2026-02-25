@@ -1098,6 +1098,7 @@ require (
 	github.com/ncruces/go-strftime v1.0.0
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.5
+	github.com/nektos/act v0.2.84
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.6
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
@@ -1718,6 +1719,7 @@ require (
 	github.com/alfatraining/structtag v1.0.0 // indirect
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
+	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
 	github.com/apache/arrow-go/v18 v18.4.0 // indirect
 	github.com/apex/log v1.9.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
@@ -1856,6 +1858,8 @@ require (
 	github.com/minio/crc64nvme v1.1.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
 	github.com/moby/go-archive v0.2.0 // indirect
+	github.com/moby/moby/api v1.53.0 // indirect
+	github.com/moby/moby/client v0.2.2 // indirect
 	github.com/moby/sys/capability v0.4.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect

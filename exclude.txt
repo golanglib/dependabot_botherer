@@ -238,14 +238,6 @@ github.com/mozillazg/go-pinyin/cli/pinyin
 //[github.com/mozillazg/go-pinyin/cli/pinyin] no importable packages found
 github.com/nats-io/nats.go
 //stat github.com/nats-io/nats.go: no such file or directory
-github.com/nektos/act
-//go: github.com/nektos/act imports
-//	github.com/nektos/act/cmd imports
-//	github.com/nektos/act/pkg/container imports
-//	github.com/docker/cli/opts imports
-//	github.com/moby/moby/client: ambiguous import: found package github.com/moby/moby/client in multiple modules:
-//	github.com/moby/moby v28.5.2+incompatible (/home/runner/go/pkg/mod/github.com/moby/moby@v28.5.2+incompatible/client)
-//	github.com/moby/moby/client v0.2.2 (/home/runner/go/pkg/mod/github.com/moby/moby/client@v0.2.2)
 github.com/open-telemetry/opentelemetry-collector-contrib
 //[github.com/open-telemetry/opentelemetry-collector-contrib] dir: /home/runner/go/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.146.0
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "": no buildable Go source files in /home/runner/go/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.146.0
