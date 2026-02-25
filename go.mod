@@ -1327,7 +1327,7 @@ require (
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
-	github.com/smallstep/certificates v0.30.0-rc2.0.20260211214201-20608299c29c
+	github.com/smallstep/certificates v0.30.0-rc3
 	github.com/smallstep/cli v0.28.7
 	github.com/smallstep/cli-utils v0.12.2
 	github.com/smallstep/nosql v0.7.0
