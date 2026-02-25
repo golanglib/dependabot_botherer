@@ -18,6 +18,9 @@ while read -r MODULE; do
   elif ! go run scripts/importable.go "$MODULE" &> "$CHECK_OUTPUT"; then
     echo "$MODULE" | tee -a exclude.txt
     sed 's#^#//#' "$CHECK_OUTPUT" | grep -vE '^//exit status 1' | tee -a exclude.txt
+  elif grep -q "^$MODULE$" block.txt; then
+    echo "$MODULE" | tee -a exclude.txt
+    echo "//blocked by block.txt" | tee -a exclude.txt
   fi
 done < list.txt
 

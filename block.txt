@@ -1,0 +1,2 @@
+// No longer maintained, dependencies breaks, replaced by v2.
+github.com/golangci/golangci-lint
