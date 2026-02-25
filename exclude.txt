@@ -93,6 +93,8 @@ github.com/gohugoio/go-i18n/v2
 //go: github.com/gohugoio/go-i18n/v2@latest (v2.1.2) requires github.com/gohugoio/go-i18n/v2@v2.1.2: parsing go.mod:
 //	module declares its path as: github.com/nicksnyder/go-i18n/v2
 //	        but was required as: github.com/gohugoio/go-i18n/v2
+github.com/golangci/golangci-lint
+//blocked by block.txt
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock
 //[github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock] module is internal
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping
