@@ -5093,8 +5093,8 @@ github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f h1:Z2cODYsUxQPofh
 github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f/go.mod h1:JqzWyvTuI2X4+9wOHmKSQCYxybB/8j6Ko43qVmXDuZg=
 github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262 h1:unQFBIznI+VYD1/1fApl1A+9VcBk+9dcqGfnePY87LY=
 github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262/go.mod h1:MyOHs9Po2fbM1LHej6sBUT8ozbxmMOFG+E+rx/GSGuc=
-github.com/smallstep/certificates v0.30.0-rc2.0.20260211214201-20608299c29c h1:XQpX0IPYUAoJ661YlgfOJmY48ZOhIbglw4E2gw9mcyc=
-github.com/smallstep/certificates v0.30.0-rc2.0.20260211214201-20608299c29c/go.mod h1:75NRLmYJq6ZcCb8ApJc+W1eL4oMYwjeufMJDHpv4rx4=
+github.com/smallstep/certificates v0.30.0-rc3 h1:Lx/NNJ4n+L3Pyx5NtVRGXeqviPPXTFFGLRiC1fCwU50=
+github.com/smallstep/certificates v0.30.0-rc3/go.mod h1:e5/ylYYpvnjCVZz6RpyOkpTe73EGPYoL+8TZZ5EtLjI=
 github.com/smallstep/cli v0.28.7 h1:3a1Nu0JMbColjJMxsms166Q7cHc8DgSzXgYvE5psucY=
 github.com/smallstep/cli v0.28.7/go.mod h1:JeNnywwL4U+0AckRrJXVtIHX+1PKihAx+L/uLzuW5mc=
 github.com/smallstep/cli-utils v0.12.2 h1:lGzM9PJrH/qawbzMC/s2SvgLdJPKDWKwKzx9doCVO+k=
