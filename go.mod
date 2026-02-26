@@ -700,7 +700,7 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.27.0
-	github.com/google/certificate-transparency-go v1.3.2
+	github.com/google/certificate-transparency-go v1.3.3
 	github.com/google/gnostic-models v0.7.1
 	github.com/google/gnxi v0.0.0-20251129193624-612869a62faa
 	github.com/google/go-attestation v0.6.0
@@ -1524,7 +1524,7 @@ require (
 	go.etcd.io/etcd/raft/v3 v3.5.26
 	go.etcd.io/etcd/server/v3 v3.6.8
 	go.etcd.io/etcd/tests/v3 v3.6.8
-	go.etcd.io/etcd/v3 v3.6.7
+	go.etcd.io/etcd/v3 v3.6.8
 	go.etcd.io/gofail v0.2.0
 	go.jolheiser.com/hcaptcha v0.0.4
 	go.jolheiser.com/pwn v0.0.3
@@ -1953,7 +1953,7 @@ require (
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
-	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.5.1 // indirect
+	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.6.1 // indirect
 	gopkg.in/cenkalti/backoff.v1 v1.1.0 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
