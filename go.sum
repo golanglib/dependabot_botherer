@@ -2108,8 +2108,8 @@ github.com/dgryski/trifles v0.0.0-20230903005119-f50d829f2e54 h1:SG7nF6SRlWhcT7c
 github.com/dgryski/trifles v0.0.0-20230903005119-f50d829f2e54/go.mod h1:if7Fbed8SFyPtHLHbg49SI7NAdJiC5WIA09pe59rfAA=
 github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf h1:h4rZWky29dm4Az+qm/CYEryhHpNhbxpeyOvENErNeQ8=
 github.com/digitalocean/go-libvirt v0.0.0-20240308204700-df736b2945cf/go.mod h1:gif07jzN8UZdvL//uvbtFMEkvKWGiYr4y4KWdrNj36o=
-github.com/digitalocean/godo v1.175.0 h1:tpfwJFkBzpePxvvFazOn69TXctdxuFlOs7DMVXsI7oU=
-github.com/digitalocean/godo v1.175.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
+github.com/digitalocean/godo v1.176.0 h1:P379vPO5TUre+bUHPEsdSAbl5vIrRRhP91tMIEPoWYU=
+github.com/digitalocean/godo v1.176.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
 github.com/dimchansky/utfbom v1.0.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dimchansky/utfbom v1.1.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dimchansky/utfbom v1.1.1 h1:vV6w1AhK4VMnhBno/TPVCoK9U/LP0PkLCS9tbxHdi/U=
