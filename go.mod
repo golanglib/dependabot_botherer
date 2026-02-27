@@ -1512,7 +1512,7 @@ require (
 	go-simpler.org/sloglint v0.11.1
 	go.deanishe.net/env v0.5.1
 	go.deanishe.net/fuzzy v1.0.0
-	go.einride.tech/aip v0.80.0
+	go.einride.tech/aip v0.81.0
 	go.etcd.io/bbolt v1.4.3
 	go.etcd.io/etcd/api/v3 v3.6.8
 	go.etcd.io/etcd/client/pkg/v3 v3.6.8
