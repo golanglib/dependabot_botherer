@@ -2003,8 +2003,8 @@ github.com/couchbase/vellum v1.0.2 h1:BrbP0NKiyDdndMPec8Jjhy0U47CZ0Lgx3xUC2r9rZq
 github.com/couchbase/vellum v1.0.2/go.mod h1:FcwrEivFpNi24R3jLOs3n+fs5RnuQnQqCLBJ1uAg1W4=
 github.com/coze-dev/coze-go v0.0.0-20251217090046-c70184300a2f h1:6dkvN+Po8UoxUSRACn2SS/uv7CsbOLf4Xwt8eLu1HPM=
 github.com/coze-dev/coze-go v0.0.0-20251217090046-c70184300a2f/go.mod h1:wdT5CFt/sFsWz9hna2Z7DWzUra9spx0SoX1PUZyoSB0=
-github.com/coze-dev/cozeloop-go v0.1.20 h1:RO/o5cm8Nu71hG+7yoveA53oY9Q24u7NJBYZ9KBEDIo=
-github.com/coze-dev/cozeloop-go v0.1.20/go.mod h1:lM7cmUEZlnAlQYdwfk4Li0SC3RdZ++QMHX75nvKceSc=
+github.com/coze-dev/cozeloop-go v0.1.22 h1:vF/uFuKSTyoz0fUv0w/2B23qQ1bGO9WMVvHM4h2vkrc=
+github.com/coze-dev/cozeloop-go v0.1.22/go.mod h1:lM7cmUEZlnAlQYdwfk4Li0SC3RdZ++QMHX75nvKceSc=
 github.com/coze-dev/cozeloop-go/spec v0.1.4-0.20250829072213-3812ddbfb735 h1:qxAwjHy0SLQazDO3oGJ8D24vOeM2Oz2+n27bNPegBls=
 github.com/coze-dev/cozeloop-go/spec v0.1.4-0.20250829072213-3812ddbfb735/go.mod h1:/f3BrWehffwXIpd4b5rYIqktLd/v5dlLBw0h9F/LQIU=
 github.com/cpu/goacmedns v0.0.1/go.mod h1:sesf/pNnCYwUevQEQfEwY0Y3DydlQWSGZbaMElOWxok=
