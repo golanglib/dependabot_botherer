@@ -1196,7 +1196,7 @@ require (
 	github.com/pkg/xattr v0.4.12
 	github.com/pkoukk/tiktoken-go v0.1.8
 	github.com/pkoukk/tiktoken-go-loader v0.0.2
-	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10
+	github.com/planetscale/vtprotobuf v0.6.1-0.20250313105119-ba97887b0a25
 	github.com/polyfloyd/go-errorlint v1.8.0
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.5.0
@@ -1684,7 +1684,7 @@ require (
 	storj.io/picobuf v0.0.4
 	storj.io/uplink v1.13.1
 	v2ray.com/core v4.19.1+incompatible
-	vitess.io/vitess v0.20.4
+	vitess.io/vitess v0.23.3
 	xorm.io/builder v0.3.13
 	xorm.io/xorm v1.3.11
 	zombiezen.com/go/sqlite v1.4.2
@@ -1809,7 +1809,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.1.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.0 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
-	github.com/hashicorp/consul/api v1.32.0 // indirect
+	github.com/hashicorp/consul/api v1.32.4 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
 	github.com/hashicorp/vault/api v1.22.0 // indirect
 	github.com/hhrutter/pkcs7 v0.2.0 // indirect
