@@ -985,7 +985,7 @@ require (
 	github.com/maratori/testableexamples v1.0.1
 	github.com/maratori/testpackage v1.1.2
 	github.com/marekm4/color-extractor v1.2.1
-	github.com/mark3labs/mcp-go v0.43.2
+	github.com/mark3labs/mcp-go v0.44.1
 	github.com/markbates/going v1.0.3
 	github.com/markbates/goth v1.82.0
 	github.com/marten-seemann/qtls v0.10.0
