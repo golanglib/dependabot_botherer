@@ -1341,7 +1341,7 @@ require (
 	github.com/sonatard/noctx v0.5.0
 	github.com/sony/gobreaker v1.0.0
 	github.com/sony/sonyflake v1.3.0
-	github.com/sosodev/duration v1.3.1
+	github.com/sosodev/duration v1.4.0
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
 	github.com/sourcegraph/go-diff v0.7.0
 	github.com/spacemonkeygo/monkit/v3 v3.0.25-0.20251022131615-eb24eb109368
