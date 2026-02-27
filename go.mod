@@ -672,7 +672,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.156.0
+	github.com/gohugoio/hugo v0.157.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.6.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.4.0
 	github.com/gohugoio/locales v0.14.0
