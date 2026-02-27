@@ -268,7 +268,7 @@ require (
 	github.com/bep/godartsass/v2 v2.5.0
 	github.com/bep/golibsass v1.2.0
 	github.com/bep/gowebp v0.4.0
-	github.com/bep/imagemeta v0.14.0
+	github.com/bep/imagemeta v0.17.0
 	github.com/bep/lazycache v0.8.1
 	github.com/bep/logg v0.4.0
 	github.com/bep/overlayfs v0.10.0
