@@ -135,7 +135,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.11.0
 	github.com/ReneKroon/ttlcache v1.7.0
 	github.com/RoaringBitmap/roaring v1.9.4
-	github.com/RoaringBitmap/roaring/v2 v2.14.4
+	github.com/RoaringBitmap/roaring/v2 v2.14.5
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.15.1
