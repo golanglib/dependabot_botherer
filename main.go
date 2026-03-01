@@ -688,7 +688,7 @@ import (
 	_ "github.com/golang/vscode-go"
 	_ "github.com/golangci/go-misc/deadcode"
 	_ "github.com/golangci/go-printf-func-name/pkg/analyzer"
-	_ "github.com/golangci/gofmt"
+	_ "github.com/golangci/gofmt/gofmt"
 	_ "github.com/golangci/lint-1"
 	_ "github.com/golangci/misspell"
 	_ "github.com/golangci/modinfo"
