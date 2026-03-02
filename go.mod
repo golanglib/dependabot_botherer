@@ -1383,7 +1383,7 @@ require (
 	github.com/tailscale/tscert v0.0.0-20251216020129-aea342f6d747
 	github.com/tdakkota/asciicheck v0.4.1
 	github.com/tdewolff/minify/v2 v2.24.9
-	github.com/tdewolff/parse/v2 v2.8.8
+	github.com/tdewolff/parse/v2 v2.8.10
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
