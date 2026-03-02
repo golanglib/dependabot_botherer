@@ -1991,8 +1991,8 @@ github.com/couchbase/go-couchbase v0.1.1/go.mod h1:+/bddYDxXsf9qt0xpDUtRR47A2Gja
 github.com/couchbase/gomemcached v0.3.3 h1:D7qqXLO8wNa4pn5oE65lT3pA3IeStn4joT7/JgGXzKc=
 github.com/couchbase/gomemcached v0.3.3/go.mod h1:pISAjweI42vljCumsJIo7CVhqIMIIP9g3Wfhl1JJw68=
 github.com/couchbase/goutils v0.1.2/go.mod h1:h89Ek/tiOxxqjz30nPPlwZdQbdB8BwgnuBxeoUe/ViE=
-github.com/couchbase/goutils v0.2.0 h1:2hTV1VUunDcgd2ctYZ27Zv5ShACS0NAZ86viOFwp1gU=
-github.com/couchbase/goutils v0.2.0/go.mod h1:h89Ek/tiOxxqjz30nPPlwZdQbdB8BwgnuBxeoUe/ViE=
+github.com/couchbase/goutils v0.3.0 h1:rsv72B6BDjW9jmwlfiDUrdu3EpNvPuo5WLULHzQ0DLE=
+github.com/couchbase/goutils v0.3.0/go.mod h1:7Gm+D3vXfV4HS+hQWvKfy6e6ILCptGXNqBKvQXhplhk=
 github.com/couchbase/moss v0.1.0/go.mod h1:9MaHIaRuy9pvLPUJxB8sh8OrLfyDczECVL37grCIubs=
 github.com/couchbase/vellum v1.0.2 h1:BrbP0NKiyDdndMPec8Jjhy0U47CZ0Lgx3xUC2r9rZqw=
 github.com/couchbase/vellum v1.0.2/go.mod h1:FcwrEivFpNi24R3jLOs3n+fs5RnuQnQqCLBJ1uAg1W4=
