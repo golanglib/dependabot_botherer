@@ -1435,7 +1435,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.45.1
+	github.com/v2fly/v2ray-core/v5 v5.46.0
 	github.com/valyala/fasthttp v1.69.0
 	github.com/valyala/fastjson v1.6.7
 	github.com/valyala/fasttemplate v1.2.2
@@ -1581,7 +1581,7 @@ require (
 	golang.org/x/tools v0.42.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
-	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
+	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
@@ -1616,7 +1616,7 @@ require (
 	gorm.io/plugin/dbresolver v1.6.2
 	gortc.io/stun v1.23.0
 	gotest.tools/v3 v3.5.2
-	gvisor.dev/gvisor v0.0.0-20240423190808-9d7a357edefe
+	gvisor.dev/gvisor v0.0.0-20260218152508-eed1cebf761e
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.7.0
 	howett.net/plist v1.0.1
