@@ -628,7 +628,7 @@ require (
 	github.com/go-quicktest/qt v1.101.1-0.20240301121107-c6c8733fa1e6
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/go-resty/resty/v2 v2.17.1
+	github.com/go-resty/resty/v2 v2.17.2
 	github.com/go-sql-driver/mysql v1.9.3
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.33.1
@@ -964,7 +964,7 @@ require (
 	github.com/libdns/libdns v1.1.1
 	github.com/lightjameslyy/maxminddb-golang v1.9.1
 	github.com/linkedin/goavro/v2 v2.15.0
-	github.com/linode/linodego v1.65.0
+	github.com/linode/linodego v1.66.0
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.3.0
 	github.com/lufeee/execinquery v1.2.1
