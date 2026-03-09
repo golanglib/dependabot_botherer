@@ -785,7 +785,7 @@ require (
 	github.com/hanwen/go-fuse v1.0.0
 	github.com/hanwen/go-fuse/v2 v2.9.0
 	github.com/hanzoai/gochimp3 v0.0.0-20241127054040-6051f77e24f1
-	github.com/harlow/kinesis-consumer v0.3.6
+	github.com/harlow/kinesis-consumer v0.4.1
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-getter/gcs/v2 v2.2.3
@@ -1736,6 +1736,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.19 // indirect
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.37.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.0.7 // indirect
+	github.com/awslabs/kinesis-aggregation/go/v2 v2.0.0-20241004223953-c2774b1ab29b // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.2.0 // indirect
