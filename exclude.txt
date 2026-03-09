@@ -306,7 +306,7 @@ github.com/yusufpapurcu/wmi
 //[github.com/yusufpapurcu/wmi] "": no buildable Go source files in /home/runner/go/pkg/mod/github.com/yusufpapurcu/wmi@v1.2.4
 //[github.com/yusufpapurcu/wmi] no importable packages found
 go.mongodb.org/mongo-driver
-//[go.mongodb.org/mongo-driver] dir: /home/runner/go/pkg/mod/go.mongodb.org/mongo-driver@v1.17.6
+//[go.mongodb.org/mongo-driver] dir: /home/runner/go/pkg/mod/go.mongodb.org/mongo-driver@v1.17.4
 //[go.mongodb.org/mongo-driver] module has replace
 go.opentelemetry.io/collector
 //[go.opentelemetry.io/collector] dir: /home/runner/go/pkg/mod/go.opentelemetry.io/collector@v0.147.0

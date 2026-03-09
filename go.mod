@@ -248,7 +248,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.18
 	github.com/aws/smithy-go v1.24.2
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
-	github.com/awslabs/kinesis-aggregation/go v0.0.0-20210630091500-54e17340d32f
+	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
 	github.com/aymanbagabas/go-osc52 v1.2.2
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1
 	github.com/aymanbagabas/go-udiff v0.4.1
@@ -570,7 +570,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20260217161652-7bec47e1f870
+	github.com/go-ap/activitypub v0.0.0-20260309180253-5f9949892033
 	github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966
 	github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
@@ -1437,7 +1437,7 @@ require (
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/v2fly/v2ray-core/v5 v5.47.0
 	github.com/valyala/fasthttp v1.69.0
-	github.com/valyala/fastjson v1.6.7
+	github.com/valyala/fastjson v1.6.10
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.24.0
 	github.com/vapourismo/knx-go v0.0.0-20260208154845-3f9ffa9dc4c1
