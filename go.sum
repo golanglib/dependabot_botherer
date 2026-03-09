@@ -5746,8 +5746,8 @@ go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.65.0 h1:7iP2uCb
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.65.0/go.mod h1:c7hN3ddxs/z6q9xwvfLPk+UHlWRQyaeR1LdgfL/66l0=
 go.opentelemetry.io/contrib/propagators/autoprop v0.66.0 h1:gy5EF1w9wU6uUTaaWNa335yWn41jxkFg6OM9JXkbOxw=
 go.opentelemetry.io/contrib/propagators/autoprop v0.66.0/go.mod h1:wc0aFc/8Th/UybDUy21U05lO1ENoTBzWdjaNpYlCkSE=
-go.opentelemetry.io/contrib/propagators/aws v1.41.0 h1:XfxrpJSi+57+c0R5hgf2PJ9bCxLI4JwHJ/LR3GZKtXY=
-go.opentelemetry.io/contrib/propagators/aws v1.41.0/go.mod h1:Oj8RSiDVWc1EmiuP/jd1bc98639awR/XKXEA/zY2Jns=
+go.opentelemetry.io/contrib/propagators/aws v1.42.0 h1:Kbr3xDxs6kcxp5ThXTKWK2OtwLhNoXBVtqguNYcsZL0=
+go.opentelemetry.io/contrib/propagators/aws v1.42.0/go.mod h1:Jzw9hZHtxdpCN7x8S17UH59X/EiFivp6VXLs9bdM1OQ=
 go.opentelemetry.io/contrib/propagators/b3 v1.41.0 h1:yzplYIx9maUG/KIq6YhLm2jXOFP+2fdiXGYmubV7l1M=
 go.opentelemetry.io/contrib/propagators/b3 v1.41.0/go.mod h1:7wqcPkVIx1LaxMD5LwqvQ4OUXjusQGOnD/hrGBl6rws=
 go.opentelemetry.io/contrib/propagators/jaeger v1.41.0 h1:uw+ghxLS0Wb98XfAhgJVQvAmmNJzT7jE30wJ4sKBrWs=
