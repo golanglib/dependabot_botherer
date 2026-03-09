@@ -619,7 +619,7 @@ require (
 	github.com/go-openapi/spec v0.22.4
 	github.com/go-openapi/strfmt v0.26.0
 	github.com/go-openapi/swag v0.25.5
-	github.com/go-openapi/validate v0.25.1
+	github.com/go-openapi/validate v0.25.2
 	github.com/go-playground/assert/v2 v2.2.0
 	github.com/go-playground/form/v4 v4.3.0
 	github.com/go-playground/locales v0.14.1
