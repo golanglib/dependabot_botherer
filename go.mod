@@ -609,15 +609,15 @@ require (
 	github.com/go-logr/stdr v1.2.2
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-ole/go-ole v1.3.0
-	github.com/go-openapi/analysis v0.24.2
+	github.com/go-openapi/analysis v0.24.3
 	github.com/go-openapi/errors v0.22.7
 	github.com/go-openapi/inflect v0.21.5
 	github.com/go-openapi/jsonpointer v0.22.5
 	github.com/go-openapi/jsonreference v0.21.5
-	github.com/go-openapi/loads v0.23.2
+	github.com/go-openapi/loads v0.23.3
 	github.com/go-openapi/runtime v0.29.2
 	github.com/go-openapi/spec v0.22.4
-	github.com/go-openapi/strfmt v0.25.0
+	github.com/go-openapi/strfmt v0.26.0
 	github.com/go-openapi/swag v0.25.5
 	github.com/go-openapi/validate v0.25.1
 	github.com/go-playground/assert/v2 v2.2.0
@@ -1871,7 +1871,7 @@ require (
 	github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86 // indirect
 	github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c // indirect
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
-	github.com/oklog/ulid v1.3.1 // indirect
+	github.com/oklog/ulid/v2 v2.1.1 // indirect
 	github.com/olekukonko/cat v0.0.0-20250911104152-50322a0618f6 // indirect
 	github.com/olekukonko/errors v1.2.0 // indirect
 	github.com/olekukonko/ll v0.1.7 // indirect
@@ -1938,7 +1938,6 @@ require (
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go.etcd.io/raft/v3 v3.6.0 // indirect
-	go.mongodb.org/mongo-driver v1.17.6 // indirect
 	go.mongodb.org/mongo-driver/v2 v2.5.0 // indirect
 	go.opentelemetry.io/collector/consumer/consumererror v0.120.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.42.0 // indirect
