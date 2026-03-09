@@ -1091,7 +1091,7 @@ require (
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
 	github.com/nats-io/jwt/v2 v2.8.0
-	github.com/nats-io/nats-server/v2 v2.12.4
+	github.com/nats-io/nats-server/v2 v2.12.5
 	github.com/nats-io/nkeys v0.4.15
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
@@ -1572,12 +1572,12 @@ require (
 	golang.org/x/net v0.51.0
 	golang.org/x/oauth2 v0.35.0
 	golang.org/x/sync v0.19.0
-	golang.org/x/sys v0.41.0
+	golang.org/x/sys v0.42.0
 	golang.org/x/telemetry v0.0.0-20260209163413-e7419c687ee4
 	golang.org/x/telemetry/config v0.89.0
 	golang.org/x/term v0.40.0
 	golang.org/x/text v0.34.0
-	golang.org/x/time v0.14.0
+	golang.org/x/time v0.15.0
 	golang.org/x/tools v0.42.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
