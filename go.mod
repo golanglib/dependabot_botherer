@@ -1533,7 +1533,7 @@ require (
 	go.opentelemetry.io/auto/sdk v1.2.1
 	go.opentelemetry.io/contrib v1.41.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.42.0
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.66.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.67.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.66.0
 	go.opentelemetry.io/contrib/propagators/aws v1.42.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.41.0
