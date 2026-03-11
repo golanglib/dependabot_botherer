@@ -1586,7 +1586,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
 	google.golang.org/adk v0.6.0
-	google.golang.org/api v0.270.0
+	google.golang.org/api v0.271.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.49.0
 	google.golang.org/genproto v0.0.0-20260217215200-42d3e9bedb6d
