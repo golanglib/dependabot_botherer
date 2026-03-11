@@ -9,7 +9,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
-	cloud.google.com/go/auth v0.18.2
+	cloud.google.com/go/auth v0.18.3-0.20260310051336-87cdcc9f7568
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.74.0
 	cloud.google.com/go/compute v1.56.0
@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/longrunning v0.8.0
 	cloud.google.com/go/monitoring v1.24.3
 	cloud.google.com/go/pubsub v1.50.1
-	cloud.google.com/go/storage v1.61.0
+	cloud.google.com/go/storage v1.61.1
 	cloud.google.com/go/trace v1.11.7
 	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.23.2
@@ -1586,7 +1586,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
 	google.golang.org/adk v0.6.0
-	google.golang.org/api v0.270.0
+	google.golang.org/api v0.271.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.49.0
 	google.golang.org/genproto v0.0.0-20260217215200-42d3e9bedb6d
