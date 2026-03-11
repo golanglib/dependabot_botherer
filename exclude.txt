@@ -155,7 +155,7 @@ github.com/hashicorp/consul
 //go: to switch to the latest unretracted version, run:
 //	go get github.com/hashicorp/go-msgpack@latest
 github.com/hashicorp/nomad
-//[github.com/hashicorp/nomad] dir: /home/runner/go/pkg/mod/github.com/hashicorp/nomad@v1.11.2
+//[github.com/hashicorp/nomad] dir: /home/runner/go/pkg/mod/github.com/hashicorp/nomad@v1.11.3
 //[github.com/hashicorp/nomad] module has replace
 github.com/hashicorp/vault
 //go: github.com/hashicorp/vault imports
