@@ -2657,8 +2657,8 @@ github.com/go-webauthn/revoke v0.1.10 h1:GSJNJ8NbgeMaINAxMV7D4uBjyQnqCzAfB8ZfgNy
 github.com/go-webauthn/revoke v0.1.10/go.mod h1:rwjnIbJHdWgp9jlRU8Y3r7DX8PZ8+ZusDaMVhaMIMrk=
 github.com/go-webauthn/webauthn v0.16.0 h1:A9BkfYIwWAMPSQCbM2HoWqo6JO5LFI8aqYAzo6nW7AY=
 github.com/go-webauthn/webauthn v0.16.0/go.mod h1:hm9RS/JNYeUu3KqGbzqlnHClhDGCZzTZlABjathwnN0=
-github.com/go-webauthn/x v0.2.1 h1:/oB8i0FhSANuoN+YJF5XHMtppa7zGEYaQrrf6ytotjc=
-github.com/go-webauthn/x v0.2.1/go.mod h1:Wm0X0zXkzznit4gHj4m82GiBZRMEm+TDUIoJWIQLsE4=
+github.com/go-webauthn/x v0.2.2 h1:zIiipvMbr48CXi5RG0XdBJR94kd8I5LfzHPb/q+YYmk=
+github.com/go-webauthn/x v0.2.2/go.mod h1:IpJ5qyWB9NRhLX3C7gIfjTU7RZLXEP6kzFkoVSE7Fz4=
 github.com/go-zookeeper/zk v1.0.1/go.mod h1:gpJdHazfkmlg4V0rt0vYeHYJHSL8hHFwV0qOd+HRTJE=
 github.com/go-zookeeper/zk v1.0.2/go.mod h1:nOB03cncLtlp4t+UAkGSV+9beXP/akpekBwL+UX1Qcw=
 github.com/go-zookeeper/zk v1.0.4 h1:DPzxraQx7OrPyXq2phlGlNSIyWEsAox0RJmjTseMV6I=
