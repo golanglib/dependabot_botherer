@@ -525,7 +525,7 @@ require (
 	github.com/ettle/strcase v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/evanw/esbuild v0.27.3
+	github.com/evanw/esbuild v0.27.4
 	github.com/expr-lang/expr v1.17.8
 	github.com/facebook/time v0.0.0-20260306134436-126f6052a1a3
 	github.com/fatih/color v1.18.0
