@@ -1132,7 +1132,7 @@ require (
 	github.com/openconfig/goyang v1.6.3
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.1
-	github.com/opencontainers/runc v1.4.0
+	github.com/opencontainers/runc v1.4.1
 	github.com/opencontainers/selinux v1.13.1
 	github.com/opensearch-project/opensearch-go v1.1.0
 	github.com/opensearch-project/opensearch-go/v2 v2.3.0
@@ -1694,7 +1694,7 @@ require (
 	cloud.google.com/go/pubsub/v2 v2.2.1 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	codeberg.org/chavacava/garif v0.2.0 // indirect
-	cyphar.com/go-pathrs v0.2.1 // indirect
+	cyphar.com/go-pathrs v0.2.4 // indirect
 	filippo.io/bigmod v0.1.0 // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
