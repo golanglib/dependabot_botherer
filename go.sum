@@ -2417,8 +2417,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20260309180253-5f9949892033 h1:Rbm+xNMTe/FoeMDJdwH69MH3kFVKbi/r1r62Vfa1whs=
-github.com/go-ap/activitypub v0.0.0-20260309180253-5f9949892033/go.mod h1:ffwCMw2MD4QAGbZJgJ9DMNkaH1rZ5XVyEL33WYw8+5I=
+github.com/go-ap/activitypub v0.0.0-20260314162927-f37166117816 h1:y1bSeujNV3umW2dATu1h9siSzrqNcddD625sw57l3Uw=
+github.com/go-ap/activitypub v0.0.0-20260314162927-f37166117816/go.mod h1:ffwCMw2MD4QAGbZJgJ9DMNkaH1rZ5XVyEL33WYw8+5I=
 github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966 h1:tV+3kZgqFMKVUf+JPKBV400ISM8440+6y/SQCS0WZwQ=
 github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966/go.mod h1:zkp58Q5yXpCxZbh3d0GDvwqiYclfVuHEHjc9SZKAj6I=
 github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77 h1:yHAmoR6avNy84PlLmjHt1z9flAp2Qs2ens5QDE/CNWk=
@@ -2830,8 +2830,8 @@ github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe h1:6RGUuS7EGotKx6
 github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe/go.mod h1:gjqyPShc/m8pEMpk0a3SeagVb0kaqvhscv+i9jI5ZhQ=
 github.com/golangci/go-printf-func-name v0.1.1 h1:hIYTFJqAGp1iwoIfsNTpoq1xZAarogrvjO9AfiW3B4U=
 github.com/golangci/go-printf-func-name v0.1.1/go.mod h1:Es64MpWEZbh0UBtTAICOZiB+miW53w/K9Or/4QogJss=
-github.com/golangci/gofmt v0.0.0-20251215234548-e7be49a5ab4d h1:7Vk1kMg7H+H6YVOQlJj1Eac4TgpylbOXOQp8hJTTNgo=
-github.com/golangci/gofmt v0.0.0-20251215234548-e7be49a5ab4d/go.mod h1:otKf/6iIqxE63jjoqGYpkwGAJmMyXS1HToujXO7T5CQ=
+github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d h1:viFft9sS/dxoYY0aiOTsLKO2aZQAPT4nlQCsimGcSGE=
+github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d/go.mod h1:ivJ9QDg0XucIkmwhzCDsqcnxxlDStoTl89jDMIoNxKY=
 github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219 h1:utua3L2IbQJmauC5IXdEA547bcoU5dozgQAfc8Onsg4=
 github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219/go.mod h1:/X8TswGSh1pIozq4ZwCfxS0WA5JGXguxk94ar/4c87Y=
 github.com/golangci/misspell v0.8.0 h1:qvxQhiE2/5z+BVRo1kwYA8yGz+lOlu5Jfvtx2b04Jbg=
