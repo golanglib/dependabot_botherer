@@ -394,7 +394,7 @@ require (
 	github.com/cloudwego/eino v0.8.1
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260313050455-88e279b3b32f
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.65
-	github.com/cloudwego/eino-ext/components/model/openai v0.1.9
+	github.com/cloudwego/eino-ext/components/model/openai v0.1.10
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260313050455-88e279b3b32f
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
