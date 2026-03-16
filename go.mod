@@ -551,7 +551,7 @@ require (
 	github.com/gdamore/tcell v1.4.1
 	github.com/gdamore/tcell/v2 v2.13.8
 	github.com/geoffgarside/ber v1.2.0
-	github.com/getkin/kin-openapi v0.133.0
+	github.com/getkin/kin-openapi v0.134.0
 	github.com/ghostiam/protogetter v0.3.19
 	github.com/gin-contrib/cors v1.7.6
 	github.com/gin-contrib/gzip v1.2.5
@@ -1117,8 +1117,8 @@ require (
 	github.com/nyaruka/phonenumbers v1.6.11
 	github.com/oapi-codegen/runtime v1.2.0
 	github.com/oapi-codegen/testutil v1.1.0
-	github.com/oasdiff/yaml v0.0.0-20250309154309-f31be36b4037
-	github.com/oasdiff/yaml3 v0.0.0-20250309153720-d2182401db90
+	github.com/oasdiff/yaml v0.0.0-20260313112342-a3ea61cb4d4c
+	github.com/oasdiff/yaml3 v0.0.0-20260224194419-61cd415a242b
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
 	github.com/oleiade/lane v1.0.1
 	github.com/olekukonko/tablewriter v1.1.4
