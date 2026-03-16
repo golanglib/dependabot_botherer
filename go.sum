@@ -4756,8 +4756,8 @@ github.com/rcrowley/go-metrics v0.0.0-20250401214520-65e299d6c5c9 h1:bsUq1dX0N8A
 github.com/rcrowley/go-metrics v0.0.0-20250401214520-65e299d6c5c9/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/redis/go-redis/v9 v9.18.0 h1:pMkxYPkEbMPwRdenAzUNyFNrDgHx9U+DrBabWNfSRQs=
 github.com/redis/go-redis/v9 v9.18.0/go.mod h1:k3ufPphLU5YXwNTUcCRXGxUoF1fqxnhFQmscfkCoDA0=
-github.com/redis/rueidis v1.0.72 h1:rc1ZUha266B7PYAeZp0OafXFcGz69WKy0aHtbkZzrJg=
-github.com/redis/rueidis v1.0.72/go.mod h1:lfdcZzJ1oKGKL37vh9fO3ymwt+0TdjkkUCJxbgpmcgQ=
+github.com/redis/rueidis v1.0.73 h1:0Enrg0VuMdaYyNDDj0lLIheWY0uybCeQOh+jTp2GG3M=
+github.com/redis/rueidis v1.0.73/go.mod h1:lfdcZzJ1oKGKL37vh9fO3ymwt+0TdjkkUCJxbgpmcgQ=
 github.com/refraction-networking/utls v1.8.2 h1:j4Q1gJj0xngdeH+Ox/qND11aEfhpgoEvV+S9iJ2IdQo=
 github.com/refraction-networking/utls v1.8.2/go.mod h1:jkSOEkLqn+S/jtpEHPOsVv/4V4EVnelwbMQl4vCWXAM=
 github.com/relvacode/iso8601 v1.7.0 h1:BXy+V60stMP6cpswc+a93Mq3e65PfXCgDFfhvNNGrdo=
