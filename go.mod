@@ -392,13 +392,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.8.0
 	github.com/cloudwego/eino v0.8.3
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260313050455-88e279b3b32f
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260316121515-014a29323bbe
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.65
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.10
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260313050455-88e279b3b32f
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260316121515-014a29323bbe
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260313050455-88e279b3b32f
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260316121515-014a29323bbe
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.14
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -406,7 +406,7 @@ require (
 	github.com/cloudwego/hertz v0.10.4
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260313080206-147c2ac76c42
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260316033545-571bbeebd254
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
