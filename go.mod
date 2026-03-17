@@ -1090,7 +1090,7 @@ require (
 	github.com/mustafaturan/monoton v1.0.0
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
-	github.com/nats-io/jwt/v2 v2.8.0
+	github.com/nats-io/jwt/v2 v2.8.1
 	github.com/nats-io/nats-server/v2 v2.12.5
 	github.com/nats-io/nkeys v0.4.15
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
