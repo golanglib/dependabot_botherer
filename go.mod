@@ -1297,7 +1297,7 @@ require (
 	github.com/sergi/go-diff v1.4.0
 	github.com/sethvargo/go-retry v0.3.0
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/shoenig/go-m1cpu v0.2.0
+	github.com/shoenig/go-m1cpu v0.2.1
 	github.com/shoenig/test v1.12.2
 	github.com/shopspring/decimal v1.4.0
 	github.com/showwin/speedtest-go v1.7.10
