@@ -5,8 +5,8 @@
 bazil.org/fuse v0.0.0-20180421153158-65cc252bf669/go.mod h1:Xbm+BRKSBEpa4q4hTSxohYNQpsxXPbPry4JJWOB3LB8=
 bitbucket.org/creachadair/stringset v0.0.14 h1:t1ejQyf8utS4GZV/4fM+1gvYucggZkfhb+tMobDxYOE=
 bitbucket.org/creachadair/stringset v0.0.14/go.mod h1:Ej8fsr6rQvmeMDf6CCWMWGb14H9mz8kmDgPPTdiVT0w=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260209202127-80ab13bee0bf.1 h1:PMmTMyvHScV9Mn8wc6ASge9uRcHy0jtqPd+fM35LmsQ=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260209202127-80ab13bee0bf.1/go.mod h1:tvtbpgaVXZX4g6Pn+AnzFycuRK3MOz5HJfEGeEllXYM=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1 h1:4erM3WLgEG/HIBrpBDmRbs1puhd7p0z7kNXDuhHthwM=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1/go.mod h1:novQBstnxcGpfKf8qGRATqn1anQKwMJIbH5Q581jibU=
 cel.dev/expr v0.25.1 h1:1KrZg61W6TWSxuNZ37Xy49ps13NUovb66QLprthtwi4=
 cel.dev/expr v0.25.1/go.mod h1:hrXvqGP6G6gyx8UAHSHJ5RGk//1Oj5nXQ2NI02Nrsg4=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
@@ -709,8 +709,8 @@ github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289 h1:VwsMP5SbzLW4Xi93
 github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289/go.mod h1:bJ64JsKB/XQJtJCuaXJG5REkWCFjhyqbjytut3gOasM=
 github.com/42wim/httpsig v1.2.3 h1:xb0YyWhkYj57SPtfSttIobJUPJZB9as1nsfo7KWVcEs=
 github.com/42wim/httpsig v1.2.3/go.mod h1:nZq9OlYKDrUBhptd77IHx4/sZZD+IxTBADvAPI9G/EM=
-github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920 h1:mWAVGlovzUfREJBhm0GwJnDNu21yRrL9QH9NIzAU3rg=
-github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920/go.mod h1:zWxcT7BIWOe05xVJL0VMvO/PJ6RpoCux10heb77H6Q8=
+github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432 h1:3Fcz1QzlS7Jv4FT2KI3cHNSZL+KPN3dXxurn9f3YL/Y=
+github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432/go.mod h1:BLWe6Nol65Xxncvaw07yYMxiyk02We1lBrbRYsMYsjE=
 github.com/4meepo/tagalign v1.4.3 h1:Bnu7jGWwbfpAie2vyl63Zup5KuRv21olsPIha53BJr8=
 github.com/4meepo/tagalign v1.4.3/go.mod h1:00WwRjiuSbrRJnSVeGWPLp2epS5Q/l4UEy0apLLS37c=
 github.com/6543/go-version v1.4.0 h1:iNYLzyjZarPImMoauoqjFP+hkdny/Zp1ecg5pS+AGuU=

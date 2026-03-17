@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260209202127-80ab13bee0bf.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.18.2
@@ -44,7 +44,7 @@ require (
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
 	github.com/42wim/httpsig v1.2.3
-	github.com/42wim/sshsig v0.0.0-20250502153856-5100632e8920
+	github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432
 	github.com/4meepo/tagalign v1.4.3
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.88
