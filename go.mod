@@ -672,7 +672,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.157.0
+	github.com/gohugoio/hugo v0.158.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.6.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.4.0
 	github.com/gohugoio/locales v0.15.5
@@ -1691,7 +1691,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/pubsub/v2 v2.2.1 // indirect
+	cloud.google.com/go/pubsub/v2 v2.3.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	codeberg.org/chavacava/garif v0.2.0 // indirect
 	cyphar.com/go-pathrs v0.2.4 // indirect
@@ -1734,7 +1734,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.11.20 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.20 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.20 // indirect
-	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.37.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.40.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.0.8 // indirect
 	github.com/awslabs/kinesis-aggregation/go/v2 v2.0.0-20241004223953-c2774b1ab29b // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
