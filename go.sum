@@ -707,8 +707,8 @@ github.com/3andne/restls-client-go v0.1.6 h1:tRx/YilqW7iHpgmEL4E1D8dAsuB0tFF3uvn
 github.com/3andne/restls-client-go v0.1.6/go.mod h1:iEdTZNt9kzPIxjIGSMScUFSBrUH6bFRNg0BWlP4orEY=
 github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289 h1:VwsMP5SbzLW4Xi93PPZE9zvFP6b4tJzmp1Mpc5qtpBk=
 github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289/go.mod h1:bJ64JsKB/XQJtJCuaXJG5REkWCFjhyqbjytut3gOasM=
-github.com/42wim/httpsig v1.2.3 h1:xb0YyWhkYj57SPtfSttIobJUPJZB9as1nsfo7KWVcEs=
-github.com/42wim/httpsig v1.2.3/go.mod h1:nZq9OlYKDrUBhptd77IHx4/sZZD+IxTBADvAPI9G/EM=
+github.com/42wim/httpsig v1.2.4 h1:mI5bH0nm4xn7K18fo1K3okNDRq8CCJ0KbBYWyA6r8lU=
+github.com/42wim/httpsig v1.2.4/go.mod h1:yKsYfSyTBEohkPik224QPFylmzEBtda/kjyIAJjh3ps=
 github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432 h1:3Fcz1QzlS7Jv4FT2KI3cHNSZL+KPN3dXxurn9f3YL/Y=
 github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432/go.mod h1:BLWe6Nol65Xxncvaw07yYMxiyk02We1lBrbRYsMYsjE=
 github.com/4meepo/tagalign v1.4.3 h1:Bnu7jGWwbfpAie2vyl63Zup5KuRv21olsPIha53BJr8=
