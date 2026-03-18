@@ -17,7 +17,7 @@ require (
 	cloud.google.com/go/datacatalog v1.26.1
 	cloud.google.com/go/firestore v1.21.0
 	cloud.google.com/go/iam v1.5.3
-	cloud.google.com/go/kms v1.25.0
+	cloud.google.com/go/kms v1.26.0
 	cloud.google.com/go/logging v1.13.2
 	cloud.google.com/go/longrunning v0.8.0
 	cloud.google.com/go/monitoring v1.24.3
@@ -1546,7 +1546,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.42.0
 	go.opentelemetry.io/proto/otlp v1.10.0
 	go.starlark.net v0.0.0-20260210143700-b62fd896b91b
-	go.step.sm/crypto v0.76.2
+	go.step.sm/crypto v0.77.1
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.19.0
