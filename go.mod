@@ -1254,7 +1254,7 @@ require (
 	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/ryancurrah/gomodguard v1.4.1
-	github.com/ryanrolds/sqlclosecheck v0.5.1
+	github.com/ryanrolds/sqlclosecheck v0.6.0
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
 	github.com/safchain/ethtool v0.7.0
