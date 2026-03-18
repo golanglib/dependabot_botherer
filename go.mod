@@ -527,7 +527,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.27.4
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260313150915-94b3d731cbd6
+	github.com/facebook/time v0.0.0-20260318114419-bdea55e939d7
 	github.com/fatih/color v1.18.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
