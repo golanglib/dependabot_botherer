@@ -1514,17 +1514,17 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.83.1
 	go.etcd.io/bbolt v1.4.3
-	go.etcd.io/etcd/api/v3 v3.6.8
-	go.etcd.io/etcd/client/pkg/v3 v3.6.8
+	go.etcd.io/etcd/api/v3 v3.6.9
+	go.etcd.io/etcd/client/pkg/v3 v3.6.9
 	go.etcd.io/etcd/client/v2 v2.305.26
-	go.etcd.io/etcd/client/v3 v3.6.8
-	go.etcd.io/etcd/etcdctl/v3 v3.6.8
-	go.etcd.io/etcd/etcdutl/v3 v3.6.8
-	go.etcd.io/etcd/pkg/v3 v3.6.8
+	go.etcd.io/etcd/client/v3 v3.6.9
+	go.etcd.io/etcd/etcdctl/v3 v3.6.9
+	go.etcd.io/etcd/etcdutl/v3 v3.6.9
+	go.etcd.io/etcd/pkg/v3 v3.6.9
 	go.etcd.io/etcd/raft/v3 v3.5.26
-	go.etcd.io/etcd/server/v3 v3.6.8
-	go.etcd.io/etcd/tests/v3 v3.6.8
-	go.etcd.io/etcd/v3 v3.6.8
+	go.etcd.io/etcd/server/v3 v3.6.9
+	go.etcd.io/etcd/tests/v3 v3.6.9
+	go.etcd.io/etcd/v3 v3.6.9
 	go.etcd.io/gofail v0.2.0
 	go.jolheiser.com/hcaptcha v0.0.4
 	go.jolheiser.com/pwn v0.0.3
