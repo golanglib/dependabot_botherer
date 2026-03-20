@@ -315,7 +315,7 @@ require (
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
 	github.com/bombsimon/wsl/v4 v4.7.0
-	github.com/bool64/dev v0.2.43
+	github.com/bool64/dev v0.2.45
 	github.com/bool64/shared v0.1.6
 	github.com/boombuler/barcode v1.1.0
 	github.com/boschrexroth/ctrlx-datalayer-golang v1.3.1
