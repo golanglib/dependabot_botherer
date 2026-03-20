@@ -528,7 +528,7 @@ require (
 	github.com/evanw/esbuild v0.27.4
 	github.com/expr-lang/expr v1.17.8
 	github.com/facebook/time v0.0.0-20260320165031-7a76f788e135
-	github.com/fatih/color v1.18.0
+	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
 	github.com/felixge/fgprof v0.9.5
