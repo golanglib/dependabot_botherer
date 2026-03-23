@@ -1676,7 +1676,7 @@ import (
 	_ "sigs.k8s.io/kustomize/kyaml"
 	_ "sigs.k8s.io/structured-merge-diff/v4/fieldpath"
 	_ "sigs.k8s.io/yaml"
-	_ "storj.io/common/base58"
+	_ "storj.io/common/accesslogs"
 	_ "storj.io/drpc"
 	_ "storj.io/eventkit"
 	_ "storj.io/infectious"
