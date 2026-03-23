@@ -1041,7 +1041,7 @@ require (
 	github.com/microsoft/go-mssqldb v1.9.8
 	github.com/miekg/dns v1.1.72
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
-	github.com/minio/highwayhash v1.0.4-0.20251030100505-070ab1a87a76
+	github.com/minio/highwayhash v1.0.4
 	github.com/minio/md5-simd v1.1.2
 	github.com/minio/minio-go/v7 v7.0.99
 	github.com/minio/sha256-simd v1.0.1
