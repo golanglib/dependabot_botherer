@@ -6596,8 +6596,8 @@ gonum.org/v1/netlib v0.0.0-20190313105609-8cb42192e0e0/go.mod h1:wa6Ws7BG/ESfp6d
 gonum.org/v1/plot v0.0.0-20190515093506-e2840ee46a6b/go.mod h1:Wt8AAjI+ypCyYX3nZBvf6cAIx93T+c/OS2HFAYskSZc=
 gonum.org/v1/plot v0.9.0/go.mod h1:3Pcqqmp6RHvJI72kgb8fThyUnav364FOsdDo2aGW5lY=
 gonum.org/v1/plot v0.10.1/go.mod h1:VZW5OlhkL1mysU9vaqNHnsy86inf6Ot+jB3r+BczCEo=
-google.golang.org/adk v0.6.0 h1:hQl+K1qcvJ+B6rGBI+9T/Y6t21XsBQ8pRJqZYaOwK5M=
-google.golang.org/adk v0.6.0/go.mod h1:nSTAyo0DQnua9dfuiDpMWq2crE9jE24ZaFJO4hwueUI=
+google.golang.org/adk v1.0.0 h1:DcJGKH9YweOdsAvE5Hu9UhhLoVYcNEVKzvOPS+B49lQ=
+google.golang.org/adk v1.0.0/go.mod h1:wLmpRAp0zXcrdUN2V6mNoh+mj/4O16k0YzGJMNF7Mjk=
 google.golang.org/api v0.0.0-20180910000450-7ca32eb868bf/go.mod h1:4mhQ8q/RsB7i+udVvVy5NUi08OU8ZlA0gRVgrF7VFY0=
 google.golang.org/api v0.0.0-20181030000543-1d582fd0359e/go.mod h1:4mhQ8q/RsB7i+udVvVy5NUi08OU8ZlA0gRVgrF7VFY0=
 google.golang.org/api v0.1.0/go.mod h1:UGEZY7KEX120AnNLIHFMKIo4obdJhkp2tPbaPlQx13Y=
