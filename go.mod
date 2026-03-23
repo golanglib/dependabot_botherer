@@ -1521,7 +1521,7 @@ require (
 	go.etcd.io/etcd/etcdctl/v3 v3.6.9
 	go.etcd.io/etcd/etcdutl/v3 v3.6.9
 	go.etcd.io/etcd/pkg/v3 v3.6.9
-	go.etcd.io/etcd/raft/v3 v3.5.26
+	go.etcd.io/etcd/raft/v3 v3.5.28
 	go.etcd.io/etcd/server/v3 v3.6.9
 	go.etcd.io/etcd/tests/v3 v3.6.9
 	go.etcd.io/etcd/v3 v3.6.9
