@@ -1160,7 +1160,7 @@ require (
 	github.com/pborman/uuid v1.2.1
 	github.com/pdfcpu/pdfcpu v0.11.1
 	github.com/pelletier/go-toml v1.9.5
-	github.com/pelletier/go-toml/v2 v2.2.4
+	github.com/pelletier/go-toml/v2 v2.3.0
 	github.com/perimeterx/marshmallow v1.1.5
 	github.com/peterbourgon/diskv/v3 v3.0.1
 	github.com/peterbourgon/unixtransport v0.0.7
