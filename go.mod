@@ -1058,7 +1058,7 @@ require (
 	github.com/moby/docker-image-spec v1.3.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
-	github.com/moby/patternmatcher v0.6.0
+	github.com/moby/patternmatcher v0.6.1
 	github.com/moby/sys/mountinfo v0.7.2
 	github.com/moby/sys/sequential v0.6.0
 	github.com/moby/sys/signal v0.7.1
