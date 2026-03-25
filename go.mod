@@ -673,7 +673,7 @@ require (
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
 	github.com/gohugoio/hugo v0.159.0
-	github.com/gohugoio/hugo-goldmark-extensions/extras v0.6.0
+	github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.4.0
 	github.com/gohugoio/locales v0.15.5
 	github.com/gohugoio/localescompressed v1.0.1
@@ -1485,7 +1485,7 @@ require (
 	github.com/yohcop/openid-go v1.0.1
 	github.com/yosida95/uritemplate/v3 v3.0.2
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
-	github.com/yuin/goldmark v1.8.1
+	github.com/yuin/goldmark v1.8.2
 	github.com/yuin/goldmark-emoji v1.0.6
 	github.com/yuin/goldmark-highlighting v0.0.0-20220208100518-594be1970594
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
