@@ -1098,7 +1098,7 @@ require (
 	github.com/ncruces/go-strftime v1.0.0
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.5
-	github.com/nektos/act v0.2.85
+	github.com/nektos/act v0.2.86
 	github.com/netsampler/goflow2 v1.3.7
 	github.com/netsampler/goflow2/v2 v2.2.6
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.8.1
@@ -1969,4 +1969,5 @@ require (
 	pack.ag/amqp v0.11.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.3.2-0.20260122202528-d9cc6641c482 // indirect
+	tags.cncf.io/container-device-interface v1.1.0 // indirect
 )
