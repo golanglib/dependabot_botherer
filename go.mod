@@ -117,7 +117,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.4.0
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/Max-Sum/base32768 v0.0.0-20230304063302-18e6ce5945fd
-	github.com/Mellanox/rdmamap v1.1.0
+	github.com/Mellanox/rdmamap v1.2.0
 	github.com/Microsoft/go-winio v0.6.2
 	github.com/Microsoft/hcsshim v0.14.0-rc.1
 	github.com/NYTimes/gziphandler v1.1.1
