@@ -2739,8 +2739,8 @@ github.com/gohugoio/hugo v0.159.0 h1:li71/V0br1Yrz8kyiIr89prbWgV8Is3vFI7l7tBGHZ0
 github.com/gohugoio/hugo v0.159.0/go.mod h1:iKd5lZVCVmsW7sy+UUK+RuEXXOo/orJ2zRI1gWfLKB0=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0 h1:I/n6v7VImJ3aISLnn73JAHXyjcQsMVvbguQPTk9Ehus=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0/go.mod h1:9LJNfKWFmhEJ7HW0in5znezMwH+FYMBIhNZ3VWtRcRs=
-github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.4.0 h1:awFlqaCQ0N/RS9ndIBpDYNms101I1sGbDRG1bksa5Js=
-github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.4.0/go.mod h1:lK1CjqrueCd3OBnsLLQJGrQ+uodWfT9M9Cq2zfDWJCE=
+github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0 h1:p13Q0DBCrBRpJGtbtlgkYNCs4TnIlZJh8vHgnAiofrI=
+github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0/go.mod h1:ob9PCHy/ocsQhTz68uxhyInaYCbbVNpOOrJkIoSeD+8=
 github.com/gohugoio/locales v0.14.0/go.mod h1:ip8cCAv/cnmVLzzXtiTpPwgJ4xhKZranqNqtoIu0b/4=
 github.com/gohugoio/locales v0.15.5 h1:lsOP9H+BrLJHWyntGFx172NZb7W4UrHCAgBWQVOA+o4=
 github.com/gohugoio/locales v0.15.5/go.mod h1:ipbld16M4g/Yrsp4+MxUG+cfYnaHAgSW3cgTOCe8clA=
