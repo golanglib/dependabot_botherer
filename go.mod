@@ -672,7 +672,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.159.0
+	github.com/gohugoio/hugo v0.159.1
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0
 	github.com/gohugoio/locales v0.15.5
@@ -1382,7 +1382,7 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20251031123324-a804aaa87491
 	github.com/tailscale/tscert v0.0.0-20251216020129-aea342f6d747
 	github.com/tdakkota/asciicheck v0.4.1
-	github.com/tdewolff/minify/v2 v2.24.10
+	github.com/tdewolff/minify/v2 v2.24.11
 	github.com/tdewolff/parse/v2 v2.8.11
 	github.com/tdewolff/test v1.0.11
 	github.com/tenntenn/modver v1.0.1
