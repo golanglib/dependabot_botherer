@@ -743,7 +743,7 @@ require (
 	github.com/google/wire v0.7.0
 	github.com/googleapis/enterprise-certificate-proxy v0.3.14
 	github.com/googleapis/gax-go v2.0.2+incompatible
-	github.com/googleapis/gax-go/v2 v2.19.0
+	github.com/googleapis/gax-go/v2 v2.20.0
 	github.com/gopacket/gopacket v1.5.0
 	github.com/gopcua/opcua v0.8.0
 	github.com/goph/emperror v0.17.2
@@ -1589,8 +1589,8 @@ require (
 	google.golang.org/api v0.273.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.51.0
-	google.golang.org/genproto v0.0.0-20260316180232-0b37fe3546d5
-	google.golang.org/genproto/googleapis/api v0.0.0-20260316180232-0b37fe3546d5
+	google.golang.org/genproto v0.0.0-20260319201613-d00831a3d3e7
+	google.golang.org/genproto/googleapis/api v0.0.0-20260319201613-d00831a3d3e7
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260319201613-d00831a3d3e7
 	google.golang.org/grpc v1.79.3
 	google.golang.org/protobuf v1.36.11
