@@ -339,7 +339,7 @@ require (
 	github.com/bytedance/gopkg v0.1.4
 	github.com/bytedance/mockey v1.4.5
 	github.com/bytedance/sonic v1.15.0
-	github.com/bytedance/sonic/loader v0.5.0
+	github.com/bytedance/sonic/loader v0.5.1
 	github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.57
 	github.com/byteplus-sdk/byteplus-sdk-golang v1.0.63
 	github.com/caarlos0/env/v6 v6.10.1
