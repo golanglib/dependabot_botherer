@@ -853,7 +853,7 @@ require (
 	github.com/influxdata/line-protocol-corpus v0.0.0-20210922080147-aa28ccfb8937
 	github.com/influxdata/line-protocol/v2 v2.2.1
 	github.com/influxdata/tail v1.0.0
-	github.com/insomniacslk/dhcp v0.0.0-20260220084031-5adc3eb26f91
+	github.com/insomniacslk/dhcp v0.0.0-20260326115832-991c7910cf36
 	github.com/intel/iaevents v1.1.0
 	github.com/intel/powertelemetry v1.0.2
 	github.com/invopop/jsonschema v0.13.0
@@ -968,11 +968,11 @@ require (
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.3.0
 	github.com/lufeee/execinquery v1.2.1
-	github.com/lufia/plan9stats v0.0.0-20260216142805-b3301c5f2a88
+	github.com/lufia/plan9stats v0.0.0-20260324052639-156f7da3f749
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
-	github.com/lxc/incus/v6 v6.22.0
+	github.com/lxc/incus/v6 v6.23.0
 	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
 	github.com/magefile/mage v1.17.0
@@ -1545,7 +1545,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.42.0
 	go.opentelemetry.io/otel/trace v1.42.0
 	go.opentelemetry.io/proto/otlp v1.10.0
-	go.starlark.net v0.0.0-20260210143700-b62fd896b91b
+	go.starlark.net v0.0.0-20260326113308-fadfc96def35
 	go.step.sm/crypto v0.77.1
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
@@ -1563,7 +1563,7 @@ require (
 	golang.org/x/arch v0.25.0
 	golang.org/x/crypto v0.49.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
-	golang.org/x/exp v0.0.0-20260218203240-3dfff04db8fa
+	golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
 	golang.org/x/image v0.38.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
@@ -1630,7 +1630,7 @@ require (
 	k8s.io/gengo/v2 v2.0.0-20250922181213-ec3ebc5fd46b
 	k8s.io/klog/v2 v2.140.0
 	k8s.io/kube-openapi v0.0.0-20250910181357-589584f1c912
-	k8s.io/utils v0.0.0-20260210185600-b8788abfbbc2
+	k8s.io/utils v0.0.0-20260319190234-28399d86e0b5
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.12001.0
 	lukechampine.com/blake3 v1.4.1
@@ -1874,7 +1874,7 @@ require (
 	github.com/oklog/ulid/v2 v2.1.1 // indirect
 	github.com/olekukonko/cat v0.0.0-20250911104152-50322a0618f6 // indirect
 	github.com/olekukonko/errors v1.2.0 // indirect
-	github.com/olekukonko/ll v0.1.7 // indirect
+	github.com/olekukonko/ll v0.1.8 // indirect
 	github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.111.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.136.0 // indirect
@@ -1948,7 +1948,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.40.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.40.0 // indirect
 	go.opentelemetry.io/otel/log v0.16.0 // indirect
-	go.yaml.in/yaml/v2 v2.4.3 // indirect
+	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.4 // indirect
 	golang.org/x/exp/shiny v0.0.0-20251002181428-27f1f14c8bb9 // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
