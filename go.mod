@@ -1435,7 +1435,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.47.0
+	github.com/v2fly/v2ray-core/v5 v5.48.0
 	github.com/valyala/fasthttp v1.69.0
 	github.com/valyala/fastjson v1.6.10
 	github.com/valyala/fasttemplate v1.2.2
@@ -1890,7 +1890,7 @@ require (
 	github.com/pion/ice/v4 v4.0.2 // indirect
 	github.com/pion/mdns/v2 v2.0.7 // indirect
 	github.com/pion/srtp/v3 v3.0.4 // indirect
-	github.com/pion/stun/v3 v3.0.0 // indirect
+	github.com/pion/stun/v3 v3.1.1 // indirect
 	github.com/pion/transport/v4 v4.0.1 // indirect
 	github.com/pion/turn/v4 v4.0.0 // indirect
 	github.com/pion/webrtc/v4 v4.0.0 // indirect
