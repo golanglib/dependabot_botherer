@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.33.11
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.0
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.14
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.296.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.296.1
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.43.4
 	github.com/aws/aws-sdk-go-v2/service/kms v1.50.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.97.2
@@ -1732,7 +1732,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.12 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.11.20 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.20 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.21 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.20 // indirect
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.40.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.0.8 // indirect
