@@ -1390,7 +1390,7 @@ require (
 	github.com/terminalstatic/go-xsd-validate v0.1.6
 	github.com/testcontainers/testcontainers-go v0.41.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.41.0
-	github.com/tetafro/godot v1.5.4
+	github.com/tetafro/godot v1.5.6
 	github.com/tetratelabs/wazero v1.11.0
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
 	github.com/tidwall/btree v1.8.1
