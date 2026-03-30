@@ -553,7 +553,7 @@ require (
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.134.0
 	github.com/ghostiam/protogetter v0.3.19
-	github.com/gin-contrib/cors v1.7.6
+	github.com/gin-contrib/cors v1.7.7
 	github.com/gin-contrib/gzip v1.2.5
 	github.com/gin-contrib/sessions v1.0.4
 	github.com/gin-contrib/sse v1.1.0
