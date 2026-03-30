@@ -2416,8 +2416,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20260314162927-f37166117816 h1:y1bSeujNV3umW2dATu1h9siSzrqNcddD625sw57l3Uw=
-github.com/go-ap/activitypub v0.0.0-20260314162927-f37166117816/go.mod h1:ffwCMw2MD4QAGbZJgJ9DMNkaH1rZ5XVyEL33WYw8+5I=
+github.com/go-ap/activitypub v0.0.0-20260330133938-2e4972ff690b h1:EGXBmJ2DP3w1DRwPK9lt8ouuaqrWynNyy6lShgMcUXg=
+github.com/go-ap/activitypub v0.0.0-20260330133938-2e4972ff690b/go.mod h1:w6NXBv0bl7reKJQ0N8mA/GrXFqZTENElwyHV+A4H8x8=
 github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966 h1:tV+3kZgqFMKVUf+JPKBV400ISM8440+6y/SQCS0WZwQ=
 github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966/go.mod h1:zkp58Q5yXpCxZbh3d0GDvwqiYclfVuHEHjc9SZKAj6I=
 github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77 h1:yHAmoR6avNy84PlLmjHt1z9flAp2Qs2ens5QDE/CNWk=
@@ -2767,8 +2767,8 @@ github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9/go.mod h1:8vg3r2V
 github.com/golang-sql/sqlexp v0.1.0 h1:ZCD6MBpcuOVfGVqsEmY5/4FtYiKz6tSyUv9LPEDei6A=
 github.com/golang-sql/sqlexp v0.1.0/go.mod h1:J4ad9Vo8ZCWQ2GMrC4UCQy1JpCbwU9m3EOqtpKwwwHI=
 github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0/go.mod h1:E/TSTwGwJL78qG/PmXZO1EjYhfJinVAhrmmHX6Z8B9k=
-github.com/golang/geo v0.0.0-20260328141014-8b970c039d06 h1:j+1P01wEldOsnwe1qD4Cl/xXskAbqU5ob675KL9DJb8=
-github.com/golang/geo v0.0.0-20260328141014-8b970c039d06/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
+github.com/golang/geo v0.0.0-20260330121607-8c42da6f7855 h1:KVBXKItTNS8Uc5CshFuIJVFqwCWeM3lE5sICZcofTRs=
+github.com/golang/geo v0.0.0-20260330121607-8c42da6f7855/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/glog v1.0.0/go.mod h1:EWib/APOK0SL3dFbYqvxE3UYd8E6s1ouQ7iEp/0LWV4=
 github.com/golang/glog v1.1.0/go.mod h1:pfYeQZ3JWZoXTV5sFc986z3HTpwQs9At6P4ImfuP3NQ=
