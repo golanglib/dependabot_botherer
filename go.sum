@@ -2373,8 +2373,8 @@ github.com/gin-contrib/gzip v1.2.5/go.mod h1:aomRgR7ftdZV3uWY0gW/m8rChfxau0n8YVv
 github.com/gin-contrib/sessions v1.1.0 h1:00mhHfNEGF5sP2fwxa98aRqj1FOJdL6IkR86n2hOiBo=
 github.com/gin-contrib/sessions v1.1.0/go.mod h1:TyYZDIs6qCQg2SOoYPgMT9pAkmZceVNEJMcv5qbIy60=
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
-github.com/gin-contrib/sse v1.1.0 h1:n0w2GMuUpWDVp7qSpvze6fAu9iRxJY4Hmj6AmBOU05w=
-github.com/gin-contrib/sse v1.1.0/go.mod h1:hxRZ5gVpWMT7Z0B0gSNYqqsSCNIJMjzvm6fqCz9vjwM=
+github.com/gin-contrib/sse v1.1.1 h1:uGYpNwTacv5R68bSGMapo62iLTRa9l5zxGCps4hK6ko=
+github.com/gin-contrib/sse v1.1.1/go.mod h1:QXzuVkA0YO7o/gun03UI1Q+FTI8ZV/n5t03kIQAI89s=
 github.com/gin-contrib/timeout v1.2.1 h1:vw+1K+rDo1M86G00A1RdQZDP9JJDcJjYj6+9ZVowjlk=
 github.com/gin-contrib/timeout v1.2.1/go.mod h1:sUImmGGy/39JoCfTRnouXWJRVuUvR0DGcdRorXn7VdE=
 github.com/gin-gonic/gin v1.6.3/go.mod h1:75u5sXoLsGZoRN5Sgbi1eraJ4GU3++wFwWzhwvtwp4M=
