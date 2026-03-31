@@ -1114,7 +1114,7 @@ require (
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
-	github.com/nyaruka/phonenumbers v1.6.12
+	github.com/nyaruka/phonenumbers v1.6.13
 	github.com/oapi-codegen/runtime v1.3.1
 	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasdiff/yaml v0.0.1
