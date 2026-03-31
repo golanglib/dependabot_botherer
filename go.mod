@@ -394,12 +394,12 @@ require (
 	github.com/cloudwego/eino v0.8.5
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260323112355-f061db7e8419
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.65
-	github.com/cloudwego/eino-ext/components/model/openai v0.1.10
+	github.com/cloudwego/eino-ext/components/model/openai v0.1.11
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260323112355-f061db7e8419
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260323112355-f061db7e8419
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.14
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.15
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
 	github.com/cloudwego/gopkg v0.2.0
@@ -1013,7 +1013,7 @@ require (
 	github.com/mdlayher/netlink v1.9.0
 	github.com/mdlayher/socket v0.5.1
 	github.com/mdlayher/vsock v1.2.1
-	github.com/meguminnnnnnnnn/go-openai v0.1.1
+	github.com/meguminnnnnnnnn/go-openai v0.1.2
 	github.com/meilisearch/meilisearch-go v0.36.1
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
