@@ -3916,8 +3916,8 @@ github.com/mbilski/exhaustivestruct v1.2.0 h1:wCBmUnSYufAHO6J4AVWY6ff+oxWxsVFrwg
 github.com/mbilski/exhaustivestruct v1.2.0/go.mod h1:OeTBVxQWoEmB2J2JCHmXWPJ0aksxSUOUy+nvtVEfzXc=
 github.com/mdlayher/apcupsd v0.0.0-20230802135538-48f5030bcd58 h1:e1AuZg7Lk0WSy8OiFaoLV+gXIUH1+Bg3tcYLLQJCZBs=
 github.com/mdlayher/apcupsd v0.0.0-20230802135538-48f5030bcd58/go.mod h1:ngUsvRNfxdlJb0cHAlP6xDmCDJGJhXPKAH0ExDdDAU0=
-github.com/mdlayher/genetlink v1.3.2 h1:KdrNKe+CTu+IbZnm/GVUMXSqBBLqcGpRDa0xkQy56gw=
-github.com/mdlayher/genetlink v1.3.2/go.mod h1:tcC3pkCrPUGIKKsCsp0B3AdaaKuHtaxoJRz3cc+528o=
+github.com/mdlayher/genetlink v1.4.0 h1:f/Xs7Y2T+GyX9b3dbiUhnLE9InGs5F9RxJ2JwBMl71o=
+github.com/mdlayher/genetlink v1.4.0/go.mod h1:d1hrKr8fwZU2JkcAtQUAzeTrI7nbgQSl+5k1cC0biSA=
 github.com/mdlayher/netlink v1.10.0 h1:K7NHm0iQh2nOtfsj/YNNSN1s7T5JGtNCNwP66OKNiEw=
 github.com/mdlayher/netlink v1.10.0/go.mod h1:YBnl5BXsCoRuwBjKKlZ+aYmEoq0r12FDA/3JC+94KDg=
 github.com/mdlayher/socket v0.6.0 h1:ScZPaAGyO1icQnbFrhPM8mnXyMu9qukC1K4ZoM2IQKU=
