@@ -743,7 +743,7 @@ require (
 	github.com/google/wire v0.7.0
 	github.com/googleapis/enterprise-certificate-proxy v0.3.14
 	github.com/googleapis/gax-go v2.0.2+incompatible
-	github.com/googleapis/gax-go/v2 v2.20.0
+	github.com/googleapis/gax-go/v2 v2.21.0
 	github.com/gopacket/gopacket v1.5.0
 	github.com/gopcua/opcua v0.8.0
 	github.com/goph/emperror v0.17.2
