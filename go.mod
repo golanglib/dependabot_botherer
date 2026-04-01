@@ -975,7 +975,7 @@ require (
 	github.com/lxc/incus/v6 v6.23.0
 	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
-	github.com/magefile/mage v1.17.0
+	github.com/magefile/mage v1.17.1
 	github.com/magiconair/properties v1.8.10
 	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
