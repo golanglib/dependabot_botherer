@@ -1490,7 +1490,7 @@ require (
 	github.com/yuin/goldmark-highlighting v0.0.0-20220208100518-594be1970594
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	github.com/yuin/goldmark-meta v1.1.0
-	github.com/yuin/gopher-lua v1.1.1
+	github.com/yuin/gopher-lua v1.1.2
 	github.com/yunify/qingstor-sdk-go/v3 v3.2.0
 	github.com/zclconf/go-cty v1.18.0
 	github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940
