@@ -1010,7 +1010,7 @@ require (
 	github.com/mbilski/exhaustivestruct v1.2.0
 	github.com/mdlayher/apcupsd v0.0.0-20230802135538-48f5030bcd58
 	github.com/mdlayher/genetlink v1.3.2
-	github.com/mdlayher/netlink v1.9.0
+	github.com/mdlayher/netlink v1.10.0
 	github.com/mdlayher/socket v0.6.0
 	github.com/mdlayher/vsock v1.2.1
 	github.com/meguminnnnnnnnn/go-openai v0.1.2
