@@ -1632,7 +1632,7 @@ require (
 	k8s.io/kube-openapi v0.0.0-20250910181357-589584f1c912
 	k8s.io/utils v0.0.0-20260319190234-28399d86e0b5
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
-	libvirt.org/go/libvirtxml v1.12001.0
+	libvirt.org/go/libvirtxml v1.12002.0
 	lukechampine.com/blake3 v1.4.1
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
