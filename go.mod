@@ -14,7 +14,7 @@ require (
 	cloud.google.com/go/bigquery v1.75.0
 	cloud.google.com/go/compute v1.57.0
 	cloud.google.com/go/compute/metadata v0.9.0
-	cloud.google.com/go/datacatalog v1.26.1
+	cloud.google.com/go/datacatalog v1.27.0
 	cloud.google.com/go/firestore v1.21.0
 	cloud.google.com/go/iam v1.6.0
 	cloud.google.com/go/kms v1.26.0
@@ -1590,8 +1590,8 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.52.1
 	google.golang.org/genproto v0.0.0-20260319201613-d00831a3d3e7
-	google.golang.org/genproto/googleapis/api v0.0.0-20260319201613-d00831a3d3e7
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260319201613-d00831a3d3e7
+	google.golang.org/genproto/googleapis/api v0.0.0-20260401001100-f93e5f3e9f0f
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260401001100-f93e5f3e9f0f
 	google.golang.org/grpc v1.80.0
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
