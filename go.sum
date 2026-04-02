@@ -4287,8 +4287,8 @@ github.com/oapi-codegen/testutil v1.1.0 h1:EufqpNg43acR3qzr3ObhXmWg3Sl2kwtRnUN5G
 github.com/oapi-codegen/testutil v1.1.0/go.mod h1:ttCaYbHvJtHuiyeBF0tPIX+4uhEPTeizXKx28okijLw=
 github.com/oasdiff/yaml v0.0.7 h1:r/BR4tqb+W/5fSV6RknYrfBa+PSZnRRvZ/nUnDdepFQ=
 github.com/oasdiff/yaml v0.0.7/go.mod h1:EaJ6/lcrRLK+syawtvtrHdbrrln4/SUmQw6aBTIlaMs=
-github.com/oasdiff/yaml3 v0.0.4 h1:U5RTQZpBmsbcyCFlzPVuMctk6Jme6lOrbl0jJoOovMw=
-github.com/oasdiff/yaml3 v0.0.4/go.mod h1:y5+oSEHCPT/DGrS++Wc/479ERge0zTFxaF8PbGKcg2o=
+github.com/oasdiff/yaml3 v0.0.6 h1:459QJwIK3pqFs91pIbH/XxCld0ugHd4/F8xHkFjaJPo=
+github.com/oasdiff/yaml3 v0.0.6/go.mod h1:y5+oSEHCPT/DGrS++Wc/479ERge0zTFxaF8PbGKcg2o=
 github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7 h1:1102pQc2SEPp5+xrS26wEaeb26sZy6k9/ZXlZN+eXE4=
 github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7/go.mod h1:UqoUn6cHESlliMhOnKLWr+CBH+e3bazUPvFj1XZwAjs=
 github.com/oklog/run v1.1.0/go.mod h1:sVPdnTZT1zYwAJeCMu2Th4T21pA3FPOQRfWjQlk7DVU=
