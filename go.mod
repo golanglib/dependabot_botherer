@@ -20,7 +20,7 @@ require (
 	cloud.google.com/go/kms v1.26.0
 	cloud.google.com/go/logging v1.13.2
 	cloud.google.com/go/longrunning v0.8.0
-	cloud.google.com/go/monitoring v1.24.3
+	cloud.google.com/go/monitoring v1.25.0
 	cloud.google.com/go/pubsub v1.50.2
 	cloud.google.com/go/storage v1.61.3
 	cloud.google.com/go/trace v1.11.7
@@ -1590,8 +1590,8 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.52.1
 	google.golang.org/genproto v0.0.0-20260319201613-d00831a3d3e7
-	google.golang.org/genproto/googleapis/api v0.0.0-20260319201613-d00831a3d3e7
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260319201613-d00831a3d3e7
+	google.golang.org/genproto/googleapis/api v0.0.0-20260401001100-f93e5f3e9f0f
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260401001100-f93e5f3e9f0f
 	google.golang.org/grpc v1.80.0
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
