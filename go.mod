@@ -1070,7 +1070,7 @@ require (
 	github.com/moricho/tparallel v0.3.2
 	github.com/mozillazg/go-pinyin v0.21.0
 	github.com/mozillazg/go-unidecode v0.2.0
-	github.com/mr-tron/base58 v1.2.0
+	github.com/mr-tron/base58 v1.3.0
 	github.com/mroth/weightedrand v1.0.0
 	github.com/mroth/weightedrand/v2 v2.1.0
 	github.com/mrunalp/fileutils v0.5.1
