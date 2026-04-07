@@ -5720,8 +5720,8 @@ go.opentelemetry.io/contrib v1.43.0 h1:rv+pngknCr4qpZDxSpEvEoRioutgfbkk82x6MChJQ
 go.opentelemetry.io/contrib v1.43.0/go.mod h1:JYdNU7Pl/2ckKMGp8/G7zeyhEbtRmy9Q8bcrtv75Znk=
 go.opentelemetry.io/contrib/bridges/prometheus v0.65.0 h1:I/7S/yWobR3QHFLqHsJ8QOndoiFsj1VgHpQiq43KlUI=
 go.opentelemetry.io/contrib/bridges/prometheus v0.65.0/go.mod h1:jPF6gn3y1E+nozCAEQj3c6NZ8KY+tvAgSVfvoOJUFac=
-go.opentelemetry.io/contrib/detectors/gcp v1.42.0 h1:kpt2PEJuOuqYkPcktfJqWWDjTEd/FNgrxcniL7kQrXQ=
-go.opentelemetry.io/contrib/detectors/gcp v1.42.0/go.mod h1:W9zQ439utxymRrXsUOzZbFX4JhLxXU4+ZnCt8GG7yA8=
+go.opentelemetry.io/contrib/detectors/gcp v1.43.0 h1:62yY3dT7/ShwOxzA0RsKRgshBmfElKI4d/Myu2OxDFU=
+go.opentelemetry.io/contrib/detectors/gcp v1.43.0/go.mod h1:RyaZMFY7yi1kAs45S6mbFGz8O8rqB0dTY14uzvG4LCs=
 go.opentelemetry.io/contrib/exporters/autoexport v0.65.0 h1:2gApdml7SznX9szEKFjKjM4qGcGSvAybYLBY319XG3g=
 go.opentelemetry.io/contrib/exporters/autoexport v0.65.0/go.mod h1:0QqAGlbHXhmPYACG3n5hNzO5DnEqqtg4VcK5pr22RI0=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.67.0 h1:yI1/OhfEPy7J9eoa6Sj051C7n5dvpj0QX8g4sRchg04=
