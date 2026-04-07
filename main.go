@@ -525,7 +525,7 @@ import (
 	_ "github.com/evanphx/json-patch/v5"
 	_ "github.com/evanw/esbuild/pkg/api"
 	_ "github.com/expr-lang/expr"
-	_ "github.com/facebook/time/calnex/api"
+	_ "github.com/facebook/time/caliper"
 	_ "github.com/fatih/color"
 	_ "github.com/fatih/structtag"
 	_ "github.com/fclairamb/go-log"
