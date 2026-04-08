@@ -392,13 +392,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.8.0
 	github.com/cloudwego/eino v0.8.7
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260331071634-4f359694d2d9
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260408111519-100ca7063d18
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.65
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.12
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260331071634-4f359694d2d9
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260408111519-100ca7063d18
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260331071634-4f359694d2d9
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260408111519-100ca7063d18
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.16
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -406,7 +406,7 @@ require (
 	github.com/cloudwego/hertz v0.10.4
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260406073742-0cf777ba66d1
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260408094711-dd3eb288c530
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -442,7 +442,7 @@ require (
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.3.0
 	github.com/couchbase/vellum v1.0.2
-	github.com/coze-dev/coze-go v0.0.0-20260303032728-01875f396c48
+	github.com/coze-dev/coze-go v0.0.0-20260408095536-f47b4f256580
 	github.com/coze-dev/cozeloop-go v0.1.22
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
@@ -527,7 +527,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260407230751-541f8ccb0009
+	github.com/facebook/time v0.0.0-20260408165425-08b222abe7a4
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
