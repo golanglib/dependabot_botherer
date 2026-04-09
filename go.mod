@@ -1561,7 +1561,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.25.0
-	golang.org/x/crypto v0.49.0
+	golang.org/x/crypto v0.50.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
 	golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
@@ -1575,7 +1575,7 @@ require (
 	golang.org/x/sys v0.43.0
 	golang.org/x/telemetry v0.0.0-20260311193753-579e4da9a98c
 	golang.org/x/telemetry/config v0.91.0
-	golang.org/x/term v0.41.0
+	golang.org/x/term v0.42.0
 	golang.org/x/text v0.36.0
 	golang.org/x/time v0.15.0
 	golang.org/x/tools v0.43.0
