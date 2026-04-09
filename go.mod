@@ -12,7 +12,7 @@ require (
 	cloud.google.com/go/auth v0.20.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.75.0
-	cloud.google.com/go/compute v1.58.0
+	cloud.google.com/go/compute v1.59.0
 	cloud.google.com/go/compute/metadata v0.9.0
 	cloud.google.com/go/datacatalog v1.27.0
 	cloud.google.com/go/firestore v1.21.0
@@ -1590,7 +1590,7 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.53.0
 	google.golang.org/genproto v0.0.0-20260319201613-d00831a3d3e7
-	google.golang.org/genproto/googleapis/api v0.0.0-20260401001100-f93e5f3e9f0f
+	google.golang.org/genproto/googleapis/api v0.0.0-20260401024825-9d38bb4040a9
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260406210006-6f92a3bedf2d
 	google.golang.org/grpc v1.80.0
 	google.golang.org/protobuf v1.36.11
