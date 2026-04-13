@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260209202127-80ab13bee0bf.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.20.0
@@ -392,13 +392,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.8.0
 	github.com/cloudwego/eino v0.8.8
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260409083444-42d9d11b55f4
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260413110502-8d10f059c9a4
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.65
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.12
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260409083444-42d9d11b55f4
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260413110502-8d10f059c9a4
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260409083444-42d9d11b55f4
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260413110502-8d10f059c9a4
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.16
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -406,7 +406,7 @@ require (
 	github.com/cloudwego/hertz v0.10.4
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260408094711-dd3eb288c530
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260413143923-ab2f6bb49f96
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -1019,7 +1019,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250919004547-6122b699a301
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20260411121336-043f0078bb1c
+	github.com/metacubex/sing-quic v0.0.0-20260413140653-b900ea123319
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.17
