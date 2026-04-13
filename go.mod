@@ -1171,14 +1171,14 @@ require (
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
 	github.com/pion/ice/v2 v2.3.38
-	github.com/pion/interceptor v0.1.43
+	github.com/pion/interceptor v0.1.44
 	github.com/pion/logging v0.2.4
 	github.com/pion/mdns v0.0.12
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.16
-	github.com/pion/rtp v1.10.0
+	github.com/pion/rtp v1.10.1
 	github.com/pion/sctp v1.9.4
-	github.com/pion/sdp/v3 v3.0.17
+	github.com/pion/sdp/v3 v3.0.18
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
 	github.com/pion/stun v0.6.1
@@ -1435,7 +1435,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.48.0
+	github.com/v2fly/v2ray-core/v5 v5.49.0
 	github.com/valyala/fasthttp v1.70.0
 	github.com/valyala/fastjson v1.6.10
 	github.com/valyala/fasttemplate v1.2.2
@@ -1881,14 +1881,14 @@ require (
 	github.com/pb33f/jsonpath v0.8.2 // indirect
 	github.com/pb33f/ordered-map/v2 v2.3.1 // indirect
 	github.com/petermattis/goid v0.0.0-20260113132338-7c7de50cc741 // indirect
-	github.com/pion/dtls/v3 v3.1.1 // indirect
-	github.com/pion/ice/v4 v4.0.2 // indirect
-	github.com/pion/mdns/v2 v2.0.7 // indirect
-	github.com/pion/srtp/v3 v3.0.4 // indirect
-	github.com/pion/stun/v3 v3.1.1 // indirect
+	github.com/pion/dtls/v3 v3.1.2 // indirect
+	github.com/pion/ice/v4 v4.2.2 // indirect
+	github.com/pion/mdns/v2 v2.1.0 // indirect
+	github.com/pion/srtp/v3 v3.0.10 // indirect
+	github.com/pion/stun/v3 v3.1.2 // indirect
 	github.com/pion/transport/v4 v4.0.1 // indirect
-	github.com/pion/turn/v4 v4.0.0 // indirect
-	github.com/pion/webrtc/v4 v4.0.0 // indirect
+	github.com/pion/turn/v4 v4.1.4 // indirect
+	github.com/pion/webrtc/v4 v4.2.11 // indirect
 	github.com/pkg/errors v0.9.2-0.20201214064552-5dd12d0cfe7f // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/prometheus v0.307.0 // indirect
