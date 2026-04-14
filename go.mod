@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260209202127-80ab13bee0bf.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.4-20250130201111-63bb56e20495.1
 	cel.dev/expr v0.25.1
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.20.0
@@ -36,7 +36,7 @@ require (
 	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.2.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
-	gitea.com/go-chi/binding v0.0.0-20240430071103-39a851e106ed
+	gitea.com/go-chi/binding v0.0.0-20260414111559-654cea7ac60a
 	gitea.com/go-chi/cache v0.2.1
 	gitea.com/go-chi/captcha v0.0.0-20240315150714-fb487f629098
 	gitea.com/go-chi/session v0.0.0-20251124165456-68e0254e989e
@@ -392,13 +392,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.8.0
 	github.com/cloudwego/eino v0.8.9
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260413110502-8d10f059c9a4
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260414134258-0eb28d45ed9d
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.65
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.12
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260413110502-8d10f059c9a4
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260414134258-0eb28d45ed9d
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260413110502-8d10f059c9a4
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260414134258-0eb28d45ed9d
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.16
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -502,7 +502,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.8.3
-	github.com/elazarl/goproxy/ext v0.0.0-20260327201742-eeb2adb11cb5
+	github.com/elazarl/goproxy/ext v0.0.0-20260414141906-3c677be91520
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
@@ -527,7 +527,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260410180432-df03f7bd670b
+	github.com/facebook/time v0.0.0-20260414110626-e1c14e0f178c
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -570,7 +570,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20260402093412-528d4eaf86a8
+	github.com/go-ap/activitypub v0.0.0-20260414103918-44d20017e68e
 	github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966
 	github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77
 	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
@@ -1019,7 +1019,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20250919004547-6122b699a301
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20260413140653-b900ea123319
+	github.com/metacubex/sing-quic v0.0.0-20260414034501-3ea3410d197a
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.17
