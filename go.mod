@@ -1403,7 +1403,7 @@ require (
 	github.com/timakin/bodyclose v0.0.0-20241222091800-1db5c5ca4d67
 	github.com/timonwong/loggercheck v0.11.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
-	github.com/tinylib/msgp v1.6.3
+	github.com/tinylib/msgp v1.6.4
 	github.com/tj/assert v0.0.3
 	github.com/tjfoc/gmsm v1.4.1
 	github.com/tklauser/go-sysconf v0.3.16
