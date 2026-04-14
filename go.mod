@@ -19,7 +19,7 @@ require (
 	cloud.google.com/go/iam v1.9.0
 	cloud.google.com/go/kms v1.28.0
 	cloud.google.com/go/logging v1.16.0
-	cloud.google.com/go/longrunning v0.10.0
+	cloud.google.com/go/longrunning v0.11.0
 	cloud.google.com/go/monitoring v1.27.0
 	cloud.google.com/go/pubsub v1.50.2
 	cloud.google.com/go/storage v1.62.1
