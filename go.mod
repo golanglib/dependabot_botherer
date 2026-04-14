@@ -12,7 +12,7 @@ require (
 	cloud.google.com/go/auth v0.20.0
 	cloud.google.com/go/auth/oauth2adapt v0.2.8
 	cloud.google.com/go/bigquery v1.76.0
-	cloud.google.com/go/compute v1.59.0
+	cloud.google.com/go/compute v1.60.0
 	cloud.google.com/go/compute/metadata v0.9.0
 	cloud.google.com/go/datacatalog v1.28.0
 	cloud.google.com/go/firestore v1.21.0
