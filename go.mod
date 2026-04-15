@@ -1013,7 +1013,7 @@ require (
 	github.com/mdlayher/netlink v1.11.0
 	github.com/mdlayher/socket v0.6.0
 	github.com/mdlayher/vsock v1.2.1
-	github.com/meguminnnnnnnnn/go-openai v0.1.2
+	github.com/meguminnnnnnnnn/go-openai v0.1.4
 	github.com/meilisearch/meilisearch-go v0.36.2
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
