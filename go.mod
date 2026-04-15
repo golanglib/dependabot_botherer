@@ -1373,7 +1373,7 @@ require (
 	github.com/subosito/gotenv v1.6.0
 	github.com/swaggest/assertjson v1.10.0
 	github.com/swaggest/jsonschema-go v0.3.79
-	github.com/swaggest/openapi-go v0.2.60
+	github.com/swaggest/openapi-go v0.2.61
 	github.com/swaggest/refl v1.4.0
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.1
