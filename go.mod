@@ -399,7 +399,7 @@ require (
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.8
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260415031821-e2fcf1501241
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.16
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.17
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
 	github.com/cloudwego/gopkg v0.2.0
