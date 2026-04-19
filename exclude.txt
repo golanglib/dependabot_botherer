@@ -1,8 +1,6 @@
 code.gitea.io/gitea
-//go: code.gitea.io/gitea imports
-//	code.gitea.io/gitea/cmd imports
-//	code.gitea.io/gitea/models/actions imports
-//	github.com/nektos/act/pkg/jobparser: cannot find module providing package github.com/nektos/act/pkg/jobparser
+//[code.gitea.io/gitea] dir: /home/runner/go/pkg/mod/code.gitea.io/gitea@v1.26.0
+//[code.gitea.io/gitea] module has replace
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"
 github.com/antlr/antlr4/runtime/Go/antlr/v4
@@ -87,7 +85,7 @@ github.com/go-redsync/redsync
 //[github.com/go-redsync/redsync] dir: /home/runner/go/pkg/mod/github.com/go-redsync/redsync@v1.4.2
 //[github.com/go-redsync/redsync] module has replace
 github.com/go-redsync/redsync/v4
-//[github.com/go-redsync/redsync/v4] dir: /home/runner/go/pkg/mod/github.com/go-redsync/redsync/v4@v4.13.0
+//[github.com/go-redsync/redsync/v4] dir: /home/runner/go/pkg/mod/github.com/go-redsync/redsync/v4@v4.16.0
 //[github.com/go-redsync/redsync/v4] module has replace
 github.com/gohugoio/go-i18n/v2
 //go: github.com/gohugoio/go-i18n/v2@latest (v2.1.2) requires github.com/gohugoio/go-i18n/v2@v2.1.2: parsing go.mod:

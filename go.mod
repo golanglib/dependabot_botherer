@@ -502,7 +502,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.8.3
-	github.com/elazarl/goproxy/ext v0.0.0-20260414141906-3c677be91520
+	github.com/elazarl/goproxy/ext v0.0.0-20260418124825-7d1c3b5d3ea4
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
@@ -689,7 +689,7 @@ require (
 	github.com/golang/vscode-go v0.53.1
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.1
-	github.com/golangci/gofmt v0.0.0-20251215234548-e7be49a5ab4d
+	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.8.0
 	github.com/golangci/modinfo v0.3.4
