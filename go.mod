@@ -1637,9 +1637,9 @@ require (
 	lukechampine.com/blake3 v1.4.1
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.27.3
+	modernc.org/cc/v4 v4.28.0
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.32.5
+	modernc.org/ccgo/v4 v4.33.0
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.6.0
 	modernc.org/fileutil v1.4.0
