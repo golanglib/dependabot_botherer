@@ -1299,7 +1299,7 @@ require (
 	github.com/sethvargo/go-retry v0.3.0
 	github.com/shirou/gopsutil/v3 v3.24.5
 	github.com/shoenig/go-m1cpu v0.2.1
-	github.com/shoenig/test v1.13.0
+	github.com/shoenig/test v1.13.1
 	github.com/shopspring/decimal v1.4.0
 	github.com/showwin/speedtest-go v1.7.10
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20181002035957-2122de532470
