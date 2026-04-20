@@ -227,7 +227,7 @@ require (
 	github.com/aws/aws-lambda-go v1.54.0
 	github.com/aws/aws-sdk-go v1.55.8
 	github.com/aws/aws-sdk-go-v2 v1.41.5
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.8
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.9
 	github.com/aws/aws-sdk-go-v2/config v1.32.15
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.14
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.37
