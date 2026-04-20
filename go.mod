@@ -1,6 +1,6 @@
 module dependabot_botherer
 
-go 1.26.1
+go 1.26.2
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
@@ -918,7 +918,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
-	github.com/kaptinlin/go-i18n v0.4.0
+	github.com/kaptinlin/go-i18n v0.4.1
 	github.com/kaptinlin/jsonschema v0.7.7
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
