@@ -406,7 +406,7 @@ require (
 	github.com/cloudwego/hertz v0.10.4
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.1
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260414022927-a86ecf43e94f
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260420093858-73d007a8b1d7
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -502,7 +502,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.8.3
-	github.com/elazarl/goproxy/ext v0.0.0-20260418124825-7d1c3b5d3ea4
+	github.com/elazarl/goproxy/ext v0.0.0-20260420103305-a89a8d68cf92
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
