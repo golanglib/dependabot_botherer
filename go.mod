@@ -1259,7 +1259,7 @@ require (
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
 	github.com/safchain/ethtool v0.7.0
-	github.com/sagernet/fswatch v0.1.1
+	github.com/sagernet/fswatch v0.1.2
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-mod.1
 	github.com/sagernet/sing v0.8.6
