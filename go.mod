@@ -1229,7 +1229,7 @@ require (
 	github.com/quic-go/qtls-go1-20 v0.4.1
 	github.com/quic-go/quic-go v0.59.0
 	github.com/r3labs/sse/v2 v2.10.0
-	github.com/rabbitmq/amqp091-go v1.10.0
+	github.com/rabbitmq/amqp091-go v1.11.0
 	github.com/rclone/rclone v1.73.5
 	github.com/redis/go-redis/v9 v9.18.0
 	github.com/redis/rueidis v1.0.74
