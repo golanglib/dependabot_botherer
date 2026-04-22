@@ -1575,7 +1575,7 @@ require (
 	golang.org/x/sync v0.20.0
 	golang.org/x/sys v0.43.0
 	golang.org/x/telemetry v0.0.0-20260409153401-be6f6cb8b1fa
-	golang.org/x/telemetry/config v0.92.0
+	golang.org/x/telemetry/config v0.93.0
 	golang.org/x/term v0.42.0
 	golang.org/x/text v0.36.0
 	golang.org/x/time v0.15.0
