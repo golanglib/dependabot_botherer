@@ -58,7 +58,6 @@ import (
 	_ "github.com/Azure/azure-amqp-common-go/v4"
 	_ "github.com/Azure/azure-event-hubs-go"
 	_ "github.com/Azure/azure-event-hubs-go/v3"
-	_ "github.com/Azure/azure-kusto-go/kusto"
 	_ "github.com/Azure/azure-pipeline-go/pipeline"
 	_ "github.com/Azure/azure-sdk-for-go/sdk/azcore"
 	_ "github.com/Azure/azure-sdk-for-go/sdk/azidentity"
