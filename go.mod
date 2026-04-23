@@ -1623,7 +1623,7 @@ require (
 	k8s.io/api v0.36.0
 	k8s.io/apiextensions-apiserver v0.35.4
 	k8s.io/apimachinery v0.36.0
-	k8s.io/apiserver v0.35.4
+	k8s.io/apiserver v0.36.0
 	k8s.io/client-go v0.36.0
 	k8s.io/code-generator v0.35.4
 	k8s.io/component-base v0.36.0
@@ -1804,7 +1804,7 @@ require (
 	github.com/graphql-go/handler v0.2.3 // indirect
 	github.com/groob/finalizer v0.0.0-20170707115354-4c2ed49aabda // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.1.0 // indirect
-	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.0 // indirect
+	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.3 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hashicorp/consul/api v1.32.4 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
