@@ -855,7 +855,7 @@ require (
 	github.com/insomniacslk/dhcp v0.0.0-20260326115832-991c7910cf36
 	github.com/intel/iaevents v1.1.0
 	github.com/intel/powertelemetry v1.0.2
-	github.com/invopop/jsonschema v0.13.0
+	github.com/invopop/jsonschema v0.14.0
 	github.com/invopop/yaml v0.3.1
 	github.com/ionos-cloud/sdk-go/v6 v6.3.7
 	github.com/ip2location/ip2location-go/v9 v9.8.0
