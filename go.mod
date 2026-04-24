@@ -1343,7 +1343,7 @@ require (
 	github.com/sony/sonyflake v1.3.0
 	github.com/sosodev/duration v1.4.0
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
-	github.com/sourcegraph/go-diff v0.7.0
+	github.com/sourcegraph/go-diff v0.8.0
 	github.com/spacemonkeygo/monkit/v3 v3.0.25-0.20251022131615-eb24eb109368
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.7
