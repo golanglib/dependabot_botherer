@@ -1329,6 +1329,7 @@ import (
 	_ "github.com/smallstep/certificates/acme"
 	_ "github.com/smallstep/cli-utils/command"
 	_ "github.com/smallstep/cli/command/api"
+	_ "github.com/smallstep/go-attestation/attest"
 	_ "github.com/smallstep/nosql"
 	_ "github.com/smallstep/pkcs7"
 	_ "github.com/smallstep/scep"

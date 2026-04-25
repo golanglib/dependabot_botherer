@@ -1,5 +1,5 @@
 code.gitea.io/gitea
-//[code.gitea.io/gitea] dir: /home/runner/go/pkg/mod/code.gitea.io/gitea@v1.26.0
+//[code.gitea.io/gitea] dir: /home/runner/go/pkg/mod/code.gitea.io/gitea@v1.26.1
 //[code.gitea.io/gitea] module has replace
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"
@@ -339,10 +339,6 @@ github.com/Shopify/sarama
 //go: github.com/Shopify/sarama@latest (v1.48.0) requires github.com/Shopify/sarama@v1.48.0: parsing go.mod:
 //	module declares its path as: github.com/IBM/sarama
 //	        but was required as: github.com/Shopify/sarama
-github.com/smallstep/go-attestation
-//go: github.com/smallstep/go-attestation@latest (v0.4.3) requires github.com/smallstep/go-attestation@v0.4.3: parsing go.mod:
-//	module declares its path as: github.com/google/go-attestation
-//	        but was required as: github.com/smallstep/go-attestation
 github.com/smartystreets/assertions
 //go: github.com/smartystreets/assertions@latest (v1.16.0) requires github.com/smartystreets/assertions@v1.16.0: parsing go.mod:
 //	module declares its path as: github.com/smarty/assertions
