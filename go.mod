@@ -344,7 +344,7 @@ require (
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
 	github.com/caddyserver/caddy/v2 v2.11.2
-	github.com/caddyserver/certmagic v0.25.2
+	github.com/caddyserver/certmagic v0.25.3
 	github.com/caddyserver/xcaddy v0.4.5
 	github.com/caddyserver/zerossl v0.1.5
 	github.com/caio/go-tdigest/v4 v4.1.0
