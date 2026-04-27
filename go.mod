@@ -725,7 +725,7 @@ require (
 	github.com/google/go-tspi v0.3.0
 	github.com/google/gofuzz v1.2.0
 	github.com/google/gopacket v1.1.19
-	github.com/google/jsonschema-go v0.4.2
+	github.com/google/jsonschema-go v0.4.3
 	github.com/google/licensecheck v0.3.1
 	github.com/google/licenseclassifier v0.0.0-20210722185704-3043a050f148
 	github.com/google/licenseclassifier/v2 v2.0.0
