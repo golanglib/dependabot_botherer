@@ -1330,7 +1330,7 @@ require (
 	github.com/smallstep/certificates v0.30.2
 	github.com/smallstep/cli v0.30.2
 	github.com/smallstep/cli-utils v0.12.2
-	github.com/smallstep/go-attestation v0.4.4-0.20241119153605-2306d5b464ca
+	github.com/smallstep/go-attestation v0.4.9
 	github.com/smallstep/nosql v0.8.0
 	github.com/smallstep/pkcs7 v0.2.1
 	github.com/smallstep/scep v0.0.0-20250318231241-a25cabb69492
@@ -1547,7 +1547,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.43.0
 	go.opentelemetry.io/proto/otlp v1.10.0
 	go.starlark.net v0.0.0-20260326113308-fadfc96def35
-	go.step.sm/crypto v0.77.2
+	go.step.sm/crypto v0.77.7
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.19.0
