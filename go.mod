@@ -51,7 +51,6 @@ require (
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.7
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
-	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20230306123547-8075edf89bb0
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Antonboom/errname v1.1.1
 	github.com/Antonboom/nilnil v1.1.1
@@ -679,7 +678,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20260415063119-550b242b3150
+	github.com/golang/geo v0.0.0-20260427214057-41a1a8c7eb2a
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -688,7 +687,7 @@ require (
 	github.com/golang/vscode-go v0.53.1
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.1
-	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
+	github.com/golangci/gofmt v0.0.0-20251215234548-e7be49a5ab4d
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.8.0
 	github.com/golangci/modinfo v0.3.4
@@ -1698,6 +1697,7 @@ require (
 	cyphar.com/go-pathrs v0.2.4 // indirect
 	filippo.io/bigmod v0.1.0 // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
+	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20230306123547-8075edf89bb0 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.12.0 // indirect

@@ -1,6 +1,8 @@
 code.gitea.io/gitea
 //[code.gitea.io/gitea] dir: /home/runner/go/pkg/mod/code.gitea.io/gitea@v1.26.1
 //[code.gitea.io/gitea] module has replace
+github.com/AdamKorcz/go-118-fuzz-build
+//go: github.com/AdamKorcz/go-118-fuzz-build@latest: github.com/AdamKorcz/go-118-fuzz-build@v0.0.0-20250520111509-a70c2aa677fa: verifying module: github.com/AdamKorcz/go-118-fuzz-build@v0.0.0-20250520111509-a70c2aa677fa: Get "https://sum.golang.org/lookup/github.com/!adam!korcz/go-118-fuzz-build@v0.0.0-20250520111509-a70c2aa677fa": net/http: TLS handshake timeout
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"
 github.com/antlr/antlr4/runtime/Go/antlr/v4
