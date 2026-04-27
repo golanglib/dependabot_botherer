@@ -998,7 +998,7 @@ require (
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
 	github.com/mattn/go-colorable v0.1.14
 	github.com/mattn/go-ieproxy v0.0.12
-	github.com/mattn/go-isatty v0.0.21
+	github.com/mattn/go-isatty v0.0.22
 	github.com/mattn/go-runewidth v0.0.23
 	github.com/mattn/go-shellwords v1.0.13
 	github.com/mattn/go-sqlite3 v1.14.42
