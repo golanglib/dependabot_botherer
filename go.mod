@@ -47,7 +47,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432
 	github.com/4meepo/tagalign v1.4.3
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.89
+	github.com/99designs/gqlgen v0.17.90
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.7
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -1443,7 +1443,7 @@ require (
 	github.com/valyala/gozstd v1.24.0
 	github.com/vapourismo/knx-go v0.0.0-20260208154845-3f9ffa9dc4c1
 	github.com/vbatts/tar-split v0.12.2
-	github.com/vektah/gqlparser/v2 v2.5.32
+	github.com/vektah/gqlparser/v2 v2.5.33
 	github.com/vektra/mockery/v2 v2.53.6
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
