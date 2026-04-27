@@ -1442,7 +1442,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.24.0
 	github.com/vapourismo/knx-go v0.0.0-20260208154845-3f9ffa9dc4c1
-	github.com/vbatts/tar-split v0.12.2
+	github.com/vbatts/tar-split v0.12.3
 	github.com/vektah/gqlparser/v2 v2.5.33
 	github.com/vektra/mockery/v2 v2.53.6
 	github.com/vishvananda/netlink v1.3.1
