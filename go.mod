@@ -1016,12 +1016,12 @@ require (
 	github.com/meilisearch/meilisearch-go v0.36.2
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
-	github.com/metacubex/gvisor v0.0.0-20250919004547-6122b699a301
+	github.com/metacubex/gvisor v0.0.0-20251227095601-261ec1326fe8
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20260414034501-3ea3410d197a
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
-	github.com/metacubex/sing-tun v0.4.17
+	github.com/metacubex/sing-tun v0.4.18
 	github.com/metacubex/sing-vmess v0.2.5
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f
 	github.com/metacubex/tfo-go v0.0.0-20251204144243-738de9e3cd15
@@ -1841,7 +1841,7 @@ require (
 	github.com/metacubex/hkdf v0.1.0 // indirect
 	github.com/metacubex/hpke v0.1.0 // indirect
 	github.com/metacubex/mlkem v0.1.0 // indirect
-	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
+	github.com/metacubex/nftables v0.0.0-20260426003805-208c2c1ba2cb // indirect
 	github.com/metacubex/quic-go v0.59.1-0.20260112033758-aa29579f2001 // indirect
 	github.com/metacubex/sing v0.5.7 // indirect
 	github.com/metacubex/tls v0.1.0 // indirect
