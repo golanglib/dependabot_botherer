@@ -49,6 +49,7 @@ import (
 	_ "github.com/99designs/keyring"
 	_ "github.com/Abirdcfly/dupword"
 	_ "github.com/AdaLogics/go-fuzz-headers"
+	_ "github.com/AdamKorcz/go-118-fuzz-build/coverage"
 	_ "github.com/AlecAivazis/survey/v2"
 	_ "github.com/Antonboom/errname/pkg/analyzer"
 	_ "github.com/Antonboom/nilnil/pkg/analyzer"
