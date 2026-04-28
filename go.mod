@@ -550,7 +550,7 @@ require (
 	github.com/gdamore/tcell v1.4.1
 	github.com/gdamore/tcell/v2 v2.13.9
 	github.com/geoffgarside/ber v1.2.0
-	github.com/getkin/kin-openapi v0.136.0
+	github.com/getkin/kin-openapi v0.137.0
 	github.com/ghostiam/protogetter v0.3.19
 	github.com/gin-contrib/cors v1.7.7
 	github.com/gin-contrib/gzip v1.2.6
@@ -671,7 +671,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.160.1
+	github.com/gohugoio/hugo v0.161.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0
 	github.com/gohugoio/locales v0.15.5
