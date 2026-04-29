@@ -628,7 +628,7 @@ require (
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-resty/resty/v2 v2.17.2
-	github.com/go-sql-driver/mysql v1.9.3
+	github.com/go-sql-driver/mysql v1.10.0
 	github.com/go-stack/stack v1.8.1
 	github.com/go-swagger/go-swagger v0.33.2
 	github.com/go-task/slim-sprig v2.20.0+incompatible
