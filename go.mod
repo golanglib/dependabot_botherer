@@ -1663,7 +1663,7 @@ require (
 	mvdan.cc/gofumpt v0.9.2
 	mvdan.cc/unparam v0.0.0-20250301125049-0df0534333a4
 	mvdan.cc/xurls/v2 v2.6.0
-	pgregory.net/rapid v1.2.0
+	pgregory.net/rapid v1.3.0
 	rsc.io/omap v1.2.0
 	rsc.io/ordered v1.1.1
 	rsc.io/quote/v3 v3.1.0
