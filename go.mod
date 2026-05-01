@@ -1524,7 +1524,7 @@ require (
 	go.etcd.io/etcd/pkg/v3 v3.6.11
 	go.etcd.io/etcd/raft/v3 v3.5.30
 	go.etcd.io/etcd/server/v3 v3.6.11
-	go.etcd.io/etcd/tests/v3 v3.6.10
+	go.etcd.io/etcd/tests/v3 v3.6.11
 	go.etcd.io/etcd/v3 v3.6.10
 	go.etcd.io/gofail v0.2.0
 	go.jolheiser.com/hcaptcha v0.0.4
