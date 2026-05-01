@@ -25,3 +25,5 @@ queue_rules:
     merge_method: squash
     merge_conditions:
       - check-success=check
+merge_protections_settings:
+  reporting_method: check-runs
