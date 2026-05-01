@@ -448,7 +448,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
 	github.com/creack/pty v1.1.24
 	github.com/crewjam/saml v0.5.1
-	github.com/cronokirby/saferith v0.33.0
+	github.com/cronokirby/saferith v0.33.1-0.20250226174546-1f11f94ce488
 	github.com/curioswitch/go-reassign v0.3.0
 	github.com/cyphar/filepath-securejoin v0.6.1
 	github.com/daixiang0/gci v0.14.0
@@ -900,7 +900,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0
 	github.com/jinzhu/now v1.1.5
 	github.com/jjti/go-spancheck v0.6.5
-	github.com/jlaffaye/ftp v0.2.1-0.20240918233326-1b970516f5d3
+	github.com/jlaffaye/ftp v0.2.1-0.20251026020404-6602e981a1bb
 	github.com/jmespath/go-jmespath v0.4.1-0.20220621161143-b0104c826a24
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmhodges/levigo v1.0.0
@@ -1229,7 +1229,7 @@ require (
 	github.com/quic-go/quic-go v0.59.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.11.0
-	github.com/rclone/rclone v1.73.5
+	github.com/rclone/rclone v1.74.0
 	github.com/redis/go-redis/v9 v9.19.0
 	github.com/redis/rueidis v1.0.74
 	github.com/refraction-networking/utls v1.8.2
@@ -1380,7 +1380,7 @@ require (
 	github.com/swaggo/gin-swagger v1.6.1
 	github.com/swaggo/swag v1.16.6
 	github.com/syndtr/goleveldb v1.0.0
-	github.com/t3rm1n4l/go-mega v0.0.0-20251031123324-a804aaa87491
+	github.com/t3rm1n4l/go-mega v0.0.0-20251120131202-6845944c051c
 	github.com/tailscale/tscert v0.0.0-20251216020129-aea342f6d747
 	github.com/tdakkota/asciicheck v0.4.1
 	github.com/tdewolff/minify/v2 v2.24.13
@@ -1568,7 +1568,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
 	golang.org/x/image v0.39.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
-	golang.org/x/mobile v0.0.0-20251021151156-188f512ec823
+	golang.org/x/mobile v0.0.0-20260312152759-81488f6aeb60
 	golang.org/x/mod v0.35.0
 	golang.org/x/net v0.53.0
 	golang.org/x/oauth2 v0.36.0
@@ -1946,7 +1946,7 @@ require (
 	go.opentelemetry.io/otel/log v0.16.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.4 // indirect
-	golang.org/x/exp/shiny v0.0.0-20251002181428-27f1f14c8bb9 // indirect
+	golang.org/x/exp/shiny v0.0.0-20260218203240-3dfff04db8fa // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
