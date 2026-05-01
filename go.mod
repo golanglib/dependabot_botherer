@@ -1515,10 +1515,10 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.86.1
 	go.etcd.io/bbolt v1.4.3
-	go.etcd.io/etcd/api/v3 v3.6.10
+	go.etcd.io/etcd/api/v3 v3.6.11
 	go.etcd.io/etcd/client/pkg/v3 v3.6.11
 	go.etcd.io/etcd/client/v2 v2.305.29
-	go.etcd.io/etcd/client/v3 v3.6.10
+	go.etcd.io/etcd/client/v3 v3.6.11
 	go.etcd.io/etcd/etcdctl/v3 v3.6.10
 	go.etcd.io/etcd/etcdutl/v3 v3.6.10
 	go.etcd.io/etcd/pkg/v3 v3.6.11
