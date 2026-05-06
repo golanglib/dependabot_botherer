@@ -4373,8 +4373,8 @@ github.com/opencontainers/runc v1.4.2 h1:/AEjjXuVH9lTRl9ZyUFQj7oWBM7Xv00qFV6Vx9q
 github.com/opencontainers/runc v1.4.2/go.mod h1:ufk5PTTsy5pnGBAvTh50e+eqGk01pYH2YcVxh557Qlk=
 github.com/opencontainers/runtime-spec v1.3.0 h1:YZupQUdctfhpZy3TM39nN9Ika5CBWT5diQ8ibYCRkxg=
 github.com/opencontainers/runtime-spec v1.3.0/go.mod h1:jwyrGlmzljRJv/Fgzds9SsS/C5hL+LL3ko9hs6T5lQ0=
-github.com/opencontainers/selinux v1.13.1 h1:A8nNeceYngH9Ow++M+VVEwJVpdFmrlxsN22F+ISDCJE=
-github.com/opencontainers/selinux v1.13.1/go.mod h1:S10WXZ/osk2kWOYKy1x2f/eXF5ZHJoUs8UU/2caNRbg=
+github.com/opencontainers/selinux v1.14.0 h1:k1w6YWg3w/TvfZUAc3ksdaRwGNulRbE88TxqAZxUSOE=
+github.com/opencontainers/selinux v1.14.0/go.mod h1:LenyElirjUHszfxrjuFqC85HIeXZKumHcKMQtnaDlQQ=
 github.com/opencontainers/umoci v0.6.1-0.20251213054154-70fc5ee1f4df h1:9hvwN64VeuL1L0Jgp8bxTPmd5IZQoHmeXGWrVqsEhN0=
 github.com/opencontainers/umoci v0.6.1-0.20251213054154-70fc5ee1f4df/go.mod h1:s6d/s4QJAZTF92hEU6ozuHjE0+VRc6kVe1QIWfvL7KY=
 github.com/opensearch-project/opensearch-go v1.1.0 h1:eG5sh3843bbU1itPRjA9QXbxcg8LaZ+DjEzQH9aLN3M=
