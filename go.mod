@@ -551,7 +551,7 @@ require (
 	github.com/gdamore/tcell/v2 v2.13.9
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.137.0
-	github.com/ghostiam/protogetter v0.3.19
+	github.com/ghostiam/protogetter v0.3.21
 	github.com/gin-contrib/cors v1.7.7
 	github.com/gin-contrib/gzip v1.2.6
 	github.com/gin-contrib/sessions v1.1.0
