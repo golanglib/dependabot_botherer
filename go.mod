@@ -1423,7 +1423,7 @@ require (
 	github.com/ulikunitz/xz v0.5.15
 	github.com/ultraware/funlen v0.2.0
 	github.com/ultraware/whitespace v0.2.0
-	github.com/unidoc/freetype v0.2.3
+	github.com/unidoc/freetype v0.2.4
 	github.com/unidoc/pkcs7 v0.3.0
 	github.com/unidoc/timestamp v0.0.0-20200412005513-91597fd3793a
 	github.com/unidoc/unipdf/v3 v3.69.0
