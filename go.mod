@@ -410,7 +410,7 @@ require (
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
 	github.com/cloudwego/thrift-gen-validator v0.2.6
-	github.com/cloudwego/thriftgo v0.4.3
+	github.com/cloudwego/thriftgo v0.4.5
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe
 	github.com/cncf/xds/go v0.0.0-20260202195803-dba9d589def2
 	github.com/cockroachdb/datadriven v1.0.2
