@@ -655,7 +655,7 @@ require (
 	github.com/goccy/go-json v0.10.6
 	github.com/goccy/go-yaml v1.19.2
 	github.com/gochore/boltutil v0.2.0
-	github.com/gochore/dcron v1.4.0
+	github.com/gochore/dcron v1.5.0
 	github.com/gochore/emailt v0.8.0
 	github.com/gochore/pprofs v0.1.1
 	github.com/gochore/protomagic v0.4.0
