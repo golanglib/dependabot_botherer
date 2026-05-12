@@ -1407,8 +1407,8 @@ require (
 	github.com/tinylib/msgp v1.6.4
 	github.com/tj/assert v0.0.3
 	github.com/tjfoc/gmsm v1.4.1
-	github.com/tklauser/go-sysconf v0.3.16
-	github.com/tklauser/numcpus v0.11.0
+	github.com/tklauser/go-sysconf v0.4.0
+	github.com/tklauser/numcpus v0.12.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75
 	github.com/tmc/langchaingo v0.1.14
 	github.com/tomarrell/wrapcheck/v2 v2.12.0
