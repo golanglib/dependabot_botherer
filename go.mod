@@ -526,7 +526,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260511182554-7ce5783cde12
+	github.com/facebook/time v0.0.0-20260512203247-c84c324c3488
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -679,7 +679,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20260505155700-1c5af9662e82
+	github.com/golang/geo v0.0.0-20260512202753-e3c51de6d1b6
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -1018,7 +1018,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20251227095601-261ec1326fe8
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20260511111944-ed400da99ad4
+	github.com/metacubex/sing-quic v0.0.0-20260512151354-8475655be853
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.18
@@ -1621,13 +1621,7 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.7.0
 	howett.net/plist v1.0.1
-	k8s.io/api v0.36.0
-	k8s.io/apiextensions-apiserver v0.36.0
-	k8s.io/apimachinery v0.36.0
-	k8s.io/apiserver v0.36.0
-	k8s.io/client-go v0.36.0
 	k8s.io/code-generator v0.36.0
-	k8s.io/component-base v0.36.0
 	k8s.io/gengo/v2 v2.0.0-20250922181213-ec3ebc5fd46b
 	k8s.io/klog/v2 v2.140.0
 	k8s.io/kube-openapi v0.0.0-20260427204847-8949caaa1199
@@ -1668,7 +1662,6 @@ require (
 	rsc.io/ordered v1.1.1
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
-	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.34.0
 	sigs.k8s.io/controller-runtime v0.24.1
 	sigs.k8s.io/controller-tools v0.21.0
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730
@@ -1975,6 +1968,10 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
+	k8s.io/api v0.36.0 // indirect
+	k8s.io/apiextensions-apiserver v0.36.0 // indirect
+	k8s.io/apimachinery v0.36.0 // indirect
+	k8s.io/client-go v0.36.0 // indirect
 	pack.ag/amqp v0.11.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.0 // indirect
