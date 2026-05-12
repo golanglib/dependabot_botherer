@@ -392,7 +392,7 @@ require (
 	github.com/cloudwego/dynamicgo v0.9.1
 	github.com/cloudwego/eino v0.8.13
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260509111509-dbda66119839
-	github.com/cloudwego/eino-ext/components/model/ark v0.1.67
+	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
 	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260509111509-dbda66119839
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
@@ -1457,7 +1457,7 @@ require (
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.9.4
 	github.com/volcengine/volc-sdk-golang v1.0.246
-	github.com/volcengine/volcengine-go-sdk v1.2.26
+	github.com/volcengine/volcengine-go-sdk v1.2.27
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
 	github.com/vultr/govultr/v2 v2.17.2
