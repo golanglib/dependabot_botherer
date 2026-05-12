@@ -2653,8 +2653,8 @@ github.com/go-webauthn/revoke v0.1.10 h1:GSJNJ8NbgeMaINAxMV7D4uBjyQnqCzAfB8ZfgNy
 github.com/go-webauthn/revoke v0.1.10/go.mod h1:rwjnIbJHdWgp9jlRU8Y3r7DX8PZ8+ZusDaMVhaMIMrk=
 github.com/go-webauthn/webauthn v0.17.2 h1:e9YtSZTVnxnMWFezXi6JvnqOSxmH4Er8QDHK2a/mM40=
 github.com/go-webauthn/webauthn v0.17.2/go.mod h1:mQC6L0lZ5Kiu35G70zeB2WnrW4+vbHjR8Koq4HdVaMg=
-github.com/go-webauthn/x v0.2.3 h1:8oArS+Rc1SWFLXhE17KZNx258Z4kUSyaDgsSncCO5RA=
-github.com/go-webauthn/x v0.2.3/go.mod h1:tM04GF3V6VYq79AZMl7vbj4q6pz9r7L2criWRzbWhPk=
+github.com/go-webauthn/x v0.2.5 h1:wEVTfU04XFyPTXGQbKOQwMKhcDWfDAkdsDDBsDaG9yY=
+github.com/go-webauthn/x v0.2.5/go.mod h1:Qna/yJz9rV6lRzwl5BfYbmTJpVGxcBIds3gJtw2tlGg=
 github.com/go-zookeeper/zk v1.0.1/go.mod h1:gpJdHazfkmlg4V0rt0vYeHYJHSL8hHFwV0qOd+HRTJE=
 github.com/go-zookeeper/zk v1.0.2/go.mod h1:nOB03cncLtlp4t+UAkGSV+9beXP/akpekBwL+UX1Qcw=
 github.com/go-zookeeper/zk v1.0.4 h1:DPzxraQx7OrPyXq2phlGlNSIyWEsAox0RJmjTseMV6I=
@@ -5941,8 +5941,8 @@ golang.org/x/crypto v0.30.0/go.mod h1:kDsLvtWBEx7MV9tJOj9bnXsPbxwJQ6csT/x4KIN4Ss
 golang.org/x/crypto v0.31.0/go.mod h1:kDsLvtWBEx7MV9tJOj9bnXsPbxwJQ6csT/x4KIN4Ssk=
 golang.org/x/crypto v0.32.0/go.mod h1:ZnnJkOaASj8g0AjIduWNlq2NRxL0PlBrbKVyZ6V/Ugc=
 golang.org/x/crypto v0.33.0/go.mod h1:bVdXmD7IV/4GdElGPozy6U7lWdRXA4qyRVGJV57uQ5M=
-golang.org/x/crypto v0.50.0 h1:zO47/JPrL6vsNkINmLoo/PH1gcxpls50DNogFvB5ZGI=
-golang.org/x/crypto v0.50.0/go.mod h1:3muZ7vA7PBCE6xgPX7nkzzjiUq87kRItoJQM1Yo8S+Q=
+golang.org/x/crypto v0.51.0 h1:IBPXwPfKxY7cWQZ38ZCIRPI50YLeevDLlLnyC5wRGTI=
+golang.org/x/crypto v0.51.0/go.mod h1:8AdwkbraGNABw2kOX6YFPs3WM22XqI4EXEd8g+x7Oc8=
 golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541 h1:FmKxj9ocLKn45jiR2jQMwCVhDvaK7fKQFzfuT9GvyK8=
 golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541/go.mod h1:+UoQFNBq2p2wO+Q6ddVtYc25GZ6VNdOMyyrd4nrqrKs=
 golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
