@@ -89,7 +89,7 @@ require (
 	github.com/Azure/go-autorest/logger v0.2.2
 	github.com/Azure/go-autorest/tracing v0.6.1
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.7.1
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.7.2
 	github.com/BurntSushi/toml v1.6.0
 	github.com/ClickHouse/ch-go v0.71.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
