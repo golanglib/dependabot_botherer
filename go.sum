@@ -1687,8 +1687,8 @@ github.com/caddyserver/caddy/v2 v2.11.2 h1:iOlpsSiSKqEW+SIXrcZsZ/NO74SzB/ycqqvAI
 github.com/caddyserver/caddy/v2 v2.11.2/go.mod h1:ASNYYmKhIVWWMGPfNxclI5DqKEgU3FhmL+6NZWzQEag=
 github.com/caddyserver/certmagic v0.25.3 h1:mGf5ba8F7xA4c5jfDZZbK2buY1VEkbnwpMDixaju94A=
 github.com/caddyserver/certmagic v0.25.3/go.mod h1:YVs43D5+H/Dckt4bTga1KSO/xYfFBfVZainGDywYPAA=
-github.com/caddyserver/xcaddy v0.4.5 h1:7E4b+3Gm2do/WpuDXh5MWIj+qgCCvQqR487Sm8C6hwc=
-github.com/caddyserver/xcaddy v0.4.5/go.mod h1:QrRLASVAsoDY2MvXRm0pAKZRo4MsJakfvKCYQILGPzo=
+github.com/caddyserver/xcaddy v0.4.6 h1:/kbArNJZFPewjwlijr83WdssSuhSZ9XT2cDSWmonkjc=
+github.com/caddyserver/xcaddy v0.4.6/go.mod h1:wdAWxlY8TV5HRxRiioIl5yls/4lV6rXcmEZkCiHNWfg=
 github.com/caddyserver/zerossl v0.1.5 h1:dkvOjBAEEtY6LIGAHei7sw2UgqSD6TrWweXpV7lvEvE=
 github.com/caddyserver/zerossl v0.1.5/go.mod h1:CxA0acn7oEGO6//4rtrRjYgEoa4MFw/XofZnrYwGqG4=
 github.com/caio/go-tdigest/v4 v4.1.0 h1:T0ADU/ZVBdP69plvliZ526x/m/3wg/OxMogzp3416XM=
