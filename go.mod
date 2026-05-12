@@ -405,7 +405,7 @@ require (
 	github.com/cloudwego/hertz v0.10.4
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.2
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260508044409-e7afe5a77674
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260511060020-c941e64ada93
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.2
 	github.com/cloudwego/runtimex v0.1.1
@@ -526,7 +526,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260507141128-706ffd34b273
+	github.com/facebook/time v0.0.0-20260511182554-7ce5783cde12
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1018,7 +1018,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20251227095601-261ec1326fe8
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20260414034501-3ea3410d197a
+	github.com/metacubex/sing-quic v0.0.0-20260511111944-ed400da99ad4
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.18
