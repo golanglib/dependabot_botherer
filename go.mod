@@ -109,7 +109,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.56.0
 	github.com/HdrHistogram/hdrhistogram-go v1.2.0
 	github.com/IBM/nzgo/v12 v12.0.12
-	github.com/IBM/sarama v1.48.0
+	github.com/IBM/sarama v1.48.1
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/MakeNowJust/heredoc v1.0.0
@@ -1562,7 +1562,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.27.0
-	golang.org/x/crypto v0.50.0
+	golang.org/x/crypto v0.51.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
@@ -1570,7 +1570,7 @@ require (
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20260312152759-81488f6aeb60
 	golang.org/x/mod v0.36.0
-	golang.org/x/net v0.53.0
+	golang.org/x/net v0.54.0
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.20.0
 	golang.org/x/sys v0.44.0
