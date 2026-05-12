@@ -1117,7 +1117,7 @@ require (
 	github.com/oapi-codegen/runtime v1.4.0
 	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasdiff/yaml v0.0.9
-	github.com/oasdiff/yaml3 v0.0.12
+	github.com/oasdiff/yaml3 v0.0.13
 	github.com/oasisprotocol/deoxysii v0.0.0-20220228165953-2091330c22b7
 	github.com/oleiade/lane v1.0.1
 	github.com/olekukonko/tablewriter v1.1.4
