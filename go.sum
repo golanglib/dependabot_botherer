@@ -5376,8 +5376,8 @@ github.com/ultraware/funlen v0.2.0 h1:gCHmCn+d2/1SemTdYMiKLAHFYxTYz7z9VIDRaTGyLk
 github.com/ultraware/funlen v0.2.0/go.mod h1:ZE0q4TsJ8T1SQcjmkhN/w+MceuatI6pBFSxxyteHIJA=
 github.com/ultraware/whitespace v0.2.0 h1:TYowo2m9Nfj1baEQBjuHzvMRbp19i+RCcRYrSWoFa+g=
 github.com/ultraware/whitespace v0.2.0/go.mod h1:XcP1RLD81eV4BW8UhQlpaR+SDc2givTvyI8a586WjW8=
-github.com/unidoc/freetype v0.2.4 h1:RMJicBXnV00yyZ/7+RDZxyVve+QZqiUvCrn7QO2eMQw=
-github.com/unidoc/freetype v0.2.4/go.mod h1:neS6lk5/CgGgMn5esWXCud6W/MVW7A4nx4VlrjqDMHo=
+github.com/unidoc/freetype v0.2.5 h1:PDLTe+8/Yfkjyho6ndr+XWTtfrSJrVijyiHVOevJxzo=
+github.com/unidoc/freetype v0.2.5/go.mod h1:neS6lk5/CgGgMn5esWXCud6W/MVW7A4nx4VlrjqDMHo=
 github.com/unidoc/pkcs7 v0.0.0-20200411230602-d883fd70d1df/go.mod h1:UEzOZUEpJfDpywVJMUT8QiugqEZC29pDq7kdIZhWCr8=
 github.com/unidoc/pkcs7 v0.3.0 h1:+RCopNCR8UoZtlf4bu4Y88O3j1MbvrLcOuQj/tbPLoU=
 github.com/unidoc/pkcs7 v0.3.0/go.mod h1:UEzOZUEpJfDpywVJMUT8QiugqEZC29pDq7kdIZhWCr8=
