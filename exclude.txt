@@ -651,21 +651,6 @@ golang.zx2c4.com/wintun
 golang.zx2c4.com/wireguard/windows
 //[golang.zx2c4.com/wireguard/windows] dir: /home/runner/go/pkg/mod/golang.zx2c4.com/wireguard/windows@v0.5.3
 //[golang.zx2c4.com/wireguard/windows] module has replace
-k8s.io/api
-//go: k8s.io/api@latest: k8s.io/api@v0.36.1: verifying module: k8s.io/api@v0.36.1: reading https://sum.golang.org/lookup/k8s.io/api@v0.36.1: 404 Not Found
-//	server response: not found: k8s.io/api@v0.36.1: invalid version: unknown revision v0.36.1
-k8s.io/apiextensions-apiserver
-//go: k8s.io/apiextensions-apiserver@latest (v0.36.1) requires k8s.io/api@v0.36.1: verifying go.mod: k8s.io/api@v0.36.1/go.mod: reading https://sum.golang.org/lookup/k8s.io/api@v0.36.1: 404 Not Found
-//	server response: not found: k8s.io/api@v0.36.1: invalid version: unknown revision v0.36.1
-k8s.io/apiserver
-//go: k8s.io/apiserver@latest (v0.36.1) requires k8s.io/api@v0.36.1: verifying go.mod: k8s.io/api@v0.36.1/go.mod: reading https://sum.golang.org/lookup/k8s.io/api@v0.36.1: 404 Not Found
-//	server response: not found: k8s.io/api@v0.36.1: invalid version: unknown revision v0.36.1
-k8s.io/client-go
-//go: k8s.io/client-go@latest (v0.36.1) requires k8s.io/api@v0.36.1: verifying go.mod: k8s.io/api@v0.36.1/go.mod: reading https://sum.golang.org/lookup/k8s.io/api@v0.36.1: 404 Not Found
-//	server response: not found: k8s.io/api@v0.36.1: invalid version: unknown revision v0.36.1
-k8s.io/component-base
-//go: k8s.io/component-base@latest (v0.36.1) requires k8s.io/api@v0.36.1: verifying go.mod: k8s.io/api@v0.36.1/go.mod: reading https://sum.golang.org/lookup/k8s.io/api@v0.36.1: 404 Not Found
-//	server response: not found: k8s.io/api@v0.36.1: invalid version: unknown revision v0.36.1
 src.techknowlogick.com/xgo
 //[src.techknowlogick.com/xgo] dir: /home/runner/go/pkg/mod/src.techknowlogick.com/xgo@v1.9.0
 //[src.techknowlogick.com/xgo] "": package is main

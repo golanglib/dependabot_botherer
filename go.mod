@@ -391,13 +391,13 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.9.1
 	github.com/cloudwego/eino v0.8.13
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260509111509-dbda66119839
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260513034227-48c02c2773e7
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260509111509-dbda66119839
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260513034227-48c02c2773e7
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
-	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260509111509-dbda66119839
+	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.0.0-20260513034227-48c02c2773e7
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.17
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
@@ -1621,7 +1621,13 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.7.0
 	howett.net/plist v1.0.1
+	k8s.io/api v0.36.0
+	k8s.io/apiextensions-apiserver v0.36.0
+	k8s.io/apimachinery v0.36.0
+	k8s.io/apiserver v0.36.0
+	k8s.io/client-go v0.36.0
 	k8s.io/code-generator v0.36.0
+	k8s.io/component-base v0.36.0
 	k8s.io/gengo/v2 v2.0.0-20250922181213-ec3ebc5fd46b
 	k8s.io/klog/v2 v2.140.0
 	k8s.io/kube-openapi v0.0.0-20260427204847-8949caaa1199
@@ -1662,6 +1668,7 @@ require (
 	rsc.io/ordered v1.1.1
 	rsc.io/quote/v3 v3.1.0
 	rsc.io/sampler v1.99.99
+	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.34.0
 	sigs.k8s.io/controller-runtime v0.24.1
 	sigs.k8s.io/controller-tools v0.21.0
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730
@@ -1968,10 +1975,6 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-	k8s.io/api v0.36.0 // indirect
-	k8s.io/apiextensions-apiserver v0.36.0 // indirect
-	k8s.io/apimachinery v0.36.0 // indirect
-	k8s.io/client-go v0.36.0 // indirect
 	pack.ag/amqp v0.11.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.0 // indirect
