@@ -1621,11 +1621,11 @@ require (
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.7.0
 	howett.net/plist v1.0.1
-	k8s.io/api v0.36.0
+	k8s.io/api v0.36.1
 	k8s.io/apiextensions-apiserver v0.36.0
-	k8s.io/apimachinery v0.36.0
+	k8s.io/apimachinery v0.36.1
 	k8s.io/apiserver v0.36.0
-	k8s.io/client-go v0.36.0
+	k8s.io/client-go v0.36.1
 	k8s.io/code-generator v0.36.0
 	k8s.io/component-base v0.36.0
 	k8s.io/gengo/v2 v2.0.0-20250922181213-ec3ebc5fd46b
