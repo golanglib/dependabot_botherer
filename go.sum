@@ -803,8 +803,8 @@ github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.2.0 h1:nCYfg
 github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.2.0/go.mod h1:ucUjca2JtSZboY8IoUqyQyuuXvwbMBVwFOm0vdQPNhA=
 github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.7.0 h1:BM85pSYlVYQHdq00nxyPoOkyLF5NArJG3bOsrmbwr4k=
 github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.7.0/go.mod h1:QYjP2cB7ZYtS/8jAbE0VSBZde/tjExqGjp+8JY6/+ts=
-github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.4 h1:tZh20RjgfMxKBxJiIS75iTVAKIUxrST5X2dVHMTptL4=
-github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.5.4/go.mod h1:vGYAk36rhMVCfTP7v+RVruCR0zmPe6S+36KRpDCLySw=
+github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.6.0 h1:l9OvNUb1teIT1WOWB1w/C46EUUWOz7HDk8oFnjCywoQ=
+github.com/Azure/azure-sdk-for-go/sdk/storage/azfile v1.6.0/go.mod h1:p4pz3IK+/AU4Yt99XfkXHV/CS7h/zWmBaBIJjP8anJI=
 github.com/Azure/azure-storage-blob-go v0.0.0-20181023070848-cf01652132cc/go.mod h1:oGfmITT1V6x//CswqY2gtAHND+xIP64/qL7a5QJix0Y=
 github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2 h1:G6pzVaX36QLfGvbLSAt8Leb81MiONYT0L03lhABjrPg=
 github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2/go.mod h1:K6am8mT+5iFXgingS9LUc7TmbsW6XBw3nxaRyaMyWc8=
