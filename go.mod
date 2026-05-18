@@ -391,10 +391,10 @@ require (
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.9.1
 	github.com/cloudwego/eino v0.8.13
-	github.com/cloudwego/eino-ext/callbacks/langfuse v0.0.0-20260517035045-70590d32fa92
+	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260517035045-70590d32fa92
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260517075931-80b50f07e90b
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.1
@@ -688,7 +688,7 @@ require (
 	github.com/golang/vscode-go v0.53.1
 	github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe
 	github.com/golangci/go-printf-func-name v0.1.1
-	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
+	github.com/golangci/gofmt v0.0.0-20251215234548-e7be49a5ab4d
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/golangci/misspell v0.8.0
 	github.com/golangci/modinfo v0.3.4
