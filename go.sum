@@ -2274,8 +2274,8 @@ github.com/evanw/esbuild v0.28.0/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20260515135053-9434ead13908 h1:cN5UElBdx06us1IWVaopXLmxzRLjw1kAw7epO+k6kxQ=
-github.com/facebook/time v0.0.0-20260515135053-9434ead13908/go.mod h1:Qg59tcudM5sQRrjvm4FxlAHsuNSxbAVBbOEXX3/o/Ag=
+github.com/facebook/time v0.0.0-20260518195559-a264de749c16 h1:ScioCnXiD1cv7Ke8U3IPsm/cWiwe7E8ApjYXZWNDN4E=
+github.com/facebook/time v0.0.0-20260518195559-a264de749c16/go.mod h1:Qg59tcudM5sQRrjvm4FxlAHsuNSxbAVBbOEXX3/o/Ag=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -3969,8 +3969,8 @@ github.com/metacubex/sing-tun v0.4.18 h1:WRzAosG0YkT3aZq5RJWtF+RdCgeJ8EpooS5ZM1l
 github.com/metacubex/sing-tun v0.4.18/go.mod h1:g4I/JNplDBhXLF+aQWgFbhNeJPSXQOWS9HvLeNvkgeA=
 github.com/metacubex/sing-vmess v0.2.5 h1:m9Zt5I27lB9fmLMZfism9sH2LcnAfShZfwSkf6/KJoE=
 github.com/metacubex/sing-vmess v0.2.5/go.mod h1:AwtlzUgf8COe9tRYAKqWZ+leDH7p5U98a0ZUpYehl8Q=
-github.com/metacubex/sing-wireguard v0.0.0-20260507084707-690d479ec947 h1:IB03BvRQtvjWScyOK5jSQVJYY8osmZXHL+4VCEFMWcM=
-github.com/metacubex/sing-wireguard v0.0.0-20260507084707-690d479ec947/go.mod h1:jpAkVLPnCpGSfNyVmj6Cq4YbuZsFepm/Dc+9BAOcR80=
+github.com/metacubex/sing-wireguard v0.0.0-20260519013504-208fddef5fdc h1:5xxtMYJvNneD4apL0wWqb0sxGgQUFykx7ADEwFBXclw=
+github.com/metacubex/sing-wireguard v0.0.0-20260519013504-208fddef5fdc/go.mod h1:eQZDJTx+IH3k4mXqaOJ3VJ9h9ZqOl60F7TLi5wAU51Q=
 github.com/metacubex/tfo-go v0.0.0-20251204144243-738de9e3cd15 h1:XKUOMjFYUGOU5sLwbSbGgGI0oOcTrrs1gLCoUB0Kg4M=
 github.com/metacubex/tfo-go v0.0.0-20251204144243-738de9e3cd15/go.mod h1:l9oLnLoEXyGZ5RVLsh7QCC5XsouTUyKk4F2nLm2DHLw=
 github.com/metacubex/tls v0.1.0 h1:1kjR/1q2uU1cZIwiHYEnWzS4L+0Cu1/X3yfIQ76BzNY=
