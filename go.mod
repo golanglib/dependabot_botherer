@@ -1639,7 +1639,7 @@ require (
 	modernc.org/cc/v3 v3.41.0
 	modernc.org/cc/v4 v4.28.2
 	modernc.org/ccgo/v3 v3.17.0
-	modernc.org/ccgo/v4 v4.34.1
+	modernc.org/ccgo/v4 v4.34.2
 	modernc.org/ccorpus v1.11.6
 	modernc.org/ccorpus2 v1.6.0
 	modernc.org/fileutil v1.4.0
