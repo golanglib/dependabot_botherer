@@ -780,7 +780,7 @@ require (
 	github.com/h12w/go-socks5 v0.0.0-20200522160539-76189e178364
 	github.com/h2non/gock v1.2.0
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
-	github.com/hairyhenderson/go-codeowners v0.7.0
+	github.com/hairyhenderson/go-codeowners v0.7.1
 	github.com/hanwen/go-fuse v1.0.0
 	github.com/hanwen/go-fuse/v2 v2.10.1
 	github.com/hanzoai/gochimp3 v0.0.0-20241127054040-6051f77e24f1
