@@ -1,5 +1,5 @@
 code.gitea.io/gitea
-//[code.gitea.io/gitea] dir: /home/runner/go/pkg/mod/code.gitea.io/gitea@v1.26.1
+//[code.gitea.io/gitea] dir: /home/runner/go/pkg/mod/code.gitea.io/gitea@v1.26.2
 //[code.gitea.io/gitea] module has replace
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"

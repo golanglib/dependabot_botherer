@@ -394,7 +394,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260517075931-80b50f07e90b
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260520075158-20432234c011
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.1
@@ -526,7 +526,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260519153408-b41f5dce02e2
+	github.com/facebook/time v0.0.0-20260520161754-ed6088d78a80
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1023,7 +1023,7 @@ require (
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.20
 	github.com/metacubex/sing-vmess v0.2.5
-	github.com/metacubex/sing-wireguard v0.0.0-20260519013504-208fddef5fdc
+	github.com/metacubex/sing-wireguard v0.0.0-20260520151737-7e7c7c1b854c
 	github.com/metacubex/tfo-go v0.0.0-20251204144243-738de9e3cd15
 	github.com/metacubex/utls v1.8.4
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f

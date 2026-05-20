@@ -1837,8 +1837,8 @@ github.com/cloudwego/eino-ext/components/model/ark v0.1.68 h1:ZW7sAXxA3BoaCksnxM
 github.com/cloudwego/eino-ext/components/model/ark v0.1.68/go.mod h1:IctHLV+EmEhf3o2fBw0N873mLIyNlEAAGcEpUGEQdvk=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13 h1:5XHRTiTD5bt9KQrMHcfvuWNklEC3tpm3XHejdozt9vM=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13/go.mod h1:mgIoqYYOc0eECCqvLbEYpOJrQNTNxkwXzSJzFU+v5sQ=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260517075931-80b50f07e90b h1:JLxSTrMDgn1nkQOySR7F+elJC8WznBefggExwisYBgc=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260517075931-80b50f07e90b/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260520075158-20432234c011 h1:TXKQ0bsMy1ye+gf56c7Y6p6Sc3jBPlTYScG+m6dPNUU=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260520075158-20432234c011/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8 h1:/QwCVAtB61b4Q2+RUvhoy9AZNkhiThsTySIoimxiJS4=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8/go.mod h1:zxP8sFkADBqflNc0a4qfKdLYQ+edzHPlkOaZF0A1X7o=
 github.com/cloudwego/eino-ext/devops v0.1.9 h1:kz0sIwXbdzP0QVO2wjVbBjhksi1sYKM8koh3XDmyRnQ=
@@ -2274,8 +2274,8 @@ github.com/evanw/esbuild v0.28.0/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20260519153408-b41f5dce02e2 h1:tTdmWVs7BvLP1VjJEzC5x2mKR4DPM2MsafwbUklHHXw=
-github.com/facebook/time v0.0.0-20260519153408-b41f5dce02e2/go.mod h1:Qg59tcudM5sQRrjvm4FxlAHsuNSxbAVBbOEXX3/o/Ag=
+github.com/facebook/time v0.0.0-20260520161754-ed6088d78a80 h1:32Cpn7KOLYKsXSCJ5ZG+9QKNVh36K9AMBbpsFTdoXWA=
+github.com/facebook/time v0.0.0-20260520161754-ed6088d78a80/go.mod h1:sbXd8MxicNxCm6DrrrswkNzXkkXcqP5080oMWmnPFKY=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -3969,8 +3969,8 @@ github.com/metacubex/sing-tun v0.4.20 h1:xdupzizRoZKyDzP0l68WAx5Sk4ooiuT1GiWsiJy
 github.com/metacubex/sing-tun v0.4.20/go.mod h1:g4I/JNplDBhXLF+aQWgFbhNeJPSXQOWS9HvLeNvkgeA=
 github.com/metacubex/sing-vmess v0.2.5 h1:m9Zt5I27lB9fmLMZfism9sH2LcnAfShZfwSkf6/KJoE=
 github.com/metacubex/sing-vmess v0.2.5/go.mod h1:AwtlzUgf8COe9tRYAKqWZ+leDH7p5U98a0ZUpYehl8Q=
-github.com/metacubex/sing-wireguard v0.0.0-20260519013504-208fddef5fdc h1:5xxtMYJvNneD4apL0wWqb0sxGgQUFykx7ADEwFBXclw=
-github.com/metacubex/sing-wireguard v0.0.0-20260519013504-208fddef5fdc/go.mod h1:eQZDJTx+IH3k4mXqaOJ3VJ9h9ZqOl60F7TLi5wAU51Q=
+github.com/metacubex/sing-wireguard v0.0.0-20260520151737-7e7c7c1b854c h1:tH9FuQW357zp2xAGzkoZTGpNGMVmEFZov0iV5M2S5ew=
+github.com/metacubex/sing-wireguard v0.0.0-20260520151737-7e7c7c1b854c/go.mod h1:eQZDJTx+IH3k4mXqaOJ3VJ9h9ZqOl60F7TLi5wAU51Q=
 github.com/metacubex/tfo-go v0.0.0-20251204144243-738de9e3cd15 h1:XKUOMjFYUGOU5sLwbSbGgGI0oOcTrrs1gLCoUB0Kg4M=
 github.com/metacubex/tfo-go v0.0.0-20251204144243-738de9e3cd15/go.mod h1:l9oLnLoEXyGZ5RVLsh7QCC5XsouTUyKk4F2nLm2DHLw=
 github.com/metacubex/tls v0.1.0 h1:1kjR/1q2uU1cZIwiHYEnWzS4L+0Cu1/X3yfIQ76BzNY=
