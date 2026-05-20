@@ -1114,7 +1114,7 @@ require (
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
 	github.com/nyaruka/phonenumbers v1.7.4
-	github.com/oapi-codegen/runtime v1.4.0
+	github.com/oapi-codegen/runtime v1.4.1
 	github.com/oapi-codegen/testutil v1.1.0
 	github.com/oasdiff/yaml v0.1.0
 	github.com/oasdiff/yaml3 v0.0.13
