@@ -1229,7 +1229,7 @@ require (
 	github.com/quic-go/quic-go v0.59.1
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.11.0
-	github.com/rclone/rclone v1.74.1
+	github.com/rclone/rclone v1.74.2
 	github.com/redis/go-redis/v9 v9.19.0
 	github.com/redis/rueidis v1.0.75
 	github.com/refraction-networking/utls v1.8.2
@@ -1562,18 +1562,18 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.27.0
-	golang.org/x/crypto v0.51.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
-	golang.org/x/image v0.40.0
+	golang.org/x/image v0.41.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20260312152759-81488f6aeb60
 	golang.org/x/mod v0.36.0
-	golang.org/x/net v0.54.0
+	golang.org/x/net v0.55.0
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.20.0
-	golang.org/x/sys v0.44.0
+	golang.org/x/sys v0.45.0
 	golang.org/x/telemetry v0.0.0-20260508192327-42602be52be6
 	golang.org/x/telemetry/config v0.98.0
 	golang.org/x/term v0.43.0
