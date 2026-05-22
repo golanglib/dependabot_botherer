@@ -91,7 +91,7 @@ require (
 	github.com/AzureAD/microsoft-authentication-extensions-for-go/cache v0.1.1
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.7.2
 	github.com/BurntSushi/toml v1.6.0
-	github.com/ClickHouse/ch-go v0.71.0
+	github.com/ClickHouse/ch-go v0.72.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
 	github.com/ClickHouse/clickhouse-go/v2 v2.46.0
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
