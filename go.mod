@@ -645,8 +645,8 @@ require (
 	github.com/go-toolsmith/typep v1.1.0
 	github.com/go-viper/mapstructure/v2 v2.5.0
 	github.com/go-webauthn/revoke v0.1.10
-	github.com/go-webauthn/webauthn v0.17.3
-	github.com/go-webauthn/x v0.2.5
+	github.com/go-webauthn/webauthn v0.17.4
+	github.com/go-webauthn/x v0.2.6
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
@@ -1562,7 +1562,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.27.0
-	golang.org/x/crypto v0.51.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
@@ -1573,7 +1573,7 @@ require (
 	golang.org/x/net v0.54.0
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.20.0
-	golang.org/x/sys v0.44.0
+	golang.org/x/sys v0.45.0
 	golang.org/x/telemetry v0.0.0-20260508192327-42602be52be6
 	golang.org/x/telemetry/config v0.98.0
 	golang.org/x/term v0.43.0
