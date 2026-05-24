@@ -394,7 +394,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260522093257-1524b085bdbd
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260523100706-3a34358d6fd1
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.1
@@ -651,7 +651,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
-	github.com/gocarina/gocsv v0.0.0-20240520201108-78e41c74b4b1
+	github.com/gocarina/gocsv v0.0.0-20260523204920-c264028e67ea
 	github.com/goccy/go-json v0.10.6
 	github.com/goccy/go-yaml v1.19.2
 	github.com/gochore/boltutil v0.2.0
