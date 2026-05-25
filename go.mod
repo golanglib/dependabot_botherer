@@ -548,7 +548,7 @@ require (
 	github.com/gaukas/godicttls v0.0.4
 	github.com/gdamore/encoding v1.0.1
 	github.com/gdamore/tcell v1.4.1
-	github.com/gdamore/tcell/v2 v2.13.9
+	github.com/gdamore/tcell/v2 v2.13.10
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.138.0
 	github.com/ghostiam/protogetter v0.3.21
