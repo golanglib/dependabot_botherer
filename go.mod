@@ -812,7 +812,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.24.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/memberlist v0.5.4
-	github.com/hashicorp/packer-plugin-sdk v0.6.8
+	github.com/hashicorp/packer-plugin-sdk v0.6.9
 	github.com/hashicorp/serf v0.10.2
 	github.com/hashicorp/terraform-exec v0.25.2
 	github.com/hashicorp/terraform-json v0.27.2
