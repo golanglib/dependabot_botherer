@@ -671,7 +671,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.161.1
+	github.com/gohugoio/hugo v0.162.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0
 	github.com/gohugoio/locales v0.15.5
@@ -1392,7 +1392,7 @@ require (
 	github.com/testcontainers/testcontainers-go v0.42.0
 	github.com/testcontainers/testcontainers-go/modules/kafka v0.42.0
 	github.com/tetafro/godot v1.5.6
-	github.com/tetratelabs/wazero v1.11.0
+	github.com/tetratelabs/wazero v1.11.1-0.20260521072212-475a1f8f0dc3
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
 	github.com/tidwall/btree v1.8.1
 	github.com/tidwall/gjson v1.19.0
