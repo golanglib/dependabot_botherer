@@ -1042,7 +1042,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.4
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.1.0
+	github.com/minio/minio-go/v7 v7.2.0
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1401,7 +1401,7 @@ require (
 	github.com/tidwall/sjson v1.2.5
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.2.1
-	github.com/timakin/bodyclose v0.0.0-20241222091800-1db5c5ca4d67
+	github.com/timakin/bodyclose v0.0.0-20260129054331-73d1f95b84b4
 	github.com/timonwong/loggercheck v0.11.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.6.4
@@ -1661,7 +1661,7 @@ require (
 	modernc.org/z v1.7.4
 	moul.io/http2curl/v2 v2.3.0
 	mvdan.cc/gofumpt v0.10.0
-	mvdan.cc/unparam v0.0.0-20250301125049-0df0534333a4
+	mvdan.cc/unparam v0.0.0-20251027182757-5beb8c8f8f15
 	mvdan.cc/xurls/v2 v2.6.0
 	pgregory.net/rapid v1.3.0
 	rsc.io/omap v1.2.0
@@ -1746,7 +1746,7 @@ require (
 	github.com/ccoveille/go-safecast/v2 v2.0.0 // indirect
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
-	github.com/charmbracelet/colorprofile v0.4.1 // indirect
+	github.com/charmbracelet/colorprofile v0.4.3 // indirect
 	github.com/charmbracelet/x/cellbuf v0.0.15 // indirect
 	github.com/charmbracelet/x/exp/slice v0.0.0-20250327172914-2fdc97757edf // indirect
 	github.com/checkpoint-restore/go-criu/v7 v7.2.0 // indirect
@@ -1780,7 +1780,6 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
-	github.com/go-ini/ini v1.67.0 // indirect
 	github.com/go-json-experiment/json v0.0.0-20260505212615-e40f80bf6836 // indirect
 	github.com/go-openapi/swag/cmdutils v0.26.0 // indirect
 	github.com/go-openapi/swag/conv v0.26.0 // indirect
