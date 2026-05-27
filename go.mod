@@ -24,7 +24,6 @@ require (
 	cloud.google.com/go/pubsub v1.50.2
 	cloud.google.com/go/storage v1.62.2
 	cloud.google.com/go/trace v1.16.0
-	code.gitea.io/actions-proto-go v0.4.1
 	code.gitea.io/sdk/gitea v0.25.1
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
@@ -394,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260526132638-75465b3cc5aa
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260527130239-95019b303cc6
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.1
@@ -771,7 +770,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.10
 	github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853
 	github.com/gravitational/trace v1.5.4
-	github.com/grid-x/modbus v0.0.0-20260325140807-cf9e1b9daae0
+	github.com/grid-x/modbus v0.0.0-20260527064858-ef3bed576432
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
@@ -1018,7 +1017,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20251227095601-261ec1326fe8
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20260525071347-7f961b1132a0
+	github.com/metacubex/sing-quic v0.0.0-20260527143057-68e10a6afdc3
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.20

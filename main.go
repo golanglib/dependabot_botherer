@@ -22,7 +22,6 @@ import (
 	_ "cloud.google.com/go/pubsub"
 	_ "cloud.google.com/go/storage"
 	_ "cloud.google.com/go/trace/apiv1"
-	_ "code.gitea.io/actions-proto-go/ping/v1"
 	_ "code.gitea.io/sdk/gitea"
 	_ "codeberg.org/gusted/mcaptcha"
 	_ "collectd.org/api"
