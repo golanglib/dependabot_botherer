@@ -767,7 +767,7 @@ require (
 	github.com/gostaticanalysis/testutil v0.6.1
 	github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092
 	github.com/grafana/pyroscope-go v1.3.0
-	github.com/grafana/pyroscope-go/godeltaprof v0.1.10
+	github.com/grafana/pyroscope-go/godeltaprof v0.1.11
 	github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853
 	github.com/gravitational/trace v1.5.4
 	github.com/grid-x/modbus v0.0.0-20260527064858-ef3bed576432
