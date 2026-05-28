@@ -108,7 +108,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.56.0
 	github.com/HdrHistogram/hdrhistogram-go v1.2.0
 	github.com/IBM/nzgo/v12 v12.0.12
-	github.com/IBM/sarama v1.49.0
+	github.com/IBM/sarama v1.50.1
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/MakeNowJust/heredoc v1.0.0
@@ -1772,7 +1772,6 @@ require (
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
-	github.com/eapache/queue v1.1.0 // indirect
 	github.com/ebitengine/purego v0.10.0 // indirect
 	github.com/echlebek/timeproxy v1.0.0 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.37.0 // indirect
