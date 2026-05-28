@@ -1243,7 +1243,7 @@ require (
 	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/robinson/gos7 v0.0.0-20241205073040-7ea1d6fb9d20
-	github.com/rogpeppe/go-internal v1.14.1
+	github.com/rogpeppe/go-internal v1.15.0
 	github.com/rs/cors v1.11.1
 	github.com/rs/cors/wrapper/gin v0.0.0-20260123235804-c9e5260a4ed4
 	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
