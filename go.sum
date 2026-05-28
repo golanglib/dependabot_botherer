@@ -5726,8 +5726,8 @@ go.opentelemetry.io/collector/pdata/testdata v0.120.0 h1:Zp0LBOv3yzv/lbWHK1oht41
 go.opentelemetry.io/collector/pdata/testdata v0.120.0/go.mod h1:PfezW5Rzd13CWwrElTZRrjRTSgMGUOOGLfHeBjj+LwY=
 go.opentelemetry.io/collector/semconv v0.128.0 h1:MzYOz7Vgb3Kf5D7b49pqqgeUhEmOCuT10bIXb/Cc+k4=
 go.opentelemetry.io/collector/semconv v0.128.0/go.mod h1:OPXer4l43X23cnjLXIZnRj/qQOjSuq4TgBLI76P9hns=
-go.opentelemetry.io/contrib v1.43.0 h1:rv+pngknCr4qpZDxSpEvEoRioutgfbkk82x6MChJQ3U=
-go.opentelemetry.io/contrib v1.43.0/go.mod h1:JYdNU7Pl/2ckKMGp8/G7zeyhEbtRmy9Q8bcrtv75Znk=
+go.opentelemetry.io/contrib v1.44.0 h1:cVL0yu3uyrXkAmxonxvzYysIo5EZa8jKh3740MzxBzI=
+go.opentelemetry.io/contrib v1.44.0/go.mod h1:JYdNU7Pl/2ckKMGp8/G7zeyhEbtRmy9Q8bcrtv75Znk=
 go.opentelemetry.io/contrib/bridges/prometheus v0.68.0 h1:w3zlHYETbDwXyWHZlyyR58ZC39XGi8rAhkBgUgJ9d5w=
 go.opentelemetry.io/contrib/bridges/prometheus v0.68.0/go.mod h1:GR/mClR2nn7vE8RLwxKjoBNg+QtgdDhRzxVa93koy5o=
 go.opentelemetry.io/contrib/detectors/gcp v1.43.0 h1:62yY3dT7/ShwOxzA0RsKRgshBmfElKI4d/Myu2OxDFU=
