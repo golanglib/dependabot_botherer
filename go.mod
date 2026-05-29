@@ -332,7 +332,7 @@ require (
 	github.com/buger/jsonparser v1.2.0
 	github.com/buildkite/terminal-to-html/v3 v3.16.8
 	github.com/butuzov/ireturn v0.4.1
-	github.com/butuzov/mirror v1.3.0
+	github.com/butuzov/mirror v1.3.2
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.4
 	github.com/bytedance/mockey v1.4.6
