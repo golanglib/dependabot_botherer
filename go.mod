@@ -224,15 +224,15 @@ require (
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.54.0
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.41.7
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.10
+	github.com/aws/aws-sdk-go-v2 v1.41.9
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.11
 	github.com/aws/aws-sdk-go-v2/config v1.32.18
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.17
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.40
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.23
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.22.20
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.57.0
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.74.0
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.74.2
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.33.14
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.16
@@ -1725,8 +1725,8 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.23 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.23 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.25 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.25 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.24 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.16 // indirect
