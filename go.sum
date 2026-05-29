@@ -3103,8 +3103,8 @@ github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976 h1:b70jEaX2
 github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976/go.mod h1:ZGQeOwybjD8lkCjIyJfqR5LD2wMVHJ31d6GdPxoTsWY=
 github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092 h1:c7gcNWTSr1gtLp6PyYi3wzvFCEcHJ4YRobDgqmIgf7Q=
 github.com/gotnospirit/messageformat v0.0.0-20221001023931-dfe49f1eb092/go.mod h1:ZZAN4fkkful3l1lpJwF8JbW41ZiG9TwJ2ZlqzQovBNU=
-github.com/grafana/pyroscope-go v1.3.0 h1:t3Jehad8vvqN4oRAB0LdmfQ5ZSUXQw3asoft+K4GAT8=
-github.com/grafana/pyroscope-go v1.3.0/go.mod h1:XA7I3usNx+UdjOZfQnl1WV8y924vsJo9KIVrKB+9jx4=
+github.com/grafana/pyroscope-go v1.3.1 h1:Eb9h55+vtLezn/DQ4iXz+SJrOz8CNghDk9xx8XQ4tc0=
+github.com/grafana/pyroscope-go v1.3.1/go.mod h1:vjZr7UNVSvbpVH+G9SBy8K0fATjfYwl+W12xLNOx9Xg=
 github.com/grafana/pyroscope-go/godeltaprof v0.1.11 h1:el5LYpXissAiCKZ5/6yjlr6mhYVV6Cp5lahTocxraXM=
 github.com/grafana/pyroscope-go/godeltaprof v0.1.11/go.mod h1:jl1V8M4cWsXciROCPIDDG7CtjSjT/ECbp6eLVuMxYRI=
 github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853 h1:cLN4IBkmkYZNnk7EAJ0BHIethd+J6LqxFNw5mSiI2bM=
