@@ -731,7 +731,7 @@ require (
 	github.com/google/logger v1.1.2
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/pprof v0.0.0-20260402051712-545e8a4df936
+	github.com/google/pprof v0.0.0-20260507013755-92041b743c96
 	github.com/google/s2a-go v0.1.9
 	github.com/google/safehtml v0.1.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -1286,7 +1286,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.11.1
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.26.1
+	github.com/securego/gosec/v2 v2.27.1
 	github.com/segmentio/asm v1.2.1
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.51
@@ -1941,7 +1941,7 @@ require (
 	go.opentelemetry.io/collector/semconv v0.128.0 // indirect
 	go.opentelemetry.io/contrib/bridges/prometheus v0.68.0 // indirect
 	go.opentelemetry.io/contrib/exporters/autoexport v0.65.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.68.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.69.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploggrpc v0.19.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploghttp v0.19.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v1.43.0 // indirect
