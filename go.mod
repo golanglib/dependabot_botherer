@@ -607,15 +607,15 @@ require (
 	github.com/go-logr/stdr v1.2.2
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-ole/go-ole v1.3.0
-	github.com/go-openapi/analysis v0.25.1
+	github.com/go-openapi/analysis v0.25.2
 	github.com/go-openapi/errors v0.22.7
 	github.com/go-openapi/inflect v0.21.5
 	github.com/go-openapi/jsonpointer v0.23.1
-	github.com/go-openapi/jsonreference v0.21.5
-	github.com/go-openapi/loads v0.23.3
+	github.com/go-openapi/jsonreference v0.21.6
+	github.com/go-openapi/loads v0.23.4
 	github.com/go-openapi/runtime v0.32.2
-	github.com/go-openapi/spec v0.22.4
-	github.com/go-openapi/strfmt v0.26.2
+	github.com/go-openapi/spec v0.22.5
+	github.com/go-openapi/strfmt v0.26.3
 	github.com/go-openapi/swag v0.26.0
 	github.com/go-openapi/validate v0.25.2
 	github.com/go-playground/assert/v2 v2.2.0
