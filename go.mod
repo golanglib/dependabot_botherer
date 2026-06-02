@@ -1532,7 +1532,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/auto/sdk v1.2.1
 	go.opentelemetry.io/contrib v1.44.0
-	go.opentelemetry.io/contrib/detectors/gcp v1.43.0
+	go.opentelemetry.io/contrib/detectors/gcp v1.44.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.69.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.69.0
 	go.opentelemetry.io/contrib/propagators/aws v1.44.0
