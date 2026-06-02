@@ -2974,8 +2974,8 @@ github.com/google/pprof v0.0.0-20210601050228-01bbb1931b22/go.mod h1:kpwsk12EmLe
 github.com/google/pprof v0.0.0-20210609004039-a478d1d731e9/go.mod h1:kpwsk12EmLew5upagYY7GY0pfYCcupk39gWOCRROcvE=
 github.com/google/pprof v0.0.0-20210720184732-4bb14d4b1be1/go.mod h1:kpwsk12EmLew5upagYY7GY0pfYCcupk39gWOCRROcvE=
 github.com/google/pprof v0.0.0-20240227163752-401108e1b7e7/go.mod h1:czg5+yv1E0ZGTi6S6vVK1mke0fV+FaUhNGcd6VRS9Ik=
-github.com/google/pprof v0.0.0-20260402051712-545e8a4df936 h1:EwtI+Al+DeppwYX2oXJCETMO23COyaKGP6fHVpkpWpg=
-github.com/google/pprof v0.0.0-20260402051712-545e8a4df936/go.mod h1:MxpfABSjhmINe3F1It9d+8exIHFvUqtLIRCdOGNXqiI=
+github.com/google/pprof v0.0.0-20260507013755-92041b743c96 h1:YDDnaZ9afWajDboPMt9Vikqca/yWAX7KAxVzb4lJU1M=
+github.com/google/pprof v0.0.0-20260507013755-92041b743c96/go.mod h1:MxpfABSjhmINe3F1It9d+8exIHFvUqtLIRCdOGNXqiI=
 github.com/google/protobuf v3.11.4+incompatible/go.mod h1:lUQ9D1ePzbH2PrIS7ob/bjm9HXyH5WHB0Akwh7URreM=
 github.com/google/renameio v0.1.0/go.mod h1:KWCgfxg9yswjAJkECMjeO8J8rahYeXnNhOm40UhjYkI=
 github.com/google/s2a-go v0.1.9 h1:LGD7gtMgezd8a/Xak7mEWL0PjoTQFvpRudN895yqKW0=
@@ -4916,8 +4916,8 @@ github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4 h1:zOjq+1/uLzn/Xo
 github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4/go.mod h1:aI+8yClBW+1uovkHw6HM01YXnYB8vohtB9C83wzx34E=
 github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989 h1:rq2/kILQnPtq5oL4+IAjgVOjh5e2yj2aaCYi7squEvI=
 github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989/go.mod h1:i9l/TNj+yDFh9SZXUTvspXTjbFXgZGP/UvhU1S65A4A=
-github.com/securego/gosec/v2 v2.26.1 h1:gdkttGhQFVehqRJ8grKH4DrpqM/QlPKNHBnl8QgcEC4=
-github.com/securego/gosec/v2 v2.26.1/go.mod h1:57UW4p0uoP3kxoTkhoo3axLdVAi+OWrLg/Ax/kdqtPE=
+github.com/securego/gosec/v2 v2.27.1 h1:bg4lZnpCCpC8e5l0K+ADF5gG91jmT2LQgOcOflwBfJI=
+github.com/securego/gosec/v2 v2.27.1/go.mod h1:lbgwsogcxq9aoN62Bk/vcdWwemFjlT5NPF/D/dH4+Ho=
 github.com/segmentio/asm v1.2.1 h1:DTNbBqs57ioxAD4PrArqftgypG4/qNpXoJx8TVXxPR0=
 github.com/segmentio/asm v1.2.1/go.mod h1:BqMnlJP91P8d+4ibuonYZw9mfnzI9HfxselHZr5aAcs=
 github.com/segmentio/fasthash v1.0.3 h1:EI9+KE1EwvMLBWwjpRDc+fEM+prwxDYbslddQGtrmhM=
@@ -5736,8 +5736,8 @@ go.opentelemetry.io/contrib/exporters/autoexport v0.65.0 h1:2gApdml7SznX9szEKFjK
 go.opentelemetry.io/contrib/exporters/autoexport v0.65.0/go.mod h1:0QqAGlbHXhmPYACG3n5hNzO5DnEqqtg4VcK5pr22RI0=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.69.0 h1:2yEATaop1/a1I4psnSLgWVPLWwCzkqWakgJy7xTDVy0=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.69.0/go.mod h1:D7J12YRapIekYyPWgGPlA/23pRmpSEZC5xJC/TTLI9U=
-go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.68.0 h1:CqXxU8VOmDefoh0+ztfGaymYbhdB/tT3zs79QaZTNGY=
-go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.68.0/go.mod h1:BuhAPThV8PBHBvg8ZzZ/Ok3idOdhWIodywz2xEcRbJo=
+go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.69.0 h1:8tvICD4vSTOOsNrsI4Ljf6C+6UKvpTEH5XY3JMoyPoo=
+go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.69.0/go.mod h1:z9+yiacE0IHRqM4qFfkbt/JYlmYXgss8GY/jXoNuPJI=
 go.opentelemetry.io/contrib/propagators/autoprop v0.69.0 h1:3gzAeb5dgGzwB7hXutgJ07Xsv3v4Wc0llV8AaMc0wiQ=
 go.opentelemetry.io/contrib/propagators/autoprop v0.69.0/go.mod h1:SpChkgQWjh6egTT0chEc7VfusZgQMPzLsxRWWrqJdaQ=
 go.opentelemetry.io/contrib/propagators/aws v1.44.0 h1:Rtvfd6nTbAF2csjiw41m1DfuqC5TneXs+gB84ZA3gq4=
