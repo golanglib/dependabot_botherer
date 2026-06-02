@@ -137,7 +137,7 @@ require (
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.16.11
-	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.8.3
+	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.9.0
 	github.com/Shopify/go-lua v0.0.0-20250718183320-1e37f32ad7d0
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/a2aproject/a2a-go v0.3.15
