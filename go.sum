@@ -1839,8 +1839,8 @@ github.com/cloudwego/eino-ext/components/model/ark v0.1.68 h1:ZW7sAXxA3BoaCksnxM
 github.com/cloudwego/eino-ext/components/model/ark v0.1.68/go.mod h1:IctHLV+EmEhf3o2fBw0N873mLIyNlEAAGcEpUGEQdvk=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13 h1:5XHRTiTD5bt9KQrMHcfvuWNklEC3tpm3XHejdozt9vM=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13/go.mod h1:mgIoqYYOc0eECCqvLbEYpOJrQNTNxkwXzSJzFU+v5sQ=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260601092438-69644ff61e2a h1:jiw/utikohNaG93vJ9YJ3ahexV9V6pTIQCToA335hak=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260601092438-69644ff61e2a/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260602092542-41e20c57ee2f h1:MWk+07xzG1TmOh8kc4pO+/CYD04HFIxLHH2gQgOOyqg=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260602092542-41e20c57ee2f/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8 h1:/QwCVAtB61b4Q2+RUvhoy9AZNkhiThsTySIoimxiJS4=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8/go.mod h1:zxP8sFkADBqflNc0a4qfKdLYQ+edzHPlkOaZF0A1X7o=
 github.com/cloudwego/eino-ext/devops v0.1.9 h1:kz0sIwXbdzP0QVO2wjVbBjhksi1sYKM8koh3XDmyRnQ=
@@ -2416,8 +2416,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20260416122353-fb80985e153a h1:m3N3RveWQeELk4lu3KUn1nETx41WFFbRhLGH2AnwiLk=
-github.com/go-ap/activitypub v0.0.0-20260416122353-fb80985e153a/go.mod h1:w6NXBv0bl7reKJQ0N8mA/GrXFqZTENElwyHV+A4H8x8=
+github.com/go-ap/activitypub v0.0.0-20260602080815-739274c2fcce h1:BJWiScGgO5PT7wVxMyEbtJms6EzVmWO+iG6F0NgzOBo=
+github.com/go-ap/activitypub v0.0.0-20260602080815-739274c2fcce/go.mod h1:5Iz1Ls5jsuEnDR58zs4j5engtw3Fq03PJ1B7sh+sqRg=
 github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966 h1:tV+3kZgqFMKVUf+JPKBV400ISM8440+6y/SQCS0WZwQ=
 github.com/go-ap/errors v0.0.0-20260208110149-e1b309365966/go.mod h1:zkp58Q5yXpCxZbh3d0GDvwqiYclfVuHEHjc9SZKAj6I=
 github.com/go-ap/jsonld v0.0.0-20251216162253-e38fa664ea77 h1:yHAmoR6avNy84PlLmjHt1z9flAp2Qs2ens5QDE/CNWk=
