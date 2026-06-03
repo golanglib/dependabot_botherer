@@ -1088,9 +1088,9 @@ require (
 	github.com/mustafaturan/monoton v1.0.0
 	github.com/nakabonne/nestif v0.3.1
 	github.com/nats-io/jwt v1.2.2
-	github.com/nats-io/jwt/v2 v2.8.1
+	github.com/nats-io/jwt/v2 v2.8.2
 	github.com/nats-io/nats-server/v2 v2.14.1
-	github.com/nats-io/nkeys v0.4.15
+	github.com/nats-io/nkeys v0.4.16
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/ncruces/go-strftime v1.0.0
