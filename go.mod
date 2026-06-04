@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/longrunning v1.0.0
 	cloud.google.com/go/monitoring v1.29.0
 	cloud.google.com/go/pubsub v1.50.2
-	cloud.google.com/go/storage v1.62.2
+	cloud.google.com/go/storage v1.62.3
 	cloud.google.com/go/trace v1.16.0
 	code.gitea.io/sdk/gitea v0.25.1
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
