@@ -951,7 +951,7 @@ require (
 	github.com/larksuite/oapi-sdk-go v1.1.48
 	github.com/larksuite/oapi-sdk-go/v3 v3.9.4
 	github.com/lasiar/canonicalheader v1.1.2
-	github.com/ldez/gomoddirectives v0.8.0
+	github.com/ldez/gomoddirectives v0.9.0
 	github.com/ldez/tagliatelle v0.7.2
 	github.com/leodido/go-syslog/v4 v4.5.0
 	github.com/leodido/go-urn v1.4.0
