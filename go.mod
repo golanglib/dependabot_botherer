@@ -1,6 +1,6 @@
 module dependabot_botherer
 
-go 1.26.3
+go 1.26.4
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
@@ -915,7 +915,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
-	github.com/kaptinlin/go-i18n v0.4.9
+	github.com/kaptinlin/go-i18n v0.4.10
 	github.com/kaptinlin/jsonschema v0.7.15
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
@@ -1713,6 +1713,7 @@ require (
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344 // indirect
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
+	github.com/agentable/go-intl v0.2.6 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/alfatraining/structtag v1.0.0 // indirect
@@ -1753,6 +1754,7 @@ require (
 	github.com/clipperhouse/uax29/v2 v2.7.0 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
 	github.com/cloudsoda/sddl v0.0.0-20250224235906-926454e91efc // indirect
+	github.com/cockroachdb/apd/v3 v3.2.3 // indirect
 	github.com/containerd/containerd/v2 v2.2.4 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
 	github.com/containerd/plugin v1.0.0 // indirect
@@ -1777,7 +1779,7 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
-	github.com/go-json-experiment/json v0.0.0-20260520185125-572e7c383686 // indirect
+	github.com/go-json-experiment/json v0.0.0-20260601182631-00ed12fed2a6 // indirect
 	github.com/go-openapi/swag/cmdutils v0.26.0 // indirect
 	github.com/go-openapi/swag/conv v0.26.0 // indirect
 	github.com/go-openapi/swag/fileutils v0.26.0 // indirect
@@ -1821,7 +1823,7 @@ require (
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
 	github.com/kaptinlin/jsonpointer v0.4.25 // indirect
-	github.com/kaptinlin/messageformat-go v0.6.4 // indirect
+	github.com/kaptinlin/messageformat-go v0.6.5 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/klauspost/crc32 v1.3.0 // indirect
