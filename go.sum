@@ -1685,8 +1685,8 @@ github.com/caarlos0/env/v6 v6.10.1 h1:t1mPSxNpei6M5yAeu1qtRdPAK29Nbcf/n3G7x+b3/I
 github.com/caarlos0/env/v6 v6.10.1/go.mod h1:hvp/ryKXKipEkcuYjs9mI4bBCg+UI0Yhgm5Zu0ddvwc=
 github.com/caddyserver/caddy v1.0.5 h1:5B1Hs0UF2x2tggr2X9jL2qOZtDXbIWQb9YLbmlxHSuM=
 github.com/caddyserver/caddy v1.0.5/go.mod h1:AnFHB+/MrgRC+mJAvuAgQ38ePzw+wKeW0wzENpdQQKY=
-github.com/caddyserver/caddy/v2 v2.11.3 h1:/vFbdjcs2DtzcWTIxHybf5R5TspYFFThlZffChyBFHg=
-github.com/caddyserver/caddy/v2 v2.11.3/go.mod h1:J9qdmC4A1g+q8wBa+bEWOUgPJhUgs00juslRJGbGzlU=
+github.com/caddyserver/caddy/v2 v2.11.4 h1:XKxkMTgNSizEvKG6QHue6cAsFOteU2qA61w2tKkCWi0=
+github.com/caddyserver/caddy/v2 v2.11.4/go.mod h1:zXCl032uTaF5/TpgU38axqFD41jqzxomTDNqK7BzMeI=
 github.com/caddyserver/certmagic v0.25.3 h1:mGf5ba8F7xA4c5jfDZZbK2buY1VEkbnwpMDixaju94A=
 github.com/caddyserver/certmagic v0.25.3/go.mod h1:YVs43D5+H/Dckt4bTga1KSO/xYfFBfVZainGDywYPAA=
 github.com/caddyserver/xcaddy v0.4.6 h1:/kbArNJZFPewjwlijr83WdssSuhSZ9XT2cDSWmonkjc=
@@ -5732,8 +5732,8 @@ go.opentelemetry.io/contrib/bridges/prometheus v0.68.0 h1:w3zlHYETbDwXyWHZlyyR58
 go.opentelemetry.io/contrib/bridges/prometheus v0.68.0/go.mod h1:GR/mClR2nn7vE8RLwxKjoBNg+QtgdDhRzxVa93koy5o=
 go.opentelemetry.io/contrib/detectors/gcp v1.44.0 h1:NmLfL734pJhM0JKaYd2Y28+nY9dPRWYAAbxhRCrKXPw=
 go.opentelemetry.io/contrib/detectors/gcp v1.44.0/go.mod h1:tNAsgd8avTGke1+MndXlU5Cru4PQ9Ai/cCNWQv/ZJ/s=
-go.opentelemetry.io/contrib/exporters/autoexport v0.65.0 h1:2gApdml7SznX9szEKFjKjM4qGcGSvAybYLBY319XG3g=
-go.opentelemetry.io/contrib/exporters/autoexport v0.65.0/go.mod h1:0QqAGlbHXhmPYACG3n5hNzO5DnEqqtg4VcK5pr22RI0=
+go.opentelemetry.io/contrib/exporters/autoexport v0.68.0 h1:0D3GFvELGIwQGfC6agLsbrEYSGWZTRTxIXxcQUqrOuk=
+go.opentelemetry.io/contrib/exporters/autoexport v0.68.0/go.mod h1:DM2NV7Zb8CcGeVPt6glouY0FAiwZQ/iqgcWExhgWeN8=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.69.0 h1:2yEATaop1/a1I4psnSLgWVPLWwCzkqWakgJy7xTDVy0=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.69.0/go.mod h1:D7J12YRapIekYyPWgGPlA/23pRmpSEZC5xJC/TTLI9U=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.69.0 h1:8tvICD4vSTOOsNrsI4Ljf6C+6UKvpTEH5XY3JMoyPoo=
