@@ -899,7 +899,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0
 	github.com/jinzhu/now v1.1.5
 	github.com/jjti/go-spancheck v0.6.5
-	github.com/jlaffaye/ftp v0.2.1-0.20251026020404-6602e981a1bb
+	github.com/jlaffaye/ftp v0.2.1
 	github.com/jmespath/go-jmespath v0.4.1-0.20220621161143-b0104c826a24
 	github.com/jmhodges/clock v1.2.0
 	github.com/jmhodges/levigo v1.0.0
