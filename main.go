@@ -781,7 +781,6 @@ import (
 	_ "github.com/hairyhenderson/go-codeowners"
 	_ "github.com/hanwen/go-fuse/benchmark"
 	_ "github.com/hanwen/go-fuse/v2"
-	_ "github.com/hanzoai/gochimp3"
 	_ "github.com/harlow/kinesis-consumer"
 	_ "github.com/hashicorp/errwrap"
 	_ "github.com/hashicorp/go-cleanhttp"

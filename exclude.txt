@@ -141,6 +141,10 @@ github.com/gwos/tcg
 //	k8s.io/client-go/kubernetes imports
 //	k8s.io/client-go/kubernetes/typed/scheduling/v1alpha1 imports
 //	k8s.io/api/scheduling/v1alpha1: cannot find module providing package k8s.io/api/scheduling/v1alpha1
+github.com/hanzoai/gochimp3
+//go: github.com/hanzoai/gochimp3@latest (v0.0.0-20260603202058-bec52be4943f) requires github.com/hanzoai/gochimp3@v0.0.0-20260603202058-bec52be4943f: parsing go.mod:
+//	module declares its path as: github.com/Elandiro/gochimp3
+//	        but was required as: github.com/hanzoai/gochimp3
 github.com/hashicorp/consul
 //go: github.com/hashicorp/consul imports
 //	github.com/hashicorp/consul/command/version imports

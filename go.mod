@@ -525,7 +525,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260601133511-15285b98b859
+	github.com/facebook/time v0.0.0-20260604004732-62bafeff1320
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -782,7 +782,6 @@ require (
 	github.com/hairyhenderson/go-codeowners v0.7.1
 	github.com/hanwen/go-fuse v1.0.0
 	github.com/hanwen/go-fuse/v2 v2.10.1
-	github.com/hanzoai/gochimp3 v0.0.0-20260601044257-b2d3232ff662
 	github.com/harlow/kinesis-consumer v0.5.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
