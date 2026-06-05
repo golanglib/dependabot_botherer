@@ -344,7 +344,7 @@ github.com/open-telemetry/opentelemetry-collector-contrib
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "reports/distributions": no buildable Go source files in /home/runner/go/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.153.0/reports/distributions
 //[github.com/open-telemetry/opentelemetry-collector-contrib] no importable packages found
 github.com/Shopify/sarama
-//go: github.com/Shopify/sarama@latest (v1.50.1) requires github.com/Shopify/sarama@v1.50.1: parsing go.mod:
+//go: github.com/Shopify/sarama@latest (v1.50.2) requires github.com/Shopify/sarama@v1.50.2: parsing go.mod:
 //	module declares its path as: github.com/IBM/sarama
 //	        but was required as: github.com/Shopify/sarama
 github.com/smartystreets/assertions
