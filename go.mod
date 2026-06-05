@@ -742,7 +742,7 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.3.16
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.22.0
-	github.com/gopacket/gopacket v1.6.0
+	github.com/gopacket/gopacket v1.6.1
 	github.com/gopcua/opcua v0.8.0
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
