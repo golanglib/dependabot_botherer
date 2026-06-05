@@ -224,7 +224,7 @@ require (
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.54.0
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.41.11
+	github.com/aws/aws-sdk-go-v2 v1.41.12
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.12
 	github.com/aws/aws-sdk-go-v2/config v1.32.22
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.21
@@ -241,7 +241,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kms v1.53.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.103.1
 	github.com/aws/aws-sdk-go-v2/service/sso v1.31.1
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.36.4
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.36.5
 	github.com/aws/aws-sdk-go-v2/service/sts v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.35.27
 	github.com/aws/smithy-go v1.27.1
@@ -1725,8 +1725,8 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.27 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.27 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.28 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.28 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.28 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.11 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.20 // indirect
