@@ -999,7 +999,7 @@ require (
 	github.com/mattn/go-isatty v0.0.22
 	github.com/mattn/go-runewidth v0.0.24
 	github.com/mattn/go-shellwords v1.0.13
-	github.com/mattn/go-sqlite3 v1.14.44
+	github.com/mattn/go-sqlite3 v1.14.45
 	github.com/mattn/goveralls v0.0.12
 	github.com/matttproud/golang_protobuf_extensions v1.0.4
 	github.com/maxatome/go-testdeep v1.15.0
