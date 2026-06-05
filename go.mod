@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260604114743-84d6e68e73ea
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260605024133-bde4f8991c0a
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.1
@@ -525,7 +525,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260604171411-67daa0f47271
+	github.com/facebook/time v0.0.0-20260605023050-a0dccd0380ad
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
