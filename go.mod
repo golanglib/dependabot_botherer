@@ -1560,7 +1560,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.28.0
-	golang.org/x/crypto v0.52.0
+	golang.org/x/crypto v0.53.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
