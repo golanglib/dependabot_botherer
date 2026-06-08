@@ -2624,8 +2624,8 @@ github.com/go-stack/stack v1.6.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/me
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
 github.com/go-stack/stack v1.8.1 h1:ntEHSVwIt7PNXNpgPmVfMrNhLtgjlmnZha2kOpuRiDw=
 github.com/go-stack/stack v1.8.1/go.mod h1:dcoOX6HbPZSZptuspn9bctJ+N/CnF5gGygcUP3XYfe4=
-github.com/go-swagger/go-swagger v0.34.0 h1:4frJHy7ApXhDqk2tee5uYLLCpPPCOSL49R6Q+5ZbCaQ=
-github.com/go-swagger/go-swagger v0.34.0/go.mod h1:S9kCHIGUBUjJ0/g90iH8gBuWDA7M9zhRYAPI6j6yX5Y=
+github.com/go-swagger/go-swagger v0.34.1 h1:2wqw4mJ8kgxewFEdEQUX7PgdUhVVuEStE0MmfYOO4zQ=
+github.com/go-swagger/go-swagger v0.34.1/go.mod h1:PETEHJRSRNWWyfCFYeIgCoMLK0ChyLz0LhNeQByzyts=
 github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0/go.mod h1:fyg7847qk6SyHyPtNmDHnmrv/HOrqktSC+C9fM+CJOE=
 github.com/go-task/slim-sprig v2.20.0+incompatible h1:4Xh3bDzO29j4TWNOI+24ubc0vbVFMg2PMnXKxK54/CA=
 github.com/go-task/slim-sprig v2.20.0+incompatible/go.mod h1:N/mhXZITr/EQAOErEHciKvO1bFei2Lld2Ym6h96pdy0=
