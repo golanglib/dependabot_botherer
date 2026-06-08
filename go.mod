@@ -612,7 +612,7 @@ require (
 	github.com/go-openapi/inflect v0.21.6
 	github.com/go-openapi/jsonpointer v0.23.1
 	github.com/go-openapi/jsonreference v0.21.6
-	github.com/go-openapi/loads v0.23.4
+	github.com/go-openapi/loads v0.24.0
 	github.com/go-openapi/runtime v0.32.3
 	github.com/go-openapi/spec v0.22.5
 	github.com/go-openapi/strfmt v0.26.3
@@ -1781,16 +1781,16 @@ require (
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
 	github.com/go-json-experiment/json v0.0.0-20260601182631-00ed12fed2a6 // indirect
 	github.com/go-openapi/swag/cmdutils v0.26.0 // indirect
-	github.com/go-openapi/swag/conv v0.26.0 // indirect
+	github.com/go-openapi/swag/conv v0.26.1 // indirect
 	github.com/go-openapi/swag/fileutils v0.26.0 // indirect
-	github.com/go-openapi/swag/jsonname v0.26.0 // indirect
-	github.com/go-openapi/swag/jsonutils v0.26.0 // indirect
-	github.com/go-openapi/swag/loading v0.26.0 // indirect
-	github.com/go-openapi/swag/mangling v0.26.0 // indirect
+	github.com/go-openapi/swag/jsonname v0.26.1 // indirect
+	github.com/go-openapi/swag/jsonutils v0.26.1 // indirect
+	github.com/go-openapi/swag/loading v0.26.1 // indirect
+	github.com/go-openapi/swag/mangling v0.26.1 // indirect
 	github.com/go-openapi/swag/netutils v0.26.0 // indirect
-	github.com/go-openapi/swag/stringutils v0.26.0 // indirect
-	github.com/go-openapi/swag/typeutils v0.26.0 // indirect
-	github.com/go-openapi/swag/yamlutils v0.26.0 // indirect
+	github.com/go-openapi/swag/stringutils v0.26.1 // indirect
+	github.com/go-openapi/swag/typeutils v0.26.1 // indirect
+	github.com/go-openapi/swag/yamlutils v0.26.1 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
