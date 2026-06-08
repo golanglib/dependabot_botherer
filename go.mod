@@ -273,7 +273,7 @@ require (
 	github.com/bep/tmc v0.6.0
 	github.com/bitly/go-hostpool v0.1.1
 	github.com/bitly/go-simplejson v0.5.1
-	github.com/bits-and-blooms/bitset v1.24.4
+	github.com/bits-and-blooms/bitset v1.24.5
 	github.com/bits-and-blooms/bloom/v3 v3.7.1
 	github.com/bkielbasa/cyclop v1.2.3
 	github.com/blang/semver/v4 v4.0.0
@@ -670,7 +670,7 @@ require (
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
 	github.com/gohugoio/hashstructure v0.6.0
 	github.com/gohugoio/httpcache v0.8.0
-	github.com/gohugoio/hugo v0.162.1
+	github.com/gohugoio/hugo v0.163.0
 	github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0
 	github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0
 	github.com/gohugoio/locales v0.15.5
