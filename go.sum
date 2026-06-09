@@ -1380,8 +1380,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodb v1.58.0 h1:kiOMESAm6XdbFFWixSU6nbp
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.58.0/go.mod h1:oA69sd8xL8Bd2yDI18eaeMQ55UKqfR88cXgHxjbNKQk=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.33.0 h1:3YaU3v3ybVnz+JRVJR19Y4EnEGebVHGKyo4rezXuGJo=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.33.0/go.mod h1:Uk+gmBWz7i2hg5UeGT03758STndDVgEl5+siz9qwUP8=
-github.com/aws/aws-sdk-go-v2/service/ec2 v1.305.2 h1:xcHUdx4FNgUZmLuI6vqB5QDsVnWx1MVbPSoaXtLxUB8=
-github.com/aws/aws-sdk-go-v2/service/ec2 v1.305.2/go.mod h1:SUtka5kgdr5Wx2BdRrH/IGkCKHW63IVQoyBkP0P1gdo=
+github.com/aws/aws-sdk-go-v2/service/ec2 v1.305.3 h1:rEay0b3E0qqyY+W0c3ox8wGRsVK+GjxXadj9B9vpg4c=
+github.com/aws/aws-sdk-go-v2/service/ec2 v1.305.3/go.mod h1:8mrDF7OtbuL0QpwP4YCvLuoOE4/5lL7D33MXgp069/Y=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.12 h1:ZD2+BSw9vFsNlKYIasSNt3uDbjqqXIBcM13UJv/Lx2k=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.12/go.mod h1:Ms4zlcVBbXbiP7EVLhl+lgjvA/a7YphqQ3Ih3174EmI=
 github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.21 h1:FsZxbPiVgEHYofziwfylouMki8b1Z7mI4CMU/7bhwBA=
@@ -1389,8 +1389,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.21/go.mod h1:Mmm30OV
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.6 h1:Bs2OwYq0HBgHYwfGmUwYIPtTNaGMGAHkRje4jmW2VoI=
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.6/go.mod h1:OTctu4cW8t7/TRlTKPLT6akzyOkfceMWhtEHqtYDIQQ=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.27/go.mod h1:EOwBD4J4S5qYszS5/3DpkejfuK+Z5/1uzICfPaZLtqw=
-github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.28 h1:axj4mEDletwKmTm/9jR+DkIMmCfcn5vE4jBMAAN+3Vg=
-github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.28/go.mod h1:3Aaz69M0jqfSHLKqxgolgUBFT4hpwSNc7DzC95orEi8=
+github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.29 h1:DRebniUGZ2MqiiIVmQJ04vIXr918hubdHMnarSLEWyU=
+github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.29/go.mod h1:LfRkPCD8YHDM2E5eTkos2UpwYeZnBcVarTa8L59bJHA=
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.28 h1:li8rTZAAb22g4UsxbjwMdaNVWbgVcDzPqI7nDTI+mF4=
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.28/go.mod h1:/brXioSGIMEdcBFoubpSdmighSVp6poP+mma/wB7iHA=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.6.0/go.mod h1:9O7UG2pELnP0hq35+Gd7XDjOLBkg7tmgRQ0y14ZjoJI=
