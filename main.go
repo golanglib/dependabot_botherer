@@ -1154,7 +1154,7 @@ import (
 	_ "github.com/pb33f/libopenapi"
 	_ "github.com/pbnjay/memory"
 	_ "github.com/pborman/uuid"
-	_ "github.com/pdfcpu/pdfcpu/pkg/api"
+	_ "github.com/pdfcpu/pdfcpu/cmd/pdfcpu/test"
 	_ "github.com/pelletier/go-toml"
 	_ "github.com/pelletier/go-toml/v2"
 	_ "github.com/perimeterx/marshmallow"

@@ -1810,7 +1810,6 @@ require (
 	github.com/hashicorp/consul/api v1.32.4 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
 	github.com/hashicorp/vault/api v1.22.0 // indirect
-	github.com/hhrutter/pkcs7 v0.2.2 // indirect
 	github.com/hpcloud/tail v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
