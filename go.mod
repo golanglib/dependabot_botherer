@@ -385,7 +385,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.16.2
 	github.com/cloudflare/cfssl v1.6.5
 	github.com/cloudflare/circl v1.6.3
-	github.com/cloudsoda/go-smb2 v0.0.0-20250228001242-d4c70e6251cc
+	github.com/cloudsoda/go-smb2 v0.0.0-20260609183447-7b96c35f5f4b
 	github.com/cloudwego/base64x v0.1.7
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.9.1
@@ -584,6 +584,7 @@ require (
 	github.com/go-faster/city v1.0.1
 	github.com/go-faster/errors v0.7.1
 	github.com/go-fed/httpsig v1.1.0
+	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
 	github.com/go-git/go-billy/v5 v5.9.0
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.19.1
@@ -1226,6 +1227,7 @@ require (
 	github.com/quic-go/quic-go v0.60.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.11.0
+	github.com/rclone/rclone v1.74.3
 	github.com/redis/go-redis/v9 v9.20.0
 	github.com/redis/rueidis v1.0.75
 	github.com/refraction-networking/utls v1.8.2
@@ -1564,7 +1566,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
 	golang.org/x/image v0.42.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
-	golang.org/x/mobile v0.0.0-20260312152759-81488f6aeb60
+	golang.org/x/mobile v0.0.0-20260410095206-2cfb76559b7b
 	golang.org/x/mod v0.37.0
 	golang.org/x/net v0.55.0
 	golang.org/x/oauth2 v0.36.0
@@ -1777,7 +1779,6 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
-	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
 	github.com/go-json-experiment/json v0.0.0-20260601182631-00ed12fed2a6 // indirect
 	github.com/go-openapi/swag/cmdutils v0.26.1 // indirect
 	github.com/go-openapi/swag/conv v0.26.1 // indirect
@@ -1819,6 +1820,7 @@ require (
 	github.com/jhump/protoreflect/v2 v2.0.0-beta.1 // indirect
 	github.com/josharian/mapfs v0.0.0-20210615234106-095c008854e6 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
+	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
 	github.com/kaptinlin/jsonpointer v0.4.26 // indirect
 	github.com/kaptinlin/messageformat-go/mf1 v0.7.0 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
@@ -1954,7 +1956,7 @@ require (
 	go.opentelemetry.io/otel/sdk/log v0.19.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.4 // indirect
-	golang.org/x/exp/shiny v0.0.0-20260218203240-3dfff04db8fa // indirect
+	golang.org/x/exp/shiny v0.0.0-20260603202125-055de637280b // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
