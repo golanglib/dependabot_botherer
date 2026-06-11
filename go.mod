@@ -385,7 +385,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.16.2
 	github.com/cloudflare/cfssl v1.6.5
 	github.com/cloudflare/circl v1.6.3
-	github.com/cloudsoda/go-smb2 v0.0.0-20260609183447-7b96c35f5f4b
+	github.com/cloudsoda/go-smb2 v0.0.0-20250228001242-d4c70e6251cc
 	github.com/cloudwego/base64x v0.1.7
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.9.1
@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260610041010-8fe947165ad0
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260611025447-20b2a55477df
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.1
@@ -525,7 +525,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.0
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260608171931-37a264b40742
+	github.com/facebook/time v0.0.0-20260610234933-c0cdbb0f5314
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -678,7 +678,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20260605061815-58f45aa500f1
+	github.com/golang/geo v0.0.0-20260610190942-d377bc8e8fb9
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -1566,7 +1566,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
 	golang.org/x/image v0.42.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
-	golang.org/x/mobile v0.0.0-20260410095206-2cfb76559b7b
+	golang.org/x/mobile v0.0.0-20260312152759-81488f6aeb60
 	golang.org/x/mod v0.37.0
 	golang.org/x/net v0.56.0
 	golang.org/x/oauth2 v0.36.0
@@ -1956,7 +1956,7 @@ require (
 	go.opentelemetry.io/otel/sdk/log v0.19.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.4 // indirect
-	golang.org/x/exp/shiny v0.0.0-20260603202125-055de637280b // indirect
+	golang.org/x/exp/shiny v0.0.0-20260218203240-3dfff04db8fa // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect

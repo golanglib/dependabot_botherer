@@ -884,7 +884,7 @@ import (
 	_ "github.com/jcmturner/rpc/examples"
 	_ "github.com/jcmturner/rpc/v2/examples"
 	_ "github.com/jdkato/prose"
-	_ "github.com/jedib0t/go-pretty/v6"
+	_ "github.com/jedib0t/go-pretty/v6/list"
 	_ "github.com/jellydator/ttlcache/v3"
 	_ "github.com/jeremija/gosubmit"
 	_ "github.com/jeremywohl/flatten/v2"

@@ -1,5 +1,5 @@
 code.gitea.io/actions-proto-go
-//go: code.gitea.io/actions-proto-go@latest (v0.5.0) requires code.gitea.io/actions-proto-go@v0.5.0: parsing go.mod:
+//go: code.gitea.io/actions-proto-go@latest (v0.6.0) requires code.gitea.io/actions-proto-go@v0.6.0: parsing go.mod:
 //	module declares its path as: gitea.dev/actions-proto-go
 //	        but was required as: code.gitea.io/actions-proto-go
 code.gitea.io/gitea
