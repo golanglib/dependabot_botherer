@@ -1587,7 +1587,7 @@ require (
 	google.golang.org/adk v1.4.0
 	google.golang.org/api v0.284.0
 	google.golang.org/appengine v1.6.8
-	google.golang.org/genai v1.59.0
+	google.golang.org/genai v1.60.0
 	google.golang.org/genproto v0.0.0-20260519071638-aa98bba5eb94
 	google.golang.org/genproto/googleapis/api v0.0.0-20260519071638-aa98bba5eb94
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260526163538-3dc84a4a5aaa
