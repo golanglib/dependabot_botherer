@@ -5045,8 +5045,8 @@ github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262 h1:unQFBIznI+VYD1
 github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262/go.mod h1:MyOHs9Po2fbM1LHej6sBUT8ozbxmMOFG+E+rx/GSGuc=
 github.com/smallstep/certificates v0.30.2 h1:1G3xBi8sJ740iA1mMPW2Svv7EIZKJ4Zf/iQtA5QlN0Y=
 github.com/smallstep/certificates v0.30.2/go.mod h1:oyaE/aEYUGDr+YiCZLAxxP22bOQqcSHTeDgp8Vv2rlY=
-github.com/smallstep/cli v0.30.4 h1:fHP/l3p6gLtQGigdig3qUMQTVpwPZhnDHiH9Q6Diqjg=
-github.com/smallstep/cli v0.30.4/go.mod h1:kybH4H4LplOA2ANNYNDq8SRvfprhEZI2vTBPhVTi4uo=
+github.com/smallstep/cli v0.30.6 h1:XhRxn1kdPrbv7kysuNTF3owYFk08WviqbMqQkGiejPY=
+github.com/smallstep/cli v0.30.6/go.mod h1:kybH4H4LplOA2ANNYNDq8SRvfprhEZI2vTBPhVTi4uo=
 github.com/smallstep/cli-utils v0.12.2 h1:lGzM9PJrH/qawbzMC/s2SvgLdJPKDWKwKzx9doCVO+k=
 github.com/smallstep/cli-utils v0.12.2/go.mod h1:uCPqefO29goHLGqFnwk0i8W7XJu18X3WHQFRtOm/00Y=
 github.com/smallstep/go-attestation v0.4.9 h1:/fVmzB8A8tk7B2PCGPlszWzyl/GDcEQbynqcg2PMaZ0=
