@@ -401,7 +401,7 @@ require (
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
 	github.com/cloudwego/gopkg v0.2.0
-	github.com/cloudwego/hertz v0.10.4
+	github.com/cloudwego/hertz v0.10.5
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.2
 	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260609033212-a8fa80b8e1d1
