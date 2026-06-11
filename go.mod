@@ -1326,7 +1326,7 @@ require (
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.30.2
-	github.com/smallstep/cli v0.30.4
+	github.com/smallstep/cli v0.30.6
 	github.com/smallstep/cli-utils v0.12.2
 	github.com/smallstep/go-attestation v0.4.9
 	github.com/smallstep/nosql v0.8.0
