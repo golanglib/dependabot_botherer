@@ -530,7 +530,7 @@ require (
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
 	github.com/felixge/fgprof v0.9.5
-	github.com/felixge/httpsnoop v1.0.4
+	github.com/felixge/httpsnoop v1.1.0
 	github.com/firefart/nonamedreturns v1.0.6
 	github.com/flosch/pongo2/v4 v4.0.2
 	github.com/flynn/noise v1.1.0
