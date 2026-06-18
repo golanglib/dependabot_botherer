@@ -449,7 +449,7 @@ require (
 	github.com/crewjam/saml v0.5.1
 	github.com/cronokirby/saferith v0.33.1-0.20250226174546-1f11f94ce488
 	github.com/curioswitch/go-reassign v0.3.0
-	github.com/cyphar/filepath-securejoin v0.6.1
+	github.com/cyphar/filepath-securejoin v0.7.0
 	github.com/daixiang0/gci v0.14.0
 	github.com/danielgtaylor/huma v1.14.3
 	github.com/danieljoos/wincred v1.2.3
@@ -1693,7 +1693,7 @@ require (
 	cloud.google.com/go/pubsub/v2 v2.5.1 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	codeberg.org/chavacava/garif v0.2.0 // indirect
-	cyphar.com/go-pathrs v0.2.4 // indirect
+	cyphar.com/go-pathrs v0.2.5 // indirect
 	filippo.io/bigmod v0.1.0 // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
