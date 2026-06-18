@@ -112,20 +112,25 @@ github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapp
 github.com/gwos/tcg
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/config imports
-//	github.com/gwos/tcg/sdk/clients: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: unknown revision sdk/v0.0.0
+//	github.com/gwos/tcg/sdk/clients: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: git ls-remote -q --end-of-options https://github.com/gwos/tcg in /home/runner/go/pkg/mod/cache/vcs/373fe65980b4480bf9a9eb1f2bfe05f2116477b562243570250df3cfd5f1981a: exit status 128:
+//	fatal: unable to access 'https://github.com/gwos/tcg/': Failed to connect to github.com port 443 after 134886 ms: Couldn't connect to server
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/config imports
-//	github.com/gwos/tcg/sdk/log: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: unknown revision sdk/v0.0.0
+//	github.com/gwos/tcg/sdk/log: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: git ls-remote -q --end-of-options https://github.com/gwos/tcg in /home/runner/go/pkg/mod/cache/vcs/373fe65980b4480bf9a9eb1f2bfe05f2116477b562243570250df3cfd5f1981a: exit status 128:
+//	fatal: unable to access 'https://github.com/gwos/tcg/': Failed to connect to github.com port 443 after 134886 ms: Couldn't connect to server
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/config imports
-//	github.com/gwos/tcg/sdk/transit: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: unknown revision sdk/v0.0.0
+//	github.com/gwos/tcg/sdk/transit: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: git ls-remote -q --end-of-options https://github.com/gwos/tcg in /home/runner/go/pkg/mod/cache/vcs/373fe65980b4480bf9a9eb1f2bfe05f2116477b562243570250df3cfd5f1981a: exit status 128:
+//	fatal: unable to access 'https://github.com/gwos/tcg/': Failed to connect to github.com port 443 after 134886 ms: Couldn't connect to server
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/connectors/azure imports
-//	github.com/gwos/tcg/sdk/mapping: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: unknown revision sdk/v0.0.0
+//	github.com/gwos/tcg/sdk/mapping: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: git ls-remote -q --end-of-options https://github.com/gwos/tcg in /home/runner/go/pkg/mod/cache/vcs/373fe65980b4480bf9a9eb1f2bfe05f2116477b562243570250df3cfd5f1981a: exit status 128:
+//	fatal: unable to access 'https://github.com/gwos/tcg/': Failed to connect to github.com port 443 after 134886 ms: Couldn't connect to server
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/config imports
 //	github.com/gwos/tcg/nats imports
-//	github.com/gwos/tcg/sdk/errors: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: unknown revision sdk/v0.0.0
+//	github.com/gwos/tcg/sdk/errors: reading github.com/gwos/tcg/sdk/go.mod at revision sdk/v0.0.0: git ls-remote -q --end-of-options https://github.com/gwos/tcg in /home/runner/go/pkg/mod/cache/vcs/373fe65980b4480bf9a9eb1f2bfe05f2116477b562243570250df3cfd5f1981a: exit status 128:
+//	fatal: unable to access 'https://github.com/gwos/tcg/': Failed to connect to github.com port 443 after 134886 ms: Couldn't connect to server
 //go: github.com/gwos/tcg imports
 //	github.com/gwos/tcg/connectors/k8s imports
 //	k8s.io/client-go/kubernetes imports
