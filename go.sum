@@ -1274,6 +1274,8 @@ github.com/apapsch/go-jsonmerge/v2 v2.0.0 h1:axGnT1gRIfimI7gJifB699GoE/oq+F2MU7D
 github.com/apapsch/go-jsonmerge/v2 v2.0.0/go.mod h1:lvDnEdqiQrp0O42VQGgmlKpxL1AP2+08jFMw88y4klk=
 github.com/apernet/quic-go v0.59.1-0.20260217092621-db4786c77a22 h1:00ziBGnLWQEcR9LThDwvxOznJJquJ9bYUdmBFnawLMU=
 github.com/apernet/quic-go v0.59.1-0.20260217092621-db4786c77a22/go.mod h1:Npbg8qBtAZlsAB3FWmqwlVh5jtVG6a4DlYsOylUpvzA=
+github.com/aperturerobotics/protobuf-go-lite v0.14.0 h1:6YhovtoUZtXgXLHZ2VV2GCYUzFfi8UN6172Vl2flNlE=
+github.com/aperturerobotics/protobuf-go-lite v0.14.0/go.mod h1:lGH3s5ArCTXKI4wJdlNpaybUtwSjfAG0vdWjxOfMcF8=
 github.com/apex/log v1.9.0 h1:FHtw/xuaM8AgmvDDTI9fiwoAL25Sq2cxojnZICUU8l0=
 github.com/apex/log v1.9.0/go.mod h1:m82fZlWIuiWzWP04XCTXmnX0xRkYYbCdYn8jbJeLBEA=
 github.com/apex/logs v1.0.0/go.mod h1:XzxuLZ5myVHDy9SAmYpamKKRNApGj54PfYLcFrXqDwo=
@@ -1761,8 +1763,8 @@ github.com/chavacava/garif v0.1.0 h1:2JHa3hbYf5D9dsgseMKAmc/MZ109otzgNFk5s87H9Pc
 github.com/chavacava/garif v0.1.0/go.mod h1:XMyYCkEL58DF0oyW4qDjjnPWONs2HBqYKI+UIPD+Gww=
 github.com/checkpoint-restore/go-criu/v5 v5.3.0 h1:wpFFOoomK3389ue2lAb0Boag6XPht5QYpipxmSNL4d8=
 github.com/checkpoint-restore/go-criu/v5 v5.3.0/go.mod h1:E/eQpaFtUKGOOSEBZgmKAcn+zUUwWxqcaKZlF54wK8E=
-github.com/checkpoint-restore/go-criu/v7 v7.2.0 h1:qGiWA4App1gGlEfIJ68WR9jbezV9J7yZdjzglezcqKo=
-github.com/checkpoint-restore/go-criu/v7 v7.2.0/go.mod h1:u0LCWLg0w4yqqu14aXhiB4YD3a1qd8EcCEg7vda5dwo=
+github.com/checkpoint-restore/go-criu/v8 v8.3.0 h1:UC3Ioay1OMN2Wg33U53enRoG2701vJ9Y2Ex4APmC52w=
+github.com/checkpoint-restore/go-criu/v8 v8.3.0/go.mod h1:33d6FwGJGwnzKVvaO0SxlN0tPSuArKU9X/inD/L7/qA=
 github.com/cheekybits/genny v1.0.0/go.mod h1:+tQajlRqAUrPI7DOSpB0XAqZYtQakVtB7wXkRAgjxjQ=
 github.com/cheggaaa/pb/v3 v3.1.6 h1:h0x+vd7EiUohAJ29DJtJy+SNAc55t/elW3jCD086EXk=
 github.com/cheggaaa/pb/v3 v3.1.6/go.mod h1:urxmfVtaxT+9aWk92DbsvXFZtNSWQSO5TRAp+MJ3l1s=
@@ -4370,8 +4372,8 @@ github.com/opencontainers/go-digest v1.0.0/go.mod h1:0JzlMkj0TRzQZfJkVvzbP0HBR3I
 github.com/opencontainers/image-spec v1.0.2/go.mod h1:BtxoFyWECRxE4U/7sNtV5W15zMzWCbyJoFRP3s7yZA0=
 github.com/opencontainers/image-spec v1.1.1 h1:y0fUlFfIZhPF1W537XOLg0/fcx6zcHCJwooC2xJA040=
 github.com/opencontainers/image-spec v1.1.1/go.mod h1:qpqAh3Dmcf36wStyyWU+kCeDgrGnAve2nCC8+7h8Q0M=
-github.com/opencontainers/runc v1.4.3 h1:/bq84roxG30xEICkFodXzMEVQFs7kzo4lCiZME1uKxI=
-github.com/opencontainers/runc v1.4.3/go.mod h1:ufk5PTTsy5pnGBAvTh50e+eqGk01pYH2YcVxh557Qlk=
+github.com/opencontainers/runc v1.5.0 h1:6HPQ7DW9/wNaENamFHvOpTkGIYXMIb32Ne+wLiuzsZQ=
+github.com/opencontainers/runc v1.5.0/go.mod h1:95e1csYzphSxDuOF+BhCxklMFV0eehUWZwYId+70EZE=
 github.com/opencontainers/runtime-spec v1.3.0 h1:YZupQUdctfhpZy3TM39nN9Ika5CBWT5diQ8ibYCRkxg=
 github.com/opencontainers/runtime-spec v1.3.0/go.mod h1:jwyrGlmzljRJv/Fgzds9SsS/C5hL+LL3ko9hs6T5lQ0=
 github.com/opencontainers/selinux v1.15.1 h1:ERxeh5caJvCzNAKdI8WQbJmB1LDTn4BuaAg8wihLBpA=
