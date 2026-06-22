@@ -1163,7 +1163,7 @@ require (
 	github.com/peterbourgon/unixtransport v0.0.7
 	github.com/philhofer/fwd v1.2.0
 	github.com/pierrec/lz4/v4 v4.1.27
-	github.com/pion/datachannel v1.6.1
+	github.com/pion/datachannel v1.6.2
 	github.com/pion/dtls v1.5.4
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
