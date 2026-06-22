@@ -1241,7 +1241,7 @@ require (
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/robinson/gos7 v0.0.0-20241205073040-7ea1d6fb9d20
+	github.com/robinson/gos7 v0.0.0-20260622162611-2d6806f80c8b
 	github.com/rogpeppe/go-internal v1.15.0
 	github.com/rs/cors v1.11.1
 	github.com/rs/cors/wrapper/gin v0.0.0-20260604061346-2f30c9cf7731
