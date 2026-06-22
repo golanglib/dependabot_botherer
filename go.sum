@@ -715,8 +715,8 @@ github.com/6543/go-version v1.4.0 h1:iNYLzyjZarPImMoauoqjFP+hkdny/Zp1ecg5pS+AGuU
 github.com/6543/go-version v1.4.0/go.mod h1:V7SnyexYKaK0qTlRluNFJGo69Kgu2I249RY6TjIB6tY=
 github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 h1:/vQbFIOMbk2FiG/kXiLl8BRyzTWDw7gX/Hz7Dd5eDMs=
 github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4/go.mod h1:hN7oaIRCjzsZ2dE+yG5k+rsdt3qcwykqK6HVGcKwsw4=
-github.com/99designs/gqlgen v0.17.91 h1:/mIvXnN0lAorqszP3Vukw10SVRfLVUYtBTQFwmYRMmI=
-github.com/99designs/gqlgen v0.17.91/go.mod h1:N7+yJF6zbGIEqohF+ZtEUp/eq2dTnn0bDizLUIYPUCU=
+github.com/99designs/gqlgen v0.17.92 h1:Ovj/hoMVqFaVLj7O2jlQNc8Z7FWpsd44LmA70e6qruM=
+github.com/99designs/gqlgen v0.17.92/go.mod h1:D51dk25OyUPz7jBw3P7B3+k4vsLxZo9f0yOrT4t/vLE=
 github.com/99designs/keyring v1.2.2 h1:pZd3neh/EmUzWONb35LxQfvuY7kiSXAq3HQd97+XBn0=
 github.com/99designs/keyring v1.2.2/go.mod h1:wes/FrByc8j7lFOAGLGSNEg8f/PaI3cgTBqhFkHUrPk=
 github.com/Abirdcfly/dupword v0.1.8 h1:SrhcUuGsROBuChFxHALRYzyyPODWn9zwghmzPvD9Cd8=
@@ -1899,8 +1899,8 @@ github.com/cockroachdb/apd/v3 v3.2.3 h1:4Zx+I3R35bFXMnltzmjP79i2cravE4jTRL6ps9Au
 github.com/cockroachdb/apd/v3 v3.2.3/go.mod h1:klXJcjp+FffLTHlhIG69tezTDvdP065naDsHzKhYSqc=
 github.com/cockroachdb/datadriven v1.0.2 h1:H9MtNqVoVhvd9nCBwOyDjUEdZCREqbIdCJD93PBm/jA=
 github.com/cockroachdb/datadriven v1.0.2/go.mod h1:a9RdTaap04u637JoCzcUoIcDmvwSUtcUFtT/C3kJlTU=
-github.com/coder/websocket v1.8.14 h1:9L0p0iKiNOibykf283eHkKUHHrpG7f65OE3BhhO7v9g=
-github.com/coder/websocket v1.8.14/go.mod h1:NX3SzP+inril6yawo5CQXx8+fk145lPDC6pumgx0mVg=
+github.com/coder/websocket v1.8.15 h1:6B2JPeOGlpff2Uz6vOEH1Vzpi0iUz20A+lPVhPHtNUA=
+github.com/coder/websocket v1.8.15/go.mod h1:NX3SzP+inril6yawo5CQXx8+fk145lPDC6pumgx0mVg=
 github.com/colinmarc/hdfs/v2 v2.4.0 h1:v6R8oBx/Wu9fHpdPoJJjpGSUxo8NhHIwrwsfhFvU9W0=
 github.com/colinmarc/hdfs/v2 v2.4.0/go.mod h1:0NAO+/3knbMx6+5pCv+Hcbaz4xn/Zzbn9+WIib2rKVI=
 github.com/compose-spec/compose-go v1.20.2 h1:u/yfZHn4EaHGdidrZycWpxXgFffjYULlTbRfJ51ykjQ=
