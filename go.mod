@@ -172,7 +172,7 @@ require (
 	github.com/alitto/pond v1.9.2
 	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
 	github.com/anacrolix/bargle v1.0.0
-	github.com/anacrolix/chansync v0.7.0
+	github.com/anacrolix/chansync v0.8.0
 	github.com/anacrolix/dht v1.0.1
 	github.com/anacrolix/dht/v2 v2.24.0
 	github.com/anacrolix/envpprof v1.5.0
