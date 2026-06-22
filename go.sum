@@ -1138,8 +1138,8 @@ github.com/aliyun/alibaba-cloud-sdk-go v1.63.107/go.mod h1:SOSDHfe1kX91v3W5QiBsW
 github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
 github.com/anacrolix/bargle v1.0.0 h1:jc4EKULEJx4GV10rpERpQp1jsiJWWOEGplsqssc4sAQ=
 github.com/anacrolix/bargle v1.0.0/go.mod h1:9xUiZbkh+94FbiIAL1HXpAIBa832f3Mp07rRPl5c5RQ=
-github.com/anacrolix/chansync v0.7.0 h1:wgwxbsJRmOqNjil4INpxHrDp4rlqQhECxR8/WBP4Et0=
-github.com/anacrolix/chansync v0.7.0/go.mod h1:DZsatdsdXxD0WiwcGl0nJVwyjCKMDv+knl1q2iBjA2k=
+github.com/anacrolix/chansync v0.8.0 h1:Z/YLVXRDMTy3jFfHKSwzCRVD88ldnFoM4THdWqLjNxM=
+github.com/anacrolix/chansync v0.8.0/go.mod h1:RT3KIkmAanMPsiKC/HTBOrSlgB4TQ8DW8dxgDOnQGsg=
 github.com/anacrolix/dht v0.0.0-20180412060941-24cbf25b72a4/go.mod h1:hQfX2BrtuQsLQMYQwsypFAab/GvHg8qxwVi4OJdR1WI=
 github.com/anacrolix/dht v0.0.0-20181129074040-b09db78595aa/go.mod h1:Ayu4t+5TsHQ07/P8XzRJqVofv7lU4R1ZTT7KW5+SPFA=
 github.com/anacrolix/dht v1.0.1 h1:a7zVMiZWfPiToAUbjMZYeI3UvmsDP3j8vH5EDIAjM9c=
@@ -1202,7 +1202,6 @@ github.com/anacrolix/stm v0.5.0/go.mod h1:MOwrSy+jCm8Y7HYfMAwPj7qWVu7XoVvjOiYwJm
 github.com/anacrolix/sync v0.0.0-20171108081538-eee974e4f8c1/go.mod h1:+u91KiUuf0lyILI6x3n/XrW7iFROCZCG+TjgK8nW52w=
 github.com/anacrolix/sync v0.0.0-20180611022320-3c4cb11f5a01/go.mod h1:+u91KiUuf0lyILI6x3n/XrW7iFROCZCG+TjgK8nW52w=
 github.com/anacrolix/sync v0.0.0-20180808010631-44578de4e778/go.mod h1:s735Etp3joe/voe2sdaXLcqDdJSay1O0OPnM0ystjqk=
-github.com/anacrolix/sync v0.3.0/go.mod h1:BbecHL6jDSExojhNtgTFSBcdGerzNc64tz3DCOj/I0g=
 github.com/anacrolix/sync v0.6.0 h1:W8jXs9tlj/oHhvLys2Cu8ncDAw6NVjm413t0BHp3LVo=
 github.com/anacrolix/sync v0.6.0/go.mod h1:zigHZiBXkcjo9uNACGCpovT+wNKMbzjO1qN2+eehq8Y=
 github.com/anacrolix/tagflag v0.0.0-20180109131632-2146c8d41bf0/go.mod h1:1m2U/K6ZT+JZG0+bdMK6qauP49QT4wE5pmhJXOKKCHw=
