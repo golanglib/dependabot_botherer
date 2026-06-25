@@ -404,7 +404,7 @@ require (
 	github.com/cloudwego/hertz v0.10.5
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.2
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260624091426-518ebce27396
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260625071411-6192ed40334f
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.3
 	github.com/cloudwego/runtimex v0.1.1
@@ -678,7 +678,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20260622181633-f80708c60e82
+	github.com/golang/geo v0.0.0-20260625163123-7c0e84413537
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
