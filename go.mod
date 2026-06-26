@@ -746,7 +746,7 @@ require (
 	github.com/gopcua/opcua v0.9.0
 	github.com/goph/emperror v0.17.2
 	github.com/gophercloud/gophercloud v1.14.1
-	github.com/gophercloud/gophercloud/v2 v2.12.0
+	github.com/gophercloud/gophercloud/v2 v2.13.0
 	github.com/gopherjs/gopherjs v1.20.2
 	github.com/gorcon/rcon v1.4.0
 	github.com/gordonklaus/ineffassign v0.2.0
