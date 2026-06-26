@@ -1059,7 +1059,7 @@ require (
 	github.com/moby/sys/mountinfo v0.7.2
 	github.com/moby/sys/sequential v0.7.0
 	github.com/moby/sys/signal v0.7.1
-	github.com/moby/sys/user v0.4.0
+	github.com/moby/sys/user v0.4.1
 	github.com/moby/sys/userns v0.1.0
 	github.com/moby/term v0.5.2
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee
