@@ -1204,7 +1204,7 @@ require (
 	github.com/prometheus/client_model v0.6.2
 	github.com/prometheus/common v0.69.0
 	github.com/prometheus/common/sigv4 v0.1.0
-	github.com/prometheus/procfs v0.20.1
+	github.com/prometheus/procfs v0.21.0
 	github.com/prometheus/prom2json v1.5.0
 	github.com/prometheus/prometheus v0.307.0
 	github.com/protolambda/ctxlock v0.1.0
