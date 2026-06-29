@@ -615,7 +615,7 @@ require (
 	github.com/go-openapi/loads v0.24.0
 	github.com/go-openapi/runtime v0.32.4
 	github.com/go-openapi/spec v0.22.6
-	github.com/go-openapi/strfmt v0.26.3
+	github.com/go-openapi/strfmt v0.26.4
 	github.com/go-openapi/swag v0.26.1
 	github.com/go-openapi/validate v0.26.0
 	github.com/go-playground/assert/v2 v2.2.0
