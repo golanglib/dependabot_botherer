@@ -195,7 +195,7 @@ require (
 	github.com/anacrolix/upnp v0.1.4
 	github.com/anchore/go-struct-converter v0.2.1
 	github.com/andeya/ameda v1.5.3
-	github.com/andybalholm/brotli v1.2.1
+	github.com/andybalholm/brotli v1.2.2
 	github.com/andybalholm/cascadia v1.3.4
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/antchfx/jsonquery v1.3.7
