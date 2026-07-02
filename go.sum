@@ -5687,8 +5687,8 @@ go.etcd.io/etcd/server/v3 v3.6.13 h1:gEGFSiJlYwzhvhZjfglj1oqe2LG8bmX47hSizwedAOs
 go.etcd.io/etcd/server/v3 v3.6.13/go.mod h1:9NsHlIEPZFq27IzVfLKyU15HVF/gVAk3gEe4feD7qsk=
 go.etcd.io/etcd/tests/v3 v3.6.13 h1:/giMm/X+asygOMvoCVbemT9rO9UwlL5Cqy8NjiseDFo=
 go.etcd.io/etcd/tests/v3 v3.6.13/go.mod h1:82S5H3OC7/8w0hielU8i2+Dh/VZavfFht2s/wtvuoMQ=
-go.etcd.io/etcd/v3 v3.6.12 h1:AazMBfwml1oL6UK51hOWo+EW8yab7Kfy8B6F5mVsr0A=
-go.etcd.io/etcd/v3 v3.6.12/go.mod h1:Q7AM2KXg5swJAWUxYDmHH+1yS8ZwaggGgRctSclSSFs=
+go.etcd.io/etcd/v3 v3.6.13 h1:3GVAolx0ARpwsmnIanPvaze9fBwU9z5h4wZdItYtMaY=
+go.etcd.io/etcd/v3 v3.6.13/go.mod h1:+MIScQixbcxfZTBX0rfYcJwGuvz9DFjVIO2wE95I4qg=
 go.etcd.io/gofail v0.1.0/go.mod h1:VZBCXYGZhHAinaBiiqYvuDynvahNsAyLFwB3kEHKz1M=
 go.etcd.io/gofail v0.2.0 h1:p19drv16FKK345a09a1iubchlw/vmRuksmRzgBIGjcA=
 go.etcd.io/gofail v0.2.0/go.mod h1:nL3ILMGfkXTekKI3clMBNazKnjUZjYLKmBHzsVAnC1o=
