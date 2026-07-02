@@ -330,7 +330,7 @@ require (
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
 	github.com/buger/jsonparser v1.2.0
-	github.com/buildkite/terminal-to-html/v3 v3.16.8
+	github.com/buildkite/terminal-to-html/v3 v3.17.0
 	github.com/butuzov/ireturn v0.4.1
 	github.com/butuzov/mirror v1.3.3
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
