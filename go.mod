@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.1
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260702024331-c05d17c7dace
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260703093938-7f6839cbf307
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.1
@@ -435,7 +435,6 @@ require (
 	github.com/coreos/go-oidc/v3 v3.19.0
 	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.7.0
-	github.com/couchbase/cbauth v0.1.20
 	github.com/couchbase/go-couchbase v0.1.1
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.3.0
@@ -525,7 +524,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.1
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260702093528-22c52a79cce6
+	github.com/facebook/time v0.0.0-20260703134825-5fa5c15f2d11
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1759,6 +1758,7 @@ require (
 	github.com/containerd/containerd/v2 v2.2.5 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
 	github.com/containerd/plugin v1.1.0 // indirect
+	github.com/couchbase/cbauth v0.1.20 // indirect
 	github.com/couchbase/clog v0.1.0 // indirect
 	github.com/coze-dev/cozeloop-go/spec v0.1.4-0.20250829072213-3812ddbfb735 // indirect
 	github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432 // indirect

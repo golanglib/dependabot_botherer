@@ -433,7 +433,6 @@ import (
 	_ "github.com/coreos/go-oidc/v3/oidc"
 	_ "github.com/coreos/go-semver/semver"
 	_ "github.com/coreos/go-systemd/v22/activation"
-	_ "github.com/couchbase/cbauth"
 	_ "github.com/couchbase/go-couchbase"
 	_ "github.com/couchbase/gomemcached"
 	_ "github.com/couchbase/goutils/go-cbaudit"

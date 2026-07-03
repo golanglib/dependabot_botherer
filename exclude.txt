@@ -66,6 +66,9 @@ github.com/cosmtrek/air
 //go: github.com/cosmtrek/air@latest (v1.65.3) requires github.com/cosmtrek/air@v1.65.3: parsing go.mod:
 //	module declares its path as: github.com/air-verse/air
 //	        but was required as: github.com/cosmtrek/air
+github.com/couchbase/cbauth
+//[github.com/couchbase/cbauth] dir: /home/runner/go/pkg/mod/github.com/couchbase/cbauth@v0.1.20
+//[github.com/couchbase/cbauth] module has replace
 github.com/Crocmagnon/fatcontext
 //go: github.com/Crocmagnon/fatcontext@latest (v0.10.0) requires github.com/Crocmagnon/fatcontext@v0.10.0: parsing go.mod:
 //	module declares its path as: go.augendre.info/fatcontext
