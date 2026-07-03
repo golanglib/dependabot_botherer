@@ -435,7 +435,7 @@ require (
 	github.com/coreos/go-oidc/v3 v3.19.0
 	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.7.0
-	github.com/couchbase/cbauth v0.1.19
+	github.com/couchbase/cbauth v0.1.20
 	github.com/couchbase/go-couchbase v0.1.1
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.3.0
