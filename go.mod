@@ -482,7 +482,7 @@ require (
 	github.com/docker/go-connections v0.7.0
 	github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430
 	github.com/dprotaso/go-yit v0.0.0-20191028211022-135eb7262960
-	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.2.0
+	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.3.0
 	github.com/dsnet/compress v0.0.2-0.20230904184137-39efe44ab707
 	github.com/dsnet/try v0.0.3
 	github.com/duo-labs/webauthn v0.0.0-20221205164246-ebaf9b74c6ec
