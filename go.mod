@@ -915,7 +915,7 @@ require (
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
 	github.com/kaptinlin/go-i18n v0.6.0
-	github.com/kaptinlin/jsonschema v0.9.2
+	github.com/kaptinlin/jsonschema v0.9.3
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.12
@@ -1712,7 +1712,7 @@ require (
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344 // indirect
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
-	github.com/agentable/go-intl v0.2.7 // indirect
+	github.com/agentable/go-intl v0.2.11 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/alfatraining/structtag v1.0.0 // indirect
@@ -1780,7 +1780,7 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
-	github.com/go-json-experiment/json v0.0.0-20260601182631-00ed12fed2a6 // indirect
+	github.com/go-json-experiment/json v0.0.0-20260623181947-01eb4420fa68 // indirect
 	github.com/go-openapi/swag/cmdutils v0.27.0 // indirect
 	github.com/go-openapi/swag/conv v0.27.0 // indirect
 	github.com/go-openapi/swag/fileutils v0.27.0 // indirect
@@ -1822,8 +1822,8 @@ require (
 	github.com/josharian/mapfs v0.0.0-20210615234106-095c008854e6 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
-	github.com/kaptinlin/jsonpointer v0.4.26 // indirect
-	github.com/kaptinlin/messageformat-go/mf1 v0.8.0 // indirect
+	github.com/kaptinlin/jsonpointer v0.4.27 // indirect
+	github.com/kaptinlin/messageformat-go/mf1 v0.8.2 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/klauspost/crc32 v1.3.0 // indirect
