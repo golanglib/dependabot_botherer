@@ -2140,8 +2140,8 @@ github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430 h1:oempk9HjNt6r
 github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430/go.mod h1:AVSs/gZKt1bOd2AhkhbS7Qh56Hv7klde22yXVbwYJhc=
 github.com/dprotaso/go-yit v0.0.0-20191028211022-135eb7262960 h1:aRd8M7HJVZOqn/vhOzrGcQH0lNAMkqMn+pXUYkatmcA=
 github.com/dprotaso/go-yit v0.0.0-20191028211022-135eb7262960/go.mod h1:9HQzr9D/0PGwMEbC3d5AB7oi67+h4TsQqItC1GVYG58=
-github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.2.0 h1:xCIhThQX/5GAV5dtOShaK/Sb5Y05LAtbVuVXJSOos9w=
-github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.2.0/go.mod h1:D7aEhXjUiLSj1u7Hem6WmS15Vk/0lxcsDZP/sZFeqQ4=
+github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.3.0 h1:VhU21dV7Y76CgH2SXU5bcRJTNBS+Iw1ZhEK2MYfQ/xM=
+github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.3.0/go.mod h1:D7aEhXjUiLSj1u7Hem6WmS15Vk/0lxcsDZP/sZFeqQ4=
 github.com/dropbox/godropbox v0.0.0-20180512210157-31879d3884b9 h1:NAvZb7gqQfLSNBPzVsvI7eZMosXtg2g2kxXrei90CtU=
 github.com/dropbox/godropbox v0.0.0-20180512210157-31879d3884b9/go.mod h1:glr97hP/JuXb+WMYCizc4PIFuzw1lCR97mwbe1VVXhQ=
 github.com/dsnet/compress v0.0.1/go.mod h1:Aw8dCMJ7RioblQeTqt88akK31OvO8Dhf5JflhBbQEHo=
