@@ -1359,8 +1359,8 @@ github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.51/go.mod h1:
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.3/go.mod h1:4Q0UFP0YJf0NrsEuEYHpM9fTSEVnD16Z3uyEF7J9JGM=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.30 h1:/hi1JADLEW9YYryEz1w4GQu0EtP23pP553Cf9KgsDV4=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.30/go.mod h1:/3AOgy4K17Dm4ucMZVC/MJkzy5kmfKUcINRHZyo0koQ=
-github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.22.30 h1:qzaF2qXmjqBcLbtcpIxOddoDH5eKIRdmOiKt7BatgDc=
-github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.22.30/go.mod h1:5LlJNctj1Y7l59FPonG4LNjK5DvorTKIS+pAVuWAh3s=
+github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.22.31 h1:7lcHy74J5ajNAuTvwZYS9Tw4Ept/eLCavGEnykacT8o=
+github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.22.31/go.mod h1:7eILDitqxXgdStzJvYvCBuVL9k5ftKcPQ6F4ZRUV3+A=
 github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.33/go.mod h1:7i0PF1ME/2eUPFcjkVIwq+DOygHEoK92t5cDqNgYbIw=
 github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.30 h1:xM/Is9cKMHa8Jj8zkvWhvrFkZsXJV9E+BB4g0HW0duQ=
 github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.30/go.mod h1:WueJeNDZvK1fMYEWJIkcivBfEzUkTpBhzlrUKKY8EuA=
