@@ -1490,7 +1490,7 @@ require (
 	github.com/yuin/goldmark-meta v1.1.0
 	github.com/yuin/gopher-lua v1.1.2
 	github.com/yunify/qingstor-sdk-go/v3 v3.2.0
-	github.com/zclconf/go-cty v1.18.1
+	github.com/zclconf/go-cty v1.19.0
 	github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940
 	github.com/zeebo/assert v1.3.1
 	github.com/zeebo/blake3 v0.2.4
@@ -1722,6 +1722,7 @@ require (
 	github.com/apache/arrow-go/v18 v18.4.0 // indirect
 	github.com/aperturerobotics/protobuf-go-lite v0.14.0 // indirect
 	github.com/apex/log v1.9.0 // indirect
+	github.com/apparentlymart/go-textseg/v17 v17.0.1 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
