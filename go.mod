@@ -21,7 +21,7 @@ require (
 	cloud.google.com/go/logging v1.18.0
 	cloud.google.com/go/longrunning v1.1.0
 	cloud.google.com/go/monitoring v1.29.0
-	cloud.google.com/go/pubsub v1.50.2
+	cloud.google.com/go/pubsub v1.50.3
 	cloud.google.com/go/storage v1.63.0
 	cloud.google.com/go/trace v1.16.0
 	code.gitea.io/sdk/gitea v0.25.1
@@ -1689,7 +1689,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/pubsub/v2 v2.5.1 // indirect
+	cloud.google.com/go/pubsub/v2 v2.6.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
 	codeberg.org/chavacava/garif v0.2.0 // indirect
 	cyphar.com/go-pathrs v0.2.5 // indirect
