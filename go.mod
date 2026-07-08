@@ -38,7 +38,7 @@ require (
 	gitea.com/go-chi/binding v0.0.0-20260414111559-654cea7ac60a
 	gitea.com/go-chi/cache v0.2.1
 	gitea.com/go-chi/captcha v0.0.0-20240315150714-fb487f629098
-	gitea.com/go-chi/session v0.0.0-20251124165456-68e0254e989e
+	gitea.com/go-chi/session v0.0.0-20260708011333-ebced8a7a2d6
 	gitea.com/lunny/levelqueue v0.4.1
 	github.com/3andne/restls-client-go v0.1.6
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
@@ -499,7 +499,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.8.4
-	github.com/elazarl/goproxy/ext v0.0.0-20260502101453-636207d4c044
+	github.com/elazarl/goproxy/ext v0.0.0-20260707193525-5ba11e8846d7
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
@@ -524,7 +524,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.1
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260707095444-dacf6819f21e
+	github.com/facebook/time v0.0.0-20260707193732-7b08604f0217
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
