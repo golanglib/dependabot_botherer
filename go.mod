@@ -1570,7 +1570,7 @@ require (
 	golang.org/x/net v0.56.0
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.22.0
-	golang.org/x/sys v0.46.0
+	golang.org/x/sys v0.47.0
 	golang.org/x/telemetry v0.0.0-20260625142307-59b4966ccb57
 	golang.org/x/telemetry/config v0.107.0
 	golang.org/x/term v0.44.0
