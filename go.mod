@@ -385,7 +385,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.16.2
 	github.com/cloudflare/cfssl v1.6.5
 	github.com/cloudflare/circl v1.6.4
-	github.com/cloudsoda/go-smb2 v0.0.0-20250228001242-d4c70e6251cc
+	github.com/cloudsoda/go-smb2 v0.0.0-20260701064823-d8c5600d73b8
 	github.com/cloudwego/base64x v0.1.7
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.9.1
@@ -1226,7 +1226,7 @@ require (
 	github.com/quic-go/quic-go v0.60.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.12.0
-	github.com/rclone/rclone v1.74.3
+	github.com/rclone/rclone v1.74.4
 	github.com/redis/go-redis/v9 v9.21.0
 	github.com/redis/rueidis v1.0.76
 	github.com/refraction-networking/utls v1.8.2
@@ -1377,7 +1377,7 @@ require (
 	github.com/swaggo/gin-swagger v1.6.1
 	github.com/swaggo/swag v1.16.6
 	github.com/syndtr/goleveldb v1.0.0
-	github.com/t3rm1n4l/go-mega v0.0.0-20251120131202-6845944c051c
+	github.com/t3rm1n4l/go-mega v0.0.0-20260630094356-4de2f127f34a
 	github.com/tailscale/tscert v0.0.0-20251216020129-aea342f6d747
 	github.com/tdakkota/asciicheck v0.4.1
 	github.com/tdewolff/minify/v2 v2.24.13
