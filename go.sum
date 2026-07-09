@@ -1767,8 +1767,8 @@ github.com/checkpoint-restore/go-criu/v5 v5.3.0/go.mod h1:E/eQpaFtUKGOOSEBZgmKAc
 github.com/checkpoint-restore/go-criu/v8 v8.3.0 h1:UC3Ioay1OMN2Wg33U53enRoG2701vJ9Y2Ex4APmC52w=
 github.com/checkpoint-restore/go-criu/v8 v8.3.0/go.mod h1:33d6FwGJGwnzKVvaO0SxlN0tPSuArKU9X/inD/L7/qA=
 github.com/cheekybits/genny v1.0.0/go.mod h1:+tQajlRqAUrPI7DOSpB0XAqZYtQakVtB7wXkRAgjxjQ=
-github.com/cheggaaa/pb/v3 v3.1.6 h1:h0x+vd7EiUohAJ29DJtJy+SNAc55t/elW3jCD086EXk=
-github.com/cheggaaa/pb/v3 v3.1.6/go.mod h1:urxmfVtaxT+9aWk92DbsvXFZtNSWQSO5TRAp+MJ3l1s=
+github.com/cheggaaa/pb/v3 v3.1.7 h1:2FsIW307kt7A/rz/ZI2lvPO+v3wKazzE4K/0LtTWsOI=
+github.com/cheggaaa/pb/v3 v3.1.7/go.mod h1:/Ji89zfVPeC/u5j8ukD0MBPHt2bzTYp74lQ7KlgFWTQ=
 github.com/chenzhuoyu/base64x v0.0.0-20211019084208-fb5309c8db06/go.mod h1:DH46F32mSOjUmXrMHnKwZdA8wcEefY7UVqBKYGjpdQY=
 github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 h1:qSGYFH7+jGhDF8vLC+iwCD4WpbV1EBDSzWkJODFLams=
 github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311/go.mod h1:b583jCggY9gE99b6G5LEC39OIiVsWj+R97kbl5odCEk=
@@ -5675,8 +5675,8 @@ go.etcd.io/etcd/client/v2 v2.305.32/go.mod h1:r6H448xnVt+FYOGcsxJ0/Y/yPTxBQLp6RS
 go.etcd.io/etcd/client/v3 v3.5.0/go.mod h1:AIKXXVX/DQXtfTEqBryiLTUXwON+GuvO6Z7lLS/oTh0=
 go.etcd.io/etcd/client/v3 v3.7.0 h1:5MHO37VbPB87VRPKUXEcicjeQWiTSjpPv3Ume8xPx20=
 go.etcd.io/etcd/client/v3 v3.7.0/go.mod h1:DJ382WuwjmbowjPDyaaQ0idWXy4dh91XRhe4FOrb9vM=
-go.etcd.io/etcd/etcdctl/v3 v3.6.13 h1:fhjsw6wPJD34VudE52FkdtYeCUVBw8ELb72qHu25vno=
-go.etcd.io/etcd/etcdctl/v3 v3.6.13/go.mod h1:xYM3HdxcRUtge6RFfYZWLJYsBnD0Vp4Vxthdw4kVgow=
+go.etcd.io/etcd/etcdctl/v3 v3.7.0 h1:Atizaao5zK04g4SOl4sQCkUi7aDab8/IwpOQdWEBotM=
+go.etcd.io/etcd/etcdctl/v3 v3.7.0/go.mod h1:NDP4dUFGN4qpRPO/J5vEl3Nly2UlXufqkQFfQXK2EFo=
 go.etcd.io/etcd/etcdutl/v3 v3.7.0 h1:NWpz72HizSHVmOK+zDA6LwLpFBq5qAQiiJm3VV55rDY=
 go.etcd.io/etcd/etcdutl/v3 v3.7.0/go.mod h1:4l1DPx/nyxKAC4unO7cfDQwC1Gxleb+2AjCD25gZDt4=
 go.etcd.io/etcd/pkg/v3 v3.7.0 h1:aUBHGzXnYL2m3AlZfKp0ZhHQLVZIKfu9QsIlYdr+mxc=
