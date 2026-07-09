@@ -46,7 +46,7 @@ require (
 	github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432
 	github.com/4meepo/tagalign v1.4.3
 	github.com/6543/go-version v1.4.0
-	github.com/99designs/gqlgen v0.17.93
+	github.com/99designs/gqlgen v0.17.94
 	github.com/99designs/keyring v1.2.2
 	github.com/Abirdcfly/dupword v0.1.8
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6
@@ -1571,12 +1571,12 @@ require (
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.22.0
 	golang.org/x/sys v0.47.0
-	golang.org/x/telemetry v0.0.0-20260625142307-59b4966ccb57
+	golang.org/x/telemetry v0.0.0-20260708182218-49f421fb7959
 	golang.org/x/telemetry/config v0.108.0
 	golang.org/x/term v0.45.0
 	golang.org/x/text v0.40.0
 	golang.org/x/time v0.15.0
-	golang.org/x/tools v0.47.0
+	golang.org/x/tools v0.48.0
 	golang.org/x/vuln v1.5.0
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb
