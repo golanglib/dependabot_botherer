@@ -1516,7 +1516,7 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.7.0
 	go.etcd.io/etcd/client/v2 v2.305.32
 	go.etcd.io/etcd/client/v3 v3.7.0
-	go.etcd.io/etcd/etcdctl/v3 v3.6.13
+	go.etcd.io/etcd/etcdctl/v3 v3.7.0
 	go.etcd.io/etcd/etcdutl/v3 v3.7.0
 	go.etcd.io/etcd/pkg/v3 v3.7.0
 	go.etcd.io/etcd/raft/v3 v3.5.32
@@ -1750,7 +1750,7 @@ require (
 	github.com/charmbracelet/x/cellbuf v0.0.15 // indirect
 	github.com/charmbracelet/x/exp/slice v0.0.0-20250327172914-2fdc97757edf // indirect
 	github.com/checkpoint-restore/go-criu/v8 v8.3.0 // indirect
-	github.com/cheggaaa/pb/v3 v3.1.6 // indirect
+	github.com/cheggaaa/pb/v3 v3.1.7 // indirect
 	github.com/clipperhouse/displaywidth v0.11.0 // indirect
 	github.com/clipperhouse/uax29/v2 v2.7.0 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
