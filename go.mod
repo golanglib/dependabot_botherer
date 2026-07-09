@@ -21,7 +21,7 @@ require (
 	cloud.google.com/go/logging v1.18.0
 	cloud.google.com/go/longrunning v1.2.0
 	cloud.google.com/go/monitoring v1.29.0
-	cloud.google.com/go/pubsub v1.50.3
+	cloud.google.com/go/pubsub v1.50.4
 	cloud.google.com/go/storage v1.63.0
 	cloud.google.com/go/trace v1.16.0
 	code.gitea.io/sdk/gitea v0.25.1
