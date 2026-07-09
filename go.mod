@@ -1512,15 +1512,15 @@ require (
 	go.deanishe.net/fuzzy v1.0.0
 	go.einride.tech/aip v0.86.3
 	go.etcd.io/bbolt v1.5.0
-	go.etcd.io/etcd/api/v3 v3.6.13
-	go.etcd.io/etcd/client/pkg/v3 v3.6.13
+	go.etcd.io/etcd/api/v3 v3.7.0
+	go.etcd.io/etcd/client/pkg/v3 v3.7.0
 	go.etcd.io/etcd/client/v2 v2.305.32
-	go.etcd.io/etcd/client/v3 v3.6.13
+	go.etcd.io/etcd/client/v3 v3.7.0
 	go.etcd.io/etcd/etcdctl/v3 v3.6.13
 	go.etcd.io/etcd/etcdutl/v3 v3.6.13
-	go.etcd.io/etcd/pkg/v3 v3.6.13
+	go.etcd.io/etcd/pkg/v3 v3.7.0
 	go.etcd.io/etcd/raft/v3 v3.5.32
-	go.etcd.io/etcd/server/v3 v3.6.13
+	go.etcd.io/etcd/server/v3 v3.7.0
 	go.etcd.io/etcd/tests/v3 v3.6.13
 	go.etcd.io/etcd/v3 v3.6.13
 	go.etcd.io/gofail v0.2.0
@@ -1933,7 +1933,7 @@ require (
 	github.com/yudai/gojsondiff v1.0.0 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
-	go.etcd.io/raft/v3 v3.6.0 // indirect
+	go.etcd.io/raft/v3 v3.7.0 // indirect
 	go.mongodb.org/mongo-driver/v2 v2.5.0 // indirect
 	go.opentelemetry.io/collector/consumer/consumererror v0.120.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.42.0 // indirect
