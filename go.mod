@@ -142,7 +142,7 @@ require (
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/a2aproject/a2a-go v0.3.15
 	github.com/aalpar/deheap v1.1.2
-	github.com/abice/go-enum v0.9.3
+	github.com/abice/go-enum v0.9.4
 	github.com/acomagu/bufpipe v1.0.4
 	github.com/adrg/xdg v0.5.3
 	github.com/aerospike/aerospike-client-go/v5 v5.11.0
