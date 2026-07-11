@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260709200747-435963d16310.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.2
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.21.0
@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.2
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.68
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260707093537-4921614ba2e8
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260711013131-550170e5a9e0
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -404,7 +404,7 @@ require (
 	github.com/cloudwego/hertz v0.10.5
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.3
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260625071411-6192ed40334f
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260709023512-df31665b3603
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.4
 	github.com/cloudwego/runtimex v0.1.1
@@ -524,7 +524,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.1
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260708142612-fc1693ac56ce
+	github.com/facebook/time v0.0.0-20260710180950-7c55a6393ff7
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
