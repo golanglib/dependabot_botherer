@@ -1,6 +1,6 @@
 module dependabot_botherer
 
-go 1.26.4
+go 1.26.5
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
@@ -914,7 +914,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
-	github.com/kaptinlin/go-i18n v0.6.1
+	github.com/kaptinlin/go-i18n v0.6.3
 	github.com/kaptinlin/jsonschema v0.9.3
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
@@ -1712,7 +1712,7 @@ require (
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344 // indirect
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
-	github.com/agentable/go-intl v0.2.11 // indirect
+	github.com/agentable/go-intl v0.2.13 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/alfatraining/structtag v1.0.0 // indirect
