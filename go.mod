@@ -943,7 +943,7 @@ require (
 	github.com/kunwardeep/paralleltest v1.0.15
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyoh86/exportloopref v0.1.11
-	github.com/kyokomi/emoji/v2 v2.2.13
+	github.com/kyokomi/emoji/v2 v2.2.14
 	github.com/labstack/echo/v4 v4.15.4
 	github.com/labstack/gommon v0.5.0
 	github.com/larksuite/oapi-sdk-go v1.1.48
