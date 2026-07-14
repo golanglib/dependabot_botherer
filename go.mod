@@ -108,7 +108,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.58.0
 	github.com/HdrHistogram/hdrhistogram-go v1.3.0
 	github.com/IBM/nzgo/v12 v12.0.12
-	github.com/IBM/sarama v1.50.3
+	github.com/IBM/sarama v1.60.0
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/MakeNowJust/heredoc v1.0.0
@@ -929,7 +929,7 @@ require (
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.6
 	github.com/klauspost/asmfmt v1.3.2
-	github.com/klauspost/compress v1.18.7
+	github.com/klauspost/compress v1.19.0
 	github.com/klauspost/cpuid v1.3.1
 	github.com/klauspost/cpuid/v2 v2.4.0
 	github.com/klauspost/reedsolomon v1.14.1
