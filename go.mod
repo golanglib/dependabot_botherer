@@ -730,7 +730,7 @@ require (
 	github.com/google/logger v1.1.2
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/pprof v0.0.0-20260507013755-92041b743c96
+	github.com/google/pprof v0.0.0-20260709232956-b9395ee17fa0
 	github.com/google/s2a-go v0.1.9
 	github.com/google/safehtml v0.1.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -1284,7 +1284,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.11.1
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.27.1
+	github.com/securego/gosec/v2 v2.28.0
 	github.com/segmentio/asm v1.2.1
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.51
@@ -1589,7 +1589,7 @@ require (
 	google.golang.org/genai v1.63.0
 	google.golang.org/genproto v0.0.0-20260519071638-aa98bba5eb94
 	google.golang.org/genproto/googleapis/api v0.0.0-20260630182238-925bb5da69e7
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260630182238-925bb5da69e7
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260706201446-f0a921348800
 	google.golang.org/grpc v1.82.0
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
