@@ -18,7 +18,7 @@ require (
 	cloud.google.com/go/firestore v1.23.0
 	cloud.google.com/go/iam v1.12.0
 	cloud.google.com/go/kms v1.31.0
-	cloud.google.com/go/logging v1.18.0
+	cloud.google.com/go/logging v1.19.0
 	cloud.google.com/go/longrunning v1.2.0
 	cloud.google.com/go/monitoring v1.29.0
 	cloud.google.com/go/pubsub v1.50.4
