@@ -14,7 +14,7 @@ require (
 	cloud.google.com/go/bigquery v1.78.0
 	cloud.google.com/go/compute v1.64.0
 	cloud.google.com/go/compute/metadata v0.9.0
-	cloud.google.com/go/datacatalog v1.32.0
+	cloud.google.com/go/datacatalog v1.33.0
 	cloud.google.com/go/firestore v1.23.0
 	cloud.google.com/go/iam v1.11.0
 	cloud.google.com/go/kms v1.31.0
