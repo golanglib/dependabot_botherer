@@ -1062,7 +1062,7 @@ require (
 	github.com/moby/sys/userns v0.1.0
 	github.com/moby/term v0.5.2
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee
-	github.com/montanaflynn/stats v0.12.1
+	github.com/montanaflynn/stats v0.12.2
 	github.com/moricho/tparallel v0.3.2
 	github.com/mozillazg/go-pinyin v0.21.0
 	github.com/mozillazg/go-unidecode v0.2.0
