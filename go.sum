@@ -1056,8 +1056,8 @@ github.com/agentable/go-intl v0.2.13 h1:W0yWsL+g+MBjcqm8zAoDjUcHjTEH95Y0gz1OWYXC
 github.com/agentable/go-intl v0.2.13/go.mod h1:hsOt+l7AVK/j2pQrgQ3BzmZVKk50J+Gy3naVrbpNnKI=
 github.com/agext/levenshtein v1.2.3 h1:YB2fHEn0UJagG8T1rrWknE3ZQzWM06O8AMAatNn7lmo=
 github.com/agext/levenshtein v1.2.3/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
-github.com/agiledragon/gomonkey/v2 v2.14.0 h1:FASzes6sjtD0hRo5lu0g796qKL03bOHCgcIA/4am9QM=
-github.com/agiledragon/gomonkey/v2 v2.14.0/go.mod h1:ap1AmDzcVOAz1YpeJ3TCzIgstoaWLA6jbbgxfB4w2iY=
+github.com/agiledragon/gomonkey/v2 v2.14.1 h1:WCFAmzq5imQfy9MZ7T/p5fiAxCtkRqyzMc9nX75RLvI=
+github.com/agiledragon/gomonkey/v2 v2.14.1/go.mod h1:ap1AmDzcVOAz1YpeJ3TCzIgstoaWLA6jbbgxfB4w2iY=
 github.com/agnivade/levenshtein v1.2.1 h1:EHBY3UOn1gwdy/VbFwgo4cxecRznFk7fKWN1KOX7eoM=
 github.com/agnivade/levenshtein v1.2.1/go.mod h1:QVVI16kDrtSuwcpd0p1+xMC6Z/VfhtCyDIjcwga4/DU=
 github.com/air-verse/air v1.65.3 h1:7NUAqofZuSf5vZbVoZpdTr/4LuKkOCj1JTiMrOdUs7A=
