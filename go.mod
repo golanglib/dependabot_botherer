@@ -615,7 +615,7 @@ require (
 	github.com/go-openapi/runtime v0.32.5
 	github.com/go-openapi/spec v0.22.7
 	github.com/go-openapi/strfmt v0.27.0
-	github.com/go-openapi/swag v0.27.1
+	github.com/go-openapi/swag v0.27.3
 	github.com/go-openapi/validate v0.26.0
 	github.com/go-playground/assert/v2 v2.2.0
 	github.com/go-playground/form/v4 v4.3.0
@@ -1782,13 +1782,13 @@ require (
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
 	github.com/go-json-experiment/json v0.0.0-20260623181947-01eb4420fa68 // indirect
-	github.com/go-openapi/swag/cmdutils v0.27.1 // indirect
+	github.com/go-openapi/swag/cmdutils v0.27.3 // indirect
 	github.com/go-openapi/swag/conv v0.27.3 // indirect
-	github.com/go-openapi/swag/fileutils v0.27.1 // indirect
+	github.com/go-openapi/swag/fileutils v0.27.3 // indirect
 	github.com/go-openapi/swag/jsonutils v0.27.3 // indirect
 	github.com/go-openapi/swag/loading v0.27.3 // indirect
-	github.com/go-openapi/swag/mangling v0.27.1 // indirect
-	github.com/go-openapi/swag/netutils v0.27.1 // indirect
+	github.com/go-openapi/swag/mangling v0.27.3 // indirect
+	github.com/go-openapi/swag/netutils v0.27.3 // indirect
 	github.com/go-openapi/swag/pools v0.27.3 // indirect
 	github.com/go-openapi/swag/stringutils v0.27.3 // indirect
 	github.com/go-openapi/swag/typeutils v0.27.3 // indirect
