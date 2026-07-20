@@ -498,7 +498,7 @@ require (
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.4
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
-	github.com/elazarl/goproxy v1.8.4
+	github.com/elazarl/goproxy v1.8.5
 	github.com/elazarl/goproxy/ext v0.0.0-20260711152730-54976310a792
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
