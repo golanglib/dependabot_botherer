@@ -1106,7 +1106,7 @@ require (
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-diskqueue v1.1.0
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/nunnatsa/ginkgolinter v0.23.0
+	github.com/nunnatsa/ginkgolinter v0.23.1
 	github.com/nwaples/rardecode v1.1.3
 	github.com/nwaples/tacplus v0.0.3
 	github.com/nxadm/tail v1.4.11
@@ -1562,7 +1562,7 @@ require (
 	golang.org/x/crypto v0.54.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
 	golang.org/x/exp v0.0.0-20260603202125-055de637280b
-	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358
+	golang.org/x/exp/typeparams v0.0.0-20260718201538-764159d718ef
 	golang.org/x/image v0.44.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20260312152759-81488f6aeb60
