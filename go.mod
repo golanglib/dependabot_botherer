@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260709200747-435963d16310.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.2
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.22.0
@@ -499,7 +499,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.8.5
-	github.com/elazarl/goproxy/ext v0.0.0-20260711152730-54976310a792
+	github.com/elazarl/goproxy/ext v0.0.0-20260719220256-d435b12bc2fd
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-message v0.18.2
@@ -524,7 +524,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.1
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260717102622-a3fe52e8682e
+	github.com/facebook/time v0.0.0-20260720134353-7ea555e84af0
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -567,7 +567,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20260701132640-13f25467c431
+	github.com/go-ap/activitypub v0.0.0-20260720130625-e2c76676dde7
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
@@ -1015,7 +1015,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20251227095601-261ec1326fe8
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20260527143057-68e10a6afdc3
+	github.com/metacubex/sing-quic v0.0.0-20260720020849-6c62e17225e8
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.21
@@ -1841,8 +1841,10 @@ require (
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/hkdf v0.1.0 // indirect
 	github.com/metacubex/hpke v0.1.0 // indirect
+	github.com/metacubex/http v0.1.0 // indirect
 	github.com/metacubex/mlkem v0.1.0 // indirect
 	github.com/metacubex/nftables v0.0.0-20260426003805-208c2c1ba2cb // indirect
+	github.com/metacubex/qpack v0.6.0 // indirect
 	github.com/metacubex/quic-go v0.59.1-0.20260112033758-aa29579f2001 // indirect
 	github.com/metacubex/sing v0.5.7 // indirect
 	github.com/metacubex/tls v0.1.0 // indirect
