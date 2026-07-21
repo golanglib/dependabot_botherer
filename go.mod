@@ -613,7 +613,7 @@ require (
 	github.com/go-openapi/jsonreference v1.0.0
 	github.com/go-openapi/loads v0.24.1
 	github.com/go-openapi/runtime v0.32.5
-	github.com/go-openapi/spec v0.22.7
+	github.com/go-openapi/spec v0.22.9
 	github.com/go-openapi/strfmt v0.27.0
 	github.com/go-openapi/swag v0.27.3
 	github.com/go-openapi/validate v0.26.0

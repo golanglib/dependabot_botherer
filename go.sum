@@ -2551,8 +2551,8 @@ github.com/go-openapi/loads v0.24.1 h1:oeiIolegnV9MtqfKHQwOeZ96vEwTFY5YxGMj3QpDe
 github.com/go-openapi/loads v0.24.1/go.mod h1:Ijkjm2ljm+20aoIwp9smqNyFsTJoighhNcLvcZVxrwc=
 github.com/go-openapi/runtime v0.32.5 h1:+aDmMj6xB4P8isUwEOERtgHW3JNI/i93KvTWNa4LRik=
 github.com/go-openapi/runtime v0.32.5/go.mod h1:eNPUCk8LAYV803GHJP3xDSNllJQfv+pBlXpFfWqpPO8=
-github.com/go-openapi/spec v0.22.7 h1:IVIvk9MyaTZTzUUvM6ldix6mmw1h5nAJfPJ/hQHXtgk=
-github.com/go-openapi/spec v0.22.7/go.mod h1:b/mNUYIOQOyIiUzUzXEE8xzyZqf93KvM9hQGP91yfl0=
+github.com/go-openapi/spec v0.22.9 h1:/vKIFDcGKp0ktZWGbym/tJEWbk6/XOEmAVU0kqKMH+w=
+github.com/go-openapi/spec v0.22.9/go.mod h1:b/mNUYIOQOyIiUzUzXEE8xzyZqf93KvM9hQGP91yfl0=
 github.com/go-openapi/strfmt v0.27.0 h1:kbcTeaD9TXuXD0hhMXzuYa1sdTo6+dWGvwjW93E80IM=
 github.com/go-openapi/strfmt v0.27.0/go.mod h1:s/qhDqfY72irigXUGJmtgid2Rm+3tnz3k8hZaRmvWYc=
 github.com/go-openapi/swag v0.27.3 h1:i6oVKkGZeFgETHMiBHGtj9gIQ1aLtWDdJnT/SRZeets=
