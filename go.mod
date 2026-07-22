@@ -1526,7 +1526,7 @@ require (
 	go.etcd.io/gofail v0.2.0
 	go.jolheiser.com/hcaptcha v0.0.4
 	go.jolheiser.com/pwn v0.0.3
-	go.mozilla.org/pkcs7 v0.9.0
+	go.mozilla.org/pkcs7 v0.10.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/auto/sdk v1.2.1
 	go.opentelemetry.io/contrib v1.44.0
