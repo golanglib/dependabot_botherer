@@ -224,12 +224,12 @@ require (
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.54.0
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.42.1
+	github.com/aws/aws-sdk-go-v2 v1.43.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.14
 	github.com/aws/aws-sdk-go-v2/config v1.32.30
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.29
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.52
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.30
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.31
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.22.34
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.63.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.79.1
