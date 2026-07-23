@@ -1230,7 +1230,7 @@ require (
 	github.com/redis/go-redis/v9 v9.21.0
 	github.com/redis/rueidis v1.0.76
 	github.com/refraction-networking/utls v1.8.2
-	github.com/relvacode/iso8601 v1.7.0
+	github.com/relvacode/iso8601 v1.8.0
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
 	github.com/resendlabs/resend-go v1.7.0
 	github.com/rfjakob/eme v1.2.0
