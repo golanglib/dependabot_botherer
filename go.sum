@@ -1844,8 +1844,8 @@ github.com/cloudwego/eino-ext/components/model/ark v0.1.68 h1:ZW7sAXxA3BoaCksnxM
 github.com/cloudwego/eino-ext/components/model/ark v0.1.68/go.mod h1:IctHLV+EmEhf3o2fBw0N873mLIyNlEAAGcEpUGEQdvk=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13 h1:5XHRTiTD5bt9KQrMHcfvuWNklEC3tpm3XHejdozt9vM=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13/go.mod h1:mgIoqYYOc0eECCqvLbEYpOJrQNTNxkwXzSJzFU+v5sQ=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260716140429-9137edd89e72 h1:QgttPmd0lksyITK0MEs9AGZDfSYryLEH+xlm1uLYAq8=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260716140429-9137edd89e72/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260722085247-fcd0353d606c h1:IEXls8Mtz7rXVRxkf5UjwuJSIq6nernDqsA/oxWno0g=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260722085247-fcd0353d606c/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8 h1:/QwCVAtB61b4Q2+RUvhoy9AZNkhiThsTySIoimxiJS4=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8/go.mod h1:zxP8sFkADBqflNc0a4qfKdLYQ+edzHPlkOaZF0A1X7o=
 github.com/cloudwego/eino-ext/devops v0.1.9 h1:kz0sIwXbdzP0QVO2wjVbBjhksi1sYKM8koh3XDmyRnQ=
@@ -2283,8 +2283,8 @@ github.com/evanw/esbuild v0.28.1/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20260721164901-c85daed2dfdd h1:JUMa4brBv5VohjqkqNvWrDYEdWLnQafP7J7WXgL+EZE=
-github.com/facebook/time v0.0.0-20260721164901-c85daed2dfdd/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
+github.com/facebook/time v0.0.0-20260722195541-ff5b897ea43f h1:VPaZB/wXsGVYC4ZPJ9iDuZG2DITHk1VBytDx9zZXjc8=
+github.com/facebook/time v0.0.0-20260722195541-ff5b897ea43f/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -2868,8 +2868,8 @@ github.com/google/flatbuffers v25.2.10+incompatible h1:F3vclr7C3HpB1k9mxCGRMXq6F
 github.com/google/flatbuffers v25.2.10+incompatible/go.mod h1:1AeVuKshWv4vARoZatz6mlQ0JxURH0Kv5+zNeJKJCa8=
 github.com/google/gnostic-models v0.7.1 h1:SisTfuFKJSKM5CPZkffwi6coztzzeYUhc3v4yxLWH8c=
 github.com/google/gnostic-models v0.7.1/go.mod h1:whL5G0m6dmc5cPxKc5bdKdEN3UjI7OUGxBlw57miDrQ=
-github.com/google/gnxi v0.0.0-20260330231618-987664c754f1 h1:v17n3QX/+ukX/vcoRAvC497WGpViLlcpzeb25Fvsl7U=
-github.com/google/gnxi v0.0.0-20260330231618-987664c754f1/go.mod h1:nve3XDn7r/PHk4fJIrXEmXkzwLppWwYzrrVCVyMKrfM=
+github.com/google/gnxi v0.0.0-20260722210003-73f19e82bf71 h1:7mkfcFDlF8X4b0fiaKJJFkScHGTUgVpsYAp/g9Z+0yM=
+github.com/google/gnxi v0.0.0-20260722210003-73f19e82bf71/go.mod h1:nve3XDn7r/PHk4fJIrXEmXkzwLppWwYzrrVCVyMKrfM=
 github.com/google/go-attestation v0.6.1 h1:HcdQn+2L3yyGiKWHREJNSjSVAftyF6qB1bkqksbB0FM=
 github.com/google/go-attestation v0.6.1/go.mod h1:Kin36coq5+yhHymNoDm4W/iL7QwMhDOCR/5ksu3SxcA=
 github.com/google/go-cmp v0.2.0/go.mod h1:oXzfMopK8JAjlY9xF4vHSVASa0yLyX7SntLO5aqRK0M=
