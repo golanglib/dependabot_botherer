@@ -952,7 +952,7 @@ require (
 	github.com/ldez/gomoddirectives v0.9.0
 	github.com/ldez/tagliatelle v0.7.2
 	github.com/leodido/go-syslog/v4 v4.6.0
-	github.com/leodido/go-urn v1.4.0
+	github.com/leodido/go-urn v1.5.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
 	github.com/leonelquinteros/gotext v1.7.2
 	github.com/leonklingele/grouper v1.1.2
