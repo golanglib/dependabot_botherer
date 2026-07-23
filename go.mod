@@ -972,7 +972,7 @@ require (
 	github.com/lyft/protoc-gen-star/v2 v2.0.4
 	github.com/macabu/inamedparam v0.2.0
 	github.com/magefile/mage v1.17.2
-	github.com/magiconair/properties v1.8.10
+	github.com/magiconair/properties v1.18.11
 	github.com/mailgun/multibuf v0.2.0
 	github.com/mailgun/raymond/v2 v2.0.48
 	github.com/mailru/easyjson v0.9.2
