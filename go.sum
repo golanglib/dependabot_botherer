@@ -1159,8 +1159,8 @@ github.com/anacrolix/generics v0.2.0 h1:gPwGOs14irokFN9kUP1i1A0Bn0FPT7/hWWD3hHKS
 github.com/anacrolix/generics v0.2.0/go.mod h1:NGehhfeXJPBujPx0s6cstSj8B+TERsTY32Xckfx5ftc=
 github.com/anacrolix/go-libutp v0.0.0-20180522111405-6baeb806518d/go.mod h1:beQSaSxwH2d9Eeu5ijrEnHei5Qhk+J6cDm1QkWFru4E=
 github.com/anacrolix/go-libutp v0.0.0-20180808010927-aebbeb60ea05/go.mod h1:POY/GPlrFKRxnOKH1sGAB+NBWMoP+sI+hHJxgcgWbWw=
-github.com/anacrolix/go-libutp v1.4.0 h1:VO3h2vjnh8mC5UhR7CUaS2cFdjpAMCir3vDoPapWxtI=
-github.com/anacrolix/go-libutp v1.4.0/go.mod h1:2XL3ViU/7+l/kB6poGICETXdEVRdTALyqQrKFBCkBc4=
+github.com/anacrolix/go-libutp v1.5.0 h1:s/aqt/KEg6jjfYspDP2YEbqLCIfSTXjMxRhGigcRAFM=
+github.com/anacrolix/go-libutp v1.5.0/go.mod h1:2XL3ViU/7+l/kB6poGICETXdEVRdTALyqQrKFBCkBc4=
 github.com/anacrolix/log v0.0.0-20180412014343-2323884b361d/go.mod h1:sf/7c2aTldL6sRQj/4UKyjgVZBu2+M2z9wf7MmwPiew=
 github.com/anacrolix/log v0.1.0/go.mod h1:sf/7c2aTldL6sRQj/4UKyjgVZBu2+M2z9wf7MmwPiew=
 github.com/anacrolix/log v0.3.0/go.mod h1:lWvLTqzAnCWPJA08T2HCstZi0L1y2Wyvm3FJgwU9jwU=
