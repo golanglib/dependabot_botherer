@@ -996,7 +996,7 @@ require (
 	github.com/mattn/go-colorable v0.1.15
 	github.com/mattn/go-ieproxy v0.0.12
 	github.com/mattn/go-isatty v0.0.24
-	github.com/mattn/go-runewidth v0.0.24
+	github.com/mattn/go-runewidth v0.0.27
 	github.com/mattn/go-shellwords v1.0.14
 	github.com/mattn/go-sqlite3 v1.14.48
 	github.com/mattn/goveralls v0.0.12
