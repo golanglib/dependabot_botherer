@@ -1519,7 +1519,7 @@ require (
 	go.etcd.io/etcd/etcdctl/v3 v3.7.0
 	go.etcd.io/etcd/etcdutl/v3 v3.7.0
 	go.etcd.io/etcd/pkg/v3 v3.7.1
-	go.etcd.io/etcd/raft/v3 v3.5.32
+	go.etcd.io/etcd/raft/v3 v3.5.33
 	go.etcd.io/etcd/server/v3 v3.7.1
 	go.etcd.io/etcd/tests/v3 v3.6.13
 	go.etcd.io/etcd/v3 v3.6.13
