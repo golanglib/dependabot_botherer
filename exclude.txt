@@ -272,7 +272,7 @@ github.com/junk1tm/musttag
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go
-//go: github.com/lucas-clemente/quic-go@latest (v0.60.0) requires github.com/lucas-clemente/quic-go@v0.60.0: parsing go.mod:
+//go: github.com/lucas-clemente/quic-go@latest (v0.61.0) requires github.com/lucas-clemente/quic-go@v0.61.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/lucas-clemente/quic-go
 github.com/marten-seemann/qpack
@@ -673,7 +673,7 @@ golang.zx2c4.com/wintun
 //[golang.zx2c4.com/wintun] "": no buildable Go source files in /home/runner/go/pkg/mod/golang.zx2c4.com/wintun@v0.0.0-20230126152724-0fa3db229ce2
 //[golang.zx2c4.com/wintun] no importable packages found
 golang.zx2c4.com/wireguard/windows
-//[golang.zx2c4.com/wireguard/windows] dir: /home/runner/go/pkg/mod/golang.zx2c4.com/wireguard/windows@v0.5.3
+//[golang.zx2c4.com/wireguard/windows] dir: /home/runner/go/pkg/mod/golang.zx2c4.com/wireguard/windows@v1.0.1
 //[golang.zx2c4.com/wireguard/windows] module has replace
 src.techknowlogick.com/xgo
 //[src.techknowlogick.com/xgo] dir: /home/runner/go/pkg/mod/src.techknowlogick.com/xgo@v1.9.0
