@@ -581,7 +581,7 @@ require (
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-errors/errors v1.5.1
 	github.com/go-faster/city v1.0.1
-	github.com/go-faster/errors v0.7.1
+	github.com/go-faster/errors v0.8.0
 	github.com/go-fed/httpsig v1.1.0
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
 	github.com/go-git/go-billy/v5 v5.9.1
