@@ -3,7 +3,7 @@ code.gitea.io/actions-proto-go
 //	module declares its path as: gitea.dev/actions-proto-go
 //	        but was required as: code.gitea.io/actions-proto-go
 code.gitea.io/gitea
-//go: code.gitea.io/gitea@latest (v1.27.0) requires code.gitea.io/gitea@v1.27.0: parsing go.mod:
+//go: code.gitea.io/gitea@latest (v1.27.1) requires code.gitea.io/gitea@v1.27.1: parsing go.mod:
 //	module declares its path as: gitea.dev
 //	        but was required as: code.gitea.io/gitea
 github.com/anthony-zh/osv-proxy
@@ -292,7 +292,7 @@ github.com/metacubex/gopacket
 //	module declares its path as: github.com/google/gopacket
 //	        but was required as: github.com/metacubex/gopacket
 github.com/metacubex/quic-go
-//go: github.com/metacubex/quic-go@latest (v0.59.0) requires github.com/metacubex/quic-go@v0.59.0: parsing go.mod:
+//go: github.com/metacubex/quic-go@latest (v0.61.0) requires github.com/metacubex/quic-go@v0.61.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/metacubex/quic-go
 github.com/miscreant/miscreant.go
