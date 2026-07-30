@@ -440,7 +440,7 @@ require (
 	github.com/couchbase/goutils v0.3.0
 	github.com/couchbase/vellum v1.0.2
 	github.com/coze-dev/coze-go v0.0.0-20260408095536-f47b4f256580
-	github.com/coze-dev/cozeloop-go v0.1.22
+	github.com/coze-dev/cozeloop-go v0.1.23
 	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
