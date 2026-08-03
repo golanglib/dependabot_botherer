@@ -815,7 +815,7 @@ require (
 	github.com/hashicorp/terraform-json v0.28.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.7.0
-	github.com/hedhyw/rex v1.0.0
+	github.com/hedhyw/rex v1.1.0
 	github.com/hellofresh/health-go/v5 v5.5.5
 	github.com/henomis/langfuse-go v0.0.3
 	github.com/henomis/restclientgo v1.2.0
