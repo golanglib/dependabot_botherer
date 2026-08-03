@@ -915,7 +915,7 @@ require (
 	github.com/julz/importas v0.2.0
 	github.com/jxskiss/base62 v1.1.0
 	github.com/kaptinlin/go-i18n v0.6.3
-	github.com/kaptinlin/jsonschema v0.9.4
+	github.com/kaptinlin/jsonschema v0.9.6
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.12
@@ -1712,7 +1712,7 @@ require (
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344 // indirect
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
-	github.com/agentable/go-intl v0.2.13 // indirect
+	github.com/agentable/go-intl v0.2.14 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/alfatraining/structtag v1.0.0 // indirect
@@ -1823,8 +1823,8 @@ require (
 	github.com/josharian/mapfs v0.0.0-20210615234106-095c008854e6 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
-	github.com/kaptinlin/jsonpointer v0.4.27 // indirect
-	github.com/kaptinlin/messageformat-go/mf1 v0.8.2 // indirect
+	github.com/kaptinlin/jsonpointer v0.4.28 // indirect
+	github.com/kaptinlin/messageformat-go/mf1 v0.8.3 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/klauspost/crc32 v1.3.0 // indirect
