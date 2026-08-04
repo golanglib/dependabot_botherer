@@ -1384,8 +1384,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.33/go.mod h1:e
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.34 h1:Lercr2QB2rOrCwyOusmnQ7IiopfkGcZAgMJbjcSdK/s=
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.34/go.mod h1:W0xXPPCb2HAqa3cp2f/nRvE+jGgBmchiuXrfBRlfb1I=
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.6.0/go.mod h1:9O7UG2pELnP0hq35+Gd7XDjOLBkg7tmgRQ0y14ZjoJI=
-github.com/aws/aws-sdk-go-v2/service/kinesis v1.46.2 h1:5vTI4FyvUbIsUr67MVy53z6rJUF3MAjO1tECET37jGw=
-github.com/aws/aws-sdk-go-v2/service/kinesis v1.46.2/go.mod h1:VZpY8CMd9VSA4/BeIwatzdkWkKnAMJiT7KcTSue/s30=
+github.com/aws/aws-sdk-go-v2/service/kinesis v1.46.3 h1:KvSedZL5QcPT/RYZsOIbGD4bv3e74/9SKq/zZ9Vuwbs=
+github.com/aws/aws-sdk-go-v2/service/kinesis v1.46.3/go.mod h1:mAlmMC6IFSLbFxi9YTUMsNLNzJsR20Wpw8sbiv7eafM=
 github.com/aws/aws-sdk-go-v2/service/kms v1.55.3 h1:qS073F+cSl7QKstrm3Jb8D/XkKBWZ4zHdmRG/cmHLoU=
 github.com/aws/aws-sdk-go-v2/service/kms v1.55.3/go.mod h1:l1gMRJ4UawrC6rpVWRz39pZxlyHID0VIS/YEEiLi4E8=
 github.com/aws/aws-sdk-go-v2/service/lightsail v1.49.1 h1:J1A0VJlt5HgUX6s11Obe9zrBDECeE2uhQc7Dwhdei9o=
