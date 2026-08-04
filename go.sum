@@ -1368,8 +1368,8 @@ github.com/aws/aws-sdk-go-v2/service/codecommit v1.36.3 h1:0y4NzpyfbufOOZkJ54zJH
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.36.3/go.mod h1:38Fc43+yPVnGM70Bqh8N7tbUVssQDVwnnFU+49sanPQ=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.62.2 h1:Eq7mCqHwVCHp9NM3hrJCH+qIO/XlSDbzcux5iWqeBRA=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.62.2/go.mod h1:WXr7sZ4MwgaXGpCYE5x1rhINyablykBgq/sox8unPE8=
-github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.36.2 h1:uOj4WPFdBITfvUnUniqe2In4ij82zxZYo5lQ0pvWlqg=
-github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.36.2/go.mod h1:3iDh0j8sgJSpGBFsbnBPjzksnWK+s/bseLXuLqwclQY=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.36.3 h1:9bps7Xx8erwx1gtD2nJt1NzvjWbEMRmhEjbZIEHGZiw=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.36.3/go.mod h1:/VcgKs8gLD116Rkx9NthAeW/XLOrE7YpZYmH1ODfVLY=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.318.0 h1:+jtItWSTMhuHmKKYwdjIZLwyq6mxryj8nE8q9Q5l8Cs=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.318.0/go.mod h1:JZSh40UkVtDPcC6QZ4rxqOTMyC1YtQi9sCrhD0FC9Rk=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.14 h1:SA43nfaY7+1jjMNIc2ywu99JLJLButtIdLP6j+bT870=
