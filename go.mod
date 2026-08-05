@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260709200747-435963d16310.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.2
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.22.0
@@ -524,7 +524,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.1
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260731144917-79f2bca9495b
+	github.com/facebook/time v0.0.0-20260804174539-cbe38b0dcf49
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1020,7 +1020,7 @@ require (
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.21
 	github.com/metacubex/sing-vmess v0.2.5
-	github.com/metacubex/sing-wireguard v0.0.0-20260520151737-7e7c7c1b854c
+	github.com/metacubex/sing-wireguard v0.0.0-20260804133520-b873d2f3e751
 	github.com/metacubex/tfo-go v0.0.0-20260623020846-376a77860b8c
 	github.com/metacubex/utls v1.8.7
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
