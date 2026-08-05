@@ -1040,8 +1040,8 @@ github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1/go.mod h1:nuudZmJhzWtx22
 github.com/aerospike/aerospike-client-go/v5 v5.11.0 h1:z3ZmDSm3I10VMXXIIrsFCFq3IenwFqTCnLNyvnFVzrk=
 github.com/aerospike/aerospike-client-go/v5 v5.11.0/go.mod h1:e/zYeIoBg9We63fLKa+h+198+fT1GdoLfKa+Pu4QSpg=
 github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5/go.mod h1:SkGFH1ia65gfNATL8TAiHDNxPzPdmEL5uirI2Uyuz6c=
-github.com/agentable/go-intl v0.2.14 h1:YDlxoHJfxDUTGjphdWXHamRmSJ0NF2oZmJGQFkciqco=
-github.com/agentable/go-intl v0.2.14/go.mod h1:dTVfDMS4F0TirLOmeY+T4LPEz9i3zSIF4Dfu2dz77dI=
+github.com/agentable/go-intl v0.2.17 h1:3blR3VCaoeje4/NHkOJDar1LjGmX+Pi+lm0FjlG/BCA=
+github.com/agentable/go-intl v0.2.17/go.mod h1:dTVfDMS4F0TirLOmeY+T4LPEz9i3zSIF4Dfu2dz77dI=
 github.com/agext/levenshtein v1.2.3 h1:YB2fHEn0UJagG8T1rrWknE3ZQzWM06O8AMAatNn7lmo=
 github.com/agext/levenshtein v1.2.3/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
 github.com/agiledragon/gomonkey/v2 v2.14.1 h1:WCFAmzq5imQfy9MZ7T/p5fiAxCtkRqyzMc9nX75RLvI=
@@ -3582,8 +3582,8 @@ github.com/kaptinlin/go-i18n v0.6.3 h1:sZilHqdqQLNRKTs4HcNtaI8uMix2OMwiU3MuY/uk7
 github.com/kaptinlin/go-i18n v0.6.3/go.mod h1:2nNtS/yKCKhOYCqMmUHJlvP5kQUQkl3waaA1mbeih1Y=
 github.com/kaptinlin/jsonpointer v0.4.28 h1:PyxOfdml9PGpxQz+JnNLGsyzQ+Rnm+OVNTGcgbVLqgg=
 github.com/kaptinlin/jsonpointer v0.4.28/go.mod h1:JzeIDw1+60bryzOFea9P3zjKg8pfJHd+UIA/zfZ70x8=
-github.com/kaptinlin/jsonschema v0.9.6 h1:RNqurZUqduQm+mINsCFbRzBQR0uKbAcRPBj3BqRA/I8=
-github.com/kaptinlin/jsonschema v0.9.6/go.mod h1:TP7RFmFBNExjBE0b3fsM6RpA/9PeOzfg2g4weXqOrDg=
+github.com/kaptinlin/jsonschema v0.9.7 h1:2jOBrfpCAcfaJJfgtDmJTGwuf0/skctp3Fnj3DxJtw8=
+github.com/kaptinlin/jsonschema v0.9.7/go.mod h1:/T5IxJXz1mrNz2ATCdNeHTsd1AZ16ctWHqf9hQwZ3DM=
 github.com/kaptinlin/messageformat-go/mf1 v0.8.3 h1:0O5wpU8pCMc7jNHxhC8VOFIfX3NE6/j8yQHd/LWfeEE=
 github.com/kaptinlin/messageformat-go/mf1 v0.8.3/go.mod h1:kH9vDVMi31ccWuiE6f2RVC/Wi1Ldtz1ocITILFaz9PU=
 github.com/karamaru-alpha/copyloopvar v1.2.2 h1:yfNQvP9YaGQR7VaWLYcfZUlRP2eo2vhExWKxD/fP6q0=
