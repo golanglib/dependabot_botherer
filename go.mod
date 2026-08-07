@@ -730,7 +730,7 @@ require (
 	github.com/google/logger v1.1.2
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/pprof v0.0.0-20260709232956-b9395ee17fa0
+	github.com/google/pprof v0.0.0-20260802141513-ef3492d7dac3
 	github.com/google/s2a-go v0.1.9
 	github.com/google/safehtml v0.1.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -1651,7 +1651,7 @@ require (
 	modernc.org/opt v0.2.0
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
-	modernc.org/sqlite v1.55.0
+	modernc.org/sqlite v1.56.0
 	modernc.org/strutil v1.2.1
 	modernc.org/tcl v1.15.3
 	modernc.org/token v1.1.0
