@@ -5402,8 +5402,8 @@ github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e/go.mod h1:5t19P9LBIrNamL6AcMQOncg/r10y3Pc01AbHeMhwlpU=
 github.com/v2fly/struc v0.0.0-20241227015403-8e8fa1badfd6 h1:Qea2jW7g1hvQ9TkYq3aT2h0NDWjPQHtvDfmKXoWgJ9E=
 github.com/v2fly/struc v0.0.0-20241227015403-8e8fa1badfd6/go.mod h1:a/FYYQz8bW7wh2jmI+DVsbVYwLkgmgpml+GrJwV+eIo=
-github.com/v2fly/v2ray-core/v5 v5.52.0 h1:dkuMxG8H4rY6jSjm0OGPL0TX6N7pJh/OVXprZhH0eQk=
-github.com/v2fly/v2ray-core/v5 v5.52.0/go.mod h1:x/Z+yiXPQKSLlrvBNHOeKwsSeVcHma/fjn/YVpuV8ao=
+github.com/v2fly/v2ray-core/v5 v5.53.0 h1:+QbiwZyHPyNB/n8jYXgBuTE97/RuaeUOrGI+PuF/rXA=
+github.com/v2fly/v2ray-core/v5 v5.53.0/go.mod h1:wnWYv1M3XuD93ortQOQnsKw7wjeOj7QZXuW1XFZe7lo=
 github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
 github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
 github.com/valyala/fasthttp v1.73.0 h1:ocTOORnBWtJ+P8t/6wAjdkchMzdfHmWx2VD/DPbgZ7s=
@@ -5530,8 +5530,8 @@ github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e/go.mod h1:RbqR21r5mrJu
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342 h1:FnBeRrxr7OU4VvAzt5X7s6266i6cSVkkFPS0TuXWbIg=
 github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342/go.mod h1:Ohn+xnUBiLI6FVj/9LpzZWtj1/D6lUovWYBkxHVV3aM=
-github.com/xssnick/raptorq v1.4.0 h1:Bms8lgT7aEPRP8YBRuS+8w7Cic8GP9BbvFT1NrWvi24=
-github.com/xssnick/raptorq v1.4.0/go.mod h1:mo5n6T4yaqZkNVMWonRuMS0tcyD4XQ6PwwTjaY3ZwQY=
+github.com/xssnick/raptorq v1.5.1 h1:EZ6fWBl4ekUnPQSok4HtWLQ+bjv2OhU87qHIQTROnmk=
+github.com/xssnick/raptorq v1.5.1/go.mod h1:mo5n6T4yaqZkNVMWonRuMS0tcyD4XQ6PwwTjaY3ZwQY=
 github.com/xtaci/kcp-go v5.4.5+incompatible/go.mod h1:bN6vIwHQbfHaHtFpEssmWsN45a+AZwO7eyRCmEIbtvE=
 github.com/xtaci/lossyconn v0.0.0-20190602105132-8df528c0c9ae/go.mod h1:gXtu8J62kEgmN++bm9BVICuT/e8yiLI2KFobd/TRFsE=
 github.com/xtaci/smux v1.5.12/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
