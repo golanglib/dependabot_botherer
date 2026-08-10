@@ -1531,7 +1531,7 @@ require (
 	go.opentelemetry.io/auto/sdk v1.2.1
 	go.opentelemetry.io/contrib v1.44.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.44.0
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.69.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.70.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.69.0
 	go.opentelemetry.io/contrib/propagators/aws v1.44.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.44.0
@@ -1589,7 +1589,7 @@ require (
 	google.golang.org/genai v1.66.0
 	google.golang.org/genproto v0.0.0-20260519071638-aa98bba5eb94
 	google.golang.org/genproto/googleapis/api v0.0.0-20260720211330-0afa2a65878a
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260724162435-b2f20204f0df
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260803160001-6ac0973c030d
 	google.golang.org/grpc v1.84.0-dev.0.20260723093437-b6eac429d7b6
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
