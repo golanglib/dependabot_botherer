@@ -1013,12 +1013,12 @@ require (
 	github.com/meilisearch/meilisearch-go v0.36.3
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
-	github.com/metacubex/gvisor v0.0.0-20251227095601-261ec1326fe8
+	github.com/metacubex/gvisor v0.0.0-20260807021258-5683e078dbc4
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20260726014900-38b0e9295f51
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
-	github.com/metacubex/sing-tun v0.4.21
+	github.com/metacubex/sing-tun v0.4.22
 	github.com/metacubex/sing-vmess v0.2.5
 	github.com/metacubex/sing-wireguard v0.0.0-20260804133520-b873d2f3e751
 	github.com/metacubex/tfo-go v0.0.0-20260623020846-376a77860b8c
