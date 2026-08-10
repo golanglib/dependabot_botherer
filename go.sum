@@ -5152,8 +5152,8 @@ github.com/srebhan/cborquery v1.0.4 h1:R+PZ/ZKpgf2z0d9jkr2aCP53GI0PCC9Ibz8iqX/Pl
 github.com/srebhan/cborquery v1.0.4/go.mod h1:667M4EgeI9mJPFV5Mhyxg8rAuRO0SIIrgGtgZcFLqpE=
 github.com/srebhan/protobufquery v1.0.4 h1:MLMo7nS02HSwux538Id3SCkf/FShA4MK3pppc9U/acY=
 github.com/srebhan/protobufquery v1.0.4/go.mod h1:qMuAoKJAsVFYmyLE4H0dQ8F9+gBBHw+LBMqAZ326uA4=
-github.com/ssgelm/cookiejarparser v1.0.1 h1:cRdXauUbOTFzTPJFaeiWbHnQ+tRGlpKKzvIK9PUekE4=
-github.com/ssgelm/cookiejarparser v1.0.1/go.mod h1:DUfC0mpjIzlDN7DzKjXpHj0qMI5m9VrZuz3wSlI+OEI=
+github.com/ssgelm/cookiejarparser v1.1.0 h1:PSsnQtD+yu1/6mywjNv17a+yn4vYSBcBsSHNj/9pHBI=
+github.com/ssgelm/cookiejarparser v1.1.0/go.mod h1:EXMBhClu3iX7LXXUSTQgUKMKwh/27OoRRgup8oN+skk=
 github.com/ssgreg/nlreturn/v2 v2.2.1 h1:X4XDI7jstt3ySqGU86YGAURbxw3oTDPK9sPEi6YEwQ0=
 github.com/ssgreg/nlreturn/v2 v2.2.1/go.mod h1:E/iiPB78hV7Szg2YfRgyIrk1AD6JVMTRkkxBiELzh2I=
 github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf h1:pvbZ0lM0XWPBqUKqFU8cmavspvIl9nulOYwdy6IFRRo=
