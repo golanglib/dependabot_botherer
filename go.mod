@@ -107,7 +107,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.35.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.59.0
 	github.com/HdrHistogram/hdrhistogram-go v1.3.0
-	github.com/IBM/nzgo/v12 v12.0.12
+	github.com/IBM/nzgo/v12 v12.0.13
 	github.com/IBM/sarama v1.60.1
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
