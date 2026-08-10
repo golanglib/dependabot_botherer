@@ -1532,11 +1532,11 @@ require (
 	go.opentelemetry.io/contrib v1.45.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.44.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.70.0
-	go.opentelemetry.io/contrib/propagators/autoprop v0.69.0
+	go.opentelemetry.io/contrib/propagators/autoprop v0.70.0
 	go.opentelemetry.io/contrib/propagators/aws v1.45.0
-	go.opentelemetry.io/contrib/propagators/b3 v1.44.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.45.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.45.0
-	go.opentelemetry.io/contrib/propagators/ot v1.44.0
+	go.opentelemetry.io/contrib/propagators/ot v1.45.0
 	go.opentelemetry.io/otel v1.45.0
 	go.opentelemetry.io/otel/metric v1.45.0
 	go.opentelemetry.io/otel/sdk v1.45.0
