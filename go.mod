@@ -628,7 +628,7 @@ require (
 	github.com/go-resty/resty/v2 v2.17.2
 	github.com/go-sql-driver/mysql v1.10.0
 	github.com/go-stack/stack v1.8.1
-	github.com/go-swagger/go-swagger v0.36.1
+	github.com/go-swagger/go-swagger v0.36.2
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-test/deep v1.1.1
