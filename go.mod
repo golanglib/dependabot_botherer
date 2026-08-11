@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.2
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.69
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260803030130-90a15623ddb6
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260811022947-b9cfa8f1c5c6
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -524,7 +524,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.1
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260806151811-3bff87c74334
+	github.com/facebook/time v0.0.0-20260810214717-9d57e0b37308
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -677,7 +677,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20260713102120-857a528af641
+	github.com/golang/geo v0.0.0-20260810185319-42794aff7523
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
@@ -781,6 +781,7 @@ require (
 	github.com/hairyhenderson/go-codeowners v0.7.1
 	github.com/hanwen/go-fuse v1.0.0
 	github.com/hanwen/go-fuse/v2 v2.11.0
+	github.com/hanzoai/gochimp3 v1.0.0
 	github.com/harlow/kinesis-consumer v0.5.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
@@ -1013,14 +1014,14 @@ require (
 	github.com/meilisearch/meilisearch-go v0.36.3
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
-	github.com/metacubex/gvisor v0.0.0-20260807021258-5683e078dbc4
+	github.com/metacubex/gvisor v0.0.0-20260810011720-3cc44cf9ac22
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20260726014900-38b0e9295f51
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.22
 	github.com/metacubex/sing-vmess v0.2.5
-	github.com/metacubex/sing-wireguard v0.0.0-20260804133520-b873d2f3e751
+	github.com/metacubex/sing-wireguard v0.0.0-20260810013230-110eac03c3f0
 	github.com/metacubex/tfo-go v0.0.0-20260623020846-376a77860b8c
 	github.com/metacubex/utls v1.8.7
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f

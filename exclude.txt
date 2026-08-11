@@ -83,7 +83,7 @@ github.com/EzeXchange-API/go-listmonk
 //	module declares its path as: github.com/Exayn/go-listmonk
 //	        but was required as: github.com/EzeXchange-API/go-listmonk
 github.com/fclairamb/ftpserverlib
-//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.32.1
+//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.32.3
 //[github.com/fclairamb/ftpserverlib] module has replace
 github.com/go-darwin/apfs
 //[github.com/go-darwin/apfs] dir: /home/runner/go/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348
@@ -145,10 +145,6 @@ github.com/gwos/tcg
 //	k8s.io/client-go/kubernetes imports
 //	k8s.io/client-go/kubernetes/typed/scheduling/v1alpha1 imports
 //	k8s.io/api/scheduling/v1alpha1: cannot find module providing package k8s.io/api/scheduling/v1alpha1
-github.com/hanzoai/gochimp3
-//go: github.com/hanzoai/gochimp3@latest (v0.0.0-20260603202058-bec52be4943f) requires github.com/hanzoai/gochimp3@v0.0.0-20260603202058-bec52be4943f: parsing go.mod:
-//	module declares its path as: github.com/Elandiro/gochimp3
-//	        but was required as: github.com/hanzoai/gochimp3
 github.com/hashicorp/consul
 //go: github.com/hashicorp/consul imports
 //	github.com/hashicorp/consul/command/version imports
