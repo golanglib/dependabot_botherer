@@ -1281,7 +1281,7 @@ require (
 	github.com/sassoftware/go-rpmutils v0.4.0
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.37
 	github.com/seancfoley/bintree v1.4.0
-	github.com/seancfoley/ipaddress-go v1.7.1
+	github.com/seancfoley/ipaddress-go v1.8.1
 	github.com/seccomp/libseccomp-golang v0.11.1
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
