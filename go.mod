@@ -1679,7 +1679,7 @@ require (
 	storj.io/common v0.0.0-20260629224719-ba1bff0a7846
 	storj.io/drpc v1.0.0
 	storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5
-	storj.io/infectious v0.0.2
+	storj.io/infectious v1.0.0
 	storj.io/picobuf v0.0.4
 	storj.io/uplink v1.14.3
 	v2ray.com/core v4.19.1+incompatible
