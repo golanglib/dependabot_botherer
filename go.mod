@@ -25,6 +25,7 @@ require (
 	cloud.google.com/go/storage v1.64.0
 	cloud.google.com/go/trace v1.16.0
 	code.gitea.io/sdk/gitea v0.25.1
+	codeberg.org/chavacava/garif v0.2.0
 	codeberg.org/gusted/mcaptcha v0.0.0-20220723083913-4f3072e1d570
 	collectd.org v0.6.0
 	connectrpc.com/connect v1.20.0
@@ -109,6 +110,9 @@ require (
 	github.com/HdrHistogram/hdrhistogram-go v1.3.0
 	github.com/IBM/nzgo/v12 v12.0.13
 	github.com/IBM/sarama v1.60.1
+	github.com/JohannesKaufmann/dom v0.3.1
+	github.com/JohannesKaufmann/html-to-markdown v1.6.0
+	github.com/JohannesKaufmann/html-to-markdown/v2 v2.5.2
 	github.com/Joker/hpp v1.0.0
 	github.com/Joker/jade v1.1.3
 	github.com/MakeNowJust/heredoc v1.0.0
@@ -167,10 +171,13 @@ require (
 	github.com/alexkohler/nakedret v1.0.2
 	github.com/alexkohler/nakedret/v2 v2.0.6
 	github.com/alexkohler/prealloc v1.1.0
+	github.com/alfatraining/structtag v1.0.0
 	github.com/alicebob/miniredis/v2 v2.38.0
 	github.com/alingse/asasalint v0.0.11
+	github.com/alingse/nilnesserr v0.2.0
 	github.com/alitto/pond v1.9.2
 	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
+	github.com/allegro/bigcache/v3 v3.1.0
 	github.com/anacrolix/bargle v1.0.0
 	github.com/anacrolix/chansync v0.8.0
 	github.com/anacrolix/dht v1.0.1
@@ -220,6 +227,7 @@ require (
 	github.com/atombender/go-jsonschema v0.24.1
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.7.0
+	github.com/avast/retry-go/v5 v5.0.0
 	github.com/awnumar/memcall v0.5.0
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.54.0
@@ -247,6 +255,7 @@ require (
 	github.com/aws/smithy-go v1.27.7
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
+	github.com/axw/gocov v1.2.1
 	github.com/aymanbagabas/go-osc52 v1.2.2
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1
 	github.com/aymanbagabas/go-udiff v0.4.1
@@ -309,6 +318,9 @@ require (
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/bmatcuk/doublestar/v4 v4.10.0
+	github.com/bodgit/plumbing v1.3.0
+	github.com/bodgit/sevenzip v1.6.5
+	github.com/bodgit/windows v1.0.1
 	github.com/boj/redistore v1.4.2
 	github.com/bombsimon/wsl v1.2.8
 	github.com/bombsimon/wsl/v3 v3.4.0
@@ -333,6 +345,7 @@ require (
 	github.com/buildkite/terminal-to-html/v3 v3.17.1
 	github.com/butuzov/ireturn v0.4.1
 	github.com/butuzov/mirror v1.3.3
+	github.com/bytedance/gg v1.1.0
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.4
 	github.com/bytedance/mockey v1.4.6
@@ -348,14 +361,19 @@ require (
 	github.com/caddyserver/zerossl v0.1.5
 	github.com/caio/go-tdigest/v4 v4.1.0
 	github.com/calebcase/tmpfile v1.0.3
+	github.com/casbin/casbin/v2 v2.37.0
+	github.com/casbin/gorm-adapter/v3 v3.41.0
+	github.com/casbin/govaluate v1.10.0
 	github.com/catenacyber/perfsprint v0.10.1
 	github.com/cch123/supermonkey v1.0.1
 	github.com/ccojocar/zxcvbn-go v1.0.4
 	github.com/cenkalti/backoff/v3 v3.2.2
 	github.com/cenkalti/backoff/v4 v4.3.0
+	github.com/cenkalti/backoff/v5 v5.0.3
 	github.com/census-instrumentation/opencensus-proto v0.4.1
 	github.com/cespare/xxhash v1.1.0
 	github.com/cespare/xxhash/v2 v2.3.0
+	github.com/chai2010/webp v1.4.0
 	github.com/charithe/durationcheck v0.0.11
 	github.com/charmbracelet/bubbles v1.0.0
 	github.com/charmbracelet/bubbletea v1.3.10
@@ -372,6 +390,7 @@ require (
 	github.com/chi-middleware/proxy v1.1.1
 	github.com/chigopher/pathlib v0.19.1
 	github.com/choleraehyq/pid v0.0.24
+	github.com/choleraehyq/rwlock v0.0.16
 	github.com/chzyer/logex v1.2.1
 	github.com/chzyer/readline v1.5.1
 	github.com/chzyer/test v1.0.0
@@ -400,6 +419,7 @@ require (
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.17
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
+	github.com/cloudwego/gjson v0.1.1
 	github.com/cloudwego/gopkg v0.2.0
 	github.com/cloudwego/hertz v0.10.6
 	github.com/cloudwego/iasm v0.2.0
@@ -435,6 +455,7 @@ require (
 	github.com/coreos/go-oidc/v3 v3.20.0
 	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.7.0
+	github.com/cosiner/argv v0.1.0
 	github.com/couchbase/go-couchbase v0.1.1
 	github.com/couchbase/gomemcached v0.3.3
 	github.com/couchbase/goutils v0.3.0
@@ -455,10 +476,12 @@ require (
 	github.com/datadope-io/go-zabbix v1.6.0
 	github.com/datadope-io/go-zabbix/v2 v2.0.1
 	github.com/deanishe/awgo v0.29.1
+	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.1
 	github.com/deepmap/oapi-codegen v1.16.3
 	github.com/denis-tingaikin/go-header v1.0.0
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/dennwc/varint v1.0.0
+	github.com/derekparker/trie/v3 v3.2.1
 	github.com/devalexandre/langsmithgo v1.0.1
 	github.com/devigned/tab v0.1.1
 	github.com/dghubble/trie v0.1.0
@@ -492,6 +515,7 @@ require (
 	github.com/dynatrace-oss/dynatrace-metric-utils-go v0.5.0
 	github.com/eapache/go-resiliency v1.7.0
 	github.com/eapache/go-xerial-snappy v0.0.0-20230731223053-c322873962e3
+	github.com/ebitengine/purego v0.10.1
 	github.com/eclipse/paho.golang v0.23.0
 	github.com/eclipse/paho.mqtt.golang v1.5.1
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
@@ -502,6 +526,7 @@ require (
 	github.com/elazarl/goproxy/ext v0.0.0-20260806073413-6225cd309d7c
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
+	github.com/emersion/go-imap/v2 v2.0.0-beta.8
 	github.com/emersion/go-message v0.18.2
 	github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6
 	github.com/emersion/go-smtp v0.24.0
@@ -524,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260813144914-974c3bd1c141
+	github.com/facebook/time v0.0.0-20260814102400-d9c2ad83c38a
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -549,6 +574,7 @@ require (
 	github.com/gdamore/tcell/v2 v2.13.10
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.146.0
+	github.com/ghetzel/testify v1.4.1
 	github.com/ghostiam/protogetter v0.3.21
 	github.com/gin-contrib/cors v1.7.7
 	github.com/gin-contrib/gzip v1.2.6
@@ -577,6 +603,8 @@ require (
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
 	github.com/go-critic/go-critic v0.14.4
+	github.com/go-delve/delve v1.27.1
+	github.com/go-ego/gse v1.0.2
 	github.com/go-enry/go-enry/v2 v2.9.6
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-errors/errors v1.5.1
@@ -587,6 +615,8 @@ require (
 	github.com/go-git/go-billy/v5 v5.9.1
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
 	github.com/go-git/go-git/v5 v5.19.2
+	github.com/go-gorm/caches v1.0.1
+	github.com/go-gorm/caches/v4 v4.0.5
 	github.com/go-jose/go-jose/v3 v3.0.5
 	github.com/go-jose/go-jose/v4 v4.1.4
 	github.com/go-kit/kit v0.13.0
@@ -622,6 +652,7 @@ require (
 	github.com/go-playground/locales v0.14.1
 	github.com/go-playground/universal-translator v0.18.1
 	github.com/go-playground/validator/v10 v10.30.3
+	github.com/go-python/gopy v0.4.10
 	github.com/go-quicktest/qt v1.102.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-redis/redis/v8 v8.11.5
@@ -631,6 +662,7 @@ require (
 	github.com/go-swagger/go-swagger v0.36.2
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
+	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
 	github.com/go-test/deep v1.1.1
 	github.com/go-testfixtures/testfixtures/v3 v3.19.0
 	github.com/go-toolsmith/astcast v1.1.0
@@ -695,6 +727,8 @@ require (
 	github.com/golangci/unconvert v0.0.0-20250410112200-a129a6e6413e
 	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
 	github.com/gomodule/redigo v2.0.0+incompatible
+	github.com/gonuts/commander v0.4.1
+	github.com/gonuts/flag v0.1.0
 	github.com/google/btree v1.1.3
 	github.com/google/cel-go v0.31.0
 	github.com/google/certificate-transparency-go v1.3.3
@@ -704,6 +738,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3
 	github.com/google/go-containerregistry v0.21.9
+	github.com/google/go-dap v0.12.0
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/go-github/v45 v45.2.0
@@ -823,8 +858,10 @@ require (
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
 	github.com/henrybear327/go-proton-api v1.0.0
 	github.com/henrylee2cn/goutil v1.1.2
+	github.com/hertz-contrib/cors v0.1.0
 	github.com/hertz-contrib/http2 v0.1.8
 	github.com/hertz-contrib/localsession v0.1.0
+	github.com/hertz-contrib/requestid v1.1.0
 	github.com/hertz-contrib/sse v0.1.0
 	github.com/hetznercloud/hcloud-go v1.59.2
 	github.com/hetznercloud/hcloud-go/v2 v2.47.0
@@ -859,6 +896,7 @@ require (
 	github.com/ip2location/ip2location-go/v9 v9.8.0
 	github.com/iris-contrib/httpexpect/v2 v2.15.2
 	github.com/iris-contrib/schema v0.0.6
+	github.com/isaacphi/mcp-language-server v0.1.1
 	github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar v0.0.0-20251128051024-55d4e5479475
 	github.com/itchyny/gojq v0.12.19
 	github.com/itchyny/timefmt-go v0.1.8
@@ -926,6 +964,7 @@ require (
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
 	github.com/keybase/go-keychain v0.0.1
+	github.com/keybase/saltpack v0.0.0-20260731163415-735fecfa1520
 	github.com/kisielk/errcheck v1.20.0
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.6
@@ -940,6 +979,7 @@ require (
 	github.com/kr/fs v0.1.0
 	github.com/kr/pretty v0.3.1
 	github.com/kr/text v0.2.0
+	github.com/kuangchanglang/graceful v1.0.2
 	github.com/kulti/thelper v0.7.1
 	github.com/kunwardeep/paralleltest v1.0.15
 	github.com/kylelemons/godebug v1.1.0
@@ -950,13 +990,22 @@ require (
 	github.com/larksuite/oapi-sdk-go v1.1.48
 	github.com/larksuite/oapi-sdk-go/v3 v3.9.10
 	github.com/lasiar/canonicalheader v1.1.2
+	github.com/ldez/exptostd v0.4.5
 	github.com/ldez/gomoddirectives v0.9.0
+	github.com/ldez/grignotin v0.10.1
 	github.com/ldez/tagliatelle v0.7.2
+	github.com/ldez/usetesting v0.5.0
 	github.com/leodido/go-syslog/v4 v4.6.0
 	github.com/leodido/go-urn v1.5.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
 	github.com/leonelquinteros/gotext v1.7.2
 	github.com/leonklingele/grouper v1.1.2
+	github.com/lestrrat-go/blackmagic v1.0.4
+	github.com/lestrrat-go/httpcc v1.0.1
+	github.com/lestrrat-go/httprc v1.0.6
+	github.com/lestrrat-go/iter v1.0.2
+	github.com/lestrrat-go/jwx/v2 v2.1.7
+	github.com/lestrrat-go/option v1.0.1
 	github.com/lib/pq v1.12.3
 	github.com/libdns/libdns v1.1.1
 	github.com/lightjameslyy/maxminddb-golang v1.9.1
@@ -1053,15 +1102,18 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.2
 	github.com/moby/buildkit v0.32.2
 	github.com/moby/docker-image-spec v1.3.1
+	github.com/moby/go-archive v0.2.1
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
 	github.com/moby/patternmatcher v0.6.1
+	github.com/moby/sys/atomicwriter v0.1.0
 	github.com/moby/sys/mountinfo v0.7.2
 	github.com/moby/sys/sequential v0.7.0
 	github.com/moby/sys/signal v0.7.1
 	github.com/moby/sys/user v0.4.1
 	github.com/moby/sys/userns v0.1.0
 	github.com/moby/term v0.5.2
+	github.com/modelcontextprotocol/go-sdk v1.4.1
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee
 	github.com/montanaflynn/stats v0.12.2
 	github.com/moricho/tparallel v0.3.2
@@ -1227,6 +1279,7 @@ require (
 	github.com/quic-go/quic-go v0.61.0
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.13.0
+	github.com/raeperd/recvcheck v0.2.0
 	github.com/rclone/rclone v1.75.0
 	github.com/redis/go-redis/v9 v9.22.0
 	github.com/redis/rueidis v1.0.76
@@ -1236,6 +1289,8 @@ require (
 	github.com/resendlabs/resend-go v1.7.0
 	github.com/rfjakob/eme v1.2.0
 	github.com/rhysd/actionlint v1.7.11
+	github.com/richardlehane/mscfb v1.0.7
+	github.com/richardlehane/msoleps v1.0.6
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/rivo/tview v0.42.0
 	github.com/rivo/uniseg v0.4.7
@@ -1275,6 +1330,7 @@ require (
 	github.com/sanposhiho/wastedassign/v2 v2.1.0
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
+	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2
 	github.com/sashabaranov/go-openai v1.42.0
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.29.0
@@ -1282,11 +1338,13 @@ require (
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.37
 	github.com/seancfoley/bintree v1.4.0
 	github.com/seancfoley/ipaddress-go v1.8.1
+	github.com/sebdah/goldie/v2 v2.8.0
 	github.com/seccomp/libseccomp-golang v0.11.1
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
 	github.com/securego/gosec/v2 v2.28.0
 	github.com/segmentio/asm v1.2.1
+	github.com/segmentio/encoding v0.5.4
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.51
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
@@ -1294,7 +1352,13 @@ require (
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
 	github.com/sergi/go-diff v1.4.0
 	github.com/sethvargo/go-retry v0.4.0
+	github.com/shiningrush/droplet v0.4.2
+	github.com/shiningrush/go-download v2.1.0+incompatible
+	github.com/shiningrush/goevent v0.1.0
+	github.com/shiningrush/goext v0.2.3
+	github.com/shiningrush/goreq v0.1.0
 	github.com/shirou/gopsutil/v3 v3.24.5
+	github.com/shirou/gopsutil/v4 v4.26.6
 	github.com/shoenig/go-m1cpu v0.2.2
 	github.com/shoenig/test v1.13.2
 	github.com/shopspring/decimal v1.4.0
@@ -1384,6 +1448,7 @@ require (
 	github.com/tdewolff/minify/v2 v2.24.16
 	github.com/tdewolff/parse/v2 v2.8.15
 	github.com/tdewolff/test v1.0.12
+	github.com/tealeg/xlsx v1.0.5
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
 	github.com/terminalstatic/go-xsd-validate v0.1.7
@@ -1399,6 +1464,7 @@ require (
 	github.com/tidwall/sjson v1.2.5
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.2.1
+	github.com/tiendc/go-deepcopy v1.7.2
 	github.com/timakin/bodyclose v0.0.0-20260129054331-73d1f95b84b4
 	github.com/timonwong/loggercheck v0.11.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
@@ -1431,16 +1497,20 @@ require (
 	github.com/urfave/cli v1.22.17
 	github.com/urfave/cli/v2 v2.27.7
 	github.com/uudashr/gocognit v1.2.1
+	github.com/uudashr/iface v1.4.2
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/v2fly/v2ray-core/v5 v5.53.0
 	github.com/valyala/fasthttp v1.73.0
 	github.com/valyala/fastjson v1.6.10
+	github.com/valyala/fastrand v1.1.0
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.26.0
 	github.com/vapourismo/knx-go v0.0.0-20260813172143-02e535310602
 	github.com/vbatts/tar-split v0.12.3
+	github.com/vcaesar/cedar v0.30.0
+	github.com/vcaesar/tt v0.30.0
 	github.com/vektah/gqlparser/v2 v2.5.36
 	github.com/vektra/mockery/v2 v2.53.6
 	github.com/vishvananda/netlink v1.3.1
@@ -1476,6 +1546,9 @@ require (
 	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342
 	github.com/xtaci/smux v2.0.1+incompatible
+	github.com/xuri/efp v0.0.1
+	github.com/xuri/excelize/v2 v2.11.0
+	github.com/xuri/nfp v0.0.2-0.20250530014748-2ddeb826f9a9
 	github.com/xyproto/randomstring v1.2.0
 	github.com/yagipy/maintidx v1.0.0
 	github.com/yargevad/filepathx v1.0.0
@@ -1557,6 +1630,7 @@ require (
 	go.uber.org/zap v1.28.0
 	go.uber.org/zap/exp v0.3.0
 	go.yaml.in/yaml/v3 v3.0.5
+	go4.org v0.0.0-20260112195520-a5071408f32f
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.30.0
@@ -1643,6 +1717,7 @@ require (
 	modernc.org/fileutil v1.4.0
 	modernc.org/gc/v2 v2.6.5
 	modernc.org/gc/v3 v3.1.5
+	modernc.org/goabi0 v0.2.0
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
@@ -1692,7 +1767,6 @@ require (
 require (
 	cloud.google.com/go/pubsub/v2 v2.6.0 // indirect
 	code.cloudfoundry.org/clock v0.0.0-20180518195852-02e53af36e6c // indirect
-	codeberg.org/chavacava/garif v0.2.0 // indirect
 	cyphar.com/go-pathrs v0.2.5 // indirect
 	filippo.io/bigmod v0.1.0 // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
@@ -1707,6 +1781,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.59.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
 	github.com/KimMachineGun/automemlimit v0.7.5 // indirect
+	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
@@ -1716,7 +1791,6 @@ require (
 	github.com/agentable/go-intl v0.2.17 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
-	github.com/alfatraining/structtag v1.0.0 // indirect
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
 	github.com/andreaskoch/go-fswatch v1.0.0 // indirect
@@ -1743,9 +1817,8 @@ require (
 	github.com/bgentry/speakeasy v0.2.0 // indirect
 	github.com/blevesearch/zapx/v17 v17.1.2 // indirect
 	github.com/bodgit/ntlmssp v0.0.0-20240506230425-31973bb52d9b // indirect
-	github.com/bodgit/windows v1.0.1 // indirect
+	github.com/casbin/casbin/v3 v3.8.1 // indirect
 	github.com/ccoveille/go-safecast/v2 v2.0.1 // indirect
-	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
 	github.com/charmbracelet/colorprofile v0.4.3 // indirect
 	github.com/charmbracelet/x/cellbuf v0.0.15 // indirect
@@ -1776,7 +1849,6 @@ require (
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dylanmei/iso8601 v0.1.0 // indirect
-	github.com/ebitengine/purego v0.10.1 // indirect
 	github.com/echlebek/timeproxy v1.0.0 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.37.0 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
@@ -1828,11 +1900,11 @@ require (
 	github.com/kaptinlin/messageformat-go/mf1 v0.8.3 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
+	github.com/keybase/go-codec v0.0.0-20180928230036-164397562123 // indirect
 	github.com/klauspost/crc32 v1.3.0 // indirect
 	github.com/klauspost/pgzip v1.2.6 // indirect
 	github.com/knz/go-libedit v1.10.1 // indirect
 	github.com/koron-go/gqlcost v0.2.2 // indirect
-	github.com/ldez/grignotin v0.10.1 // indirect
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
@@ -1853,7 +1925,6 @@ require (
 	github.com/miekg/pkcs11 v1.1.2 // indirect
 	github.com/minio/crc64nvme v1.1.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
-	github.com/moby/go-archive v0.2.1 // indirect
 	github.com/moby/moby/api v1.55.0 // indirect
 	github.com/moby/moby/client v0.5.1 // indirect
 	github.com/moby/sys/capability v0.4.0 // indirect
@@ -1890,6 +1961,7 @@ require (
 	github.com/pion/webrtc/v4 v4.2.16 // indirect
 	github.com/pkg/errors v0.9.2-0.20201214064552-5dd12d0cfe7f // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
+	github.com/posener/complete v1.2.3 // indirect
 	github.com/prometheus/otlptranslator v1.0.0 // indirect
 	github.com/prometheus/sigv4 v0.2.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20250401214520-65e299d6c5c9 // indirect
@@ -1899,12 +1971,10 @@ require (
 	github.com/ryszard/goskiplist v0.0.0-20150312221310-2dfbae5fcf46 // indirect
 	github.com/sahilm/fuzzy v0.1.1 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da // indirect
-	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2 // indirect
 	github.com/sasha-s/go-deadlock v0.3.5 // indirect
 	github.com/schollz/closestmatch v2.1.0+incompatible // indirect
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
-	github.com/shirou/gopsutil/v4 v4.26.6 // indirect
 	github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 // indirect
 	github.com/smallstep/linkedca v0.25.0 // indirect
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
@@ -1913,6 +1983,7 @@ require (
 	github.com/spiffe/go-spiffe/v2 v2.8.1 // indirect
 	github.com/src-d/gcfg v1.4.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
+	github.com/stangelandcl/ppmd v0.1.1 // indirect
 	github.com/stefanberger/go-pkcs11uri v0.0.0-20230803200340-78284954bff6 // indirect
 	github.com/tailscale/go-winio v0.0.0-20231025203758-c4f33415bf55 // indirect
 	github.com/tent/http-link-go v0.0.0-20130702225549-ac974c61c2f9 // indirect

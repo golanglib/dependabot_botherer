@@ -82,6 +82,13 @@ github.com/EzeXchange-API/go-listmonk
 //go: github.com/EzeXchange-API/go-listmonk@latest (v1.0.11) requires github.com/EzeXchange-API/go-listmonk@v1.0.11: parsing go.mod:
 //	module declares its path as: github.com/Exayn/go-listmonk
 //	        but was required as: github.com/EzeXchange-API/go-listmonk
+github.com/fatih/gomodifytags
+//[github.com/fatih/gomodifytags] dir: /home/runner/go/pkg/mod/github.com/fatih/gomodifytags@v1.17.0
+//[github.com/fatih/gomodifytags] "": package is main
+//[github.com/fatih/gomodifytags] ".github": no buildable Go source files in /home/runner/go/pkg/mod/github.com/fatih/gomodifytags@v1.17.0/.github
+//[github.com/fatih/gomodifytags] ".github/workflows": no buildable Go source files in /home/runner/go/pkg/mod/github.com/fatih/gomodifytags@v1.17.0/.github/workflows
+//[github.com/fatih/gomodifytags] "test-fixtures": no buildable Go source files in /home/runner/go/pkg/mod/github.com/fatih/gomodifytags@v1.17.0/test-fixtures
+//[github.com/fatih/gomodifytags] no importable packages found
 github.com/fclairamb/ftpserverlib
 //[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.32.3
 //[github.com/fclairamb/ftpserverlib] module has replace
@@ -97,6 +104,10 @@ github.com/go-darwin/apfs
 //[github.com/go-darwin/apfs] "hack/make": no buildable Go source files in /home/runner/go/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/hack/make
 //[github.com/go-darwin/apfs] "testdata": no buildable Go source files in /home/runner/go/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348/testdata
 //[github.com/go-darwin/apfs] no importable packages found
+github.com/go-delve/liner
+//go: github.com/go-delve/liner@latest (v1.2.2) requires github.com/go-delve/liner@v1.2.2: parsing go.mod:
+//	module declares its path as: github.com/peterh/liner
+//	        but was required as: github.com/go-delve/liner
 github.com/go-redsync/redsync
 //[github.com/go-redsync/redsync] dir: /home/runner/go/pkg/mod/github.com/go-redsync/redsync@v1.4.2
 //[github.com/go-redsync/redsync] module has replace
@@ -362,6 +373,9 @@ github.com/yusufpapurcu/wmi
 go.mongodb.org/mongo-driver
 //[go.mongodb.org/mongo-driver] dir: /home/runner/go/pkg/mod/go.mongodb.org/mongo-driver@v1.17.4
 //[go.mongodb.org/mongo-driver] module has replace
+go.mongodb.org/mongo-driver/v2
+//[go.mongodb.org/mongo-driver/v2] dir: /home/runner/go/pkg/mod/go.mongodb.org/mongo-driver/v2@v2.5.0
+//[go.mongodb.org/mongo-driver/v2] module has replace
 go.opentelemetry.io/collector
 //[go.opentelemetry.io/collector] dir: /home/runner/go/pkg/mod/go.opentelemetry.io/collector@v0.158.0
 //[go.opentelemetry.io/collector] "": no buildable Go source files in /home/runner/go/pkg/mod/go.opentelemetry.io/collector@v0.158.0
