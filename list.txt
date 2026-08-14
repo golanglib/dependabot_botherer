@@ -23,6 +23,7 @@ code.gitea.io/actions-proto-go
 code.gitea.io/gitea
 code.gitea.io/gitea-vet
 code.gitea.io/sdk/gitea
+codeberg.org/chavacava/garif
 codeberg.org/gusted/mcaptcha
 collectd.org
 connectrpc.com/connect
@@ -77,10 +78,13 @@ github.com/alexflint/go-scalar
 github.com/alexkohler/nakedret
 github.com/alexkohler/nakedret/v2
 github.com/alexkohler/prealloc
+github.com/alfatraining/structtag
 github.com/alicebob/miniredis/v2
 github.com/alingse/asasalint
+github.com/alingse/nilnesserr
 github.com/alitto/pond
 github.com/aliyun/alibaba-cloud-sdk-go
+github.com/allegro/bigcache/v3
 github.com/anacrolix/bargle
 github.com/anacrolix/chansync
 github.com/anacrolix/dht
@@ -137,6 +141,7 @@ github.com/ashanbrown/makezero
 github.com/atombender/go-jsonschema
 github.com/atotto/clipboard
 github.com/avast/retry-go/v4
+github.com/avast/retry-go/v5
 github.com/awnumar/memcall
 github.com/awnumar/memguard
 github.com/aws/aws-lambda-go
@@ -173,6 +178,7 @@ github.com/aws/aws-sdk-go-v2/service/timestreamwrite
 github.com/aws/smithy-go
 github.com/awslabs/aws-lambda-go-api-proxy
 github.com/awslabs/kinesis-aggregation/go
+github.com/axw/gocov
 github.com/aymanbagabas/go-osc52
 github.com/aymanbagabas/go-osc52/v2
 github.com/aymanbagabas/go-udiff
@@ -276,6 +282,9 @@ github.com/blues/jsonata-go
 github.com/bmatcuk/doublestar
 github.com/bmatcuk/doublestar/v3
 github.com/bmatcuk/doublestar/v4
+github.com/bodgit/plumbing
+github.com/bodgit/sevenzip
+github.com/bodgit/windows
 github.com/boj/redistore
 github.com/bombsimon/wsl
 github.com/bombsimon/wsl/v3
@@ -302,6 +311,7 @@ github.com/buildkite/terminal-to-html/v3
 github.com/BurntSushi/toml
 github.com/butuzov/ireturn
 github.com/butuzov/mirror
+github.com/bytedance/gg
 github.com/bytedance/go-tagexpr/v2
 github.com/bytedance/gopkg
 github.com/bytedance/mockey
@@ -317,14 +327,19 @@ github.com/caddyserver/xcaddy
 github.com/caddyserver/zerossl
 github.com/caio/go-tdigest/v4
 github.com/calebcase/tmpfile
+github.com/casbin/casbin/v2
+github.com/casbin/gorm-adapter/v3
+github.com/casbin/govaluate
 github.com/catenacyber/perfsprint
 github.com/cch123/supermonkey
 github.com/ccojocar/zxcvbn-go
 github.com/cenkalti/backoff/v3
 github.com/cenkalti/backoff/v4
+github.com/cenkalti/backoff/v5
 github.com/census-instrumentation/opencensus-proto
 github.com/cespare/xxhash
 github.com/cespare/xxhash/v2
+github.com/chai2010/webp
 github.com/charithe/durationcheck
 github.com/charmbracelet/bubbles
 github.com/charmbracelet/bubbletea
@@ -341,6 +356,7 @@ github.com/chenzhuoyu/iasm
 github.com/chi-middleware/proxy
 github.com/chigopher/pathlib
 github.com/choleraehyq/pid
+github.com/choleraehyq/rwlock
 github.com/chzyer/logex
 github.com/chzyer/readline
 github.com/chzyer/test
@@ -372,6 +388,7 @@ github.com/cloudwego/eino-ext/libs/acl/langfuse
 github.com/cloudwego/eino-ext/libs/acl/openai
 github.com/cloudwego/fastpb
 github.com/cloudwego/frugal
+github.com/cloudwego/gjson
 github.com/cloudwego/gopkg
 github.com/cloudwego/hertz
 github.com/cloudwego/iasm
@@ -410,6 +427,7 @@ github.com/coreos/go-iptables
 github.com/coreos/go-oidc/v3
 github.com/coreos/go-semver
 github.com/coreos/go-systemd/v22
+github.com/cosiner/argv
 github.com/cosmtrek/air
 github.com/couchbase/cbauth
 github.com/couchbase/go-couchbase
@@ -437,10 +455,12 @@ github.com/datadope-io/go-zabbix
 github.com/datadope-io/go-zabbix/v2
 github.com/davidmz/go-pageant
 github.com/deanishe/awgo
+github.com/decred/dcrd/dcrec/secp256k1/v4
 github.com/deepmap/oapi-codegen
 github.com/denis-tingaikin/go-header
 github.com/denisenkom/go-mssqldb
 github.com/dennwc/varint
+github.com/derekparker/trie/v3
 github.com/devalexandre/langsmithgo
 github.com/devigned/tab
 github.com/dghubble/trie
@@ -475,6 +495,7 @@ github.com/dylanmei/winrmtest
 github.com/dynatrace-oss/dynatrace-metric-utils-go
 github.com/eapache/go-resiliency
 github.com/eapache/go-xerial-snappy
+github.com/ebitengine/purego
 github.com/eclipse/paho.golang
 github.com/eclipse/paho.mqtt.golang
 github.com/editorconfig-checker/editorconfig-checker
@@ -485,6 +506,7 @@ github.com/elazarl/goproxy
 github.com/elazarl/goproxy/ext
 github.com/elliotchance/orderedmap
 github.com/emersion/go-imap
+github.com/emersion/go-imap/v2
 github.com/emersion/go-message
 github.com/emersion/go-sasl
 github.com/emersion/go-smtp
@@ -511,6 +533,7 @@ github.com/expr-lang/expr
 github.com/EzeXchange-API/go-listmonk
 github.com/facebook/time
 github.com/fatih/color
+github.com/fatih/gomodifytags
 github.com/fatih/structtag
 github.com/fclairamb/ftpserverlib
 github.com/fclairamb/go-log
@@ -538,6 +561,7 @@ github.com/gdamore/tcell
 github.com/gdamore/tcell/v2
 github.com/geoffgarside/ber
 github.com/getkin/kin-openapi
+github.com/ghetzel/testify
 github.com/ghostiam/protogetter
 github.com/gin-contrib/cors
 github.com/gin-contrib/gzip
@@ -567,6 +591,9 @@ github.com/go-chi/render
 github.com/go-co-op/gocron
 github.com/go-critic/go-critic
 github.com/go-darwin/apfs
+github.com/go-delve/delve
+github.com/go-delve/liner
+github.com/go-ego/gse
 github.com/go-enry/go-enry/v2
 github.com/go-enry/go-oniguruma
 github.com/go-errors/errors
@@ -577,6 +604,8 @@ github.com/go-git/gcfg
 github.com/go-git/go-billy/v5
 github.com/go-git/go-git-fixtures/v4
 github.com/go-git/go-git/v5
+github.com/go-gorm/caches
+github.com/go-gorm/caches/v4
 github.com/go-jose/go-jose/v3
 github.com/go-jose/go-jose/v4
 github.com/go-kit/kit
@@ -612,6 +641,7 @@ github.com/go-playground/form/v4
 github.com/go-playground/locales
 github.com/go-playground/universal-translator
 github.com/go-playground/validator/v10
+github.com/go-python/gopy
 github.com/go-quicktest/qt
 github.com/go-redis/redis/v7
 github.com/go-redis/redis/v8
@@ -623,6 +653,7 @@ github.com/go-stack/stack
 github.com/go-swagger/go-swagger
 github.com/go-task/slim-sprig
 github.com/go-task/slim-sprig/v3
+github.com/go-telegram-bot-api/telegram-bot-api/v5
 github.com/go-test/deep
 github.com/go-testfixtures/testfixtures/v3
 github.com/go-toolsmith/astcast
@@ -690,6 +721,8 @@ github.com/golangci/revgrep
 github.com/golangci/unconvert
 github.com/gomarkdown/markdown
 github.com/gomodule/redigo
+github.com/gonuts/commander
+github.com/gonuts/flag
 github.com/google/btree
 github.com/google/cel-go
 github.com/google/certificate-transparency-go
@@ -699,6 +732,7 @@ github.com/google/go-attestation
 github.com/google/go-cmp
 github.com/google/go-configfs-tsm
 github.com/google/go-containerregistry
+github.com/google/go-dap
 github.com/google/go-github/v28
 github.com/google/go-github/v32
 github.com/google/go-github/v45
@@ -838,8 +872,10 @@ github.com/henrylee2cn/ameda
 github.com/henrylee2cn/aster
 github.com/henrylee2cn/goutil
 github.com/henrylee2cn/structtag
+github.com/hertz-contrib/cors
 github.com/hertz-contrib/http2
 github.com/hertz-contrib/localsession
+github.com/hertz-contrib/requestid
 github.com/hertz-contrib/sse
 github.com/hetznercloud/hcloud-go
 github.com/hetznercloud/hcloud-go/v2
@@ -877,6 +913,7 @@ github.com/ionos-cloud/sdk-go/v6
 github.com/ip2location/ip2location-go/v9
 github.com/iris-contrib/httpexpect/v2
 github.com/iris-contrib/schema
+github.com/isaacphi/mcp-language-server
 github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar
 github.com/itchyny/gojq
 github.com/itchyny/timefmt-go
@@ -923,6 +960,9 @@ github.com/jmespath/go-jmespath
 github.com/jmespath/go-jmespath/internal/testify
 github.com/jmhodges/clock
 github.com/jmhodges/levigo
+github.com/JohannesKaufmann/dom
+github.com/JohannesKaufmann/html-to-markdown
+github.com/JohannesKaufmann/html-to-markdown/v2
 github.com/joho/godotenv
 github.com/Joker/hpp
 github.com/Joker/jade
@@ -950,6 +990,7 @@ github.com/kataras/pio
 github.com/kataras/sitemap
 github.com/kataras/tunnel
 github.com/keybase/go-keychain
+github.com/keybase/saltpack
 github.com/kisielk/errcheck
 github.com/kisielk/gotool
 github.com/kkHAIKE/contextcheck
@@ -964,6 +1005,7 @@ github.com/koofr/go-httpclient
 github.com/kr/fs
 github.com/kr/pretty
 github.com/kr/text
+github.com/kuangchanglang/graceful
 github.com/kulti/thelper
 github.com/kunwardeep/paralleltest
 github.com/kylelemons/godebug
@@ -974,13 +1016,22 @@ github.com/labstack/gommon
 github.com/larksuite/oapi-sdk-go
 github.com/larksuite/oapi-sdk-go/v3
 github.com/lasiar/canonicalheader
+github.com/ldez/exptostd
 github.com/ldez/gomoddirectives
+github.com/ldez/grignotin
 github.com/ldez/tagliatelle
+github.com/ldez/usetesting
 github.com/leodido/go-syslog/v4
 github.com/leodido/go-urn
 github.com/leodido/ragel-machinery
 github.com/leonelquinteros/gotext
 github.com/leonklingele/grouper
+github.com/lestrrat-go/blackmagic
+github.com/lestrrat-go/httpcc
+github.com/lestrrat-go/httprc
+github.com/lestrrat-go/iter
+github.com/lestrrat-go/jwx/v2
+github.com/lestrrat-go/option
 github.com/lib/pq
 github.com/libdns/libdns
 github.com/lightjameslyy/maxminddb-golang
@@ -1091,15 +1142,18 @@ github.com/mitchellh/mapstructure
 github.com/mitchellh/reflectwalk
 github.com/moby/buildkit
 github.com/moby/docker-image-spec
+github.com/moby/go-archive
 github.com/moby/ipvs
 github.com/moby/locker
 github.com/moby/patternmatcher
+github.com/moby/sys/atomicwriter
 github.com/moby/sys/mountinfo
 github.com/moby/sys/sequential
 github.com/moby/sys/signal
 github.com/moby/sys/user
 github.com/moby/sys/userns
 github.com/moby/term
+github.com/modelcontextprotocol/go-sdk
 github.com/modern-go/reflect2
 github.com/montanaflynn/stats
 github.com/moricho/tparallel
@@ -1283,6 +1337,7 @@ github.com/quic-go/qtls-go1-20
 github.com/quic-go/quic-go
 github.com/r3labs/sse/v2
 github.com/rabbitmq/amqp091-go
+github.com/raeperd/recvcheck
 github.com/rclone/rclone
 github.com/redis/go-redis/v9
 github.com/redis/rueidis
@@ -1293,6 +1348,8 @@ github.com/ReneKroon/ttlcache
 github.com/resendlabs/resend-go
 github.com/rfjakob/eme
 github.com/rhysd/actionlint
+github.com/richardlehane/mscfb
+github.com/richardlehane/msoleps
 github.com/riemann/riemann-go-client
 github.com/rivo/tview
 github.com/rivo/uniseg
@@ -1336,6 +1393,7 @@ github.com/sanposhiho/wastedassign
 github.com/sanposhiho/wastedassign/v2
 github.com/santhosh-tekuri/jsonschema
 github.com/santhosh-tekuri/jsonschema/v5
+github.com/santhosh-tekuri/jsonschema/v6
 github.com/SAP/go-hdb
 github.com/sashabaranov/go-openai
 github.com/sashamelentyev/interfacebloat
@@ -1345,11 +1403,13 @@ github.com/SaveTheRbtz/zstd-seekable-format-go/pkg
 github.com/scaleway/scaleway-sdk-go
 github.com/seancfoley/bintree
 github.com/seancfoley/ipaddress-go
+github.com/sebdah/goldie/v2
 github.com/seccomp/libseccomp-golang
 github.com/secure-io/siv-go
 github.com/securego/gosec
 github.com/securego/gosec/v2
 github.com/segmentio/asm
+github.com/segmentio/encoding
 github.com/segmentio/fasthash
 github.com/segmentio/kafka-go
 github.com/seiflotfy/cuckoofilter
@@ -1357,7 +1417,13 @@ github.com/sensu/sensu-go/api/core
 github.com/sensu/sensu-go/api/core/v2
 github.com/sergi/go-diff
 github.com/sethvargo/go-retry
+github.com/shiningrush/droplet
+github.com/shiningrush/go-download
+github.com/shiningrush/goevent
+github.com/shiningrush/goext
+github.com/shiningrush/goreq
 github.com/shirou/gopsutil/v3
+github.com/shirou/gopsutil/v4
 github.com/shoenig/go-m1cpu
 github.com/shoenig/test
 github.com/Shopify/go-lua
@@ -1451,6 +1517,7 @@ github.com/tdakkota/asciicheck
 github.com/tdewolff/minify/v2
 github.com/tdewolff/parse/v2
 github.com/tdewolff/test
+github.com/tealeg/xlsx
 github.com/tenntenn/modver
 github.com/tenntenn/text/transform
 github.com/terminalstatic/go-xsd-validate
@@ -1466,6 +1533,7 @@ github.com/tidwall/pretty
 github.com/tidwall/sjson
 github.com/tidwall/tinylru
 github.com/tidwall/wal
+github.com/tiendc/go-deepcopy
 github.com/timakin/bodyclose
 github.com/timonwong/loggercheck
 github.com/timshannon/bolthold
@@ -1498,16 +1566,20 @@ github.com/unrolled/render
 github.com/urfave/cli
 github.com/urfave/cli/v2
 github.com/uudashr/gocognit
+github.com/uudashr/iface
 github.com/v2fly/BrowserBridge
 github.com/v2fly/ss-bloomring
 github.com/v2fly/v2ray-core/v5
 github.com/v2fly/VSign
 github.com/valyala/fasthttp
 github.com/valyala/fastjson
+github.com/valyala/fastrand
 github.com/valyala/fasttemplate
 github.com/valyala/gozstd
 github.com/vapourismo/knx-go
 github.com/vbatts/tar-split
+github.com/vcaesar/cedar
+github.com/vcaesar/tt
 github.com/vektah/gqlparser/v2
 github.com/vektra/mockery/v2
 github.com/vishvananda/netlink
@@ -1544,6 +1616,9 @@ github.com/xiaokangwang/VSign
 github.com/xlab/treeprint
 github.com/xrash/smetrics
 github.com/xtaci/smux
+github.com/xuri/efp
+github.com/xuri/excelize/v2
+github.com/xuri/nfp
 github.com/xyproto/randomstring
 github.com/yagipy/maintidx
 github.com/yargevad/filepathx
@@ -1597,6 +1672,7 @@ go.etcd.io/gofail
 go.jolheiser.com/hcaptcha
 go.jolheiser.com/pwn
 go.mongodb.org/mongo-driver
+go.mongodb.org/mongo-driver/v2
 go.mozilla.org/pkcs7
 go.opencensus.io
 go.opentelemetry.io/auto/sdk
@@ -1644,6 +1720,7 @@ go.uber.org/ratelimit
 go.uber.org/zap
 go.uber.org/zap/exp
 go.yaml.in/yaml/v3
+go4.org
 go4.org/netipx
 go4.org/unsafe/assume-no-moving-gc
 golang.org/x/arch
@@ -1734,6 +1811,7 @@ modernc.org/ccorpus2
 modernc.org/fileutil
 modernc.org/gc/v2
 modernc.org/gc/v3
+modernc.org/goabi0
 modernc.org/httpfs
 modernc.org/lex
 modernc.org/lexer
