@@ -4,6 +4,10 @@ set -euo pipefail
 
 EXCLUDE_PREFIX=${EXCLUDE_PREFIX:-""}
 
+if [[ -n "$EXCLUDE_PREFIX" ]]; then
+  echo "set EXCLUDE_PREFIX to speed up"
+fi
+
 # make sure the network is available
 curl -f -s "https://proxy.golang.org/cached-only/" -o /dev/null
 
