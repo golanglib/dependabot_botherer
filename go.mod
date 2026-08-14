@@ -515,7 +515,7 @@ require (
 	github.com/dynatrace-oss/dynatrace-metric-utils-go v0.5.0
 	github.com/eapache/go-resiliency v1.7.0
 	github.com/eapache/go-xerial-snappy v0.0.0-20230731223053-c322873962e3
-	github.com/ebitengine/purego v0.10.1
+	github.com/ebitengine/purego v0.10.2
 	github.com/eclipse/paho.golang v0.23.0
 	github.com/eclipse/paho.mqtt.golang v1.5.1
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
@@ -1358,7 +1358,7 @@ require (
 	github.com/shiningrush/goext v0.2.3
 	github.com/shiningrush/goreq v0.1.0
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/shirou/gopsutil/v4 v4.26.6
+	github.com/shirou/gopsutil/v4 v4.26.7
 	github.com/shoenig/go-m1cpu v0.2.2
 	github.com/shoenig/test v1.13.2
 	github.com/shopspring/decimal v1.4.0
