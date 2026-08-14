@@ -1659,12 +1659,12 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
 	google.golang.org/adk v1.5.1
-	google.golang.org/api v0.292.0
+	google.golang.org/api v0.293.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.67.0
 	google.golang.org/genproto v0.0.0-20260519071638-aa98bba5eb94
 	google.golang.org/genproto/googleapis/api v0.0.0-20260803160001-6ac0973c030d
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260803160001-6ac0973c030d
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260807164820-c8921c73eeea
 	google.golang.org/grpc v1.84.0-dev.0.20260723093437-b6eac429d7b6
 	google.golang.org/protobuf v1.36.12
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
