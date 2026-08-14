@@ -1102,7 +1102,7 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.2
 	github.com/moby/buildkit v0.32.2
 	github.com/moby/docker-image-spec v1.3.1
-	github.com/moby/go-archive v0.2.1
+	github.com/moby/go-archive v0.3.3
 	github.com/moby/ipvs v1.1.0
 	github.com/moby/locker v1.0.1
 	github.com/moby/patternmatcher v0.6.1
