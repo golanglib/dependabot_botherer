@@ -1113,7 +1113,7 @@ require (
 	github.com/moby/sys/user v0.4.1
 	github.com/moby/sys/userns v0.1.0
 	github.com/moby/term v0.5.2
-	github.com/modelcontextprotocol/go-sdk v1.4.1
+	github.com/modelcontextprotocol/go-sdk v1.7.0
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee
 	github.com/montanaflynn/stats v0.12.2
 	github.com/moricho/tparallel v0.3.2
