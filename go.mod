@@ -393,7 +393,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.2
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.69
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260811022947-b9cfa8f1c5c6
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260813030315-32635d4ae67d
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -524,7 +524,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260812170410-0157214e9e40
+	github.com/facebook/time v0.0.0-20260813144914-974c3bd1c141
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1439,7 +1439,7 @@ require (
 	github.com/valyala/fastjson v1.6.10
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/valyala/gozstd v1.26.0
-	github.com/vapourismo/knx-go v0.0.0-20260208154845-3f9ffa9dc4c1
+	github.com/vapourismo/knx-go v0.0.0-20260813172143-02e535310602
 	github.com/vbatts/tar-split v0.12.3
 	github.com/vektah/gqlparser/v2 v2.5.36
 	github.com/vektra/mockery/v2 v2.53.6
