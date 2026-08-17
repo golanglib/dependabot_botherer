@@ -1370,8 +1370,8 @@ github.com/aws/aws-sdk-go-v2/internal/ini v1.3.34/go.mod h1:Etz2dj6UHYuw+Xw830Kf
 github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.38 h1:A3UAuCmx7LyUcrixBTzKJYYIUZ2yTvn6ZhT8PB+7APk=
 github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.38/go.mod h1:1PDUYG9Z+JrbbsobsAZHjWOm9QBT/djiK3QbykTL5Z4=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.8.1/go.mod h1:CM+19rL1+4dFWnOQKwDc7H1KwXTz+h61oUSHyhV0b3o=
-github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.66.4 h1:uLJvZPlHcNDKpy4DwiItYVxfHsY0xOUxvXQOwF6wQ4Q=
-github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.66.4/go.mod h1:De2gtqReQOh6OwdgQUnJnGdmJqRvBCHRAbVDDqCy3Pk=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.66.5 h1:dmtGTLndMJvBB10lfkP6F+MAxdDN7yOf/W9Cq1iTygc=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.66.5/go.mod h1:3BPwkSv/Rr3J6Fl7TAv3QKzgpymxJaXsYYJ0xWBqHls=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.82.2 h1:g0Hm/up9LDheflUekqCl19nTJatL6MHyvZHJSXOVyBI=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.82.2/go.mod h1:AdyGGib8td8DR+9F5xKLooxlSSoXo4pBVl+FkTpzpNA=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.38.1 h1:9/0/sqeplR52m0qWjE00wY8r+jkImLOnu6oat5mjG2o=
