@@ -177,7 +177,7 @@ require (
 	github.com/alingse/nilnesserr v0.2.0
 	github.com/alitto/pond v1.9.2
 	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
-	github.com/allegro/bigcache/v3 v3.1.0
+	github.com/allegro/bigcache/v3 v3.2.0
 	github.com/anacrolix/bargle v1.0.0
 	github.com/anacrolix/chansync v0.8.0
 	github.com/anacrolix/dht v1.0.1
