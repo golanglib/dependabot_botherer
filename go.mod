@@ -659,7 +659,7 @@ require (
 	github.com/go-resty/resty/v2 v2.17.2
 	github.com/go-sql-driver/mysql v1.10.0
 	github.com/go-stack/stack v1.8.1
-	github.com/go-swagger/go-swagger v0.36.2
+	github.com/go-swagger/go-swagger v0.36.3
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
@@ -1641,17 +1641,17 @@ require (
 	golang.org/x/image v0.45.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20260709172247-6129f5bee9d5
-	golang.org/x/mod v0.39.0
+	golang.org/x/mod v0.40.0
 	golang.org/x/net v0.58.0
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.22.0
 	golang.org/x/sys v0.47.0
-	golang.org/x/telemetry v0.0.0-20260708182218-49f421fb7959
+	golang.org/x/telemetry v0.0.0-20260811182544-a038080d80e5
 	golang.org/x/telemetry/config v0.113.0
 	golang.org/x/term v0.45.0
 	golang.org/x/text v0.41.0
 	golang.org/x/time v0.15.0
-	golang.org/x/tools v0.48.0
+	golang.org/x/tools v0.49.0
 	golang.org/x/vuln v1.6.0
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb
