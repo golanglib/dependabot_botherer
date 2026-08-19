@@ -674,7 +674,7 @@ import (
 	_ "github.com/go-viper/mapstructure/v2"
 	_ "github.com/go-webauthn/revoke"
 	_ "github.com/go-webauthn/webauthn/metadata"
-	_ "github.com/go-webauthn/x/encoding/asn1"
+	_ "github.com/go-webauthn/x/crypto/blake256"
 	_ "github.com/go-zookeeper/zk"
 	_ "github.com/gobuffalo/flect"
 	_ "github.com/gobwas/httphead"
