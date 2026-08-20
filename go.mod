@@ -846,7 +846,7 @@ require (
 	github.com/hashicorp/memberlist v0.6.0
 	github.com/hashicorp/packer-plugin-sdk v0.6.10
 	github.com/hashicorp/serf v0.10.4
-	github.com/hashicorp/terraform-exec v0.25.2
+	github.com/hashicorp/terraform-exec v0.25.3
 	github.com/hashicorp/terraform-json v0.28.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.7.0
