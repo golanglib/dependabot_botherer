@@ -195,7 +195,7 @@ require (
 	github.com/anacrolix/multiless v0.4.0
 	github.com/anacrolix/possum/go v0.4.0
 	github.com/anacrolix/squirrel v0.6.4
-	github.com/anacrolix/stm v0.5.0
+	github.com/anacrolix/stm v0.6.0
 	github.com/anacrolix/sync v0.6.0
 	github.com/anacrolix/tagflag v1.4.0
 	github.com/anacrolix/torrent v1.58.1
