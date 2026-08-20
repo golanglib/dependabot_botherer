@@ -182,7 +182,7 @@ require (
 	github.com/anacrolix/chansync v0.8.0
 	github.com/anacrolix/dht v1.0.1
 	github.com/anacrolix/dht/v2 v2.24.0
-	github.com/anacrolix/envpprof v1.5.0
+	github.com/anacrolix/envpprof v1.6.0
 	github.com/anacrolix/fuse v0.4.0
 	github.com/anacrolix/generics v0.2.0
 	github.com/anacrolix/go-libutp v1.5.0
