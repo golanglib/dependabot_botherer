@@ -5,8 +5,8 @@
 bazil.org/fuse v0.0.0-20180421153158-65cc252bf669/go.mod h1:Xbm+BRKSBEpa4q4hTSxohYNQpsxXPbPry4JJWOB3LB8=
 bitbucket.org/creachadair/stringset v0.0.14 h1:t1ejQyf8utS4GZV/4fM+1gvYucggZkfhb+tMobDxYOE=
 bitbucket.org/creachadair/stringset v0.0.14/go.mod h1:Ej8fsr6rQvmeMDf6CCWMWGb14H9mz8kmDgPPTdiVT0w=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260709200747-435963d16310.1 h1:6nlcxMOui23ZRVAfJM451duu79P1npA5JRdZqMilrrQ=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260709200747-435963d16310.1/go.mod h1:TCt1lluMFnctISJXvkIQ4x3ABrPuUKCWKyjKdkJNBpw=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1 h1:YhMSc48s25kr7kv31Z8vf7sPUIq5YJva9z1mn/hAt0M=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1/go.mod h1:avRlCjnFzl98VPaeCtJ24RrV/wwHFzB8sWXhj26+n/U=
 cel.dev/expr v0.25.3 h1:A2jO8jwOugrrovveCWfj0KEZOfqiLgAcwjpHPhzIGw0=
 cel.dev/expr v0.25.3/go.mod h1:hrXvqGP6G6gyx8UAHSHJ5RGk//1Oj5nXQ2NI02Nrsg4=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
@@ -689,8 +689,8 @@ git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999/go.mod h1:fPE2ZNJGy
 git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078 h1:cliQ4HHsCo6xi2oWZYKWW4bly/Ory9FuTpFPRxj/mAg=
 git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078/go.mod h1:g/V2Hjas6Z1UHUp4yIx6bATpNzJ7DYtD0FG3+xARWxs=
 git.sr.ht/~sbinet/gg v0.3.1/go.mod h1:KGYtlADtqsqANL9ueOFkWymvzUvLMQllU5Ixo+8v3pc=
-gitea.com/go-chi/binding v0.0.0-20260818211407-ac8602c87be9 h1:J/NzRmGh7olgthuZ096FNdJcQWuEpJb3ycEi6yArlGY=
-gitea.com/go-chi/binding v0.0.0-20260818211407-ac8602c87be9/go.mod h1:q1SSPpkC9A0gfNnoqqZ3My6kEHIpKN6QsTI+Zx73B/o=
+gitea.com/go-chi/binding v0.0.0-20260819122636-082915a69981 h1:LmdlwGbzgZFZA3bK3R1q8QrNabaSz3KpnOJBLmzhN6E=
+gitea.com/go-chi/binding v0.0.0-20260819122636-082915a69981/go.mod h1:q1SSPpkC9A0gfNnoqqZ3My6kEHIpKN6QsTI+Zx73B/o=
 gitea.com/go-chi/cache v0.2.1 h1:bfAPkvXlbcZxPCpcmDVCWoHgiBSBmZN/QosnZvEC0+g=
 gitea.com/go-chi/cache v0.2.1/go.mod h1:Qic0HZ8hOHW62ETGbonpwz8WYypj9NieU9659wFUJ8Q=
 gitea.com/go-chi/captcha v0.0.0-20240315150714-fb487f629098 h1:p2ki+WK0cIeNQuqjR98IP2KZQKRzJJiV7aTeMAFwaWo=
@@ -1869,8 +1869,8 @@ github.com/cloudwego/eino-ext/components/model/ark v0.1.69 h1:wO3MbVtAOf5ArFa2j4
 github.com/cloudwego/eino-ext/components/model/ark v0.1.69/go.mod h1:mkIvyHlI7MPSEPf697s097j8vc7s7faBYMdFxOIGflg=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13 h1:5XHRTiTD5bt9KQrMHcfvuWNklEC3tpm3XHejdozt9vM=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13/go.mod h1:mgIoqYYOc0eECCqvLbEYpOJrQNTNxkwXzSJzFU+v5sQ=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260813030315-32635d4ae67d h1:A8N+HhPmKUFKvs0eJCbFouBHLeEqUg5WGSw94Oao7TM=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260813030315-32635d4ae67d/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260819072912-7fb58c05e92f h1:NfT3Rkix3sDK+0umBSbTjP0xJQDAs1WavxwDUJ8qZmg=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260819072912-7fb58c05e92f/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9 h1:3NqF4ggVj/JmUopEM+IOrYmU8N/PQyS8gOR0ZV1tSDs=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9/go.mod h1:zxP8sFkADBqflNc0a4qfKdLYQ+edzHPlkOaZF0A1X7o=
 github.com/cloudwego/eino-ext/devops v0.1.9 h1:kz0sIwXbdzP0QVO2wjVbBjhksi1sYKM8koh3XDmyRnQ=
@@ -2323,8 +2323,8 @@ github.com/evanw/esbuild v0.28.2/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20260818202843-c432fcec1650 h1:omgzAOt0a03NnyB6FMdRgFYb3cujHBecnGiWnw0qRaQ=
-github.com/facebook/time v0.0.0-20260818202843-c432fcec1650/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
+github.com/facebook/time v0.0.0-20260819142506-e3d1246401f4 h1:1tgD40WzmgwOx7zxujLUZI4nNxqkFu6Yj7XoUm59hWI=
+github.com/facebook/time v0.0.0-20260819142506-e3d1246401f4/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -2465,8 +2465,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20260818122150-b42413653fd1 h1:2NhhjZOa0B8ULxzq0L0Ga2AjQ2oU+ry68t5gR6Vgw/A=
-github.com/go-ap/activitypub v0.0.0-20260818122150-b42413653fd1/go.mod h1:8bv1TUPpVP8p1ED/5I3rBGc6LeDWWxd/GvZ7xTvnQV8=
+github.com/go-ap/activitypub v0.0.0-20260819152015-c3df165dcded h1:p7gpGeFDoiqPQS+6wyJnn1gUZ+VPOJiXoxmLgJ+Hk88=
+github.com/go-ap/activitypub v0.0.0-20260819152015-c3df165dcded/go.mod h1:8bv1TUPpVP8p1ED/5I3rBGc6LeDWWxd/GvZ7xTvnQV8=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394 h1:PK7N5OJVsotfSuzc3/s0CGqLN8tYFAixg36C6SpOB9Q=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394/go.mod h1:dqDuYtQWH2GLodzfE+wKsEXEkWSHoGW43JZwGJapgX4=
 github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38 h1:YB/gyKeZxzCOo0G0xUWGchXRm3sy/52tQk9WBr/2nEA=

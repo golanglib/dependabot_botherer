@@ -729,7 +729,6 @@ import (
 	_ "github.com/gonuts/commander"
 	_ "github.com/gonuts/flag"
 	_ "github.com/google/btree"
-	_ "github.com/google/cel-go/cel"
 	_ "github.com/google/certificate-transparency-go"
 	_ "github.com/google/gnostic-models/compiler"
 	_ "github.com/google/gnxi"

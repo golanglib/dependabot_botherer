@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260709200747-435963d16310.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.3
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.23.1
@@ -36,7 +36,7 @@ require (
 	deps.dev/util/semver v0.0.0-20241010035105-b3ba03369df1
 	filippo.io/edwards25519 v1.2.0
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078
-	gitea.com/go-chi/binding v0.0.0-20260818211407-ac8602c87be9
+	gitea.com/go-chi/binding v0.0.0-20260819122636-082915a69981
 	gitea.com/go-chi/cache v0.2.1
 	gitea.com/go-chi/captcha v0.0.0-20240315150714-fb487f629098
 	gitea.com/go-chi/session v0.0.0-20260708011333-ebced8a7a2d6
@@ -412,7 +412,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.2
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.69
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260813030315-32635d4ae67d
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260819072912-7fb58c05e92f
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260818202843-c432fcec1650
+	github.com/facebook/time v0.0.0-20260819142506-e3d1246401f4
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -593,7 +593,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20260818122150-b42413653fd1
+	github.com/go-ap/activitypub v0.0.0-20260819152015-c3df165dcded
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
@@ -730,7 +730,6 @@ require (
 	github.com/gonuts/commander v0.4.1
 	github.com/gonuts/flag v0.1.0
 	github.com/google/btree v1.1.3
-	github.com/google/cel-go v0.31.0
 	github.com/google/certificate-transparency-go v1.3.3
 	github.com/google/gnostic-models v0.7.1
 	github.com/google/gnxi v0.0.0-20260722210003-73f19e82bf71
@@ -1870,6 +1869,7 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
+	github.com/google/cel-go v0.31.0 // indirect
 	github.com/google/flatbuffers v25.12.19+incompatible // indirect
 	github.com/google/go-eventlog v0.0.3-0.20260416001248-6807b85eecf0 // indirect
 	github.com/google/go-units v0.0.0-20250612230646-eddd77f68220 // indirect
