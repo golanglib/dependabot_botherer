@@ -1428,7 +1428,7 @@ require (
 	github.com/stoewer/go-strcase v1.3.1
 	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/objx v0.5.3
-	github.com/stretchr/testify v1.12.0
+	github.com/stretchr/testify v1.12.1
 	github.com/stripe/stripe-go/v75 v75.11.0
 	github.com/stripe/stripe-go/v76 v76.25.0
 	github.com/stripe/stripe-go/v78 v78.12.0
