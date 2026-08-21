@@ -530,7 +530,7 @@ require (
 	github.com/emersion/go-message v0.18.2
 	github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6
 	github.com/emersion/go-smtp v0.25.0
-	github.com/emersion/go-vcard v0.0.0-20260618161152-d854b7e0e2d3
+	github.com/emersion/go-vcard v0.1.0
 	github.com/emicklei/go-restful/v3 v3.13.0
 	github.com/emirpasic/gods v1.18.1
 	github.com/envoyproxy/go-control-plane v0.14.0
