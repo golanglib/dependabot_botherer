@@ -1750,12 +1750,12 @@ require (
 	sigs.k8s.io/kustomize/kyaml v0.21.1
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.6.0
-	storj.io/common v0.0.0-20260629224719-ba1bff0a7846
+	storj.io/common v0.0.0-20260818140313-d38275a3768b
 	storj.io/drpc v1.0.0
 	storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5
 	storj.io/infectious v1.0.1
 	storj.io/picobuf v0.0.4
-	storj.io/uplink v1.14.3
+	storj.io/uplink v1.14.4
 	v2ray.com/core v4.19.1+incompatible
 	vitess.io/vitess v0.23.3
 	xorm.io/builder v0.3.13
