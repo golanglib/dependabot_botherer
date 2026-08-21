@@ -483,7 +483,7 @@ golang.org/x/tools/gopls
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src": no buildable Go source files in /home/runner/go/pkg/mod/golang.org/x/tools/gopls@v0.23.0/internal/analysis/fillstruct/testdata/src
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/a": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/b": package is internal
-//[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/issue78553": no buildable Go source files in /home/runner/go/pkg/mod/golang.org/x/tools/gopls@v0.23.0/internal/analysis/fillstruct/testdata/src/issue78553
+//[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/issue78553": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillstruct/testdata/src/typeparams": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillswitch": package is internal
 //[golang.org/x/tools/gopls] "internal/analysis/fillswitch/testdata": no buildable Go source files in /home/runner/go/pkg/mod/golang.org/x/tools/gopls@v0.23.0/internal/analysis/fillswitch/testdata
