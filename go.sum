@@ -2882,8 +2882,8 @@ github.com/golang/snappy v0.0.3/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEW
 github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/golang/snappy v1.0.0 h1:Oy607GVXHs7RtbggtPBnr2RmDArIsAefDwvrdWvRhGs=
 github.com/golang/snappy v1.0.0/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
-github.com/golang/vscode-go v0.57.1 h1:0YMynhY7Cu+urivns3RxqzY/V0RzLVxUSmDI+vZZ4TA=
-github.com/golang/vscode-go v0.57.1/go.mod h1:RqzmvPQOjO6dRvs85eTnnTGhmNFc0A4NMr2v0aKvCXs=
+github.com/golang/vscode-go v0.57.2 h1:YLrIucDZHH62rXyTRvhl3z/CaPKC04g2DVrFjUwvCY0=
+github.com/golang/vscode-go v0.57.2/go.mod h1:RqzmvPQOjO6dRvs85eTnnTGhmNFc0A4NMr2v0aKvCXs=
 github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe h1:6RGUuS7EGotKx6J5HIP8ZtyMdiDscjMLfRBSPuzVVeo=
 github.com/golangci/go-misc v0.0.0-20220329215616-d24fe342adfe/go.mod h1:gjqyPShc/m8pEMpk0a3SeagVb0kaqvhscv+i9jI5ZhQ=
 github.com/golangci/go-printf-func-name v0.1.1 h1:hIYTFJqAGp1iwoIfsNTpoq1xZAarogrvjO9AfiW3B4U=
