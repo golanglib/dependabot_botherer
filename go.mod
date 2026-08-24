@@ -1288,7 +1288,7 @@ require (
 	github.com/resendlabs/resend-go v1.7.0
 	github.com/rfjakob/eme v1.2.0
 	github.com/rhysd/actionlint v1.7.11
-	github.com/richardlehane/mscfb v1.0.7
+	github.com/richardlehane/mscfb v1.0.8
 	github.com/richardlehane/msoleps v1.0.6
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/rivo/tview v0.42.0
