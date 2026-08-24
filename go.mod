@@ -816,7 +816,7 @@ require (
 	github.com/hanwen/go-fuse v1.0.0
 	github.com/hanwen/go-fuse/v2 v2.11.0
 	github.com/hanzoai/gochimp3 v1.0.0
-	github.com/harlow/kinesis-consumer v0.5.0
+	github.com/harlow/kinesis-consumer v0.5.1
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-getter/gcs/v2 v2.2.3
