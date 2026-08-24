@@ -3226,8 +3226,8 @@ github.com/hanwen/go-fuse/v2 v2.11.0 h1:CGVkJh9gRz0pTRMADNcqdFl3ec/5QbE/Vx1Gl7ES
 github.com/hanwen/go-fuse/v2 v2.11.0/go.mod h1:aU7NkGYZUmuJrZapoI3mEcNve7PZTySUOLBuch/vR6U=
 github.com/hanzoai/gochimp3 v1.0.0 h1:P+ApPXmJHyigXsOBk+OUb1MgVMR6H8u53JMF08xvlHk=
 github.com/hanzoai/gochimp3 v1.0.0/go.mod h1:zJr4NZygb2gyqkQpZ2Yf/UzbOhIhVfLCj8ST925KPrI=
-github.com/harlow/kinesis-consumer v0.5.0 h1:UMAwspVRFjZTmzV71LhDw7tXmOcaid1kYiTPya0yUn4=
-github.com/harlow/kinesis-consumer v0.5.0/go.mod h1:qF4/BNYjJhLDn4DnvRcD/f6XCwUZrrDPxcZuEbKheXg=
+github.com/harlow/kinesis-consumer v0.5.1 h1:ttf4iOHU4Zm1rErlbMhI3mjlVmxJNymJXoB9LtS4guk=
+github.com/harlow/kinesis-consumer v0.5.1/go.mod h1:nwyVHWXx0sZm2GVGTZlmaElP1c2ScCbRJN3i/9gaznQ=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 github.com/hashicorp/consul/api v1.9.1/go.mod h1:XjsvQN+RJGWI2TWy1/kqaE16HrR2J/FWgkYjdZQsX9M=
 github.com/hashicorp/consul/api v1.10.1/go.mod h1:XjsvQN+RJGWI2TWy1/kqaE16HrR2J/FWgkYjdZQsX9M=
