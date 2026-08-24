@@ -1313,7 +1313,7 @@ require (
 	github.com/sagernet/fswatch v0.1.2
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a
 	github.com/sagernet/nftables v0.3.0-mod.4
-	github.com/sagernet/sing v0.8.13
+	github.com/sagernet/sing v0.8.14
 	github.com/sagernet/sing-mux v0.3.5
 	github.com/sagernet/sing-shadowtls v0.2.1
 	github.com/sagernet/sing-vmess v0.2.8
