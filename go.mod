@@ -1720,9 +1720,9 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.75.3
+	modernc.org/libc v1.75.4
 	modernc.org/mathutil v1.7.1
-	modernc.org/memory v1.12.0
+	modernc.org/memory v1.12.1
 	modernc.org/opt v0.2.0
 	modernc.org/scannertest v1.0.2
 	modernc.org/sortutil v1.2.1
