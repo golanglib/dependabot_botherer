@@ -2044,8 +2044,6 @@ github.com/cronokirby/saferith v0.33.1-0.20250226174546-1f11f94ce488 h1:tLWBZgPg
 github.com/cronokirby/saferith v0.33.1-0.20250226174546-1f11f94ce488/go.mod h1:QKJhjoqUtBsXCAVEjw38mFqoi7DebT7kthcD7UzbnoA=
 github.com/curioswitch/go-reassign v0.3.0 h1:dh3kpQHuADL3cobV/sSGETA8DOv457dwl+fbBAhrQPs=
 github.com/curioswitch/go-reassign v0.3.0/go.mod h1:nApPCCTtqLJN/s8HfItCcKV0jIPwluBOvZP+dsJGA88=
-github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432 h1:M5QgkYacWj0Xs8MhpIK/5uwU02icXpEoSo9sM2aRCps=
-github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432/go.mod h1:xwIwAxMvYnVrGJPe2FKx5prTrnAjGOD8zvDOnxnrrkM=
 github.com/cyberdelia/templates v0.0.0-20141128023046-ca7fffd4298c/go.mod h1:GyV+0YP4qX0UQ7r2MoYZ+AvYDp12OF5yg4q8rGnyNh4=
 github.com/cyphar/filepath-securejoin v0.7.0 h1:s0Y3ITPy6sQn5xt54DuYvTF8hu134ooYLUb58DX/HjE=
 github.com/cyphar/filepath-securejoin v0.7.0/go.mod h1:ymLGms/u3BYaviIiuKFnUx8EkQEZeK6cInNoAPJA3o4=
@@ -5156,8 +5154,8 @@ github.com/skeema/knownhosts v1.3.2/go.mod h1:bEg3iQAuw+jyiw+484wwFJoKSLwcfd7fqR
 github.com/skratchdot/open-golang v0.0.0-20160302144031-75fb7ed4208c/go.mod h1:sUM3LWHvSMaG192sy56D9F7CNvL7jUJVXoqM1QKLnog=
 github.com/slack-go/slack v0.29.0 h1:ohhMNgp9DmPKiLhH/pNZV4NxhOXKgNy0SH8FzVHNerI=
 github.com/slack-go/slack v0.29.0/go.mod h1:UEe+jmo9WLlwHB04qsOrTDvqM7Aa4rQL3O5wF3n0hx4=
-github.com/slackhq/nebula v1.11.0 h1:UVSVPTFw1/QxrfH/MIm27tzxGWn2dSnXZRGh7q0VhsQ=
-github.com/slackhq/nebula v1.11.0/go.mod h1:ASNK6VI3QkMJ1z9fONuu1XUdRMfzop606pYM0yijwRY=
+github.com/slackhq/nebula v1.11.1 h1:+rGehGQErPk7+Fz4bi83ys2fIfZ9voEUVz4sa/ZuZ+g=
+github.com/slackhq/nebula v1.11.1/go.mod h1:bb/x63VYmvohK/7DKJrTYxM/ynmrOzR7E4sR0oSXiMc=
 github.com/sleepinggenius2/gosmi v0.4.4 h1:xgu+Mt7CptuB10IPt3SVXBAA9tARToT4B9xGzjjxQX8=
 github.com/sleepinggenius2/gosmi v0.4.4/go.mod h1:l8OniPmd3bJzw0MXP2/qh7AhP/e+bTY2CNivIhsnDT0=
 github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f h1:Z2cODYsUxQPofhpYRMQVwWz4yUVpHF+vPi+eUdruUYI=

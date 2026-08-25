@@ -1384,7 +1384,7 @@ require (
 	github.com/sivchari/tenv v1.12.1
 	github.com/skeema/knownhosts v1.3.2
 	github.com/slack-go/slack v0.29.0
-	github.com/slackhq/nebula v1.11.0
+	github.com/slackhq/nebula v1.11.1
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
@@ -1834,7 +1834,6 @@ require (
 	github.com/couchbase/cbauth v0.1.20 // indirect
 	github.com/couchbase/clog v0.1.0 // indirect
 	github.com/coze-dev/cozeloop-go/spec v0.1.4-0.20250829072213-3812ddbfb735 // indirect
-	github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432 // indirect
 	github.com/danielgtaylor/casing v0.0.0-20210126043903-4e55e6373ac3 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/davidmz/go-pageant v1.0.2 // indirect
