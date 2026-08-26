@@ -5,8 +5,8 @@
 bazil.org/fuse v0.0.0-20180421153158-65cc252bf669/go.mod h1:Xbm+BRKSBEpa4q4hTSxohYNQpsxXPbPry4JJWOB3LB8=
 bitbucket.org/creachadair/stringset v0.0.14 h1:t1ejQyf8utS4GZV/4fM+1gvYucggZkfhb+tMobDxYOE=
 bitbucket.org/creachadair/stringset v0.0.14/go.mod h1:Ej8fsr6rQvmeMDf6CCWMWGb14H9mz8kmDgPPTdiVT0w=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260709200747-435963d16310.1 h1:6nlcxMOui23ZRVAfJM451duu79P1npA5JRdZqMilrrQ=
-buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260709200747-435963d16310.1/go.mod h1:TCt1lluMFnctISJXvkIQ4x3ABrPuUKCWKyjKdkJNBpw=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1 h1:YhMSc48s25kr7kv31Z8vf7sPUIq5YJva9z1mn/hAt0M=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1/go.mod h1:avRlCjnFzl98VPaeCtJ24RrV/wwHFzB8sWXhj26+n/U=
 cel.dev/expr v0.25.3 h1:A2jO8jwOugrrovveCWfj0KEZOfqiLgAcwjpHPhzIGw0=
 cel.dev/expr v0.25.3/go.mod h1:hrXvqGP6G6gyx8UAHSHJ5RGk//1Oj5nXQ2NI02Nrsg4=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
@@ -2321,8 +2321,8 @@ github.com/evanw/esbuild v0.28.2/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20260824183448-ab4e4767ca25 h1:P4UibEO68Ni5zaxBW7LPWggAY14OkEWVfGAcF1mRsOA=
-github.com/facebook/time v0.0.0-20260824183448-ab4e4767ca25/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
+github.com/facebook/time v0.0.0-20260825224743-678a4dbb7ac4 h1:3C/XJO5FPe6K3/bmumZuOQS1dhq6v84FbcfM6Yvm4aM=
+github.com/facebook/time v0.0.0-20260825224743-678a4dbb7ac4/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -2925,8 +2925,8 @@ github.com/google/flatbuffers v25.12.19+incompatible h1:haMV2JRRJCe1998HeW/p0X9U
 github.com/google/flatbuffers v25.12.19+incompatible/go.mod h1:1AeVuKshWv4vARoZatz6mlQ0JxURH0Kv5+zNeJKJCa8=
 github.com/google/gnostic-models v0.7.1 h1:SisTfuFKJSKM5CPZkffwi6coztzzeYUhc3v4yxLWH8c=
 github.com/google/gnostic-models v0.7.1/go.mod h1:whL5G0m6dmc5cPxKc5bdKdEN3UjI7OUGxBlw57miDrQ=
-github.com/google/gnxi v0.0.0-20260722210003-73f19e82bf71 h1:7mkfcFDlF8X4b0fiaKJJFkScHGTUgVpsYAp/g9Z+0yM=
-github.com/google/gnxi v0.0.0-20260722210003-73f19e82bf71/go.mod h1:nve3XDn7r/PHk4fJIrXEmXkzwLppWwYzrrVCVyMKrfM=
+github.com/google/gnxi v0.0.0-20260825184829-4d4f71267f7c h1:fyvyEVhTtBT1QAAakCKmxWyMMZAkUsDXyJSak9KbQl8=
+github.com/google/gnxi v0.0.0-20260825184829-4d4f71267f7c/go.mod h1:nve3XDn7r/PHk4fJIrXEmXkzwLppWwYzrrVCVyMKrfM=
 github.com/google/go-attestation v0.6.4 h1:FtzlaC+MNJuSjZzM3LREPIs1llTlIsfU/+d4Jsb/cW4=
 github.com/google/go-attestation v0.6.4/go.mod h1:ET/zuOTCIOxdpqep6KZ7kV614DmI41f8HWMYq8pEupc=
 github.com/google/go-cmp v0.2.0/go.mod h1:oXzfMopK8JAjlY9xF4vHSVASa0yLyX7SntLO5aqRK0M=

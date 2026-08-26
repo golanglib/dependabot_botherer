@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260709200747-435963d16310.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.3
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.23.2
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260824183448-ab4e4767ca25
+	github.com/facebook/time v0.0.0-20260825224743-678a4dbb7ac4
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -732,7 +732,7 @@ require (
 	github.com/google/btree v1.1.3
 	github.com/google/certificate-transparency-go v1.3.3
 	github.com/google/gnostic-models v0.7.1
-	github.com/google/gnxi v0.0.0-20260722210003-73f19e82bf71
+	github.com/google/gnxi v0.0.0-20260825184829-4d4f71267f7c
 	github.com/google/go-attestation v0.6.4
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3
