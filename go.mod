@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260709200747-435963d16310.1
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.3
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.23.2
@@ -412,7 +412,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.2
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.69
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260820123736-6752ff8da9b1
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260826092357-ccc4629aa318
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260825224743-678a4dbb7ac4
+	github.com/facebook/time v0.0.0-20260826152224-b1ed59a08a3b
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1062,14 +1062,14 @@ require (
 	github.com/meilisearch/meilisearch-go v0.36.3
 	github.com/metacubex/bbolt v0.0.0-20250725135710-010dbbbb7a5b
 	github.com/metacubex/chacha v0.1.5
-	github.com/metacubex/gvisor v0.0.0-20260810011720-3cc44cf9ac22
+	github.com/metacubex/gvisor v0.0.0-20260826100401-79317d808312
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20260726014900-38b0e9295f51
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.22
 	github.com/metacubex/sing-vmess v0.2.5
-	github.com/metacubex/sing-wireguard v0.0.0-20260810013230-110eac03c3f0
+	github.com/metacubex/sing-wireguard v0.0.0-20260826105301-c3ae17d19f9e
 	github.com/metacubex/tfo-go v0.0.0-20260623020846-376a77860b8c
 	github.com/metacubex/utls v1.8.7
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
