@@ -916,8 +916,8 @@ github.com/HdrHistogram/hdrhistogram-go v1.3.0 h1:NBGs5RJ6Q7lDFhszi5AHovwDrSzJAF
 github.com/HdrHistogram/hdrhistogram-go v1.3.0/go.mod h1:CiIeGiHSd06zjX+FypuEJ5EQ07KKtxZ+8J6hszwVQig=
 github.com/IBM/nzgo/v12 v12.0.13 h1:loGdgEDzgb6YFWzLw/kYBXlARpo20k4B7SUh7AL8MwQ=
 github.com/IBM/nzgo/v12 v12.0.13/go.mod h1:4pvfEkfsrAdqlljsp8HNwv/uzNKy2fzoXBB1aRIssJg=
-github.com/IBM/sarama v1.60.1 h1:2IjpLPCL16CvaJcpxUT5+zE6tpeY5HdhREZOES80kGE=
-github.com/IBM/sarama v1.60.1/go.mod h1:ugg061kdM8zE4mgCeCUwDMd9NRd7QIRMoiA4a/Z8VH8=
+github.com/IBM/sarama v1.60.2 h1:T/HyMhOJMyH/BgkBLCiuTDH8EJAEf32eDbNldlKOWIg=
+github.com/IBM/sarama v1.60.2/go.mod h1:fZRPG+DZm8DM9WpmslgMiVErD46mmYAYBiFWC8XKkes=
 github.com/Jeffail/gabs/v2 v2.6.1 h1:wwbE6nTQTwIMsMxzi6XFQQYRZ6wDc1mSdxoAN+9U4Gk=
 github.com/Jeffail/gabs/v2 v2.6.1/go.mod h1:xCn81vdHKxFUuWWAaD5jCTQDNPBMh5pPs9IJ+NcziBI=
 github.com/JohannesKaufmann/dom v0.3.1 h1:J16l9JAHWgkFPR3VIPbQ1gvS0cWab6laK1q7PFL3qh0=
