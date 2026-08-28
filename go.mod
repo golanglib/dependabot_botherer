@@ -1682,7 +1682,7 @@ require (
 	gorm.io/driver/postgres v1.6.2
 	gorm.io/driver/sqlite v1.6.0
 	gorm.io/driver/sqlserver v1.6.4
-	gorm.io/gen v0.3.28
+	gorm.io/gen v0.3.29
 	gorm.io/gorm v1.31.2
 	gorm.io/hints v1.1.2
 	gorm.io/plugin/dbresolver v1.6.2
