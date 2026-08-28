@@ -109,7 +109,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.60.0
 	github.com/HdrHistogram/hdrhistogram-go v1.3.0
 	github.com/IBM/nzgo/v12 v12.0.13
-	github.com/IBM/sarama v1.60.1
+	github.com/IBM/sarama v1.60.2
 	github.com/JohannesKaufmann/dom v0.3.1
 	github.com/JohannesKaufmann/html-to-markdown v1.6.0
 	github.com/JohannesKaufmann/html-to-markdown/v2 v2.5.2
