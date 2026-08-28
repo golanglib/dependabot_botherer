@@ -1547,8 +1547,8 @@ github.com/blevesearch/mmap-go v1.2.0/go.mod h1:Vd6+20GBhEdwJnU1Xohgt88XCD/CTWcq
 github.com/blevesearch/scorch_segment_api v1.0.0 h1:BUkCPWDg2gimTEyVDXf85I2buqqt4lh28uaVMiJsIYk=
 github.com/blevesearch/scorch_segment_api v1.0.0/go.mod h1:KgRYmlfYC27NeM6cXOHx8LBgq7jn0atpV8mVWoBKBng=
 github.com/blevesearch/scorch_segment_api/v2 v2.0.1/go.mod h1:lq7yK2jQy1yQjtjTfU931aVqz7pYxEudHaDwOt1tXfU=
-github.com/blevesearch/scorch_segment_api/v2 v2.4.9 h1:q1shQvpwVGp0IISmX08Ead5XFOPNmZrB761Snpru3vk=
-github.com/blevesearch/scorch_segment_api/v2 v2.4.9/go.mod h1:WUUkAocbkDlNK/kgAE13NvS9oxe+u618mYZ8sOvcCc4=
+github.com/blevesearch/scorch_segment_api/v2 v2.4.10 h1:C3873+iWZ0YJM2ijaSHhJJzSvD4x1k+5UaQdGygZVhM=
+github.com/blevesearch/scorch_segment_api/v2 v2.4.10/go.mod h1:WUUkAocbkDlNK/kgAE13NvS9oxe+u618mYZ8sOvcCc4=
 github.com/blevesearch/segment v0.9.0/go.mod h1:9PfHYUdQCgHktBgvtUOF4x+pc4/l8rdH0u5spnW85UQ=
 github.com/blevesearch/segment v0.9.1 h1:+dThDy+Lvgj5JMxhmOVlgFfkUtZV2kw49xax4+jTfSU=
 github.com/blevesearch/segment v0.9.1/go.mod h1:zN21iLm7+GnBHWTao9I+Au/7MBiL8pPFtJBJTsk6kQw=
