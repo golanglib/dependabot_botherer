@@ -1361,7 +1361,7 @@ require (
 	github.com/shoenig/go-m1cpu v0.2.2
 	github.com/shoenig/test v1.13.2
 	github.com/shopspring/decimal v1.4.0
-	github.com/showwin/speedtest-go v1.7.11
+	github.com/showwin/speedtest-go v1.8.2
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20181002035957-2122de532470
 	github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636
 	github.com/shurcooL/go-goon v1.0.0
