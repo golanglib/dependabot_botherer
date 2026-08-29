@@ -424,7 +424,7 @@ require (
 	github.com/cloudwego/hertz v0.10.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.3
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260820084931-72ad8a8db57e
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260828084528-aaa9183ea4c0
 	github.com/cloudwego/localsession v0.2.1
 	github.com/cloudwego/netpoll v0.7.5
 	github.com/cloudwego/runtimex v0.1.1
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260826152224-b1ed59a08a3b
+	github.com/facebook/time v0.0.0-20260828133142-7fb1739b3b5d
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -593,7 +593,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20260824082814-78f0de545fcf
+	github.com/go-ap/activitypub v0.0.0-20260828142325-6c1da3fca413
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
