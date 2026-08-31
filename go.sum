@@ -5018,8 +5018,8 @@ github.com/seancfoley/ipaddress-go v1.8.3/go.mod h1:eUgkV6XW0J4u07aANfX3Fr9PozlF
 github.com/sebdah/goldie/v2 v2.5.3/go.mod h1:oZ9fp0+se1eapSRjfYbsV/0Hqhbuu3bJVvKI/NNtssI=
 github.com/sebdah/goldie/v2 v2.8.0 h1:dZb9wR8q5++oplmEiJT+U/5KyotVD+HNGCAc5gNr8rc=
 github.com/sebdah/goldie/v2 v2.8.0/go.mod h1:oZ9fp0+se1eapSRjfYbsV/0Hqhbuu3bJVvKI/NNtssI=
-github.com/seccomp/libseccomp-golang v0.11.1 h1:wuk4ZjSx6kyQII4rj6G6fvVzRHQaSiPvccJazDagu4g=
-github.com/seccomp/libseccomp-golang v0.11.1/go.mod h1:5m1Lk8E9OwgZTTVz4bBOer7JuazaBa+xTkM895tDiWc=
+github.com/seccomp/libseccomp-golang v0.12.0 h1:IYaotOCgdBokfN0ry0COtn2Q6Co+tYd/rnrUx0NalZQ=
+github.com/seccomp/libseccomp-golang v0.12.0/go.mod h1:5m1Lk8E9OwgZTTVz4bBOer7JuazaBa+xTkM895tDiWc=
 github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4 h1:zOjq+1/uLzn/Xo40stbvjIY/yehG0+mfmlsiEmc0xmQ=
 github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4/go.mod h1:aI+8yClBW+1uovkHw6HM01YXnYB8vohtB9C83wzx34E=
 github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989 h1:rq2/kILQnPtq5oL4+IAjgVOjh5e2yj2aaCYi7squEvI=
