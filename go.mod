@@ -1,6 +1,6 @@
 module dependabot_botherer
 
-go 1.27
+go 1.27.0
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
@@ -161,7 +161,7 @@ require (
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
 	github.com/alecthomas/chroma/v2 v2.27.0
-	github.com/alecthomas/go-check-sumtype v0.4.0
+	github.com/alecthomas/go-check-sumtype v0.5.0
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.5.3
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
