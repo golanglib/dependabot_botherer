@@ -929,7 +929,7 @@ require (
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/jgautheron/goconst v1.10.2
 	github.com/jhillyerd/enmime v1.3.0
-	github.com/jhump/protoreflect v1.18.0
+	github.com/jhump/protoreflect v1.18.1
 	github.com/jingyugao/rowserrcheck v1.1.1
 	github.com/jinzhu/copier v0.4.0
 	github.com/jinzhu/inflection v1.0.0
