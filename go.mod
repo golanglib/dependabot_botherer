@@ -1338,7 +1338,7 @@ require (
 	github.com/seancfoley/bintree v1.4.0
 	github.com/seancfoley/ipaddress-go v1.8.3
 	github.com/sebdah/goldie/v2 v2.8.0
-	github.com/seccomp/libseccomp-golang v0.11.1
+	github.com/seccomp/libseccomp-golang v0.12.0
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
 	github.com/securego/gosec/v2 v2.29.0
