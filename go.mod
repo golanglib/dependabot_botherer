@@ -695,7 +695,7 @@ require (
 	github.com/gochore/uniq v1.1.0
 	github.com/godbus/dbus v4.1.0+incompatible
 	github.com/godbus/dbus/v5 v5.2.2
-	github.com/gofrs/flock v0.13.0
+	github.com/gofrs/flock v0.13.1
 	github.com/gofrs/uuid/v5 v5.5.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
