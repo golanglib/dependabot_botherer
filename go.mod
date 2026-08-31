@@ -1382,7 +1382,7 @@ require (
 	github.com/sivchari/containedctx v1.0.3
 	github.com/sivchari/nosnakecase v1.7.0
 	github.com/sivchari/tenv v1.12.1
-	github.com/skeema/knownhosts v1.3.2
+	github.com/skeema/knownhosts v1.3.3
 	github.com/slack-go/slack v0.29.0
 	github.com/slackhq/nebula v1.11.1
 	github.com/sleepinggenius2/gosmi v0.4.4
