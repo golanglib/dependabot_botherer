@@ -636,12 +636,12 @@ require (
 	github.com/go-logr/stdr v1.2.2
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-ole/go-ole v1.3.0
-	github.com/go-openapi/analysis v0.26.1
+	github.com/go-openapi/analysis v0.26.2
 	github.com/go-openapi/errors v0.22.8
 	github.com/go-openapi/inflect v1.0.0
 	github.com/go-openapi/jsonpointer v1.0.0
 	github.com/go-openapi/jsonreference v1.0.1
-	github.com/go-openapi/loads v0.25.1
+	github.com/go-openapi/loads v0.25.2
 	github.com/go-openapi/runtime v0.33.1
 	github.com/go-openapi/spec v0.22.11
 	github.com/go-openapi/strfmt v0.27.0
