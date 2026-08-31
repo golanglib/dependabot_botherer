@@ -1694,15 +1694,15 @@ require (
 	howett.net/plist v1.0.1
 	k8s.io/api v0.36.4
 	k8s.io/apiextensions-apiserver v0.36.4
-	k8s.io/apimachinery v0.36.4
+	k8s.io/apimachinery v0.37.0
 	k8s.io/apiserver v0.36.4
 	k8s.io/client-go v0.36.4
 	k8s.io/code-generator v0.36.4
 	k8s.io/component-base v0.36.4
 	k8s.io/gengo/v2 v2.0.0-20250922181213-ec3ebc5fd46b
 	k8s.io/klog/v2 v2.140.0
-	k8s.io/kube-openapi v0.0.0-20260427204847-8949caaa1199
-	k8s.io/utils v0.0.0-20260319190234-28399d86e0b5
+	k8s.io/kube-openapi v0.0.0-20260721132016-d427ff9ee9ad
+	k8s.io/utils v0.0.0-20260626114624-be93311217bd
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.12005.0
 	lukechampine.com/blake3 v1.4.1
@@ -2044,6 +2044,6 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	pack.ag/amqp v0.11.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
-	sigs.k8s.io/structured-merge-diff/v6 v6.4.0 // indirect
+	sigs.k8s.io/structured-merge-diff/v6 v6.4.2 // indirect
 	tags.cncf.io/container-device-interface v1.1.0 // indirect
 )
