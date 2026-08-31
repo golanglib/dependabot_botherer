@@ -3666,8 +3666,8 @@ github.com/kaptinlin/go-i18n v0.6.3 h1:sZilHqdqQLNRKTs4HcNtaI8uMix2OMwiU3MuY/uk7
 github.com/kaptinlin/go-i18n v0.6.3/go.mod h1:2nNtS/yKCKhOYCqMmUHJlvP5kQUQkl3waaA1mbeih1Y=
 github.com/kaptinlin/jsonpointer v0.4.28 h1:PyxOfdml9PGpxQz+JnNLGsyzQ+Rnm+OVNTGcgbVLqgg=
 github.com/kaptinlin/jsonpointer v0.4.28/go.mod h1:JzeIDw1+60bryzOFea9P3zjKg8pfJHd+UIA/zfZ70x8=
-github.com/kaptinlin/jsonschema v0.9.8 h1:srpfx2MAm4ecYz0zJLbz6fiW+UXiuv+vGhUqZUIWmrg=
-github.com/kaptinlin/jsonschema v0.9.8/go.mod h1:TP7RFmFBNExjBE0b3fsM6RpA/9PeOzfg2g4weXqOrDg=
+github.com/kaptinlin/jsonschema v0.9.9 h1:1N00sHfrZcBwcHgI646PuIf1VaODHPsqRnNi0OY2ERw=
+github.com/kaptinlin/jsonschema v0.9.9/go.mod h1:egi7QzDHFN/avPEqQgyGgXCcmC0cl/KxS2ePcHHRcOs=
 github.com/kaptinlin/messageformat-go/mf1 v0.8.3 h1:0O5wpU8pCMc7jNHxhC8VOFIfX3NE6/j8yQHd/LWfeEE=
 github.com/kaptinlin/messageformat-go/mf1 v0.8.3/go.mod h1:kH9vDVMi31ccWuiE6f2RVC/Wi1Ldtz1ocITILFaz9PU=
 github.com/karamaru-alpha/copyloopvar v1.2.2 h1:yfNQvP9YaGQR7VaWLYcfZUlRP2eo2vhExWKxD/fP6q0=
