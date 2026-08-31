@@ -232,12 +232,12 @@ require (
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.54.0
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.43.7
+	github.com/aws/aws-sdk-go-v2 v1.45.1
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.18
 	github.com/aws/aws-sdk-go-v2/config v1.32.38
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.37
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.62
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.38
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.19.1
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.22.44
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.67.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.82.3
@@ -252,7 +252,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.38.7
 	github.com/aws/aws-sdk-go-v2/service/sts v1.45.7
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.38.7
-	github.com/aws/smithy-go v1.27.10
+	github.com/aws/smithy-go v1.28.1
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
 	github.com/axw/gocov v1.2.1
