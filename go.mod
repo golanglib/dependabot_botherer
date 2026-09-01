@@ -1523,7 +1523,7 @@ require (
 	github.com/vmware/govmomi v0.56.0
 	github.com/volcengine/ve-tos-golang-sdk v0.2.2
 	github.com/volcengine/ve-tos-golang-sdk/v2 v2.9.10
-	github.com/volcengine/volc-sdk-golang v1.0.255
+	github.com/volcengine/volc-sdk-golang v1.0.256
 	github.com/volcengine/volcengine-go-sdk v1.2.50
 	github.com/vulcand/oxy v1.4.2
 	github.com/vulcand/predicate v1.3.0
