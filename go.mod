@@ -1318,7 +1318,7 @@ require (
 	github.com/sagernet/sing-shadowtls v0.2.1
 	github.com/sagernet/sing-vmess v0.2.8
 	github.com/sagernet/smux v1.5.50-sing-box-mod.1
-	github.com/sagernet/wireguard-go v0.0.4
+	github.com/sagernet/wireguard-go v0.0.5
 	github.com/sagikazarmark/locafero v0.12.0
 	github.com/sagikazarmark/slog-shim v0.1.0
 	github.com/samber/lo v1.53.0
