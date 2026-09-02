@@ -45,7 +45,7 @@ require (
 	github.com/3vilive/sizeof v0.0.0-20220507072046-f0cfbbd2c289
 	github.com/42wim/httpsig v1.2.4
 	github.com/42wim/sshsig v0.0.0-20260317195500-b9f38cf0d432
-	github.com/4meepo/tagalign v1.4.3
+	github.com/4meepo/tagalign v1.4.4
 	github.com/6543/go-version v1.4.0
 	github.com/99designs/gqlgen v0.17.94
 	github.com/99designs/keyring v1.2.2
