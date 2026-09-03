@@ -1755,7 +1755,7 @@ require (
 	storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5
 	storj.io/infectious v1.0.1
 	storj.io/picobuf v0.0.4
-	storj.io/uplink v1.14.4
+	storj.io/uplink v1.14.5
 	v2ray.com/core v4.19.1+incompatible
 	vitess.io/vitess v0.23.3
 	xorm.io/builder v0.3.13
