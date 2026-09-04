@@ -901,8 +901,8 @@ github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1 h1:Sz1JIXEcSfhz7fUi7xHnh
 github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1/go.mod h1:n/LSCXNuIYqVfBlVXyHfMQkZDdp1/mmxfSjADd3z1Zg=
 github.com/GoogleCloudPlatform/confidential-space/server v0.0.0-20260522213940-e5c6d01a3007 h1:DoeEFwEGBdqcawmpiWtSsSVVZ+wk3zpqvcvssO2JLmY=
 github.com/GoogleCloudPlatform/confidential-space/server v0.0.0-20260522213940-e5c6d01a3007/go.mod h1:s8F0JYEods/WL03WxZaGsWCnumZeeLD+WKHzspOV9u0=
-github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.36.0 h1:3SdxXLkgAfiHRWcGTq6fneq9jgoJzneiY0yPQnjoT2E=
-github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.36.0/go.mod h1:1iIdl0k+ppn9wT0wzR9H7HkSvIui/4qgtnKW10cQtds=
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.37.0 h1:edOuLWehuDlQ68roBF900Y09jvBoJP5W5d/wusz9nWY=
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.37.0/go.mod h1:iIyrdhveU5Ow84ipRlxtjCOQnIM0DiqSMxuxm50xwZY=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.60.0 h1:HldzheTs05E3ybqSitI/wHaof6+XERRudgZLjYbs3eE=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.60.0/go.mod h1:evkqaSczW9g2BQm1veCtgNhJ4wCCsRrOsSgNIn9LHQk=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock v0.60.0 h1:Fx8NtDCmKH4ML2hUkPz4Dq250903vRDojMjVCDKwQuc=
