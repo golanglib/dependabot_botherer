@@ -449,7 +449,7 @@ require (
 	github.com/containerd/stargz-snapshotter/estargz v0.18.2
 	github.com/containerd/ttrpc v1.2.9
 	github.com/containerd/typeurl/v2 v2.3.0
-	github.com/containernetworking/cni v1.3.0
+	github.com/containernetworking/cni v1.3.1
 	github.com/coocood/freecache v1.2.7
 	github.com/coreos/go-iptables v0.8.0
 	github.com/coreos/go-oidc/v3 v3.20.0
