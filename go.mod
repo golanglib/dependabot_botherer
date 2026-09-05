@@ -412,7 +412,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.3
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.69
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260902072158-19fb3687f326
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260904094655-8d8ff4e79992
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -523,7 +523,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.9.0
-	github.com/elazarl/goproxy/ext v0.0.0-20260806073413-6225cd309d7c
+	github.com/elazarl/goproxy/ext v0.0.0-20260904162650-e540bd6f11f6
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-imap/v2 v2.0.0-beta.8
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260831215902-fda5517d87d4
+	github.com/facebook/time v0.0.0-20260904223130-69f12512f2a5
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -803,7 +803,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.12
 	github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853
 	github.com/gravitational/trace v1.5.4
-	github.com/grid-x/modbus v0.0.0-20260701064235-82e41c9acfb6
+	github.com/grid-x/modbus v1.5.1
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
@@ -1064,7 +1064,7 @@ require (
 	github.com/metacubex/chacha v0.1.5
 	github.com/metacubex/gvisor v0.0.0-20260826100401-79317d808312
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing-quic v0.0.0-20260726014900-38b0e9295f51
+	github.com/metacubex/sing-quic v0.0.0-20260904234848-1c242664697a
 	github.com/metacubex/sing-shadowsocks v0.2.12
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.22

@@ -1869,8 +1869,8 @@ github.com/cloudwego/eino-ext/components/model/ark v0.1.69 h1:wO3MbVtAOf5ArFa2j4
 github.com/cloudwego/eino-ext/components/model/ark v0.1.69/go.mod h1:mkIvyHlI7MPSEPf697s097j8vc7s7faBYMdFxOIGflg=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13 h1:5XHRTiTD5bt9KQrMHcfvuWNklEC3tpm3XHejdozt9vM=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13/go.mod h1:mgIoqYYOc0eECCqvLbEYpOJrQNTNxkwXzSJzFU+v5sQ=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260902072158-19fb3687f326 h1:549GnntU+v5W7sISq6bchEPmjhBZpkfMxLht1z+21tE=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260902072158-19fb3687f326/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260904094655-8d8ff4e79992 h1:fynZc9HclK397ca13RUtV6gao32twRBltPBuKZfD5VU=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260904094655-8d8ff4e79992/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9 h1:3NqF4ggVj/JmUopEM+IOrYmU8N/PQyS8gOR0ZV1tSDs=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9/go.mod h1:zxP8sFkADBqflNc0a4qfKdLYQ+edzHPlkOaZF0A1X7o=
 github.com/cloudwego/eino-ext/devops v0.1.9 h1:kz0sIwXbdzP0QVO2wjVbBjhksi1sYKM8koh3XDmyRnQ=
@@ -2237,8 +2237,8 @@ github.com/elazarl/go-bindata-assetfs v1.0.0/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo
 github.com/elazarl/go-bindata-assetfs v1.0.1/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
 github.com/elazarl/goproxy v1.9.0 h1:2j3c13lD5v0QTjxphJSSIHS7w8/m/pzSHtLMPOpznC0=
 github.com/elazarl/goproxy v1.9.0/go.mod h1:THdE5ix2clxX9lZzcICPpZ67d6CdrPZxdOYsNgU5e30=
-github.com/elazarl/goproxy/ext v0.0.0-20260806073413-6225cd309d7c h1:ZO33sNRn0vVxRmrNG3fXrUyIiSD/QBT9EwzXdfMH+qw=
-github.com/elazarl/goproxy/ext v0.0.0-20260806073413-6225cd309d7c/go.mod h1:BDldqheoTMmnZfXEweTXUIoJr2lPAFsEfG+uiSF6Cac=
+github.com/elazarl/goproxy/ext v0.0.0-20260904162650-e540bd6f11f6 h1:aSjr8FYdCGBnqKhUKCfPj2z15t7Q4om9FNLTyQJ8lbM=
+github.com/elazarl/goproxy/ext v0.0.0-20260904162650-e540bd6f11f6/go.mod h1:BDldqheoTMmnZfXEweTXUIoJr2lPAFsEfG+uiSF6Cac=
 github.com/elgatito/upnp v0.0.0-20180711183757-2f244d205f9a/go.mod h1:afkYpY8JAIL4341N7Zj9xJ5yTovsg6BkWfBFlCzIoF4=
 github.com/elliotchance/orderedmap v1.8.0 h1:TrOREecvh3JbS+NCgwposXG5ZTFHtEsQiCGOhPElnMw=
 github.com/elliotchance/orderedmap v1.8.0/go.mod h1:wsDwEaX5jEoyhbs7x93zk2H/qv0zwuhg4inXhDkYqys=
@@ -2321,8 +2321,8 @@ github.com/evanw/esbuild v0.28.2/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20260831215902-fda5517d87d4 h1:/Srs3+LHsgY9/1IsJajRF3K9Y+xpTBLfkAtKFQ/DuSs=
-github.com/facebook/time v0.0.0-20260831215902-fda5517d87d4/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
+github.com/facebook/time v0.0.0-20260904223130-69f12512f2a5 h1:UhqmYHKCbmUYlk1xcgH2oxO2mIopS1mwfz6jhSHkdeQ=
+github.com/facebook/time v0.0.0-20260904223130-69f12512f2a5/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -3183,8 +3183,8 @@ github.com/graphql-go/handler v0.2.3/go.mod h1:leLF6RpV5uZMN1CdImAxuiayrYYhOk33b
 github.com/gravitational/trace v1.5.4 h1:nMmF7alwvNiQJhC817Hhmgm95bzKOXbnxvkickTkRDY=
 github.com/gravitational/trace v1.5.4/go.mod h1:/uCbC3ukVU8Pdrh8+3vNLyyE1aGheBWpGGrMnwIK80E=
 github.com/gregjones/httpcache v0.0.0-20180305231024-9cad4c3443a7/go.mod h1:FecbI9+v66THATjSRHfNgh1IVFe/9kFxbXtjV0ctIMA=
-github.com/grid-x/modbus v0.0.0-20260701064235-82e41c9acfb6 h1:SU+JFCzk2CXTrFrYkB8X9vBUTYhdsXmUoXnSTOIInXk=
-github.com/grid-x/modbus v0.0.0-20260701064235-82e41c9acfb6/go.mod h1:WpbUAyptAAi0VAriSRopZa6uhiJOJCTz7KFvgGtNRXc=
+github.com/grid-x/modbus v1.5.1 h1:coQtnQBzbTPzLfoQqb0LpICA5Fy59d/bJnfsmFL7pOM=
+github.com/grid-x/modbus v1.5.1/go.mod h1:WpbUAyptAAi0VAriSRopZa6uhiJOJCTz7KFvgGtNRXc=
 github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa h1:Rsn6ARgNkXrsXJIzhkE4vQr5Gbx2LvtEMv4BJOK4LyU=
 github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa/go.mod h1:kdOd86/VGFWRrtkNwf1MPk0u1gIjc4Y7R2j7nhwc7Rk=
 github.com/grokify/html-strip-tags-go v0.1.0 h1:03UrQLjAny8xci+R+qjCce/MYnpNXCtgzltlQbOBae4=
@@ -4055,8 +4055,8 @@ github.com/metacubex/randv2 v0.2.0 h1:uP38uBvV2SxYfLj53kuvAjbND4RUDfFJjwr4UigMiL
 github.com/metacubex/randv2 v0.2.0/go.mod h1:kFi2SzrQ5WuneuoLLCMkABtiBu6VRrMrWFqSPyj2cxY=
 github.com/metacubex/sing v0.5.7 h1:8OC+fhKFSv/l9ehEhJRaZZAOuthfZo68SteBVLe8QqM=
 github.com/metacubex/sing v0.5.7/go.mod h1:ypf0mjwlZm0sKdQSY+yQvmsbWa0hNPtkeqyRMGgoN+w=
-github.com/metacubex/sing-quic v0.0.0-20260726014900-38b0e9295f51 h1:FpQj1XfYBIm4LAml+LDjvnfjDs20cSDsFmgjThOqmks=
-github.com/metacubex/sing-quic v0.0.0-20260726014900-38b0e9295f51/go.mod h1:6ayFGfzzBE85csgQkM3gf4neFq6s0losHlPRSxY+nuk=
+github.com/metacubex/sing-quic v0.0.0-20260904234848-1c242664697a h1:qZzQwtWDrPU1LXoMow0/iLHY3mb7uauS/mho8hYcenE=
+github.com/metacubex/sing-quic v0.0.0-20260904234848-1c242664697a/go.mod h1:6ayFGfzzBE85csgQkM3gf4neFq6s0losHlPRSxY+nuk=
 github.com/metacubex/sing-shadowsocks v0.2.12 h1:Wqzo8bYXrK5aWqxu/TjlTnYZzAKtKsaFQBdr6IHFaBE=
 github.com/metacubex/sing-shadowsocks v0.2.12/go.mod h1:2e5EIaw0rxKrm1YTRmiMnDulwbGxH9hAFlrwQLQMQkU=
 github.com/metacubex/sing-shadowsocks2 v0.2.7 h1:hSuuc0YpsfiqYqt1o+fP4m34BQz4e6wVj3PPBVhor3A=

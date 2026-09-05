@@ -447,7 +447,7 @@ import (
 	_ "github.com/containerd/stargz-snapshotter/estargz"
 	_ "github.com/containerd/ttrpc"
 	_ "github.com/containerd/typeurl/v2"
-	_ "github.com/containernetworking/cni/libcni"
+	_ "github.com/containernetworking/cni/cnitool/cmd"
 	_ "github.com/coocood/freecache"
 	_ "github.com/coreos/go-iptables/iptables"
 	_ "github.com/coreos/go-oidc/v3/oidc"
