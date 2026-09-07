@@ -1279,7 +1279,7 @@ require (
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.14.0
 	github.com/raeperd/recvcheck v0.3.1
-	github.com/rclone/rclone v1.75.0
+	github.com/rclone/rclone v1.75.1
 	github.com/redis/go-redis/v9 v9.22.0
 	github.com/redis/rueidis v1.0.77
 	github.com/refraction-networking/utls v1.8.2
@@ -1633,7 +1633,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.30.0
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
 	golang.org/x/exp v0.0.0-20260718201538-764159d718ef
 	golang.org/x/exp/typeparams v0.0.0-20260811152304-ee035b5b010f

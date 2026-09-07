@@ -4843,8 +4843,8 @@ github.com/rabbitmq/amqp091-go v1.14.0/go.mod h1:Hy4jKW5kQART1u+JkDTF9YYOQUHXqMu
 github.com/raeperd/recvcheck v0.3.1 h1:p7nZMxiCWkdUtY2i3o+pv1h4fJCR5gpvqAXr9326hEY=
 github.com/raeperd/recvcheck v0.3.1/go.mod h1:CbE7iRocQ4uc71JwpW/CPSh4BShnkre4A9Gb508RypU=
 github.com/rainycape/memcache v0.0.0-20150622160815-1031fa0ce2f2/go.mod h1:7tZKcyumwBO6qip7RNQ5r77yrssm9bfCowcLEBcU5IA=
-github.com/rclone/rclone v1.75.0 h1:3ARHem4jXWltvl+b0PvDAG8s6J/inHd5BRzfwMRb3W8=
-github.com/rclone/rclone v1.75.0/go.mod h1:PGLJUW/WSIJCysALqUcxmaCFyfMXUevf8CbuoOwsAdU=
+github.com/rclone/rclone v1.75.1 h1:kIxQcoDLj2Gke/gMSHK7OnxhX1Gu1cJBLP1kJZoaFp0=
+github.com/rclone/rclone v1.75.1/go.mod h1:4zmMjGatCkSJPRZDpo+7y3xOl8S29EMUyKvZop5mHr4=
 github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/rcrowley/go-metrics v0.0.0-20190826022208-cac0b30c2563/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
@@ -6097,8 +6097,8 @@ golang.org/x/crypto v0.30.0/go.mod h1:kDsLvtWBEx7MV9tJOj9bnXsPbxwJQ6csT/x4KIN4Ss
 golang.org/x/crypto v0.31.0/go.mod h1:kDsLvtWBEx7MV9tJOj9bnXsPbxwJQ6csT/x4KIN4Ssk=
 golang.org/x/crypto v0.32.0/go.mod h1:ZnnJkOaASj8g0AjIduWNlq2NRxL0PlBrbKVyZ6V/Ugc=
 golang.org/x/crypto v0.33.0/go.mod h1:bVdXmD7IV/4GdElGPozy6U7lWdRXA4qyRVGJV57uQ5M=
-golang.org/x/crypto v0.55.0 h1:+KWHjbgOaAQ66dh/YlkZKHlz9ZUlq61AFirAR9ntP8M=
-golang.org/x/crypto v0.55.0/go.mod h1:uq0V9dE/fzQuJtbnL+2EhWOE63vo164FY8xqEnV9xis=
+golang.org/x/crypto v0.56.0 h1:GUh5Ii4J5jtcseSMiRqr1jXCNHoxjeV9Fmekc2oLy6Y=
+golang.org/x/crypto v0.56.0/go.mod h1:OMW5y6CY9l38uPLmxU6l6pwcXp1obtLo3e6gT7gQR2I=
 golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541 h1:FmKxj9ocLKn45jiR2jQMwCVhDvaK7fKQFzfuT9GvyK8=
 golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541/go.mod h1:+UoQFNBq2p2wO+Q6ddVtYc25GZ6VNdOMyyrd4nrqrKs=
 golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
