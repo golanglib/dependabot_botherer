@@ -1249,7 +1249,7 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
 	github.com/pquerna/otp v1.5.0
 	github.com/prashantv/gostub v1.1.0
-	github.com/pressly/goose/v3 v3.27.3
+	github.com/pressly/goose/v3 v3.28.0
 	github.com/prometheus-community/pro-bing v0.9.1
 	github.com/prometheus/client_golang v1.24.1
 	github.com/prometheus/client_model v0.6.3
@@ -1635,7 +1635,7 @@ require (
 	golang.org/x/arch v0.30.0
 	golang.org/x/crypto v0.56.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20260213171211-a408498e5541
-	golang.org/x/exp v0.0.0-20260718201538-764159d718ef
+	golang.org/x/exp v0.0.0-20260824195058-e88cd73687aa
 	golang.org/x/exp/typeparams v0.0.0-20260811152304-ee035b5b010f
 	golang.org/x/image v0.45.0
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
@@ -1663,7 +1663,7 @@ require (
 	google.golang.org/genai v1.71.0
 	google.golang.org/genproto v0.0.0-20260715232425-e75dac1f907d
 	google.golang.org/genproto/googleapis/api v0.0.0-20260803160001-6ac0973c030d
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260825221802-da73d73af1c5
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260831171406-18b4a7587f8a
 	google.golang.org/grpc v1.85.0-dev
 	google.golang.org/protobuf v1.36.12
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
@@ -2010,7 +2010,7 @@ require (
 	go.opentelemetry.io/collector/semconv v0.128.0 // indirect
 	go.opentelemetry.io/contrib/bridges/prometheus v0.68.0 // indirect
 	go.opentelemetry.io/contrib/exporters/autoexport v0.68.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.70.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.71.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploggrpc v0.19.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploghttp v0.19.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v1.45.0 // indirect
