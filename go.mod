@@ -172,7 +172,7 @@ require (
 	github.com/alexkohler/nakedret/v2 v2.0.6
 	github.com/alexkohler/prealloc v1.1.0
 	github.com/alfatraining/structtag v1.0.0
-	github.com/alicebob/miniredis/v2 v2.38.0
+	github.com/alicebob/miniredis/v2 v2.39.0
 	github.com/alingse/asasalint v0.0.11
 	github.com/alingse/nilnesserr v0.2.0
 	github.com/alitto/pond v1.9.2
