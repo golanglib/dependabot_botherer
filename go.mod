@@ -602,7 +602,7 @@ require (
 	github.com/go-chi/cors v1.2.2
 	github.com/go-chi/render v1.0.3
 	github.com/go-co-op/gocron v1.37.0
-	github.com/go-critic/go-critic v0.14.4
+	github.com/go-critic/go-critic v0.15.0
 	github.com/go-delve/delve v1.27.1
 	github.com/go-ego/gse v1.0.2
 	github.com/go-enry/go-enry/v2 v2.9.6
