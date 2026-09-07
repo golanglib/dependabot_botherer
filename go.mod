@@ -736,7 +736,7 @@ require (
 	github.com/google/go-attestation v0.6.4
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-configfs-tsm v0.3.3
-	github.com/google/go-containerregistry v0.22.0
+	github.com/google/go-containerregistry v0.22.1
 	github.com/google/go-dap v0.12.0
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v32 v32.1.0
