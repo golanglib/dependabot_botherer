@@ -618,7 +618,7 @@ require (
 	github.com/go-gorm/caches v1.0.1
 	github.com/go-gorm/caches/v4 v4.0.5
 	github.com/go-jose/go-jose/v3 v3.0.5
-	github.com/go-jose/go-jose/v4 v4.1.4
+	github.com/go-jose/go-jose/v4 v4.1.5
 	github.com/go-kit/kit v0.13.0
 	github.com/go-kit/log v0.2.1
 	github.com/go-kratos/aegis v0.2.0
