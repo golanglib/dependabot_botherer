@@ -580,7 +580,7 @@ require (
 	github.com/gin-contrib/gzip v1.2.6
 	github.com/gin-contrib/sessions v1.1.1
 	github.com/gin-contrib/sse v1.1.2
-	github.com/gin-contrib/timeout v1.2.1
+	github.com/gin-contrib/timeout v1.2.2
 	github.com/gin-gonic/gin v1.12.0
 	github.com/git-lfs/git-lfs/v3 v3.8.0
 	github.com/git-lfs/gitobj/v2 v2.1.1
