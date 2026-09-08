@@ -1643,7 +1643,7 @@ require (
 	golang.org/x/mod v0.40.0
 	golang.org/x/net v0.58.0
 	golang.org/x/oauth2 v0.36.0
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.23.0
 	golang.org/x/sys v0.47.0
 	golang.org/x/telemetry v0.0.0-20260811182544-a038080d80e5
 	golang.org/x/telemetry/config v0.119.0
