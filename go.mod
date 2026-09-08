@@ -330,7 +330,7 @@ require (
 	github.com/boombuler/barcode v1.1.0
 	github.com/boschrexroth/ctrlx-datalayer-golang v1.3.1
 	github.com/bradenaw/juniper v0.15.3
-	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
+	github.com/bradfitz/gomemcache v0.0.0-20260422231931-4d751bb6e37c
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
 	github.com/breml/bidichk v0.3.3
@@ -578,7 +578,7 @@ require (
 	github.com/ghostiam/protogetter v1.0.0
 	github.com/gin-contrib/cors v1.7.7
 	github.com/gin-contrib/gzip v1.2.6
-	github.com/gin-contrib/sessions v1.1.0
+	github.com/gin-contrib/sessions v1.1.1
 	github.com/gin-contrib/sse v1.1.2
 	github.com/gin-contrib/timeout v1.2.1
 	github.com/gin-gonic/gin v1.12.0
@@ -2002,7 +2002,7 @@ require (
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go.etcd.io/raft/v3 v3.7.0 // indirect
-	go.mongodb.org/mongo-driver/v2 v2.5.0 // indirect
+	go.mongodb.org/mongo-driver/v2 v2.8.0 // indirect
 	go.opentelemetry.io/collector/consumer/consumererror v0.120.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.42.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.42.0 // indirect
