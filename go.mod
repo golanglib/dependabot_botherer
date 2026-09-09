@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260907105550-af112a073ccc
+	github.com/facebook/time v0.0.0-20260908180122-526a7e69a37a
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -681,7 +681,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
-	github.com/gocarina/gocsv v0.0.0-20260905190356-869064524258
+	github.com/gocarina/gocsv v0.0.0-20260908110832-9ab82d65b1cc
 	github.com/goccy/go-json v0.10.6
 	github.com/goccy/go-yaml v1.19.2
 	github.com/gochore/boltutil v0.2.0
