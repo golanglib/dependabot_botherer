@@ -1869,8 +1869,8 @@ github.com/cloudwego/eino-ext/components/model/ark v0.1.69 h1:wO3MbVtAOf5ArFa2j4
 github.com/cloudwego/eino-ext/components/model/ark v0.1.69/go.mod h1:mkIvyHlI7MPSEPf697s097j8vc7s7faBYMdFxOIGflg=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13 h1:5XHRTiTD5bt9KQrMHcfvuWNklEC3tpm3XHejdozt9vM=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13/go.mod h1:mgIoqYYOc0eECCqvLbEYpOJrQNTNxkwXzSJzFU+v5sQ=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260908023733-87c861c739e1 h1:wiv6N+eiW0VRYCp9pL2A/t749/g+tdOaGz7kK/nekwc=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260908023733-87c861c739e1/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260909094858-6fe16d48b736 h1:90xn1OhRD/NgyomPjF7rTclgmEWKtkBE9GyAXtSdbqc=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260909094858-6fe16d48b736/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9 h1:3NqF4ggVj/JmUopEM+IOrYmU8N/PQyS8gOR0ZV1tSDs=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9/go.mod h1:zxP8sFkADBqflNc0a4qfKdLYQ+edzHPlkOaZF0A1X7o=
 github.com/cloudwego/eino-ext/devops v0.1.9 h1:kz0sIwXbdzP0QVO2wjVbBjhksi1sYKM8koh3XDmyRnQ=
@@ -2321,8 +2321,8 @@ github.com/evanw/esbuild v0.28.2/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20260908180122-526a7e69a37a h1:Q8Lu2d3Kx3WSa+BUqoeKEYUZzyNCrhR/+U6JqQJ5QG4=
-github.com/facebook/time v0.0.0-20260908180122-526a7e69a37a/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
+github.com/facebook/time v0.0.0-20260909174535-ca24cbfcc25b h1:QZo4ZVbKj7U4sitlF05KAzjXj0bkfsgKo87aHtStti0=
+github.com/facebook/time v0.0.0-20260909174535-ca24cbfcc25b/go.mod h1:waDSb2fIpIPhJtDxe9JIMZ770HyXSNX/QHoJwXBL/ik=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -2463,8 +2463,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20260831124014-72a94f5a8a10 h1:cA5SoGrzkA6bnVDmonyyEdRIWHxee/Kgcl1t45d1Zsk=
-github.com/go-ap/activitypub v0.0.0-20260831124014-72a94f5a8a10/go.mod h1:2K/IjB20cgN5NmxAkA9mFArWddMWDMesD62gVG63foo=
+github.com/go-ap/activitypub v0.0.0-20260909093825-f72cfa142bd0 h1:693pywDoFHA4Tf1LBjQYJ1wHr7OBUG8FYh3Rp0Q822k=
+github.com/go-ap/activitypub v0.0.0-20260909093825-f72cfa142bd0/go.mod h1:2K/IjB20cgN5NmxAkA9mFArWddMWDMesD62gVG63foo=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394 h1:PK7N5OJVsotfSuzc3/s0CGqLN8tYFAixg36C6SpOB9Q=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394/go.mod h1:dqDuYtQWH2GLodzfE+wKsEXEkWSHoGW43JZwGJapgX4=
 github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38 h1:YB/gyKeZxzCOo0G0xUWGchXRm3sy/52tQk9WBr/2nEA=
@@ -3699,8 +3699,8 @@ github.com/keybase/go-codec v0.0.0-20180928230036-164397562123 h1:yg56lYPqh9suJe
 github.com/keybase/go-codec v0.0.0-20180928230036-164397562123/go.mod h1:r/eVVWCngg6TsFV/3HuS9sWhDkAzGG8mXhiuYA+Z/20=
 github.com/keybase/go-keychain v0.0.1 h1:way+bWYa6lDppZoZcgMbYsvC7GxljxrskdNInRtuthU=
 github.com/keybase/go-keychain v0.0.1/go.mod h1:PdEILRW3i9D8JcdM+FmY6RwkHGnhHxXwkPPMeUgOK1k=
-github.com/keybase/saltpack v0.0.0-20260731163415-735fecfa1520 h1:jwya3HP+2uIkvPZ0se7kGyZvZs+V8saDtjyAroDzhVo=
-github.com/keybase/saltpack v0.0.0-20260731163415-735fecfa1520/go.mod h1:/pasLsId9ytjNdOmDknh4TXBv+h1q+xTWgHlP9FdN5A=
+github.com/keybase/saltpack v0.0.0-20260909171118-5bef7952e563 h1:OZv+z4WQikwWTHn9wqfWL4lD93X8nrnZM6Nr5aSpDCk=
+github.com/keybase/saltpack v0.0.0-20260909171118-5bef7952e563/go.mod h1:W32vyJY070Pfy5VFGfJgvSmmw0g4/j+Zt/AY8/AZy5w=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/errcheck v1.20.0 h1:9rwHBNKzd4wkDWcROy3DvFGNqEPlkxBg305rvk7HabI=
