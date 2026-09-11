@@ -1065,7 +1065,7 @@ require (
 	github.com/metacubex/gvisor v0.0.0-20260826100401-79317d808312
 	github.com/metacubex/randv2 v0.2.0
 	github.com/metacubex/sing-quic v0.0.0-20260904234848-1c242664697a
-	github.com/metacubex/sing-shadowsocks v0.2.12
+	github.com/metacubex/sing-shadowsocks v0.2.13
 	github.com/metacubex/sing-shadowsocks2 v0.2.7
 	github.com/metacubex/sing-tun v0.4.23
 	github.com/metacubex/sing-vmess v0.2.5
