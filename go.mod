@@ -648,7 +648,7 @@ require (
 	github.com/go-openapi/swag v0.29.2
 	github.com/go-openapi/validate v1.0.0
 	github.com/go-playground/assert/v2 v2.2.0
-	github.com/go-playground/form/v4 v4.3.0
+	github.com/go-playground/form/v4 v4.3.1
 	github.com/go-playground/locales v0.14.1
 	github.com/go-playground/universal-translator v0.18.1
 	github.com/go-playground/validator/v10 v10.30.4
