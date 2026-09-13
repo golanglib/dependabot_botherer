@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260911184539-bea14c8dba14
+	github.com/facebook/time v0.0.0-20260912115727-1feaf620563c
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -593,7 +593,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20260909093825-f72cfa142bd0
+	github.com/go-ap/activitypub v0.0.0-20260912133130-64400e895afb
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
