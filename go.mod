@@ -675,8 +675,8 @@ require (
 	github.com/go-toolsmith/typep v1.1.0
 	github.com/go-viper/mapstructure/v2 v2.5.0
 	github.com/go-webauthn/revoke v0.1.10
-	github.com/go-webauthn/webauthn v0.18.0
-	github.com/go-webauthn/x v0.3.0
+	github.com/go-webauthn/webauthn v0.18.1
+	github.com/go-webauthn/x v0.3.1
 	github.com/go-zookeeper/zk v1.0.4
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
