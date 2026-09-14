@@ -2727,8 +2727,9 @@ github.com/gobuffalo/flect v1.0.3/go.mod h1:A5msMlrHtLqh9umBSnvabjsMrCcCpAyzglnD
 github.com/gobuffalo/logger v1.0.3/go.mod h1:SoeejUwldiS7ZsyCBphOGURmWdwUFXs0J7TCjEhjKxM=
 github.com/gobuffalo/packd v1.0.0/go.mod h1:6VTc4htmJRFB7u1m/4LeMTWjFoYrUiBkU9Fdec9hrhI=
 github.com/gobuffalo/packr/v2 v2.8.1/go.mod h1:c/PLlOuTU+p3SybaJATW3H6lX/iK7xEz5OeMf+NnJpg=
-github.com/gobwas/glob v0.2.3 h1:A4xDbljILXROh+kObIiy5kIaPYD8e96x1tgBhUI5J+Y=
 github.com/gobwas/glob v0.2.3/go.mod h1:d3Ez4x06l9bZtSvzIay5+Yzi0fmZzPgnTbPcKjJAkT8=
+github.com/gobwas/glob v1.0.0 h1:p+FKbLEIsK1yZ39/OINwFvqNb5oyPY4H8xcy6uYu8dg=
+github.com/gobwas/glob v1.0.0/go.mod h1:oWCdo522i2P1n/hMXGNWs7yoV4wy/ciZuUIbvKj5rkc=
 github.com/gobwas/httphead v0.1.0 h1:exrUm0f4YX0L7EBwZHuCF4GDp8aJfVeBrlLQrs6NqWU=
 github.com/gobwas/httphead v0.1.0/go.mod h1:O/RXo79gxV8G+RqlR/otEwx4Q36zl9rqC5u12GKvMCM=
 github.com/gobwas/pool v0.2.1 h1:xfeeEhW7pwmX8nuLVlqbzVc7udMDrwetjEv+TZIz1og=
@@ -2795,8 +2796,8 @@ github.com/gohugoio/hashstructure v1.1.0 h1:38yUfZBca6qXSbUpteLhjDGLNskclHaguFBY
 github.com/gohugoio/hashstructure v1.1.0/go.mod h1:Pz8dcwjZs6FBKWu9x/ZIChrTHIM175zfUJK0KLvC1z8=
 github.com/gohugoio/httpcache v0.9.0 h1:f3Jb93RAP+qlmK7Ma5uGfwJslYDqTfzYJ6AeOT7nDe8=
 github.com/gohugoio/httpcache v0.9.0/go.mod h1:YQsVn7oB30TG1QO9HoHc3Xq8dDQDVOdxBc0p7CYgbhE=
-github.com/gohugoio/hugo v0.165.0 h1:E9uRFnDw3E+Nv69OU8vsD1YLI3+tRcSHhs82y4fBXdc=
-github.com/gohugoio/hugo v0.165.0/go.mod h1:mOASrT3UGLvAXPdRuY6zUH9SoKBy7VoMQIzMFf4CMi8=
+github.com/gohugoio/hugo v0.166.0 h1:MNGqY2FQQYofvHYMxdnvfnR/Sun+S6FDm7hd70qEG/4=
+github.com/gohugoio/hugo v0.166.0/go.mod h1:jRSQi5aSXDeU2s2oJM1Z3eMRcaEuDZvWCrfjM71tFqE=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0 h1:I/n6v7VImJ3aISLnn73JAHXyjcQsMVvbguQPTk9Ehus=
 github.com/gohugoio/hugo-goldmark-extensions/extras v0.7.0/go.mod h1:9LJNfKWFmhEJ7HW0in5znezMwH+FYMBIhNZ3VWtRcRs=
 github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0 h1:p13Q0DBCrBRpJGtbtlgkYNCs4TnIlZJh8vHgnAiofrI=
