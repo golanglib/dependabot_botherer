@@ -1897,13 +1897,13 @@ github.com/cloudwego/kitex v0.16.3 h1:qU3LvJNcCACjHQPx944kzY6dd8vvP95s3IFB3zk5nH
 github.com/cloudwego/kitex v0.16.3/go.mod h1:d00UXGqwA778piM8nDNVWxOs4XhTX4SHyrQ7YpaojYg=
 github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260910133936-4fffa489b99d h1:xd0AbwtrhcFolDx292lZcTEFHkB5RYyfdeR57U+D3tg=
 github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260910133936-4fffa489b99d/go.mod h1:OP63V8YwwSlPVFqHZblV3mJXLPIjcIdwkT6ZYjEggcI=
-github.com/cloudwego/localsession v0.2.1 h1:obiuwSP2MQX+fFot3HjOQjvR5o7FlSc8Z4e5EM+NqRY=
-github.com/cloudwego/localsession v0.2.1/go.mod h1:J4uams2YT/2d4t7OI6A7NF7EcG8OlHJsOX2LdPbqoyc=
+github.com/cloudwego/localsession v0.2.2 h1:BRY94LTQaF+EWwMmvKRrErWHHD+FS8vfg45PiKiDFgE=
+github.com/cloudwego/localsession v0.2.2/go.mod h1:m3izfxrLeRyayZ0B3aPWB6Y8CVoj7zCXuxa6IuQndfc=
 github.com/cloudwego/netpoll v0.3.1/go.mod h1:1T2WVuQ+MQw6h6DpE45MohSvDTKdy2DlzCx2KsnPI4E=
 github.com/cloudwego/netpoll v0.7.5 h1:VG/Oq2ffpzbk0QfbEz3cUPnLdjIlApt5rG5UNXuh16Y=
 github.com/cloudwego/netpoll v0.7.5/go.mod h1:KiNpLI5MX9vR0xj4gKqyioOrHlp8G0XBMqIV9HsvMCc=
-github.com/cloudwego/runtimex v0.1.1 h1:lheZjFOyKpsq8TsGGfmX9/4O7F0TKpWmB8on83k7GE8=
-github.com/cloudwego/runtimex v0.1.1/go.mod h1:23vL/HGV0W8nSCHbe084AgEBdDV4rvXenEUMnUNvUd8=
+github.com/cloudwego/runtimex v0.1.2 h1:aOZURCa94HBspOfRC2Ap+0m3t537lfMRicF2CI7bth4=
+github.com/cloudwego/runtimex v0.1.2/go.mod h1:23vL/HGV0W8nSCHbe084AgEBdDV4rvXenEUMnUNvUd8=
 github.com/cloudwego/thrift-gen-validator v0.2.6 h1:w6kg6JDGhaqyOMx3+ilIohigh0v+fHdX/88AYcfZlL0=
 github.com/cloudwego/thrift-gen-validator v0.2.6/go.mod h1:V35APif7VsaRsUL7GKMk04ga8v4N7KpDgODBmew1JAg=
 github.com/cloudwego/thriftgo v0.3.14-0.20240612073149-c1e5299511d2/go.mod h1:R4a+4aVDI0V9YCTfpNgmvbkq/9ThKgF7Om8Z0I36698=
