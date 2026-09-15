@@ -1330,7 +1330,7 @@ require (
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.3
-	github.com/sashabaranov/go-openai v1.42.0
+	github.com/sashabaranov/go-openai v1.42.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.29.0
 	github.com/sassoftware/go-rpmutils v0.4.0
