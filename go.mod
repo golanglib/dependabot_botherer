@@ -1508,8 +1508,8 @@ require (
 	github.com/valyala/gozstd v1.26.0
 	github.com/vapourismo/knx-go v0.0.0-20260813172143-02e535310602
 	github.com/vbatts/tar-split v0.12.3
-	github.com/vcaesar/cedar v0.30.0
-	github.com/vcaesar/tt v0.30.0
+	github.com/vcaesar/cedar v0.50.0
+	github.com/vcaesar/tt v0.40.0
 	github.com/vektah/gqlparser/v2 v2.5.37
 	github.com/vektra/mockery/v2 v2.53.7
 	github.com/vishvananda/netlink v1.3.1
