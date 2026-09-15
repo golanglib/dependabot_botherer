@@ -1154,7 +1154,7 @@ require (
 	github.com/niklasfasching/go-org v1.9.1
 	github.com/nikolalohinski/gonja v1.5.3
 	github.com/nikolalohinski/gonja/v2 v2.9.0
-	github.com/nishanths/exhaustive v0.12.0
+	github.com/nishanths/exhaustive v0.13.0
 	github.com/nishanths/predeclared v0.2.2
 	github.com/nsqio/go-diskqueue v1.1.0
 	github.com/nsqio/go-nsq v1.1.0
