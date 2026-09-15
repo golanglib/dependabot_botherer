@@ -1372,8 +1372,8 @@ github.com/aws/aws-sdk-go-v2/internal/v4a v1.5.3/go.mod h1:6SxcHheD1pPR5+kWm1wGv
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.8.1/go.mod h1:CM+19rL1+4dFWnOQKwDc7H1KwXTz+h61oUSHyhV0b3o=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.72.0 h1:BAVXU2PW/FQZUWdTZ9VQZPpbCF711hEQ0l6bW8FKl1I=
 github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.72.0/go.mod h1:4ZX78yzuIXJ78KT4eiKxQ7bUUm/Oe5xWvKzWFoL6x+g=
-github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.86.0 h1:yNLrmQvtLjjhSgQ70FiqN36rGP+kMX1evs8hEkDsFtc=
-github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.86.0/go.mod h1:DE1u38p6ehmEEELWR94qEN+N2aAH0ZmBKsYcYb7yBo0=
+github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.87.0 h1:qn5nw6rYGLIBnxbOexypxG2eOaMzV389mG4WdUXp0/k=
+github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.87.0/go.mod h1:wsz6uFaBRCfqWjNLeBH0jutf0ek8CQGVCO/QSTWZl54=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.43.0 h1:KpnA/m7XqdJVT2TTC+QhBIwWfGUsku2uHGHGXULMApE=
 github.com/aws/aws-sdk-go-v2/service/codecommit v1.43.0/go.mod h1:5xAgaGFxk1BoKAYy33uUfOqZ7iiU8bffEcpSCC2d8E8=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.68.0 h1:b1D6b5N6cIwLKP54WxDMQyRiRxzCPfcrvMJQbG1Oozs=
