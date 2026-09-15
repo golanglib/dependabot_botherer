@@ -957,7 +957,7 @@ require (
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.0.12
-	github.com/kataras/golog v0.1.15
+	github.com/kataras/golog v0.2.0
 	github.com/kataras/iris/v12 v12.2.11
 	github.com/kataras/pio v0.0.14
 	github.com/kataras/sitemap v0.0.6
