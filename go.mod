@@ -956,7 +956,7 @@ require (
 	github.com/kaptinlin/jsonschema v0.9.9
 	github.com/karamaru-alpha/copyloopvar v1.2.2
 	github.com/karrick/godirwalk v1.17.0
-	github.com/kataras/blocks v0.0.12
+	github.com/kataras/blocks v0.1.0
 	github.com/kataras/golog v0.2.0
 	github.com/kataras/iris/v12 v12.2.11
 	github.com/kataras/pio v0.0.14
