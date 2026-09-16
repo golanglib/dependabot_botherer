@@ -3677,8 +3677,8 @@ github.com/karrick/godirwalk v1.15.8/go.mod h1:j4mkqPuvaLI8mp1DroR3P6ad7cyYd4c1q
 github.com/karrick/godirwalk v1.16.1/go.mod h1:j4mkqPuvaLI8mp1DroR3P6ad7cyYd4c1qeJ3RV7ULlk=
 github.com/karrick/godirwalk v1.17.0 h1:b4kY7nqDdioR/6qnbHQyDvmA17u5G1cZ6J+CZXwSWoI=
 github.com/karrick/godirwalk v1.17.0/go.mod h1:j4mkqPuvaLI8mp1DroR3P6ad7cyYd4c1qeJ3RV7ULlk=
-github.com/kataras/blocks v0.0.12 h1:2OnEYFcLtYPjyEMhyDk1pdHm+b75hay5uobuPTacnIc=
-github.com/kataras/blocks v0.0.12/go.mod h1:CtCOQ+YDdd0NJTMW019YPV9D+q6dWO2b9d2cSRgifpk=
+github.com/kataras/blocks v0.1.0 h1:wwgkEPFq3tHtnuP3mhTMmzmL0YW6xuY4l1lXUPKw5sg=
+github.com/kataras/blocks v0.1.0/go.mod h1:MfwpYK8P/dWxCE0vxC8tA3PtUM5GJjvm/mUFrZ/TWZo=
 github.com/kataras/golog v0.2.0 h1:8Y/VWjUijivCwlY09DGrLIKAfsEoXRqbrhvqyeCz1uw=
 github.com/kataras/golog v0.2.0/go.mod h1:ChIl77VUBE6SwvowRiPn7XHcW2iMmD4hDrArAnP6jDU=
 github.com/kataras/iris/v12 v12.2.11 h1:sGgo43rMPfzDft8rjVhPs6L3qDJy3TbBrMD/zGL1pzk=
