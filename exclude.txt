@@ -17,7 +17,7 @@ github.com/antonmedv/expr
 //	module declares its path as: github.com/expr-lang/expr
 //	        but was required as: github.com/antonmedv/expr
 github.com/armon/go-metrics
-//go: github.com/armon/go-metrics@latest (v0.6.1) requires github.com/armon/go-metrics@v0.6.1: parsing go.mod:
+//go: github.com/armon/go-metrics@latest (v0.7.0) requires github.com/armon/go-metrics@v0.7.0: parsing go.mod:
 //	module declares its path as: github.com/hashicorp/go-metrics
 //	        but was required as: github.com/armon/go-metrics
 github.com/aws/aws-sdk-go-v2/internal/configsources
@@ -210,9 +210,45 @@ github.com/hashicorp/consul
 //go: to switch to the latest unretracted version, run:
 //	go get github.com/hashicorp/go-msgpack@latest
 github.com/hashicorp/nomad
-//[github.com/hashicorp/nomad] dir: /home/runner/go/pkg/mod/github.com/hashicorp/nomad@v1.11.3
-//[github.com/hashicorp/nomad] module has replace
+//go: github.com/hashicorp/nomad imports
+//	github.com/hashicorp/nomad/client/allocrunner/taskrunner/getter imports
+//	github.com/hashicorp/nomad/client/config imports
+//	github.com/hashicorp/go-metrics/compat: cannot find module providing package github.com/hashicorp/go-metrics/compat
+//go: github.com/hashicorp/nomad imports
+//	github.com/hashicorp/nomad/command imports
+//	github.com/hashicorp/nomad/command/agent imports
+//	github.com/hashicorp/go-metrics/compat/circonus: cannot find module providing package github.com/hashicorp/go-metrics/compat/circonus
+//go: github.com/hashicorp/nomad imports
+//	github.com/hashicorp/nomad/command imports
+//	github.com/hashicorp/nomad/command/agent imports
+//	github.com/hashicorp/go-metrics/compat/datadog: cannot find module providing package github.com/hashicorp/go-metrics/compat/datadog
+//go: github.com/hashicorp/nomad imports
+//	github.com/hashicorp/nomad/command imports
+//	github.com/hashicorp/nomad/command/agent imports
+//	github.com/hashicorp/go-metrics/compat/prometheus: cannot find module providing package github.com/hashicorp/go-metrics/compat/prometheus
+//go: module github.com/Azure/go-autorest/autorest is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore instead.
+//go: module github.com/Azure/go-autorest/autorest/adal is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
+//go: module github.com/Azure/go-autorest/autorest/azure/auth is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
+//go: module github.com/Azure/go-autorest/autorest/azure/cli is deprecated: this module has been deprecated and is no longer supported.
+//go: module github.com/Azure/go-autorest/autorest/date is deprecated: this module has been deprecated and is no longer supported.
+//go: module github.com/Azure/go-autorest/autorest/to is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/to instead.
+//go: module github.com/Azure/go-autorest/autorest/validation is deprecated: this module has been deprecated and is no longer supported.
+//go: module github.com/Azure/go-autorest/logger is deprecated: this module has been deprecated and is no longer supported.
+//go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
+//go: module github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp is deprecated: Use go.opentelemetry.io/contrib/detectors/gcp instead.
+//go: module github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric is deprecated: Use the standard OpenTelemetry OTLP metric exporter (go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc) instead.
+//go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
+//go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
 github.com/hashicorp/vault
+//go: github.com/hashicorp/vault imports
+//	github.com/hashicorp/vault/command imports
+//	github.com/hashicorp/raft imports
+//	github.com/hashicorp/go-metrics/compat: cannot find module providing package github.com/hashicorp/go-metrics/compat
+//go: github.com/hashicorp/vault imports
+//	github.com/hashicorp/vault/command imports
+//	github.com/hashicorp/vault/internalshared/configutil imports
+//	github.com/hashicorp/vault/sdk/helper/metricregistry imports
+//	github.com/hashicorp/go-metrics/compat/prometheus: cannot find module providing package github.com/hashicorp/go-metrics/compat/prometheus
 //go: github.com/hashicorp/vault imports
 //	github.com/hashicorp/vault/command imports
 //	github.com/hashicorp/vault/helper/builtinplugins imports
