@@ -870,7 +870,7 @@ require (
 	github.com/hinshun/vt10x v0.0.0-20220119200601-820417d04eec
 	github.com/huandu/go-assert v1.1.6
 	github.com/huandu/skiplist v1.2.1
-	github.com/huandu/xstrings v1.5.0
+	github.com/huandu/xstrings v1.6.0
 	github.com/iancoleman/orderedmap v0.3.0
 	github.com/iancoleman/strcase v0.3.0
 	github.com/ianlancetaylor/demangle v0.0.0-20250417193237-f615e6bd150b
