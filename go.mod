@@ -1492,7 +1492,7 @@ require (
 	github.com/unidoc/unipdf/v3 v3.69.0
 	github.com/unidoc/unitype v0.5.1
 	github.com/unknwon/com v1.0.1
-	github.com/unrolled/render v1.7.0
+	github.com/unrolled/render v1.8.1
 	github.com/urfave/cli v1.22.17
 	github.com/urfave/cli/v2 v2.27.7
 	github.com/uudashr/gocognit v1.2.1
