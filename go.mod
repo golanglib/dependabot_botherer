@@ -943,7 +943,7 @@ require (
 	github.com/jonboulle/clockwork v0.5.0
 	github.com/josephspurrier/goversioninfo v1.7.0
 	github.com/josharian/intern v1.0.0
-	github.com/josharian/native v1.1.0
+	github.com/josharian/native v1.2.0
 	github.com/josharian/txtarfs v0.0.0-20240408113805-5dc76b8fe6bf
 	github.com/jpillora/backoff v1.0.0
 	github.com/json-iterator/go v1.1.12
