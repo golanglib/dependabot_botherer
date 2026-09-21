@@ -1618,7 +1618,7 @@ require (
 	go.opentelemetry.io/proto/otlp v1.11.0
 	go.starlark.net v0.0.0-20260326113308-fadfc96def35
 	go.step.sm/crypto v0.90.0
-	go.uber.org/atomic v1.11.0
+	go.uber.org/atomic v1.12.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.19.0
 	go.uber.org/fx v1.24.0
