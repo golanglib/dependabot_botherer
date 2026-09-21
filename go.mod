@@ -509,7 +509,7 @@ require (
 	github.com/dsnet/compress v0.0.2-0.20230904184137-39efe44ab707
 	github.com/dsnet/try v0.0.3
 	github.com/duo-labs/webauthn v0.0.0-20221205164246-ebaf9b74c6ec
-	github.com/dustin/go-humanize v1.0.1
+	github.com/dustin/go-humanize v1.1.0
 	github.com/dvsekhvalnov/jose2go v1.11.0
 	github.com/dylanmei/winrmtest v0.0.0-20210303004826-fbc9ae56efb6
 	github.com/dynatrace-oss/dynatrace-metric-utils-go v0.5.0
