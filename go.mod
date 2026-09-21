@@ -753,7 +753,7 @@ require (
 	github.com/google/go-sev-guest v0.15.0
 	github.com/google/go-tdx-guest v0.3.2-0.20250814004405-ffb0869e6f4d
 	github.com/google/go-tpm v0.9.8
-	github.com/google/go-tpm-tools v0.4.9
+	github.com/google/go-tpm-tools v0.4.10
 	github.com/google/go-tspi v0.3.0
 	github.com/google/gofuzz v1.2.0
 	github.com/google/gopacket v1.1.19
@@ -1870,7 +1870,7 @@ require (
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/google/cel-go v0.31.0 // indirect
 	github.com/google/flatbuffers v25.12.19+incompatible // indirect
-	github.com/google/go-eventlog v0.0.3-0.20260416001248-6807b85eecf0 // indirect
+	github.com/google/go-eventlog v0.0.3-0.20260617163629-883cc5652c69 // indirect
 	github.com/google/go-units v0.0.0-20250612230646-eddd77f68220 // indirect
 	github.com/gopherjs/websocket v0.0.0-20191103002815-9a42957e2b3a // indirect
 	github.com/gotnospirit/makeplural v0.0.0-20180622080156-a5f48d94d976 // indirect
