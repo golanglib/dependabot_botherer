@@ -927,7 +927,7 @@ require (
 	github.com/jeremija/gosubmit v0.2.8
 	github.com/jeremywohl/flatten/v2 v2.0.0-20211013061545-07e4a09fb8e4
 	github.com/jessevdk/go-flags v1.6.1
-	github.com/jgautheron/goconst v1.10.2
+	github.com/jgautheron/goconst v1.11.0
 	github.com/jhillyerd/enmime v1.3.0
 	github.com/jhump/protoreflect v1.18.1
 	github.com/jingyugao/rowserrcheck v1.1.1
@@ -1617,7 +1617,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.46.0
 	go.opentelemetry.io/proto/otlp v1.11.0
 	go.starlark.net v0.0.0-20260326113308-fadfc96def35
-	go.step.sm/crypto v0.90.0
+	go.step.sm/crypto v0.91.0
 	go.uber.org/atomic v1.12.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/dig v1.19.0
@@ -1733,7 +1733,7 @@ require (
 	modernc.org/z v1.7.4
 	moul.io/http2curl/v2 v2.3.0
 	mvdan.cc/gofumpt v0.12.0
-	mvdan.cc/unparam v0.0.0-20251027182757-5beb8c8f8f15
+	mvdan.cc/unparam v0.0.0-20260823230713-2fa3d841b0c8
 	mvdan.cc/xurls/v2 v2.6.0
 	pgregory.net/rapid v1.3.0
 	rsc.io/omap v1.2.0
