@@ -992,7 +992,7 @@ require (
 	github.com/ldez/exptostd v0.4.5
 	github.com/ldez/gomoddirectives v0.9.0
 	github.com/ldez/grignotin v0.10.1
-	github.com/ldez/tagliatelle v0.7.2
+	github.com/ldez/tagliatelle v0.8.0
 	github.com/ldez/usetesting v0.5.0
 	github.com/leodido/go-syslog/v4 v4.6.0
 	github.com/leodido/go-urn v1.5.0
