@@ -348,7 +348,7 @@ require (
 	github.com/bytedance/gg v1.1.0
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/bytedance/gopkg v0.1.4
-	github.com/bytedance/mockey v1.4.6
+	github.com/bytedance/mockey v1.4.7
 	github.com/bytedance/sonic v1.15.4
 	github.com/bytedance/sonic/loader v0.5.2
 	github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.78
