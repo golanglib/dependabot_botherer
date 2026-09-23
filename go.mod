@@ -412,7 +412,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.3
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.70
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260916065400-2607f61e807f
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20260923024851-c21d73d93527
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -424,7 +424,7 @@ require (
 	github.com/cloudwego/hertz v0.10.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.3
-	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260922031253-56b278e878be
+	github.com/cloudwego/kitex/pkg/protocol/bthrift v0.0.0-20260922112810-9af8f84781dc
 	github.com/cloudwego/localsession v0.2.2
 	github.com/cloudwego/netpoll v0.7.5
 	github.com/cloudwego/runtimex v0.1.2
@@ -523,7 +523,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.9.1
-	github.com/elazarl/goproxy/ext v0.0.0-20260904162650-e540bd6f11f6
+	github.com/elazarl/goproxy/ext v0.0.0-20260922174427-0108e0fc46d3
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-imap/v2 v2.0.0-beta.8
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260921152548-7bafd0c1bbf0
+	github.com/facebook/time v0.0.0-20260922223011-1425422e26ac
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
