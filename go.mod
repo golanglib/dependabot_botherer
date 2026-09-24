@@ -420,7 +420,7 @@ require (
 	github.com/cloudwego/fastpb v0.0.6
 	github.com/cloudwego/frugal v0.3.1
 	github.com/cloudwego/gjson v0.1.1
-	github.com/cloudwego/gopkg v0.2.0
+	github.com/cloudwego/gopkg v0.2.1
 	github.com/cloudwego/hertz v0.10.6
 	github.com/cloudwego/iasm v0.2.0
 	github.com/cloudwego/kitex v0.16.3
