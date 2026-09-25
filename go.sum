@@ -5616,8 +5616,8 @@ github.com/volcengine/ve-tos-golang-sdk/v2 v2.9.10/go.mod h1:IrjK84IJJTuOZOTMv/P
 github.com/volcengine/volc-sdk-golang v1.0.23/go.mod h1:AfG/PZRUkHJ9inETvbjNifTDgut25Wbkm2QoYBTbvyU=
 github.com/volcengine/volc-sdk-golang v1.0.257 h1:eC/jsfS2YNBzGPx/ZnP3eRXc1PJaZN9oKVyCtb6RuYU=
 github.com/volcengine/volc-sdk-golang v1.0.257/go.mod h1:zHJlaqiMbIB+0mcrsZPTwOb3FB7S/0MCfqlnO8R7hlM=
-github.com/volcengine/volcengine-go-sdk v1.2.53 h1:aWooc5D8+Tx+R+Z7VsIp8aJCbWgfGdb687tq8G5b2JI=
-github.com/volcengine/volcengine-go-sdk v1.2.53/go.mod h1:DURKPVQ8Rsi4OQu4/NPjUyjla3MeHPgXT/qV+400fAw=
+github.com/volcengine/volcengine-go-sdk v1.2.54 h1:e7LQT+2QoVrUgQe5HQsLf1+zkUy/1pQ8as2bjMy1M3A=
+github.com/volcengine/volcengine-go-sdk v1.2.54/go.mod h1:DURKPVQ8Rsi4OQu4/NPjUyjla3MeHPgXT/qV+400fAw=
 github.com/vulcand/oxy v1.4.2 h1:KibUVdKrwy7eXR3uHS2pYoZ9dCzKVcgDNHD2jkPZmxU=
 github.com/vulcand/oxy v1.4.2/go.mod h1:Yq8OBb0XWU/7nPSglwUH5LS2Pcp4yvad8SVayobZbSo=
 github.com/vulcand/predicate v1.3.0 h1:jtNe4PHbLJ649dR7Gl+MSAzUhLGtLspAkWlSjoOiXg8=
