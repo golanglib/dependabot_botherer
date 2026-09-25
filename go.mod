@@ -1384,7 +1384,7 @@ require (
 	github.com/sivchari/tenv v1.12.1
 	github.com/skeema/knownhosts v1.3.3
 	github.com/slack-go/slack v0.29.0
-	github.com/slackhq/nebula v1.11.1
+	github.com/slackhq/nebula v1.11.2
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
@@ -1777,6 +1777,7 @@ require (
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-ntlmssp v0.1.1 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
+	github.com/DefinedNet/netlink v1.3.2-dn.1 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.62.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
 	github.com/KimMachineGun/automemlimit v0.7.5 // indirect
