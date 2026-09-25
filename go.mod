@@ -1545,7 +1545,7 @@ require (
 	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342
 	github.com/xtaci/smux v2.0.1+incompatible
-	github.com/xuri/efp v0.0.1
+	github.com/xuri/efp v0.0.2
 	github.com/xuri/excelize/v2 v2.11.0
 	github.com/xuri/nfp v0.0.2-0.20250530014748-2ddeb826f9a9
 	github.com/xyproto/randomstring v1.2.0
