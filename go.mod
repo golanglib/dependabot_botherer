@@ -10,7 +10,7 @@ require (
 	cel.dev/expr v0.25.3
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.24.0
-	cloud.google.com/go/auth/oauth2adapt v0.2.8
+	cloud.google.com/go/auth/oauth2adapt v0.3.0
 	cloud.google.com/go/bigquery v1.85.0
 	cloud.google.com/go/compute v1.70.0
 	cloud.google.com/go/compute/metadata v0.9.1
