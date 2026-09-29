@@ -640,7 +640,7 @@ require (
 	github.com/go-openapi/errors v0.22.9
 	github.com/go-openapi/inflect v1.0.1
 	github.com/go-openapi/jsonpointer v1.0.2
-	github.com/go-openapi/jsonreference v1.0.2
+	github.com/go-openapi/jsonreference v1.0.3
 	github.com/go-openapi/loads v0.25.3
 	github.com/go-openapi/runtime v0.33.2
 	github.com/go-openapi/spec v1.0.1
