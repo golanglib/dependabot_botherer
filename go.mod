@@ -523,7 +523,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.1-0.20241212181136-fad1cd13edbd
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.9.1
-	github.com/elazarl/goproxy/ext v0.0.0-20260922174427-0108e0fc46d3
+	github.com/elazarl/goproxy/ext v0.0.0-20260927174940-a05e9220be0b
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-imap/v2 v2.0.0-beta.8
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260925172653-aad07e385854
+	github.com/facebook/time v0.0.0-20260928173339-f990e4475e7c
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -681,7 +681,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
-	github.com/gocarina/gocsv v0.0.0-20260908110832-9ab82d65b1cc
+	github.com/gocarina/gocsv v0.0.0-20260926200228-b2c6eb8fefab
 	github.com/goccy/go-json v0.10.6
 	github.com/goccy/go-yaml v1.19.2
 	github.com/gochore/boltutil v0.2.0
@@ -709,7 +709,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/golang-sql/sqlexp v0.1.0
-	github.com/golang/geo v0.0.0-20260818125358-b200a1149890
+	github.com/golang/geo v0.0.0-20260928092222-7d12f68cfadb
 	github.com/golang/glog v1.2.5
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/golang/mock v1.7.0-rc.1
