@@ -1067,7 +1067,7 @@ require (
 	github.com/metacubex/sing-quic v0.0.0-20260904234848-1c242664697a
 	github.com/metacubex/sing-shadowsocks v0.2.13
 	github.com/metacubex/sing-shadowsocks2 v0.2.8
-	github.com/metacubex/sing-tun v0.4.25
+	github.com/metacubex/sing-tun v0.4.26
 	github.com/metacubex/sing-vmess v0.2.5
 	github.com/metacubex/sing-wireguard v0.0.0-20260826105301-c3ae17d19f9e
 	github.com/metacubex/tfo-go v0.0.0-20260623020846-376a77860b8c
@@ -1913,7 +1913,7 @@ require (
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/hkdf v0.1.0 // indirect
 	github.com/metacubex/hpke v0.1.0 // indirect
-	github.com/metacubex/mipstack v0.0.0-20260922000335-dbef50b1df45 // indirect
+	github.com/metacubex/mipstack v0.0.0-20260926151545-332a03e253ef // indirect
 	github.com/metacubex/mlkem v0.1.0 // indirect
 	github.com/metacubex/nftables v0.0.0-20260426003805-208c2c1ba2cb // indirect
 	github.com/metacubex/quic-go v0.59.1-0.20260112033758-aa29579f2001 // indirect
