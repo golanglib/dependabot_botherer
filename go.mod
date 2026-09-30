@@ -1459,7 +1459,7 @@ require (
 	github.com/tidwall/btree v1.8.1
 	github.com/tidwall/gjson v1.19.0
 	github.com/tidwall/match v1.2.0
-	github.com/tidwall/pretty v1.2.1
+	github.com/tidwall/pretty v1.2.2
 	github.com/tidwall/sjson v1.2.5
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.2.1
