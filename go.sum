@@ -4972,8 +4972,8 @@ github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a h1:ObwtHN2VpqE0ZN
 github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a/go.mod h1:xLnfdiJbSp8rNqYEdIW/6eDO4mVoogml14Bh2hSiFpM=
 github.com/sagernet/nftables v0.3.0-mod.4 h1:vnOtcDYeSXv2e5RoRuGH0lrpttQFJ8iC4ICS2nhlDSo=
 github.com/sagernet/nftables v0.3.0-mod.4/go.mod h1:8kslHG4VvYNihcco+i6uxIX7qbT8A56T0y5q7U44ZaQ=
-github.com/sagernet/sing v0.9.5 h1:BHaElRqhHhkH747xIkxgsqgRJxkIiuAlpnfwiJnu2aY=
-github.com/sagernet/sing v0.9.5/go.mod h1:K3Owt3xPhHugvlnlPPxZJ/exXdaJfEPOTNorGk4AXjo=
+github.com/sagernet/sing v0.9.6 h1:LXTpEMbr4G/65PSjopjfg+Zp1Xq1ilJnGWq47y/eObI=
+github.com/sagernet/sing v0.9.6/go.mod h1:K3Owt3xPhHugvlnlPPxZJ/exXdaJfEPOTNorGk4AXjo=
 github.com/sagernet/sing-mux v0.3.9 h1:fhk1tA1OHkDXHedXLanyu/mUepykCXENM9s6sEymo84=
 github.com/sagernet/sing-mux v0.3.9/go.mod h1:jricpwCOndDsTEM1TM3piJvhL/2Mm7OhLkm+JadJJ1Q=
 github.com/sagernet/sing-shadowtls v0.2.1 h1:ZiHZdnEnP+YS73NMsxiZmIFCwNd0M4k7PkGCKNXhbaM=
