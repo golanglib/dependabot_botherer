@@ -1246,7 +1246,7 @@ require (
 	github.com/pkoukk/tiktoken-go-loader v0.0.2
 	github.com/planetscale/vtprotobuf v0.6.1-0.20250313105119-ba97887b0a25
 	github.com/polyfloyd/go-errorlint v1.8.0
-	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55
+	github.com/power-devops/perfstat v0.0.0-20260805114148-88456608a4f6
 	github.com/pquerna/otp v1.5.0
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.28.0
@@ -1357,7 +1357,7 @@ require (
 	github.com/shiningrush/goext v0.2.3
 	github.com/shiningrush/goreq v0.1.0
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/shirou/gopsutil/v4 v4.26.8
+	github.com/shirou/gopsutil/v4 v4.26.9
 	github.com/shoenig/go-m1cpu v0.2.2
 	github.com/shoenig/test v1.13.2
 	github.com/shopspring/decimal v1.4.0
