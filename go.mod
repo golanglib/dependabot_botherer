@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20260929224217-cd838ccacb77
+	github.com/facebook/time v0.0.0-20260930091906-e432cb7586ff
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1069,7 +1069,7 @@ require (
 	github.com/metacubex/sing-shadowsocks2 v0.2.8
 	github.com/metacubex/sing-tun v0.4.26
 	github.com/metacubex/sing-vmess v0.2.5
-	github.com/metacubex/sing-wireguard v0.0.0-20260826105301-c3ae17d19f9e
+	github.com/metacubex/sing-wireguard v0.0.0-20261001042440-570cfdece7fe
 	github.com/metacubex/tfo-go v0.0.0-20260623020846-376a77860b8c
 	github.com/metacubex/utls v1.8.7
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
