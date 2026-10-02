@@ -1258,7 +1258,7 @@ require (
 	github.com/prometheus/procfs v0.22.0
 	github.com/prometheus/prom2json v1.5.0
 	github.com/prometheus/prometheus v0.315.0
-	github.com/protolambda/ctxlock v0.1.0
+	github.com/protolambda/ctxlock v0.2.0
 	github.com/putdotio/go-putio v1.7.3
 	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8
 	github.com/puzpuzpuz/xsync v1.5.2
