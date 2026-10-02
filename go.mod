@@ -1456,7 +1456,7 @@ require (
 	github.com/tetafro/godot v1.5.6
 	github.com/tetratelabs/wazero v1.12.0
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
-	github.com/tidwall/btree v1.8.1
+	github.com/tidwall/btree v1.8.2
 	github.com/tidwall/gjson v1.19.0
 	github.com/tidwall/match v1.2.0
 	github.com/tidwall/pretty v1.2.2
