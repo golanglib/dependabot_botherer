@@ -1143,7 +1143,7 @@ require (
 	github.com/nats-io/nkeys v0.4.16
 	github.com/nbrownus/go-metrics-prometheus v0.0.0-20210712211119-974a6260965f
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
-	github.com/ncruces/go-strftime v1.0.0
+	github.com/ncruces/go-strftime v1.1.0
 	github.com/ncw/swift v1.0.53
 	github.com/ncw/swift/v2 v2.0.5
 	github.com/nektos/act v0.2.89
