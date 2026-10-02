@@ -154,7 +154,7 @@ require (
 	github.com/agiledragon/gomonkey/v2 v2.14.3
 	github.com/agnivade/levenshtein v1.2.1
 	github.com/air-verse/air v1.67.4
-	github.com/ajwerner/btree v0.1.1
+	github.com/ajwerner/btree v0.3.0
 	github.com/akavel/rsrc v0.10.2
 	github.com/alecthomas/assert v1.0.0
 	github.com/alecthomas/assert/v2 v2.11.0
