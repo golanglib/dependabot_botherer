@@ -898,7 +898,7 @@ require (
 	github.com/isaacphi/mcp-language-server v0.1.1
 	github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar v0.0.0-20251128051024-55d4e5479475
 	github.com/itchyny/gojq v0.12.19
-	github.com/itchyny/timefmt-go v0.1.8
+	github.com/itchyny/timefmt-go v0.1.9
 	github.com/jackc/chunkreader v1.0.0
 	github.com/jackc/chunkreader/v2 v2.0.1
 	github.com/jackc/pgconn v1.14.3
