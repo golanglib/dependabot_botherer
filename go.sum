@@ -4360,8 +4360,8 @@ github.com/nikolalohinski/gonja v1.5.3 h1:GsA+EEaZDZPGJ8JtpeGN78jidhOlxeJROpqMT9
 github.com/nikolalohinski/gonja v1.5.3/go.mod h1:RmjwxNiXAEqcq1HeK5SSMmqFJvKOfTfXhkJv6YBtPa4=
 github.com/nikolalohinski/gonja/v2 v2.9.1 h1:ZDG0zYs5oR3fsqQFAlkaWiWYxPOBrCUK9k2IsRZhMa8=
 github.com/nikolalohinski/gonja/v2 v2.9.1/go.mod h1:UIzXPVuOsr5h7dZ5DUbqk3/Z7oFA/NLGQGMjqT4L2aU=
-github.com/nishanths/exhaustive v0.13.0 h1:Rof0axOSNQaaPaPmLK5RxcRrJV2Vcv+vfUmuRy+2EAM=
-github.com/nishanths/exhaustive v0.13.0/go.mod h1:3/adQjJgvD/UFHHSYBjpK9Wbz8DOvf0FBtzx+zI0Rlo=
+github.com/nishanths/exhaustive v0.14.0 h1:wqwHW3EPNu/mD0ZpkQVNPbupXKkH4XhMpXjFZ+kn/So=
+github.com/nishanths/exhaustive v0.14.0/go.mod h1:yt2T8QaQ/5OlVZsG+WV9uexQanVPI8MStaHR/JYg1hM=
 github.com/nishanths/predeclared v0.3.0 h1:W3i3JK/DZS5h7QwsEIyU8ler4Z2vwEwQSxNrZzhnlfk=
 github.com/nishanths/predeclared v0.3.0/go.mod h1:gN4uryPExDME/zmZdqkKIPSAqcfprj316ZDI6UTqz70=
 github.com/nrdcg/auroradns v1.0.0/go.mod h1:6JPXKzIRzZzMqtTDgueIhTi6rFf1QvYE/HzqidhOhjw=
