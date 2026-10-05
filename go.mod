@@ -1603,7 +1603,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/auto/sdk v1.2.1
 	go.opentelemetry.io/contrib v1.46.0
-	go.opentelemetry.io/contrib/detectors/gcp v1.46.0
+	go.opentelemetry.io/contrib/detectors/gcp v1.47.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.71.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.71.0
 	go.opentelemetry.io/contrib/propagators/aws v1.46.0
@@ -1612,8 +1612,8 @@ require (
 	go.opentelemetry.io/contrib/propagators/ot v1.46.0
 	go.opentelemetry.io/otel v1.47.0
 	go.opentelemetry.io/otel/metric v1.47.0
-	go.opentelemetry.io/otel/sdk v1.46.0
-	go.opentelemetry.io/otel/sdk/metric v1.46.0
+	go.opentelemetry.io/otel/sdk v1.47.0
+	go.opentelemetry.io/otel/sdk/metric v1.47.0
 	go.opentelemetry.io/otel/trace v1.47.0
 	go.opentelemetry.io/proto/otlp v1.11.0
 	go.starlark.net v0.0.0-20260326113308-fadfc96def35
