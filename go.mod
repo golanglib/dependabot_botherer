@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/longrunning v1.3.0
 	cloud.google.com/go/monitoring v1.31.0
 	cloud.google.com/go/pubsub v1.51.1
-	cloud.google.com/go/storage v1.68.0
+	cloud.google.com/go/storage v1.69.0
 	cloud.google.com/go/trace v1.17.0
 	code.gitea.io/sdk/gitea v0.25.1
 	codeberg.org/chavacava/garif v0.2.1
@@ -2026,7 +2026,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.46.0 // indirect
 	go.opentelemetry.io/otel/exporters/prometheus v0.67.0 // indirect
 	go.opentelemetry.io/otel/exporters/stdout/stdoutlog v0.19.0 // indirect
-	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.44.0 // indirect
+	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.45.0 // indirect
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.46.0 // indirect
 	go.opentelemetry.io/otel/log v0.21.0 // indirect
 	go.opentelemetry.io/otel/sdk/log v0.21.0 // indirect
