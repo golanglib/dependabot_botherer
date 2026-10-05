@@ -1510,7 +1510,7 @@ require (
 	github.com/vbatts/tar-split v0.12.3
 	github.com/vcaesar/cedar v0.50.0
 	github.com/vcaesar/tt v0.40.0
-	github.com/vektah/gqlparser/v2 v2.5.58
+	github.com/vektah/gqlparser/v2 v2.5.59
 	github.com/vektra/mockery/v2 v2.53.7
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
