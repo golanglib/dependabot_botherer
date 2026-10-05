@@ -765,7 +765,7 @@ require (
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
 	github.com/google/pprof v0.0.0-20260906184651-6331bc6350fe
-	github.com/google/s2a-go v0.1.10
+	github.com/google/s2a-go v0.1.11
 	github.com/google/safehtml v0.1.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
