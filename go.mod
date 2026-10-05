@@ -238,7 +238,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.20.6
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.7
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.20.1
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.23.10
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.23.11
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.73.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.88.1
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.43.1
@@ -247,7 +247,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.337.0
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.56.1
 	github.com/aws/aws-sdk-go-v2/service/kms v1.61.1
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.113.4
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.114.0
 	github.com/aws/aws-sdk-go-v2/service/sso v1.38.1
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.51.1
