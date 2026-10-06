@@ -240,7 +240,6 @@ github.com/hashicorp/nomad
 //go: module github.com/Azure/go-autorest/autorest/validation is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/logger is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
-//go: module github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp is deprecated: Use go.opentelemetry.io/contrib/detectors/gcp instead.
 //go: module github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric is deprecated: Use the standard OpenTelemetry OTLP metric exporter (go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc) instead.
 //go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
 //go: module github.com/golang/protobuf is deprecated: Use the "google.golang.org/protobuf" module instead.
@@ -291,7 +290,6 @@ github.com/hashicorp/vault
 //go: module github.com/Azure/go-autorest/autorest/validation is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/logger is deprecated: this module has been deprecated and is no longer supported.
 //go: module github.com/Azure/go-autorest/tracing is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore/tracing instead.
-//go: module github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp is deprecated: Use go.opentelemetry.io/contrib/detectors/gcp instead.
 //go: module github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric is deprecated: Use the standard OpenTelemetry OTLP metric exporter (go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc) instead.
 //go: module github.com/aws/aws-sdk-go is deprecated: aws-sdk-go is deprecated. Use aws-sdk-go-v2.
 //go: module github.com/aws/aws-sdk-go-v2/feature/s3/manager is deprecated: superceded by feature/s3/transfermanager. See https://github.com/aws/aws-sdk-go-v2/discussions/3306
