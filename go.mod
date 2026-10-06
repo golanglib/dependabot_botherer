@@ -499,7 +499,7 @@ require (
 	github.com/djherbis/nio/v3 v3.0.1
 	github.com/djherbis/times v1.6.0
 	github.com/dlclark/regexp2 v1.12.0
-	github.com/dmarkham/enumer v1.6.3
+	github.com/dmarkham/enumer v1.7.2
 	github.com/dnaeon/go-vcr v1.2.0
 	github.com/docker/docker-credential-helpers v0.9.9
 	github.com/docker/go-connections v0.8.1
