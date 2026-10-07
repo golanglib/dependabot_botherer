@@ -614,7 +614,7 @@ require (
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
 	github.com/go-git/go-billy/v5 v5.9.2
 	github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399
-	github.com/go-git/go-git/v5 v5.19.2
+	github.com/go-git/go-git/v5 v5.19.3
 	github.com/go-gorm/caches v1.0.1
 	github.com/go-gorm/caches/v4 v4.0.5
 	github.com/go-jose/go-jose/v3 v3.0.5
