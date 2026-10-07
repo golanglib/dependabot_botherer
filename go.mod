@@ -6,7 +6,7 @@ require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
 	4d63.com/gochecknoglobals v0.2.2
 	bitbucket.org/creachadair/stringset v0.0.14
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.12-20260825204119-511051f7f437.2
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.3
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/auth v0.24.0
@@ -142,7 +142,7 @@ require (
 	github.com/RyuaNerin/testingutil v0.1.3
 	github.com/SAP/go-hdb v1.19.0
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.10.0
-	github.com/Shopify/go-lua v0.0.0-20250718183320-1e37f32ad7d0
+	github.com/Shopify/go-lua v0.0.0-20261006135644-ac20f2ec14d4
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
 	github.com/a2aproject/a2a-go v0.3.15
 	github.com/aalpar/deheap v1.1.2
@@ -549,7 +549,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20261002105554-f2ea2ab320aa
+	github.com/facebook/time v0.0.0-20261006212646-aaf735825ca9
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -593,7 +593,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20261005161154-ddfb80ed6f31
+	github.com/go-ap/activitypub v0.0.0-20261006121300-6310c31d889a
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
