@@ -1334,7 +1334,7 @@ require (
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.29.0
 	github.com/sassoftware/go-rpmutils v0.4.0
-	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.37
+	github.com/scaleway/scaleway-sdk-go v1.38.0
 	github.com/seancfoley/bintree v1.4.0
 	github.com/seancfoley/ipaddress-go v1.8.4
 	github.com/sebdah/goldie/v2 v2.8.0
