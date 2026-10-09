@@ -5568,8 +5568,8 @@ github.com/urfave/cli v1.22.17/go.mod h1:b0ht0aqgH/6pBYzzxURyrM4xXNgsoT/n2ZzwQiE
 github.com/urfave/cli/v2 v2.3.0/go.mod h1:LJmUH05zAU44vOAcrfzZQKsZbVcdbOG8rtL3/XcUArI=
 github.com/urfave/cli/v2 v2.27.7 h1:bH59vdhbjLv3LAvIu6gd0usJHgoTTPhCFib8qqOwXYU=
 github.com/urfave/cli/v2 v2.27.7/go.mod h1:CyNAG/xg+iAOg0N4MPGZqVmv2rCoP267496AOXUZjA4=
-github.com/uudashr/gocognit v1.2.2 h1:XKPE71+TqyIfEIb0a15bd4o4Irt3Tx5yKxxdE8phEHc=
-github.com/uudashr/gocognit v1.2.2/go.mod h1:acaubQc6xYlXFEMb9nWX2dYBzJ/bIjEkc1zzvyIZg5Q=
+github.com/uudashr/gocognit v1.3.0 h1:Xdw5JwAoYmX3WAB+wsXY3nxEwdw7+MWAnM0wCAAv7A4=
+github.com/uudashr/gocognit v1.3.0/go.mod h1:acaubQc6xYlXFEMb9nWX2dYBzJ/bIjEkc1zzvyIZg5Q=
 github.com/uudashr/iface v1.5.3 h1:N61bzr11L7BHP6Rct+C6zQePHjSTMeyVBq+s03uB/Ds=
 github.com/uudashr/iface v1.5.3/go.mod h1:5UWoT6SvTdTww/KToRj6clO+n4Kg3/NrAQvgOB+5Ggw=
 github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08 h1:4Yh46CVE3k/lPq6hUbEdbB1u1anRBXLewm3k+L0iOMc=
