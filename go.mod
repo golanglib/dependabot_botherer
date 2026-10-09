@@ -1350,7 +1350,7 @@ require (
 	github.com/sensu/sensu-go/api/core v0.0.0-20221108055736-999d91931d17
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
 	github.com/sergi/go-diff v1.4.0
-	github.com/sethvargo/go-retry v0.4.0
+	github.com/sethvargo/go-retry v0.5.0
 	github.com/shiningrush/droplet v0.4.2
 	github.com/shiningrush/go-download v2.1.0+incompatible
 	github.com/shiningrush/goevent v0.1.0
