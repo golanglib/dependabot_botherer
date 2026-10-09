@@ -1495,7 +1495,7 @@ require (
 	github.com/unrolled/render v1.8.1
 	github.com/urfave/cli v1.22.17
 	github.com/urfave/cli/v2 v2.27.7
-	github.com/uudashr/gocognit v1.2.2
+	github.com/uudashr/gocognit v1.3.0
 	github.com/uudashr/iface v1.5.3
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
