@@ -847,7 +847,7 @@ require (
 	github.com/hashicorp/packer-plugin-sdk v0.6.11
 	github.com/hashicorp/serf v0.11.0
 	github.com/hashicorp/terraform-exec v0.25.3
-	github.com/hashicorp/terraform-json v0.28.0
+	github.com/hashicorp/terraform-json v0.29.0
 	github.com/hashicorp/yamux v0.1.2
 	github.com/hbollon/go-edlib v1.7.0
 	github.com/hedhyw/rex v1.1.0
