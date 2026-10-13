@@ -1279,7 +1279,7 @@ require (
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.15.0
 	github.com/raeperd/recvcheck v0.3.1
-	github.com/rclone/rclone v1.75.1
+	github.com/rclone/rclone v1.75.2
 	github.com/redis/go-redis/v9 v9.23.0
 	github.com/redis/rueidis v1.0.78
 	github.com/refraction-networking/utls v1.8.2
@@ -1641,7 +1641,7 @@ require (
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
 	golang.org/x/mobile v0.0.0-20260709172247-6129f5bee9d5
 	golang.org/x/mod v0.42.0
-	golang.org/x/net v0.59.0
+	golang.org/x/net v0.60.0
 	golang.org/x/oauth2 v0.37.0
 	golang.org/x/sync v0.24.0
 	golang.org/x/sys v0.49.0
