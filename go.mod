@@ -232,14 +232,14 @@ require (
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.55.1
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.47.1
+	github.com/aws/aws-sdk-go-v2 v1.47.3
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.20
 	github.com/aws/aws-sdk-go-v2/config v1.33.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.20.6
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.8
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.20.1
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.23.11
-	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.73.0
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.73.3
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.89.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.0
@@ -252,7 +252,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.43.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.51.1
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.43.1
-	github.com/aws/smithy-go v1.28.2
+	github.com/aws/smithy-go v1.28.5
 	github.com/awslabs/aws-lambda-go-api-proxy v0.16.2
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20241004223953-c2774b1ab29b
 	github.com/axw/gocov v1.2.1
@@ -1801,8 +1801,8 @@ require (
 	github.com/apparentlymart/go-textseg/v17 v17.0.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.5.4 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.8.4 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.5.6 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.8.6 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.5.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.19 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.11.5 // indirect
