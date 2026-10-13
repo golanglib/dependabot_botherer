@@ -628,7 +628,7 @@ require (
 	github.com/go-kratos/kratos/v2 v2.9.2
 	github.com/go-lark/lark v1.16.0
 	github.com/go-lark/lark-hertz v1.1.1
-	github.com/go-ldap/ldap/v3 v3.4.14
+	github.com/go-ldap/ldap/v3 v3.4.15
 	github.com/go-llsqlite/adapter v0.2.0
 	github.com/go-llsqlite/crawshaw v0.7.0
 	github.com/go-logfmt/logfmt v0.6.1
