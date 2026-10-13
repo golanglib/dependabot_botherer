@@ -1251,7 +1251,7 @@ require (
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.28.0
 	github.com/prometheus-community/pro-bing v0.9.1
-	github.com/prometheus/client_golang v1.24.1
+	github.com/prometheus/client_golang v1.25.0
 	github.com/prometheus/client_model v0.6.3
 	github.com/prometheus/common v0.72.0
 	github.com/prometheus/common/sigv4 v0.1.0
