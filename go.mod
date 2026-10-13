@@ -1701,7 +1701,7 @@ require (
 	k8s.io/component-base v0.37.1
 	k8s.io/gengo/v2 v2.0.0-20260408192533-25e2208e0dc3
 	k8s.io/klog/v2 v2.140.0
-	k8s.io/kube-openapi v0.0.0-20260721132016-d427ff9ee9ad
+	k8s.io/kube-openapi v0.0.0-20261001230523-97fa35140926
 	k8s.io/utils v0.0.0-20260626114624-be93311217bd
 	layeh.com/radius v0.0.0-20231213012653-1006025d24f8
 	libvirt.org/go/libvirtxml v1.12008.0
@@ -1744,10 +1744,10 @@ require (
 	sigs.k8s.io/controller-runtime v0.25.2
 	sigs.k8s.io/controller-tools v0.22.0
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730
-	sigs.k8s.io/kustomize/api v0.21.2
+	sigs.k8s.io/kustomize/api v0.21.3
 	sigs.k8s.io/kustomize/cmd/config v0.21.2
 	sigs.k8s.io/kustomize/kustomize/v5 v5.8.2
-	sigs.k8s.io/kustomize/kyaml v0.21.2
+	sigs.k8s.io/kustomize/kyaml v0.21.3
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.6.0
 	storj.io/common v0.0.0-20260818140313-d38275a3768b
@@ -2054,5 +2054,6 @@ require (
 	pack.ag/amqp v0.11.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.2 // indirect
+	sigs.k8s.io/structured-merge-diff/v7 v7.0.0 // indirect
 	tags.cncf.io/container-device-interface v1.1.0 // indirect
 )
