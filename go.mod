@@ -1645,12 +1645,12 @@ require (
 	golang.org/x/oauth2 v0.37.0
 	golang.org/x/sync v0.24.0
 	golang.org/x/sys v0.49.0
-	golang.org/x/telemetry v0.0.0-20260924152758-ed294f943157
+	golang.org/x/telemetry v0.0.0-20261009151841-97e8ea77aa2a
 	golang.org/x/telemetry/config v0.124.0
 	golang.org/x/term v0.47.0
 	golang.org/x/text v0.43.0
 	golang.org/x/time v0.16.0
-	golang.org/x/tools v0.51.0
+	golang.org/x/tools v0.52.0
 	golang.org/x/vuln v1.8.0
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb
