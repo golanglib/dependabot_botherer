@@ -3236,8 +3236,8 @@ github.com/hairyhenderson/go-codeowners v0.7.1 h1:4yKuRk01b7DC+pnGMzsod4njH05EXs
 github.com/hairyhenderson/go-codeowners v0.7.1/go.mod h1:oxxEFdmWj8geqXtG7tNO/rXF/hV7got2sSPdaIKpGVI=
 github.com/hanwen/go-fuse v1.0.0 h1:GxS9Zrn6c35/BnfiVsZVWmsG803xwE7eVRDvcf/BEVc=
 github.com/hanwen/go-fuse v1.0.0/go.mod h1:unqXarDXqzAk0rt98O2tVndEPIpUgLD9+rwFisZH3Ok=
-github.com/hanwen/go-fuse/v2 v2.11.0 h1:CGVkJh9gRz0pTRMADNcqdFl3ec/5QbE/Vx1Gl7ESozM=
-github.com/hanwen/go-fuse/v2 v2.11.0/go.mod h1:aU7NkGYZUmuJrZapoI3mEcNve7PZTySUOLBuch/vR6U=
+github.com/hanwen/go-fuse/v2 v2.12.0 h1:RG1UFajZR/hb6JRbfhSkPtCqghbe2caq8F4x+bb1Y6s=
+github.com/hanwen/go-fuse/v2 v2.12.0/go.mod h1:Jhm1VRAQoI4MYiawzVhc0K3StCLBob07TTT37CwmNpM=
 github.com/hanzoai/gochimp3 v1.0.0 h1:P+ApPXmJHyigXsOBk+OUb1MgVMR6H8u53JMF08xvlHk=
 github.com/hanzoai/gochimp3 v1.0.0/go.mod h1:zJr4NZygb2gyqkQpZ2Yf/UzbOhIhVfLCj8ST925KPrI=
 github.com/harlow/kinesis-consumer v0.5.1 h1:ttf4iOHU4Zm1rErlbMhI3mjlVmxJNymJXoB9LtS4guk=
