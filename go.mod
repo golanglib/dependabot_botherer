@@ -333,7 +333,7 @@ require (
 	github.com/bradfitz/gomemcache v0.0.0-20260422231931-4d751bb6e37c
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
-	github.com/breml/bidichk v0.3.3
+	github.com/breml/bidichk v0.3.4
 	github.com/breml/errchkjson v0.4.1
 	github.com/brianvoe/gofakeit/v6 v6.28.0
 	github.com/bsm/ginkgo v1.16.5
