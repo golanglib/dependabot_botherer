@@ -9,7 +9,7 @@ require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1
 	cel.dev/expr v0.25.3
 	cloud.google.com/go v0.123.0
-	cloud.google.com/go/auth v0.24.0
+	cloud.google.com/go/auth v0.24.1-0.20261001053825-dbc26066f70a
 	cloud.google.com/go/auth/oauth2adapt v0.3.0
 	cloud.google.com/go/bigquery v1.85.0
 	cloud.google.com/go/compute v1.71.0
@@ -765,7 +765,7 @@ require (
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
 	github.com/google/pprof v0.0.0-20260906184651-6331bc6350fe
-	github.com/google/s2a-go v0.1.10
+	github.com/google/s2a-go v0.1.11
 	github.com/google/safehtml v0.1.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/subcommands v1.2.0
@@ -1658,7 +1658,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
 	google.golang.org/adk v1.8.0
-	google.golang.org/api v0.300.0
+	google.golang.org/api v0.301.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.72.0
 	google.golang.org/genproto v0.0.0-20260715232425-e75dac1f907d
