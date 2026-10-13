@@ -980,7 +980,7 @@ require (
 	github.com/kr/text v0.2.0
 	github.com/kuangchanglang/graceful v1.0.2
 	github.com/kulti/thelper v0.7.1
-	github.com/kunwardeep/paralleltest v1.0.15
+	github.com/kunwardeep/paralleltest v1.0.16
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyoh86/exportloopref v0.1.11
 	github.com/kyokomi/emoji/v2 v2.2.14
