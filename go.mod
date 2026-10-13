@@ -964,7 +964,7 @@ require (
 	github.com/kataras/tunnel v0.0.4
 	github.com/keybase/go-keychain v0.0.1
 	github.com/keybase/saltpack v0.0.0-20260909171118-5bef7952e563
-	github.com/kisielk/errcheck v1.20.0
+	github.com/kisielk/errcheck v1.30.0
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.6
 	github.com/klauspost/asmfmt v1.3.2
