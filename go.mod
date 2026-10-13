@@ -93,7 +93,7 @@ require (
 	github.com/BurntSushi/toml v1.6.0
 	github.com/ClickHouse/ch-go v0.74.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
-	github.com/ClickHouse/clickhouse-go/v2 v2.48.0
+	github.com/ClickHouse/clickhouse-go/v2 v2.49.0
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
 	github.com/CloudyKit/jet/v6 v6.3.3
 	github.com/Code-Hex/go-generics-cache v1.5.1
@@ -1928,7 +1928,7 @@ require (
 	github.com/miekg/pkcs11 v1.1.2 // indirect
 	github.com/minio/crc64nvme v1.1.1 // indirect
 	github.com/mitchellh/go-fs v0.0.0-20180402235330-b7b9ca407fff // indirect
-	github.com/moby/moby/api v1.56.0 // indirect
+	github.com/moby/moby/api v1.56.1 // indirect
 	github.com/moby/moby/client v0.6.0 // indirect
 	github.com/moby/sys/capability v0.4.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
