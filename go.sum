@@ -1387,8 +1387,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.3 h1:840B8kzqfJDUHUCvSUhoc8M
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.3/go.mod h1:OYCu7bfkQi8JHCVxkQr0n6e/eL/iiJG0YXFN5fOP3v0=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.45.1 h1:oGBxL5ChuLK6h0YaLMi2tnfmN7S2yeQWR2ldvNLG1Ng=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.45.1/go.mod h1:XQbW74MFcqXaTjmgGJxkAYFJgBvljG3urkkCGKvJ66Y=
-github.com/aws/aws-sdk-go-v2/service/ec2 v1.338.1 h1:sfwX4gbR9CGsMgBsOQNFMGigRjiZeIG0CF4BlWP/LBQ=
-github.com/aws/aws-sdk-go-v2/service/ec2 v1.338.1/go.mod h1:d0e0acsyS3WnFCFJiByGwnUgPpn2wAk97PTIksHN2NI=
+github.com/aws/aws-sdk-go-v2/service/ec2 v1.338.4 h1:1PZfVMz36He601uRm1PiKyDcsEKBk76QYwyISwjOjjY=
+github.com/aws/aws-sdk-go-v2/service/ec2 v1.338.4/go.mod h1:RttUwBa++DWLLpzTAQdcQzqI9uBF9cfRI/ek8gXzLR4=
 github.com/aws/aws-sdk-go-v2/service/ecs v1.96.0 h1:kAOWRGbOwkvD+IQLOklSNSVY6pF2nGCmemBHG4iRLNk=
 github.com/aws/aws-sdk-go-v2/service/ecs v1.96.0/go.mod h1:djHxMBR2H6gax8sZIXbRic+c5O6NQKm/r7NU2kezbZk=
 github.com/aws/aws-sdk-go-v2/service/elasticache v1.60.0 h1:CrluVCmQeznDoFlxpqz13J8Ym4QsmxbMocoWc4TcC1Y=
@@ -1400,8 +1400,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.11.5/go.mod h1:qPqp1Uw
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.6 h1:GxZx+rmWZ1/20VC0K6PJE6KFgIlwovwpJeR4pNKRlLY=
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.6/go.mod h1:AyLP2PNMRAVl7yq1/qoryCn28uRxMEDN4Cb3hTBUkHI=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.27/go.mod h1:EOwBD4J4S5qYszS5/3DpkejfuK+Z5/1uzICfPaZLtqw=
-github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.4 h1:29SvnfGhXjTl8ONxFwbj2rs6lbhiFXD2CgFQmbT/bXY=
-github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.4/go.mod h1:wm04I5DMuNVvZHFe/dHnUxincvNbbK7AiNBbYsQivek=
+github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.6 h1:LHHdobjo5le1sjJdolitV7uVvYg3wkaeM1Ju2fDgeZQ=
+github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.6/go.mod h1:CBGB0evAiaMD3Lk4wPO7LQCcCZLuhzL5Qf/wfEUHQ5w=
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.20.4 h1:pPiWfgeNxqluKEph7hvU88kuGKBPOWzO+Dk9t2zqqNs=
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.20.4/go.mod h1:YlwGoIUDG/3kBQbdNOVs/xKZ9J01G8e/6D1mRBj9uTk=
 github.com/aws/aws-sdk-go-v2/service/kafka v1.63.0 h1:WHsnt+uDX5Oml7DiEoZGH3zJZLWoO95C3vvfUYpY7vI=
