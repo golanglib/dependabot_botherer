@@ -1075,7 +1075,7 @@ require (
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
 	github.com/mfridman/interpolate v0.0.2
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
-	github.com/mgechev/revive v1.17.0
+	github.com/mgechev/revive v1.17.1
 	github.com/mholt/acmez v1.2.0
 	github.com/mholt/acmez/v2 v2.0.3
 	github.com/mholt/archiver/v3 v3.5.1
@@ -1922,7 +1922,6 @@ require (
 	github.com/metacubex/quic-go v0.59.1-0.20260112033758-aa29579f2001 // indirect
 	github.com/metacubex/sing v0.5.8 // indirect
 	github.com/metacubex/tls v0.1.0 // indirect
-	github.com/mgechev/dots v1.0.0 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.7 // indirect
 	github.com/miekg/pkcs11 v1.1.2 // indirect
@@ -1973,6 +1972,7 @@ require (
 	github.com/prometheus/otlptranslator v1.0.0 // indirect
 	github.com/prometheus/sigv4 v0.5.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20250401214520-65e299d6c5c9 // indirect
+	github.com/revive-lint/dots v1.1.0 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/rootless-containers/proto/go-proto v0.0.0-20260207013450-f6ee952d53d9 // indirect
 	github.com/rubyist/tracerx v0.0.0-20170927163412-787959303086 // indirect
