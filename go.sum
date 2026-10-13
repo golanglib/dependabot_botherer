@@ -3349,8 +3349,8 @@ github.com/hashicorp/memberlist v0.7.0 h1:JfqTDFUIAzDEYKMhSc3Gpwe05zvSU3/cYtiZ3y
 github.com/hashicorp/memberlist v0.7.0/go.mod h1:Qar5D5CgaQAb74gk8Ph/jVcATn4epSDOHOvbSKOLHwg=
 github.com/hashicorp/nomad/api v0.0.0-20260907080526-08ef8f3d26da h1:5EVD5vuGBqAKSrcR1+hD8XTIHcDgu0jLfwjNqnI4ExU=
 github.com/hashicorp/nomad/api v0.0.0-20260907080526-08ef8f3d26da/go.mod h1:x/V7eEDwMx7UTOAb/Bc4mMsTfy5GdOP4sQY0a4Mmm1g=
-github.com/hashicorp/packer-plugin-sdk v0.6.11 h1:SifkttpuaTu0y1YhvrzLf04IE3SyuiEbDkZimgTUPqE=
-github.com/hashicorp/packer-plugin-sdk v0.6.11/go.mod h1:LR/2xbKCB4w6YnLNcx41AWSyiYcHpJOAzM6CZmc3p30=
+github.com/hashicorp/packer-plugin-sdk v0.6.12 h1:ANR14gyJ1ihiaYXBgrCqb2I/glo1JXREfM260s9Y4Bw=
+github.com/hashicorp/packer-plugin-sdk v0.6.12/go.mod h1:lPxHC8D0Scir8x0p7gwwthQcDMUgWSTtH5aEVOkelRM=
 github.com/hashicorp/serf v0.8.2/go.mod h1:6hOLApaqBFA1NXqRQAsxw9QxuDEvNxSQRwA/JwenrHc=
 github.com/hashicorp/serf v0.9.5/go.mod h1:UWDWwZeL5cuWDJdl0C6wrvrUwEqtQ4ZKBKKENpqIUyk=
 github.com/hashicorp/serf v0.9.6/go.mod h1:TXZNMjZQijwlDvp+r0b63xZ45H7JmCmgg4gpTwn9UV4=
