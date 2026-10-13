@@ -107,7 +107,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.38.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.62.0
-	github.com/HdrHistogram/hdrhistogram-go v1.3.0
+	github.com/HdrHistogram/hdrhistogram-go v1.4.0
 	github.com/IBM/nzgo/v12 v12.0.13
 	github.com/IBM/sarama v1.61.1
 	github.com/JohannesKaufmann/dom v0.3.1
