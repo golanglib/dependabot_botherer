@@ -997,7 +997,7 @@ require (
 	github.com/leodido/go-syslog/v4 v4.6.0
 	github.com/leodido/go-urn v1.5.0
 	github.com/leodido/ragel-machinery v0.0.0-20190525184631-5f46317e436b
-	github.com/leonelquinteros/gotext v1.7.2
+	github.com/leonelquinteros/gotext v1.8.0
 	github.com/leonklingele/grouper v1.1.2
 	github.com/lestrrat-go/blackmagic v1.0.4
 	github.com/lestrrat-go/httpcc v1.0.1
