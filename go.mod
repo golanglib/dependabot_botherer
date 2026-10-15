@@ -593,7 +593,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20261009094116-0162bfb5d21b
+	github.com/go-ap/activitypub v0.0.0-20261014182949-32168b1482cd
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
@@ -1638,7 +1638,7 @@ require (
 	golang.org/x/exp v0.0.0-20261011100332-faecfb24eb49
 	golang.org/x/exp/typeparams v0.0.0-20260811152304-ee035b5b010f
 	golang.org/x/image v0.47.0
-	golang.org/x/lint v0.0.0-20241112194109-818c5a804067
+	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20260709172247-6129f5bee9d5
 	golang.org/x/mod v0.42.0
 	golang.org/x/net v0.61.0
