@@ -693,7 +693,7 @@ require (
 	github.com/gochore/timeseq/v3 v3.2.0
 	github.com/gochore/uniq v1.1.0
 	github.com/godbus/dbus v4.1.0+incompatible
-	github.com/godbus/dbus/v5 v5.2.3
+	github.com/godbus/dbus/v5 v5.2.4
 	github.com/gofrs/flock v0.13.1
 	github.com/gofrs/uuid/v5 v5.5.1
 	github.com/gogo/protobuf v1.3.2
