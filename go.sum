@@ -2483,8 +2483,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20261014182949-32168b1482cd h1:YKO1Y1/3OiprH2mptvb6vPlnjLWgoWaYJ5Sw+E7AxCk=
-github.com/go-ap/activitypub v0.0.0-20261014182949-32168b1482cd/go.mod h1:P82qNcWhSgpw1RqXQOEwOpgONQsCh/PchnxUPqWjfQQ=
+github.com/go-ap/activitypub v0.0.0-20261015123346-723e63a90dc1 h1:5O/iWznpSElPNNX705ba5+2rDjg3VJvv+z+cLOOEfcA=
+github.com/go-ap/activitypub v0.0.0-20261015123346-723e63a90dc1/go.mod h1:P82qNcWhSgpw1RqXQOEwOpgONQsCh/PchnxUPqWjfQQ=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394 h1:PK7N5OJVsotfSuzc3/s0CGqLN8tYFAixg36C6SpOB9Q=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394/go.mod h1:dqDuYtQWH2GLodzfE+wKsEXEkWSHoGW43JZwGJapgX4=
 github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38 h1:YB/gyKeZxzCOo0G0xUWGchXRm3sy/52tQk9WBr/2nEA=
@@ -3718,8 +3718,8 @@ github.com/keybase/go-codec v0.0.0-20180928230036-164397562123 h1:yg56lYPqh9suJe
 github.com/keybase/go-codec v0.0.0-20180928230036-164397562123/go.mod h1:r/eVVWCngg6TsFV/3HuS9sWhDkAzGG8mXhiuYA+Z/20=
 github.com/keybase/go-keychain v0.0.1 h1:way+bWYa6lDppZoZcgMbYsvC7GxljxrskdNInRtuthU=
 github.com/keybase/go-keychain v0.0.1/go.mod h1:PdEILRW3i9D8JcdM+FmY6RwkHGnhHxXwkPPMeUgOK1k=
-github.com/keybase/saltpack v0.0.0-20260909171118-5bef7952e563 h1:OZv+z4WQikwWTHn9wqfWL4lD93X8nrnZM6Nr5aSpDCk=
-github.com/keybase/saltpack v0.0.0-20260909171118-5bef7952e563/go.mod h1:W32vyJY070Pfy5VFGfJgvSmmw0g4/j+Zt/AY8/AZy5w=
+github.com/keybase/saltpack v0.0.0-20261015141035-6897e9f74929 h1:UxIkJzEAax04YitQBJiI/eTMvAeIUVCMnzmmmrnbRjs=
+github.com/keybase/saltpack v0.0.0-20261015141035-6897e9f74929/go.mod h1:W32vyJY070Pfy5VFGfJgvSmmw0g4/j+Zt/AY8/AZy5w=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/errcheck v1.30.0 h1:ZIxNDAfAd4larXHTceoZP/dYPAB90dHg1OYhA2sVh5k=

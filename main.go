@@ -119,7 +119,6 @@ import (
 	_ "github.com/Max-Sum/base32768"
 	_ "github.com/Mellanox/rdmamap"
 	_ "github.com/Microsoft/go-winio"
-	_ "github.com/Microsoft/hcsshim"
 	_ "github.com/NYTimes/gziphandler"
 	_ "github.com/Netflix/go-expect"
 	_ "github.com/OneOfOne/xxhash"

@@ -121,7 +121,6 @@ require (
 	github.com/Max-Sum/base32768 v0.0.0-20230304063302-18e6ce5945fd
 	github.com/Mellanox/rdmamap v1.2.0
 	github.com/Microsoft/go-winio v0.6.3
-	github.com/Microsoft/hcsshim v0.15.0-rc.4
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2
 	github.com/OneOfOne/xxhash v1.2.8
@@ -593,7 +592,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20261014182949-32168b1482cd
+	github.com/go-ap/activitypub v0.0.0-20261015123346-723e63a90dc1
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
@@ -963,7 +962,7 @@ require (
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
 	github.com/keybase/go-keychain v0.0.1
-	github.com/keybase/saltpack v0.0.0-20260909171118-5bef7952e563
+	github.com/keybase/saltpack v0.0.0-20261015141035-6897e9f74929
 	github.com/kisielk/errcheck v1.30.0
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.6
@@ -1786,6 +1785,7 @@ require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
+	github.com/Microsoft/hcsshim v0.15.0-rc.4 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344 // indirect
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
