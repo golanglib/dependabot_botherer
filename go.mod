@@ -160,7 +160,7 @@ require (
 	github.com/alecthomas/atomic v0.1.0-alpha2
 	github.com/alecthomas/chroma v0.10.0
 	github.com/alecthomas/chroma/v2 v2.27.0
-	github.com/alecthomas/go-check-sumtype v0.5.0
+	github.com/alecthomas/go-check-sumtype v0.5.1-0.20260828200218-ae6904d28606
 	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/repr v0.5.3
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
@@ -574,7 +574,7 @@ require (
 	github.com/geoffgarside/ber v1.2.0
 	github.com/getkin/kin-openapi v0.149.0
 	github.com/ghetzel/testify v1.4.1
-	github.com/ghostiam/protogetter v1.0.0
+	github.com/ghostiam/protogetter v1.0.1
 	github.com/gin-contrib/cors v1.7.9
 	github.com/gin-contrib/gzip v1.2.8
 	github.com/gin-contrib/sessions v1.1.2
@@ -1087,7 +1087,7 @@ require (
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/minio/highwayhash v1.0.4
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.3.0
+	github.com/minio/minio-go/v7 v7.4.1
 	github.com/minio/sha256-simd v1.0.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -1404,7 +1404,7 @@ require (
 	github.com/sony/sonyflake v1.3.0
 	github.com/sosodev/duration v1.4.0
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
-	github.com/sourcegraph/go-diff v0.8.0
+	github.com/sourcegraph/go-diff v0.9.0
 	github.com/spacemonkeygo/monkit/v3 v3.0.25-0.20251022131615-eb24eb109368
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.7
@@ -1463,7 +1463,7 @@ require (
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.2.1
 	github.com/tiendc/go-deepcopy v1.7.2
-	github.com/timakin/bodyclose v0.0.0-20260129054331-73d1f95b84b4
+	github.com/timakin/bodyclose v0.0.0-20260723120731-857993a2939c
 	github.com/timonwong/loggercheck v0.13.0
 	github.com/timshannon/bolthold v0.0.0-20240314194003-30aac6950928
 	github.com/tinylib/msgp v1.6.5
