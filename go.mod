@@ -986,7 +986,7 @@ require (
 	github.com/labstack/echo/v4 v4.16.0
 	github.com/labstack/gommon v0.5.0
 	github.com/larksuite/oapi-sdk-go v1.1.48
-	github.com/larksuite/oapi-sdk-go/v3 v3.12.1
+	github.com/larksuite/oapi-sdk-go/v3 v3.12.2
 	github.com/lasiar/canonicalheader v1.1.2
 	github.com/ldez/exptostd v0.4.5
 	github.com/ldez/gomoddirectives v0.10.0
