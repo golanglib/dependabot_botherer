@@ -120,7 +120,7 @@ require (
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/Max-Sum/base32768 v0.0.0-20230304063302-18e6ce5945fd
 	github.com/Mellanox/rdmamap v1.2.0
-	github.com/Microsoft/go-winio v0.6.3
+	github.com/Microsoft/go-winio v0.6.4
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2
 	github.com/OneOfOne/xxhash v1.2.8
