@@ -503,7 +503,7 @@ require (
 	github.com/docker/docker-credential-helpers v0.9.10
 	github.com/docker/go-connections v0.8.2
 	github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430
-	github.com/dprotaso/go-yit v0.0.0-20191028211022-135eb7262960
+	github.com/dprotaso/go-yit v0.0.0-20250804204205-7afe4252a1dd
 	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.6.2
 	github.com/dsnet/compress v0.0.2-0.20230904184137-39efe44ab707
 	github.com/dsnet/try v0.0.3
@@ -1408,7 +1408,7 @@ require (
 	github.com/spacemonkeygo/monkit/v3 v3.0.25-0.20251022131615-eb24eb109368
 	github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89
 	github.com/spdx/tools-golang v0.5.7
-	github.com/speakeasy-api/jsonpath v0.6.3
+	github.com/speakeasy-api/jsonpath v0.7.0
 	github.com/spf13/afero v1.15.0
 	github.com/spf13/cast v1.10.0
 	github.com/spf13/cobra v1.10.2
