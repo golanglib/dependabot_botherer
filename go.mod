@@ -1280,7 +1280,7 @@ require (
 	github.com/raeperd/recvcheck v0.3.1
 	github.com/rclone/rclone v1.75.2
 	github.com/redis/go-redis/v9 v9.23.0
-	github.com/redis/rueidis v1.0.78
+	github.com/redis/rueidis v1.0.79
 	github.com/refraction-networking/utls v1.8.2
 	github.com/relvacode/iso8601 v1.8.2
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
