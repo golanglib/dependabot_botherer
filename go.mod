@@ -572,7 +572,7 @@ require (
 	github.com/gdamore/tcell v1.4.1
 	github.com/gdamore/tcell/v2 v2.13.10
 	github.com/geoffgarside/ber v1.2.0
-	github.com/getkin/kin-openapi v0.149.0
+	github.com/getkin/kin-openapi v0.151.0
 	github.com/ghetzel/testify v1.4.1
 	github.com/ghostiam/protogetter v1.0.1
 	github.com/gin-contrib/cors v1.7.9
