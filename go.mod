@@ -1211,7 +1211,7 @@ require (
 	github.com/perimeterx/marshmallow v1.1.5
 	github.com/peterbourgon/diskv/v3 v3.0.1
 	github.com/peterbourgon/unixtransport v0.0.7
-	github.com/philhofer/fwd v1.2.0
+	github.com/philhofer/fwd v1.2.1
 	github.com/pierrec/lz4/v4 v4.1.33
 	github.com/pion/datachannel v1.6.3
 	github.com/pion/dtls v1.5.4
