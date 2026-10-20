@@ -231,6 +231,12 @@ github.com/hashicorp/nomad
 //	github.com/hashicorp/nomad/command imports
 //	github.com/hashicorp/nomad/command/agent imports
 //	github.com/hashicorp/go-metrics/compat/prometheus: cannot find module providing package github.com/hashicorp/go-metrics/compat/prometheus
+//go: github.com/hashicorp/nomad imports
+//	github.com/hashicorp/nomad/command imports
+//	github.com/hashicorp/nomad/command/agent imports
+//	github.com/hashicorp/nomad/client imports
+//	github.com/hashicorp/nomad/client/allocrunner imports
+//	github.com/hashicorp/consul/sdk/iptables: cannot find module providing package github.com/hashicorp/consul/sdk/iptables
 //go: module github.com/Azure/go-autorest/autorest is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azcore instead.
 //go: module github.com/Azure/go-autorest/autorest/adal is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
 //go: module github.com/Azure/go-autorest/autorest/azure/auth is deprecated: use github.com/Azure/azure-sdk-for-go/sdk/azidentity instead.
@@ -324,7 +330,7 @@ github.com/junk1tm/musttag
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go
-//go: github.com/lucas-clemente/quic-go@latest (v0.64.0) requires github.com/lucas-clemente/quic-go@v0.64.0: parsing go.mod:
+//go: github.com/lucas-clemente/quic-go@latest (v0.64.1) requires github.com/lucas-clemente/quic-go@v0.64.1: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/lucas-clemente/quic-go
 github.com/marten-seemann/qpack
