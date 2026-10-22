@@ -256,6 +256,16 @@ github.com/hashicorp/vault
 //	github.com/hashicorp/go-metrics/compat: cannot find module providing package github.com/hashicorp/go-metrics/compat
 //go: github.com/hashicorp/vault imports
 //	github.com/hashicorp/vault/command imports
+//	github.com/hashicorp/vault/helper/builtinplugins imports
+//	github.com/hashicorp/vault-plugin-secrets-gcpkms imports
+//	google.golang.org/genproto/googleapis/cloud/kms/v1: cannot find module providing package google.golang.org/genproto/googleapis/cloud/kms/v1
+//go: github.com/hashicorp/vault imports
+//	github.com/hashicorp/vault/command imports
+//	github.com/hashicorp/vault/internalshared/configutil imports
+//	github.com/google/go-metrics-stackdriver imports
+//	google.golang.org/genproto/googleapis/monitoring/v3: cannot find module providing package google.golang.org/genproto/googleapis/monitoring/v3
+//go: github.com/hashicorp/vault imports
+//	github.com/hashicorp/vault/command imports
 //	github.com/hashicorp/vault/internalshared/configutil imports
 //	github.com/hashicorp/vault/sdk/helper/metricregistry imports
 //	github.com/hashicorp/go-metrics/compat/prometheus: cannot find module providing package github.com/hashicorp/go-metrics/compat/prometheus
