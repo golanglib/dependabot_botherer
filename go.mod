@@ -987,7 +987,7 @@ require (
 	github.com/labstack/gommon v0.5.0
 	github.com/larksuite/oapi-sdk-go v1.1.48
 	github.com/larksuite/oapi-sdk-go/v3 v3.12.2
-	github.com/lasiar/canonicalheader v1.1.2
+	github.com/lasiar/canonicalheader v1.1.3
 	github.com/ldez/exptostd v0.4.5
 	github.com/ldez/gomoddirectives v0.10.0
 	github.com/ldez/grignotin v0.10.1
