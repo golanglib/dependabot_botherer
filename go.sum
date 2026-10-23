@@ -4367,8 +4367,8 @@ github.com/nikolalohinski/gonja v1.5.3 h1:GsA+EEaZDZPGJ8JtpeGN78jidhOlxeJROpqMT9
 github.com/nikolalohinski/gonja v1.5.3/go.mod h1:RmjwxNiXAEqcq1HeK5SSMmqFJvKOfTfXhkJv6YBtPa4=
 github.com/nikolalohinski/gonja/v2 v2.9.1 h1:ZDG0zYs5oR3fsqQFAlkaWiWYxPOBrCUK9k2IsRZhMa8=
 github.com/nikolalohinski/gonja/v2 v2.9.1/go.mod h1:UIzXPVuOsr5h7dZ5DUbqk3/Z7oFA/NLGQGMjqT4L2aU=
-github.com/nishanths/exhaustive v0.15.1 h1:GO6/8P0oHMtKPIgojE53/knNmZ7CqOj7LQyGdKLWxsA=
-github.com/nishanths/exhaustive v0.15.1/go.mod h1:8Q0ZLh416cKHWSnvTc0C8DlsvvX0PWCkonRIlSbUX5E=
+github.com/nishanths/exhaustive v0.16.0 h1:6pGfKabnedOGfRhbZNgpqcTcU8gqsnvpnBA6UbokcyU=
+github.com/nishanths/exhaustive v0.16.0/go.mod h1:/nBwAMRn2QmCjWQ3PiJ939yRSwvWLKSa21L2C6Tp84E=
 github.com/nishanths/predeclared v0.3.1 h1:qb/HpkPb0bF0drRBFkTyKY1ZRWcilc6gtxaBZGgn8H8=
 github.com/nishanths/predeclared v0.3.1/go.mod h1:Tsd/DNUrOSU4nGhDSYOXexypmCMpi2nXII8oiDVEzmU=
 github.com/nlnwa/whatwg-url v0.6.2 h1:jU61lU2ig4LANydbEJmA2nPrtCGiKdtgT0rmMd2VZ/Q=
