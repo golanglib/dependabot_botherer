@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/longrunning v1.4.0
 	cloud.google.com/go/monitoring v1.31.0
 	cloud.google.com/go/pubsub v1.51.1
-	cloud.google.com/go/storage v1.69.0
+	cloud.google.com/go/storage v1.70.0
 	cloud.google.com/go/trace v1.18.0
 	code.gitea.io/sdk/gitea v0.25.1
 	codeberg.org/chavacava/garif v0.2.1
