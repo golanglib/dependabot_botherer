@@ -2142,8 +2142,9 @@ github.com/digitalocean/godo v1.232.0 h1:nrQjWitcXKBDYQfz/dFjw4/dGaJ5hXAF/zDZMR7
 github.com/digitalocean/godo v1.232.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
 github.com/dimchansky/utfbom v1.0.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
 github.com/dimchansky/utfbom v1.1.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
-github.com/dimchansky/utfbom v1.1.1 h1:vV6w1AhK4VMnhBno/TPVCoK9U/LP0PkLCS9tbxHdi/U=
 github.com/dimchansky/utfbom v1.1.1/go.mod h1:SxdoEBH5qIqFocHMyGOXVAybYJdr71b1Q/j0mACtrfE=
+github.com/dimchansky/utfbom v1.2.0 h1:ikiGYT9Wa8zleQ0xrlAWC9Ar9LNInSWRodJ5MkHB3d4=
+github.com/dimchansky/utfbom v1.2.0/go.mod h1:kJPs9PFVyF/LnFVVGz+XXvouv0KxympBxr0pSwv0KQU=
 github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21 h1:PdsjTl0Cg+ZJgOx/CFV5NNgO1ThTreqdgKYiDCMHJwA=
 github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21/go.mod h1:xJvkyD6Y2rZapGvPJLYo9dyx1s5dxBEDPa8T3YTuOk0=
 github.com/disintegration/gift v1.2.1 h1:Y005a1X4Z7Uc+0gLpSAsKhWi4qLtsdEcMIbbdvdZ6pc=
