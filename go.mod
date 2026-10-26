@@ -341,7 +341,7 @@ require (
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/bufbuild/protocompile v0.14.1
 	github.com/buger/jsonparser v1.6.1
-	github.com/buildkite/terminal-to-html/v3 v3.17.1
+	github.com/buildkite/terminal-to-html/v3 v3.17.3
 	github.com/butuzov/ireturn v0.4.1
 	github.com/butuzov/mirror v1.3.3
 	github.com/bytedance/gg v1.1.0
