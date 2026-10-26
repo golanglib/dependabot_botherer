@@ -1239,7 +1239,7 @@ require (
 	github.com/pires/go-proxyproto v0.16.0
 	github.com/pjbgf/sha1cd v0.7.0
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
-	github.com/pkg/sftp v1.13.11
+	github.com/pkg/sftp v1.13.12
 	github.com/pkg/xattr v0.4.12
 	github.com/pkoukk/tiktoken-go v0.1.8
 	github.com/pkoukk/tiktoken-go-loader v0.0.2
