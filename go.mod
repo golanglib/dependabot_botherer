@@ -500,7 +500,7 @@ require (
 	github.com/dlclark/regexp2 v1.12.0
 	github.com/dmarkham/enumer v1.7.2
 	github.com/dnaeon/go-vcr v1.2.0
-	github.com/docker/docker-credential-helpers v0.9.10
+	github.com/docker/docker-credential-helpers v0.9.12
 	github.com/docker/go-connections v0.8.2
 	github.com/dpotapov/go-spnego v0.0.0-20210315154721-298b63a54430
 	github.com/dprotaso/go-yit v0.0.0-20250804204205-7afe4252a1dd
