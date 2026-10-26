@@ -139,7 +139,7 @@ require (
 	github.com/RoaringBitmap/roaring/v2 v2.30.0
 	github.com/RyuaNerin/go-krypto v1.3.0
 	github.com/RyuaNerin/testingutil v0.1.3
-	github.com/SAP/go-hdb v1.19.2
+	github.com/SAP/go-hdb v1.19.3
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.10.0
 	github.com/Shopify/go-lua v0.0.0-20261007132305-3f823f845ff9
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
