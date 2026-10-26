@@ -565,7 +565,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.9.6
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/g-rath/osv-detector v0.16.2
-	github.com/gabriel-vasile/mimetype v1.4.15
+	github.com/gabriel-vasile/mimetype v1.4.16
 	github.com/gaissmai/bart v0.30.0
 	github.com/gaukas/godicttls v0.0.4
 	github.com/gdamore/encoding v1.0.1
@@ -1013,7 +1013,7 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.4.1
 	github.com/lufeee/execinquery v1.2.1
 	github.com/lufia/plan9stats v0.0.0-20260627054121-477a66015f15
-	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
+	github.com/lunixbochs/struc v0.0.0-20241101090106-8d528fa2c543
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
 	github.com/lxc/incus/v6 v6.23.0
@@ -1345,7 +1345,7 @@ require (
 	github.com/segmentio/encoding v0.5.4
 	github.com/segmentio/fasthash v1.0.3
 	github.com/segmentio/kafka-go v0.4.51
-	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
+	github.com/seiflotfy/cuckoofilter v0.0.0-20240715131351-a2f2c23f1771
 	github.com/sensu/sensu-go/api/core v0.0.0-20221108055736-999d91931d17
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
 	github.com/sergi/go-diff v1.4.0
@@ -1499,7 +1499,7 @@ require (
 	github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08
 	github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
-	github.com/v2fly/v2ray-core/v5 v5.54.2
+	github.com/v2fly/v2ray-core/v5 v5.55.0
 	github.com/valyala/fasthttp v1.76.0
 	github.com/valyala/fastjson v1.6.10
 	github.com/valyala/fastrand v1.1.0
@@ -1540,7 +1540,7 @@ require (
 	github.com/xdg-go/stringprep v1.0.4
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xen0n/gosmopolitan v1.3.0
-	github.com/xiaokangwang/VLite v0.0.0-20220418190619-cff95160a432
+	github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2
 	github.com/xlab/treeprint v1.2.0
 	github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342
 	github.com/xtaci/smux v2.0.1+incompatible
@@ -1615,7 +1615,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.47.0
 	go.opentelemetry.io/otel/trace v1.47.0
 	go.opentelemetry.io/proto/otlp v1.11.1
-	go.starlark.net v0.0.0-20260326113308-fadfc96def35
+	go.starlark.net v0.0.0-20261016124120-4811d7e34ea3
 	go.step.sm/crypto v0.91.0
 	go.uber.org/atomic v1.12.0
 	go.uber.org/automaxprocs v1.6.0
@@ -1638,7 +1638,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20260811152304-ee035b5b010f
 	golang.org/x/image v0.47.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
-	golang.org/x/mobile v0.0.0-20260709172247-6129f5bee9d5
+	golang.org/x/mobile v0.0.0-20261011034528-197770444867
 	golang.org/x/mod v0.42.0
 	golang.org/x/net v0.61.0
 	golang.org/x/oauth2 v0.37.0
@@ -1652,7 +1652,7 @@ require (
 	golang.org/x/tools v0.52.0
 	golang.org/x/vuln v1.9.0
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
-	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb
+	golang.zx2c4.com/wireguard v0.0.0-20261006164505-2631ce99a06f
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
@@ -1662,7 +1662,7 @@ require (
 	google.golang.org/genai v1.75.0
 	google.golang.org/genproto v0.0.0-20260715232425-e75dac1f907d
 	google.golang.org/genproto/googleapis/api v0.0.0-20261012220534-4341edf3f941
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20261005182115-fad411399dd8
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20261019180522-ce908d29299b
 	google.golang.org/grpc v1.86.0-dev
 	google.golang.org/protobuf v1.36.12
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
@@ -1790,7 +1790,7 @@ require (
 	github.com/Yawning/aez v0.0.0-20211027044916-e49e68abd344 // indirect
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1 // indirect
 	github.com/agentable/go-intl v0.2.17 // indirect
-	github.com/ajg/form v1.5.1 // indirect
+	github.com/ajg/form v1.9.0 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/anacrolix/utp v0.1.0 // indirect
 	github.com/andeya/goutil v1.0.1 // indirect
@@ -1843,7 +1843,7 @@ require (
 	github.com/davidmz/go-pageant v1.0.2 // indirect
 	github.com/dgraph-io/ristretto/v2 v2.2.0 // indirect
 	github.com/dgryski/go-farm v0.0.0-20240924180020-3414d57e47da // indirect
-	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
+	github.com/dgryski/go-metro v0.0.0-20261008173524-5059e0b1da03 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dlclark/regexp2/v2 v2.8.0 // indirect
 	github.com/docker/cli v29.8.2+incompatible // indirect
@@ -1895,7 +1895,7 @@ require (
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
-	github.com/jhump/protoreflect/v2 v2.0.0-beta.1 // indirect
+	github.com/jhump/protoreflect/v2 v2.0.0 // indirect
 	github.com/josharian/mapfs v0.0.0-20210615234106-095c008854e6 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/jzelinskie/whirlpool v0.0.0-20201016144138-0675e54bb004 // indirect
@@ -1957,15 +1957,14 @@ require (
 	github.com/pb33f/jsonpath v0.8.4 // indirect
 	github.com/pb33f/ordered-map/v2 v2.3.2 // indirect
 	github.com/petermattis/goid v0.0.0-20260113132338-7c7de50cc741 // indirect
-	github.com/pion/dtls/v3 v3.1.5 // indirect
-	github.com/pion/ice/v4 v4.2.7 // indirect
-	github.com/pion/mdns/v2 v2.1.0 // indirect
-	github.com/pion/srtp/v3 v3.0.12 // indirect
-	github.com/pion/stun/v3 v3.1.7 // indirect
-	github.com/pion/transport/v4 v4.1.0 // indirect
+	github.com/pion/dtls/v3 v3.1.15 // indirect
+	github.com/pion/ice/v4 v4.4.8 // indirect
+	github.com/pion/mdns/v2 v2.2.2 // indirect
+	github.com/pion/srtp/v3 v3.1.3 // indirect
+	github.com/pion/stun/v4 v4.0.1 // indirect
 	github.com/pion/transport/v5 v5.1.1 // indirect
-	github.com/pion/turn/v5 v5.0.10 // indirect
-	github.com/pion/webrtc/v4 v4.2.16 // indirect
+	github.com/pion/turn/v5 v5.1.2 // indirect
+	github.com/pion/webrtc/v4 v4.2.24 // indirect
 	github.com/pkg/errors v0.9.2-0.20201214064552-5dd12d0cfe7f // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/posener/complete v1.2.3 // indirect
@@ -2038,7 +2037,7 @@ require (
 	go.opentelemetry.io/otel/sdk/log v0.22.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.6 // indirect
-	golang.org/x/exp/shiny v0.0.0-20260611194520-c48552f49976 // indirect
+	golang.org/x/exp/shiny v0.0.0-20261009195045-ca0d7ba23607 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v1.0.1 // indirect
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.6.2 // indirect
