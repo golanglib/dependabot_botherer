@@ -22,7 +22,7 @@ require (
 	cloud.google.com/go/longrunning v1.4.0
 	cloud.google.com/go/monitoring v1.31.0
 	cloud.google.com/go/pubsub v1.51.1
-	cloud.google.com/go/storage v1.69.0
+	cloud.google.com/go/storage v1.70.0
 	cloud.google.com/go/trace v1.17.0
 	code.gitea.io/sdk/gitea v0.25.1
 	codeberg.org/chavacava/garif v0.2.1
@@ -1657,12 +1657,12 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	gonum.org/v1/gonum v0.17.0
 	google.golang.org/adk v1.9.0
-	google.golang.org/api v0.305.0
+	google.golang.org/api v0.307.0
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.75.0
 	google.golang.org/genproto v0.0.0-20260715232425-e75dac1f907d
 	google.golang.org/genproto/googleapis/api v0.0.0-20261012220534-4341edf3f941
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20261005182115-fad411399dd8
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20261019180522-ce908d29299b
 	google.golang.org/grpc v1.86.0-dev
 	google.golang.org/protobuf v1.36.12
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
