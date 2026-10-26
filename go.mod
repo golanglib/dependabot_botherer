@@ -763,7 +763,7 @@ require (
 	github.com/google/logger v1.1.2
 	github.com/google/martian/v3 v3.3.3
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/pprof v0.0.0-20260906184651-6331bc6350fe
+	github.com/google/pprof v0.0.0-20261016150608-1facf8f91b50
 	github.com/google/s2a-go v0.1.11
 	github.com/google/safehtml v0.1.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -1340,7 +1340,7 @@ require (
 	github.com/seccomp/libseccomp-golang v0.12.0
 	github.com/secure-io/siv-go v0.0.0-20180922214919-5ff40651e2c4
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989
-	github.com/securego/gosec/v2 v2.29.0
+	github.com/securego/gosec/v2 v2.30.0
 	github.com/segmentio/asm v1.2.1
 	github.com/segmentio/encoding v0.5.4
 	github.com/segmentio/fasthash v1.0.3
@@ -2006,7 +2006,7 @@ require (
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/xiang90/probing v0.0.0-20221125231312-a49e3df8f510 // indirect
-	github.com/xo/terminfo v1.0.0 // indirect
+	github.com/xo/terminfo v1.2.0 // indirect
 	github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0 // indirect
 	github.com/yosssi/ace v0.0.5 // indirect
 	github.com/yudai/gojsondiff v1.0.0 // indirect
