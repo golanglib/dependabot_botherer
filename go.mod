@@ -944,7 +944,7 @@ require (
 	github.com/josharian/intern v1.0.0
 	github.com/josharian/native v1.2.0
 	github.com/josharian/txtarfs v0.0.0-20240408113805-5dc76b8fe6bf
-	github.com/jpillora/backoff v1.0.0
+	github.com/jpillora/backoff v1.1.0
 	github.com/json-iterator/go v1.1.12
 	github.com/jsternberg/zap-logfmt v1.3.0
 	github.com/jtolio/noiseconn v0.0.0-20231127013910-f6d9ecbf1de7
