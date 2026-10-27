@@ -150,7 +150,7 @@ require (
 	github.com/adrg/xdg v0.5.3
 	github.com/aerospike/aerospike-client-go/v5 v5.11.0
 	github.com/agext/levenshtein v1.2.3
-	github.com/agiledragon/gomonkey/v2 v2.14.3
+	github.com/agiledragon/gomonkey/v2 v2.14.4
 	github.com/agnivade/levenshtein v1.2.2
 	github.com/air-verse/air v1.67.4
 	github.com/ajwerner/btree v0.3.0
