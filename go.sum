@@ -978,8 +978,8 @@ github.com/OneOfOne/xxhash v1.2.8/go.mod h1:eZbhyaAYD41SGSSsnmcpxVoRiQ/MPUTjUdII
 github.com/OpenDNS/vegadns2client v0.0.0-20180418235048-a3fa4a771d87/go.mod h1:iGLljf5n9GjT6kc0HBvyI1nOKnGQbNB66VzSNbK5iks=
 github.com/OpenPeeDeeP/depguard v1.1.1 h1:TSUznLjvp/4IUP+OQ0t/4jF4QUyxIcVX8YnghZdunyA=
 github.com/OpenPeeDeeP/depguard v1.1.1/go.mod h1:JtAMzWkmFEzDPyAd+W0NHl1lvpQKTvT9jnRVsohBKpc=
-github.com/OpenPeeDeeP/depguard/v2 v2.2.1 h1:vckeWVESWp6Qog7UZSARNqfu/cZqvki8zsuj3piCMx4=
-github.com/OpenPeeDeeP/depguard/v2 v2.2.1/go.mod h1:q4DKzC4UcVaAvcfd41CZh0PWpGgzrVxUYBlgKNGquUo=
+github.com/OpenPeeDeeP/depguard/v2 v2.3.0 h1:AzcyrJSVScO5DztG8NB5XSKNeuxqgFsLQf+sTXEbF8w=
+github.com/OpenPeeDeeP/depguard/v2 v2.3.0/go.mod h1:s0C87mbhDHS0xxt0K9kkxb+w+W1mdvgUyajfFs4AcfI=
 github.com/PaesslerAG/gval v1.2.4 h1:rhX7MpjJlcxYwL2eTTYIOBUyEKZ+A96T9vQySWkVUiU=
 github.com/PaesslerAG/gval v1.2.4/go.mod h1:XRFLwvmkTEdYziLdaCeCa5ImcGVrfQbeNUbVR+C6xac=
 github.com/PaesslerAG/jsonpath v0.1.0 h1:gADYeifvlqK3R3i2cR5B4DGgxLXIPb3TRTH1mGi0jPI=
