@@ -1252,7 +1252,7 @@ require (
 	github.com/prometheus-community/pro-bing v0.9.1
 	github.com/prometheus/client_golang v1.25.0
 	github.com/prometheus/client_model v0.6.3
-	github.com/prometheus/common v0.72.1
+	github.com/prometheus/common v0.73.0
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/prometheus/procfs v0.23.0
 	github.com/prometheus/prom2json v1.5.0
@@ -1953,6 +1953,7 @@ require (
 	github.com/opencontainers/umoci v0.6.1-0.20251213054154-70fc5ee1f4df // indirect
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db // indirect
+	github.com/pandatix/go-abnf v0.5.1 // indirect
 	github.com/pb33f/go-yaml v0.1.1 // indirect
 	github.com/pb33f/jsonpath v0.8.4 // indirect
 	github.com/pb33f/ordered-map/v2 v2.3.2 // indirect
