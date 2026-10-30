@@ -5632,8 +5632,8 @@ github.com/vmihailenco/tagparser/v2 v2.0.0 h1:y09buUbR+b5aycVFQs/g70pqKVZNBmxwAh
 github.com/vmihailenco/tagparser/v2 v2.0.0/go.mod h1:Wri+At7QHww0WTrCBeu4J6bNtoV6mEfg5OIWRZA9qds=
 github.com/vmware-labs/yaml-jsonpath v0.3.2 h1:/5QKeCBGdsInyDCyVNLbXyilb61MXGi9NP674f9Hobk=
 github.com/vmware-labs/yaml-jsonpath v0.3.2/go.mod h1:U6whw1z03QyqgWdgXxvVnQ90zN1BWz5V+51Ewf8k+rQ=
-github.com/vmware/govmomi v0.56.1 h1:vOnG+U3kVJ1jaRix8tkkPYCweLkh28bE5rjmzBZb6Tw=
-github.com/vmware/govmomi v0.56.1/go.mod h1:XI+N/NkdbIz5rOAVzfg4wbNJVj2CXUAZmzEEA7RCMh4=
+github.com/vmware/govmomi v0.56.2 h1:cCgoNrsi35Yka91004gmDYHTbsDtxs8RC4IkV+Wg81I=
+github.com/vmware/govmomi v0.56.2/go.mod h1:XI+N/NkdbIz5rOAVzfg4wbNJVj2CXUAZmzEEA7RCMh4=
 github.com/volcengine/ve-tos-golang-sdk v0.2.2 h1:CY7GDsCzLZY/DDUi8sGgCZboRLfEJLNUVvnvOt+1iUU=
 github.com/volcengine/ve-tos-golang-sdk v0.2.2/go.mod h1:FOtBV2Nceh5vaaY5SOjaNlqVYiLOwsxpOzKhYod9LBQ=
 github.com/volcengine/ve-tos-golang-sdk/v2 v2.9.10 h1:8vij8WfhYLmMkWhgP3kNv1mwx1aiyzS/v5BD/GJPojg=
