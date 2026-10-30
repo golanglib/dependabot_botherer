@@ -807,7 +807,7 @@ require (
 	github.com/grokify/html-strip-tags-go v0.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.32.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.33.0
 	github.com/h12w/go-socks5 v0.0.0-20200522160539-76189e178364
 	github.com/h2non/gock v1.2.0
 	github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542
@@ -1661,7 +1661,7 @@ require (
 	google.golang.org/appengine v1.6.8
 	google.golang.org/genai v1.76.0
 	google.golang.org/genproto v0.0.0-20260715232425-e75dac1f907d
-	google.golang.org/genproto/googleapis/api v0.0.0-20261012220534-4341edf3f941
+	google.golang.org/genproto/googleapis/api v0.0.0-20261026165753-2ffab32bce7e
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20261019180522-ce908d29299b
 	google.golang.org/grpc v1.86.0-dev
 	google.golang.org/protobuf v1.36.12
