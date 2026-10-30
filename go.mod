@@ -1108,7 +1108,7 @@ require (
 	github.com/moby/sys/mountinfo v0.7.2
 	github.com/moby/sys/sequential v0.7.0
 	github.com/moby/sys/signal v0.7.1
-	github.com/moby/sys/user v0.4.1
+	github.com/moby/sys/user v0.5.0
 	github.com/moby/sys/userns v0.2.1
 	github.com/moby/term v0.5.2
 	github.com/modelcontextprotocol/go-sdk v1.8.0
