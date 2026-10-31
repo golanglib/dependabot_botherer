@@ -9,7 +9,7 @@ code.gitea.io/gitea
 github.com/anthony-zh/osv-proxy
 //go: github.com/anthony-zh/osv-proxy@latest: no matching versions for query "latest"
 github.com/antlr/antlr4/runtime/Go/antlr/v4
-//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20260216212909-7d5770395bb7) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20260216212909-7d5770395bb7: parsing go.mod:
+//go: github.com/antlr/antlr4/runtime/Go/antlr/v4@latest (v4.0.0-20261030083216-45be27daf036) requires github.com/antlr/antlr4/runtime/Go/antlr/v4@v4.0.0-20261030083216-45be27daf036: parsing go.mod:
 //	module declares its path as: github.com/antlr4-go/antlr/v4
 //	        but was required as: github.com/antlr/antlr4/runtime/Go/antlr/v4
 github.com/antonmedv/expr
@@ -90,7 +90,7 @@ github.com/fatih/gomodifytags
 //[github.com/fatih/gomodifytags] "test-fixtures": no buildable Go source files in /home/runner/go/pkg/mod/github.com/fatih/gomodifytags@v1.17.0/test-fixtures
 //[github.com/fatih/gomodifytags] no importable packages found
 github.com/fclairamb/ftpserverlib
-//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.32.4
+//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.32.6
 //[github.com/fclairamb/ftpserverlib] module has replace
 github.com/go-darwin/apfs
 //[github.com/go-darwin/apfs] dir: /home/runner/go/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348

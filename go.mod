@@ -548,7 +548,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20261029181457-e0da848e9c0b
+	github.com/facebook/time v0.0.0-20261030133111-2920b4166251
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1294,7 +1294,7 @@ require (
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/robinson/gos7 v0.0.0-20260924061028-c54e650665ba
+	github.com/robinson/gos7 v0.0.0-20261030170303-153d631d8881
 	github.com/rogpeppe/go-internal v1.16.0
 	github.com/rs/cors v1.11.1
 	github.com/rs/cors/wrapper/gin v0.0.0-20261008204034-5d834403882d
