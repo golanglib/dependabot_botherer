@@ -1,6 +1,6 @@
 module dependabot_botherer
 
-go 1.27.0
+go 1.27.3
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.4.0
@@ -1383,7 +1383,7 @@ require (
 	github.com/sivchari/tenv v1.12.1
 	github.com/skeema/knownhosts v1.3.3
 	github.com/slack-go/slack v0.33.0
-	github.com/slackhq/nebula v1.11.2
+	github.com/slackhq/nebula v1.12.0
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
@@ -1687,7 +1687,7 @@ require (
 	gorm.io/plugin/dbresolver v1.6.2
 	gortc.io/stun v1.23.0
 	gotest.tools/v3 v3.5.2
-	gvisor.dev/gvisor v0.0.0-20260218152508-eed1cebf761e
+	gvisor.dev/gvisor v0.0.0-20261014193016-04d31b385980
 	h12.io/socks v1.0.3
 	honnef.co/go/tools v0.8.2
 	howett.net/plist v1.0.1
@@ -1778,6 +1778,7 @@ require (
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-ntlmssp v0.1.1 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20210404020558-97928f7e12b6 // indirect
+	github.com/DefinedNet/dnsconfig v0.0.0-20261028201825-617c971e7a6a // indirect
 	github.com/DefinedNet/netlink v1.3.2-dn.1 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.62.0 // indirect
 	github.com/Jeffail/gabs/v2 v2.6.1 // indirect
@@ -2040,7 +2041,7 @@ require (
 	go.yaml.in/yaml/v4 v4.0.0-rc.6 // indirect
 	golang.org/x/exp/shiny v0.0.0-20261009195045-ca0d7ba23607 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
-	golang.zx2c4.com/wireguard/windows v1.0.1 // indirect
+	golang.zx2c4.com/wireguard/windows v1.1.1 // indirect
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.6.2 // indirect
 	gopkg.in/cenkalti/backoff.v1 v1.1.0 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
