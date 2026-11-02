@@ -681,7 +681,7 @@ require (
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
 	github.com/gocarina/gocsv v0.0.0-20261012193826-401c25af6907
-	github.com/goccy/go-json v0.11.2
+	github.com/goccy/go-json v0.12.0
 	github.com/goccy/go-yaml v1.19.2
 	github.com/gochore/boltutil v0.2.0
 	github.com/gochore/dcron v1.5.0
