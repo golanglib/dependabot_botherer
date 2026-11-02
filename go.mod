@@ -239,7 +239,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.20.5
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.23.17
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.75.2
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.90.2
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.90.3
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.44.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.72.2
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.46.3
