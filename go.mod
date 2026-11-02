@@ -1627,7 +1627,7 @@ require (
 	go.uber.org/ratelimit v0.3.1
 	go.uber.org/zap v1.28.0
 	go.uber.org/zap/exp v0.3.0
-	go.yaml.in/yaml/v3 v3.0.5
+	go.yaml.in/yaml/v3 v3.0.6
 	go4.org v0.0.0-20260112195520-a5071408f32f
 	go4.org/netipx v0.0.0-20260823151212-3075585bcbeb
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
