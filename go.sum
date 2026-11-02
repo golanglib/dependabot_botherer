@@ -1708,8 +1708,8 @@ github.com/bytedance/sonic v1.15.5 h1:gKWTBfYCIQpQHZ7LpwGf9Gj3N88ZN0G/GaB3EQhiGX
 github.com/bytedance/sonic v1.15.5/go.mod h1:nn7CoK5W+LKbl22XGJrXg6SwzaFAcVs89miqzkqDwOU=
 github.com/bytedance/sonic/loader v0.5.3 h1:ziVGAbXQtLoaot/M6YQxntGkekxz6B/DyuJVwnTbMAA=
 github.com/bytedance/sonic/loader v0.5.3/go.mod h1:AR4NYCk5DdzZizZ5djGqQ92eEhCCcdf5x77udYiSJRo=
-github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.81 h1:InlrqqOJJqPRLZ93EsnuSNbWTn9TmlTzZyqvJJDTlyk=
-github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.81/go.mod h1:eqR3bDX3XtdPBcB9vERznOyi0MAcAI1GFAdcRspNMBU=
+github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.82 h1:lNJmxyNwf8DHJTCFR/R0peh5uv/JceQqorLPYEwSF/4=
+github.com/byteplus-sdk/byteplus-go-sdk-v2 v1.0.82/go.mod h1:eqR3bDX3XtdPBcB9vERznOyi0MAcAI1GFAdcRspNMBU=
 github.com/byteplus-sdk/byteplus-sdk-golang v1.0.16/go.mod h1:7iCaE+dR9EycrJU0GQyMhptbInLbQhsKXiDKDjNi8Vs=
 github.com/byteplus-sdk/byteplus-sdk-golang v1.0.75 h1:74MywrxPm4O+7+KQ6WDKxTgAdExzIab6k9wBjMPZnTM=
 github.com/byteplus-sdk/byteplus-sdk-golang v1.0.75/go.mod h1:h9e7kokYFbwcaGai0ZVuhUczEAwDteRv6tOqNvuyoxE=
