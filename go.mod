@@ -641,7 +641,7 @@ require (
 	github.com/go-openapi/jsonpointer v1.0.2
 	github.com/go-openapi/jsonreference v1.0.3
 	github.com/go-openapi/loads v0.25.3
-	github.com/go-openapi/runtime v0.33.3
+	github.com/go-openapi/runtime v0.33.4
 	github.com/go-openapi/spec v1.0.1
 	github.com/go-openapi/strfmt v0.27.4
 	github.com/go-openapi/swag v0.29.2
@@ -658,7 +658,7 @@ require (
 	github.com/go-resty/resty/v2 v2.17.2
 	github.com/go-sql-driver/mysql v1.10.1
 	github.com/go-stack/stack v1.8.1
-	github.com/go-swagger/go-swagger v0.36.6
+	github.com/go-swagger/go-swagger v0.36.7
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
@@ -1640,7 +1640,7 @@ require (
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/mobile v0.0.0-20261011034528-197770444867
 	golang.org/x/mod v0.42.0
-	golang.org/x/net v0.61.0
+	golang.org/x/net v0.62.0
 	golang.org/x/oauth2 v0.37.0
 	golang.org/x/sync v0.24.0
 	golang.org/x/sys v0.49.0
