@@ -379,7 +379,7 @@ require (
 	github.com/charmbracelet/git-lfs-transfer v0.1.0
 	github.com/charmbracelet/glamour v1.0.0
 	github.com/charmbracelet/lipgloss v1.1.1-0.20250404203927-76690c660834
-	github.com/charmbracelet/x/ansi v0.11.8
+	github.com/charmbracelet/x/ansi v0.11.9
 	github.com/charmbracelet/x/exp/golden v0.1.0
 	github.com/charmbracelet/x/term v0.2.2
 	github.com/chavacava/garif v0.1.0
@@ -522,7 +522,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.1-0.20241212181136-fad1cd13edbd
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.9.2
-	github.com/elazarl/goproxy/ext v0.0.0-20260927174940-a05e9220be0b
+	github.com/elazarl/goproxy/ext v0.0.0-20261031194019-e7a00c638cf0
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-imap/v2 v2.0.0-beta.8
@@ -548,7 +548,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20261030133111-2920b4166251
+	github.com/facebook/time v0.0.0-20261102131050-f19d7170adac
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -592,7 +592,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20261018144412-73e07f958d52
+	github.com/go-ap/activitypub v0.0.0-20261101142956-a76d71dd72b0
 	github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394
 	github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38
 	github.com/go-asn1-ber/asn1-ber v1.5.8
@@ -680,7 +680,7 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/gobwas/httphead v0.1.0
 	github.com/gobwas/ws v1.4.0
-	github.com/gocarina/gocsv v0.0.0-20261012193826-401c25af6907
+	github.com/gocarina/gocsv v0.0.0-20261101205459-d0dd027dcbfa
 	github.com/goccy/go-json v0.12.0
 	github.com/goccy/go-yaml v1.19.2
 	github.com/gochore/boltutil v0.2.0
@@ -962,7 +962,7 @@ require (
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
 	github.com/keybase/go-keychain v0.0.1
-	github.com/keybase/saltpack v0.0.0-20261015141035-6897e9f74929
+	github.com/keybase/saltpack v0.0.0-20261102153154-121f0dfad98f
 	github.com/kisielk/errcheck v1.30.0
 	github.com/kisielk/gotool v1.0.0
 	github.com/kkHAIKE/contextcheck v1.1.6
@@ -1297,7 +1297,7 @@ require (
 	github.com/robinson/gos7 v0.0.0-20261030170303-153d631d8881
 	github.com/rogpeppe/go-internal v1.16.0
 	github.com/rs/cors v1.11.1
-	github.com/rs/cors/wrapper/gin v0.0.0-20261008204034-5d834403882d
+	github.com/rs/cors/wrapper/gin v0.0.0-20261101222852-7ca5fe28f7d5
 	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
 	github.com/rs/xid v1.6.0
 	github.com/rs/zerolog v1.35.1
@@ -2008,7 +2008,7 @@ require (
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/xiang90/probing v0.0.0-20221125231312-a49e3df8f510 // indirect
-	github.com/xo/terminfo v1.2.0 // indirect
+	github.com/xo/terminfo v1.3.0 // indirect
 	github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0 // indirect
 	github.com/yosssi/ace v0.0.5 // indirect
 	github.com/yudai/gojsondiff v1.0.0 // indirect

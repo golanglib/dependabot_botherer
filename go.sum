@@ -1791,8 +1791,8 @@ github.com/charmbracelet/glamour v1.0.0 h1:AWMLOVFHTsysl4WV8T8QgkQ0s/ZNZo7CiE4WK
 github.com/charmbracelet/glamour v1.0.0/go.mod h1:DSdohgOBkMr2ZQNhw4LZxSGpx3SvpeujNoXrQyH2hxo=
 github.com/charmbracelet/lipgloss v1.1.1-0.20250404203927-76690c660834 h1:ZR7e0ro+SZZiIZD7msJyA+NjkCNNavuiPBLgerbOziE=
 github.com/charmbracelet/lipgloss v1.1.1-0.20250404203927-76690c660834/go.mod h1:aKC/t2arECF6rNOnaKaVU6y4t4ZeHQzqfxedE/VkVhA=
-github.com/charmbracelet/x/ansi v0.11.8 h1:JMFwp0CgDC2+jcOB162HH5k7I3FVbgFSMMYg7dSPBQQ=
-github.com/charmbracelet/x/ansi v0.11.8/go.mod h1:ZNN+3mXny/516oTQPLMPIBeSINvNJJQ8uQXDgbeJxY0=
+github.com/charmbracelet/x/ansi v0.11.9 h1:kIrqLBxtTVbLyyHO2Evoi93EjQo1mylWmpNEsfPxXAM=
+github.com/charmbracelet/x/ansi v0.11.9/go.mod h1:DG/hpOnaI2QJ/KMMqLL2h0KVhluuJLazf8973P+Vy5w=
 github.com/charmbracelet/x/cellbuf v0.0.15 h1:ur3pZy0o6z/R7EylET877CBxaiE1Sp1GMxoFPAIztPI=
 github.com/charmbracelet/x/cellbuf v0.0.15/go.mod h1:J1YVbR7MUuEGIFPCaaZ96KDl5NoS0DAWkskup+mOY+Q=
 github.com/charmbracelet/x/exp/golden v0.1.0 h1:qgUxGaHX4I8Fg077vD+54+qFmDWrgO19lTCQLblHWko=
@@ -2260,8 +2260,8 @@ github.com/elazarl/go-bindata-assetfs v1.0.0/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo
 github.com/elazarl/go-bindata-assetfs v1.0.1/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
 github.com/elazarl/goproxy v1.9.2 h1:+vXRRSWrznMtBrAb559qfqC+Cny1Q3rR0l51Yu/3WUw=
 github.com/elazarl/goproxy v1.9.2/go.mod h1:THdE5ix2clxX9lZzcICPpZ67d6CdrPZxdOYsNgU5e30=
-github.com/elazarl/goproxy/ext v0.0.0-20260927174940-a05e9220be0b h1:P9gnAbo2ss8eV7g8/asYkslN/buZtPZdwERJB6m7kB0=
-github.com/elazarl/goproxy/ext v0.0.0-20260927174940-a05e9220be0b/go.mod h1:BDldqheoTMmnZfXEweTXUIoJr2lPAFsEfG+uiSF6Cac=
+github.com/elazarl/goproxy/ext v0.0.0-20261031194019-e7a00c638cf0 h1:oOae4eWLyBEGahfMn2AbtJD0E4f5T3fn7qlzQaoCSoQ=
+github.com/elazarl/goproxy/ext v0.0.0-20261031194019-e7a00c638cf0/go.mod h1:BDldqheoTMmnZfXEweTXUIoJr2lPAFsEfG+uiSF6Cac=
 github.com/elgatito/upnp v0.0.0-20180711183757-2f244d205f9a/go.mod h1:afkYpY8JAIL4341N7Zj9xJ5yTovsg6BkWfBFlCzIoF4=
 github.com/elliotchance/orderedmap v1.8.0 h1:TrOREecvh3JbS+NCgwposXG5ZTFHtEsQiCGOhPElnMw=
 github.com/elliotchance/orderedmap v1.8.0/go.mod h1:wsDwEaX5jEoyhbs7x93zk2H/qv0zwuhg4inXhDkYqys=
@@ -2344,8 +2344,8 @@ github.com/evanw/esbuild v0.28.2/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.17.8 h1:W1loDTT+0PQf5YteHSTpju2qfUfNoBt4yw9+wOEU9VM=
 github.com/expr-lang/expr v1.17.8/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20261030133111-2920b4166251 h1:Fr/QLIDlYQdw5bw48RA4tRvOsOgN/ReYWGuBg9+cHAQ=
-github.com/facebook/time v0.0.0-20261030133111-2920b4166251/go.mod h1:tvIlGl1H0y35Opsd4n7WmsVYxaTCHOsGhaGCNw4UsfQ=
+github.com/facebook/time v0.0.0-20261102131050-f19d7170adac h1:zUiLqoWazcDJtjTiEazxgHFBL4E7yLJDiMfQY3Y4ohQ=
+github.com/facebook/time v0.0.0-20261102131050-f19d7170adac/go.mod h1:tvIlGl1H0y35Opsd4n7WmsVYxaTCHOsGhaGCNw4UsfQ=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
@@ -2486,8 +2486,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20261018144412-73e07f958d52 h1:aZXe01LBXn0v4dyMvN0/URBPCkKGVAH1PyX6KEpizDM=
-github.com/go-ap/activitypub v0.0.0-20261018144412-73e07f958d52/go.mod h1:P82qNcWhSgpw1RqXQOEwOpgONQsCh/PchnxUPqWjfQQ=
+github.com/go-ap/activitypub v0.0.0-20261101142956-a76d71dd72b0 h1:5J2PGGa3gQu7BDKQnYeEtzV2eY1AvfCB4kuQYoXkqfc=
+github.com/go-ap/activitypub v0.0.0-20261101142956-a76d71dd72b0/go.mod h1:/SosHz/9vs7D6mNQmaUqDmcCHwyrFog0BC3lGbaAxUE=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394 h1:PK7N5OJVsotfSuzc3/s0CGqLN8tYFAixg36C6SpOB9Q=
 github.com/go-ap/errors v0.0.0-20260701132509-92e5e4fd6394/go.mod h1:dqDuYtQWH2GLodzfE+wKsEXEkWSHoGW43JZwGJapgX4=
 github.com/go-ap/jsonld v0.0.0-20260607140920-737b40e0ca38 h1:YB/gyKeZxzCOo0G0xUWGchXRm3sy/52tQk9WBr/2nEA=
@@ -2760,8 +2760,8 @@ github.com/gobwas/pool v0.2.1/go.mod h1:q8bcK0KcYlCgd9e7WYLm9LpyS+YeLd8JVDW6Wezm
 github.com/gobwas/ws v1.2.1/go.mod h1:hRKAFb8wOxFROYNsT1bqfWnhX+b5MFeJM9r2ZSwg/KY=
 github.com/gobwas/ws v1.4.0 h1:CTaoG1tojrh4ucGPcoJFiAQUAsEWekEWvLy7GsVNqGs=
 github.com/gobwas/ws v1.4.0/go.mod h1:G3gNqMNtPppf5XUz7O4shetPpcZ1VJ7zt18dlUeakrc=
-github.com/gocarina/gocsv v0.0.0-20261012193826-401c25af6907 h1:MVuIVNIHXT01Nxrr2om3bIh9BWgvCJ7Nk8tmgq+LnVM=
-github.com/gocarina/gocsv v0.0.0-20261012193826-401c25af6907/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
+github.com/gocarina/gocsv v0.0.0-20261101205459-d0dd027dcbfa h1:u6dQLh7NdeVIBn4fE4YL9PiHFephNp7t7rUSU+fulro=
+github.com/gocarina/gocsv v0.0.0-20261101205459-d0dd027dcbfa/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
 github.com/goccy/go-json v0.9.11/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
 github.com/goccy/go-json v0.12.0 h1:pD+oWouAiz4yruwXIt/iT+lOMeyhr1aTtxzaMP/RgVI=
 github.com/goccy/go-json v0.12.0/go.mod h1:3NdmfEkZlB7YI5UFw/qdFKq8XN1aiWR0YyRPWZNQltY=
@@ -3722,8 +3722,8 @@ github.com/keybase/go-codec v0.0.0-20180928230036-164397562123 h1:yg56lYPqh9suJe
 github.com/keybase/go-codec v0.0.0-20180928230036-164397562123/go.mod h1:r/eVVWCngg6TsFV/3HuS9sWhDkAzGG8mXhiuYA+Z/20=
 github.com/keybase/go-keychain v0.0.1 h1:way+bWYa6lDppZoZcgMbYsvC7GxljxrskdNInRtuthU=
 github.com/keybase/go-keychain v0.0.1/go.mod h1:PdEILRW3i9D8JcdM+FmY6RwkHGnhHxXwkPPMeUgOK1k=
-github.com/keybase/saltpack v0.0.0-20261015141035-6897e9f74929 h1:UxIkJzEAax04YitQBJiI/eTMvAeIUVCMnzmmmrnbRjs=
-github.com/keybase/saltpack v0.0.0-20261015141035-6897e9f74929/go.mod h1:W32vyJY070Pfy5VFGfJgvSmmw0g4/j+Zt/AY8/AZy5w=
+github.com/keybase/saltpack v0.0.0-20261102153154-121f0dfad98f h1:CgYguyE+m/YqAOsUFj+HLntaKIg8fXopqQ2I6QmC3cQ=
+github.com/keybase/saltpack v0.0.0-20261102153154-121f0dfad98f/go.mod h1:W32vyJY070Pfy5VFGfJgvSmmw0g4/j+Zt/AY8/AZy5w=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/errcheck v1.30.0 h1:ZIxNDAfAd4larXHTceoZP/dYPAB90dHg1OYhA2sVh5k=
@@ -4941,8 +4941,8 @@ github.com/rootless-containers/proto/go-proto v0.0.0-20260207013450-f6ee952d53d9
 github.com/rootless-containers/proto/go-proto v0.0.0-20260207013450-f6ee952d53d9/go.mod h1:LLjEAc6zmycfeN7/1fxIphWQPjHpTt7ElqT7eVf8e4A=
 github.com/rs/cors v1.11.1 h1:eU3gRzXLRK57F5rKMGMZURNdIG4EoAmX8k94r9wXWHA=
 github.com/rs/cors v1.11.1/go.mod h1:XyqrcTp5zjWr1wsJ8PIRZssZ8b/WMcMf71DJnit4EMU=
-github.com/rs/cors/wrapper/gin v0.0.0-20261008204034-5d834403882d h1:NOMR2Xi+RJj6vDDf6Npx5F+Rl4VbPXuUIzz+676HONo=
-github.com/rs/cors/wrapper/gin v0.0.0-20261008204034-5d834403882d/go.mod h1:UkcVz4d5PVHMbLZcN5lqy4KOGXiO9vVdxlITo+boMCE=
+github.com/rs/cors/wrapper/gin v0.0.0-20261101222852-7ca5fe28f7d5 h1:MxS/kMbJQ+JVHkO6Ck1vqG3YdJHCHad5uyHPCpCSI+M=
+github.com/rs/cors/wrapper/gin v0.0.0-20261101222852-7ca5fe28f7d5/go.mod h1:UkcVz4d5PVHMbLZcN5lqy4KOGXiO9vVdxlITo+boMCE=
 github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417 h1:Lt9DzQALzHoDwMBGJ6v8ObDPR0dzr2a6sXTB1Fq7IHs=
 github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417/go.mod h1:qe5TWALJ8/a1Lqznoc5BDHpYX/8HU60Hm2AwRmqzxqA=
 github.com/rs/xid v1.2.1/go.mod h1:+uKXf+4Djp6Md1KODXJxgGQPKngRmWyn10oCKFzNHOQ=
@@ -5714,8 +5714,8 @@ github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2 h1:JwiRCsLsmnNX
 github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2/go.mod h1:PChnkENmpgFKJRVZ6mX1tFBSZMqXrjbtmc48+fANnwo=
 github.com/xlab/treeprint v1.2.0 h1:HzHnuAF1plUN2zGlAFHbSQP2qJ0ZAD3XF5XD7OesXRQ=
 github.com/xlab/treeprint v1.2.0/go.mod h1:gj5Gd3gPdKtR1ikdDK6fnFLdmIS0X30kTTuNd/WEJu0=
-github.com/xo/terminfo v1.2.0 h1:d0ZTOCpuGE0lwSAOs0zcJjwz3jWQyqcRt9XbGJpCOl4=
-github.com/xo/terminfo v1.2.0/go.mod h1:lGzkSo8Fe7IRh/w+Gqz7n5mDog4FVXCj3gy/DYTBqio=
+github.com/xo/terminfo v1.3.0 h1:KstyePbNW6UaLq9y12+544VK4aTP3Eku/sym3a9+UgQ=
+github.com/xo/terminfo v1.3.0/go.mod h1:lGzkSo8Fe7IRh/w+Gqz7n5mDog4FVXCj3gy/DYTBqio=
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342 h1:FnBeRrxr7OU4VvAzt5X7s6266i6cSVkkFPS0TuXWbIg=
 github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342/go.mod h1:Ohn+xnUBiLI6FVj/9LpzZWtj1/D6lUovWYBkxHVV3aM=

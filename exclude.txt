@@ -90,7 +90,7 @@ github.com/fatih/gomodifytags
 //[github.com/fatih/gomodifytags] "test-fixtures": no buildable Go source files in /home/runner/go/pkg/mod/github.com/fatih/gomodifytags@v1.17.0/test-fixtures
 //[github.com/fatih/gomodifytags] no importable packages found
 github.com/fclairamb/ftpserverlib
-//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.32.6
+//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.32.7
 //[github.com/fclairamb/ftpserverlib] module has replace
 github.com/go-darwin/apfs
 //[github.com/go-darwin/apfs] dir: /home/runner/go/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348
@@ -340,7 +340,7 @@ github.com/junk1tm/musttag
 //	module declares its path as: go-simpler.org/musttag
 //	        but was required as: github.com/junk1tm/musttag
 github.com/lucas-clemente/quic-go
-//go: github.com/lucas-clemente/quic-go@latest (v0.64.1) requires github.com/lucas-clemente/quic-go@v0.64.1: parsing go.mod:
+//go: github.com/lucas-clemente/quic-go@latest (v0.65.0) requires github.com/lucas-clemente/quic-go@v0.65.0: parsing go.mod:
 //	module declares its path as: github.com/quic-go/quic-go
 //	        but was required as: github.com/lucas-clemente/quic-go
 github.com/marten-seemann/qpack
@@ -745,7 +745,7 @@ golang.zx2c4.com/wintun
 //[golang.zx2c4.com/wintun] "": no buildable Go source files in /home/runner/go/pkg/mod/golang.zx2c4.com/wintun@v0.0.0-20230126152724-0fa3db229ce2
 //[golang.zx2c4.com/wintun] no importable packages found
 golang.zx2c4.com/wireguard/windows
-//[golang.zx2c4.com/wireguard/windows] dir: /home/runner/go/pkg/mod/golang.zx2c4.com/wireguard/windows@v1.0.1
+//[golang.zx2c4.com/wireguard/windows] dir: /home/runner/go/pkg/mod/golang.zx2c4.com/wireguard/windows@v1.1.1
 //[golang.zx2c4.com/wireguard/windows] module has replace
 src.techknowlogick.com/xgo
 //[src.techknowlogick.com/xgo] dir: /home/runner/go/pkg/mod/src.techknowlogick.com/xgo@v1.9.0
