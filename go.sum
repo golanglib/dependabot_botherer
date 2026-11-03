@@ -2440,8 +2440,8 @@ github.com/ghostiam/protogetter v1.0.1 h1:q4LLTx2KJHJpxrfO3BniUDWoFkoqWD/UlHhClB
 github.com/ghostiam/protogetter v1.0.1/go.mod h1:50Fh5yZfs6SFGrd1FlmT04NcguyEOxyjNK5zGD6/EvM=
 github.com/gin-contrib/cors v1.7.9 h1:69rz5YU6PW7XlQ4VPXacl77ldFiUvR0E0bmEqmbq86w=
 github.com/gin-contrib/cors v1.7.9/go.mod h1:KTqiTA5HzlWPgVz7p4tolzAuptzGO7DEJn/CbklG0nU=
-github.com/gin-contrib/gzip v1.2.8 h1:wDb1thtVsSUe+126xHdgLiWcZqHdWXiBzdZj2yhdUM8=
-github.com/gin-contrib/gzip v1.2.8/go.mod h1:OiNBR7FxAwHN3iwoDtjj2RlypuONCk48zmtagvASfrc=
+github.com/gin-contrib/gzip v1.2.9 h1:MPyIubgLF/o5A4ni90weaQV0Oji7JTQto7QBVqWtmmY=
+github.com/gin-contrib/gzip v1.2.9/go.mod h1:vLBq0o7y73JpE7m1pngAK/BPaVB7EU56R2gQP1yCgbo=
 github.com/gin-contrib/sessions v1.1.2 h1:utWRqOHT/kbqxxqF/mtutV9wfGLi1+uu5YuvWUhj/Ow=
 github.com/gin-contrib/sessions v1.1.2/go.mod h1:qRxYwA/TYJw0wv28oFzs4gY/8G8z69id862SNgX9Gmw=
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
