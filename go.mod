@@ -233,11 +233,11 @@ require (
 	github.com/aws/aws-sdk-go v1.55.8
 	github.com/aws/aws-sdk-go-v2 v1.47.5
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.25
-	github.com/aws/aws-sdk-go-v2/config v1.33.12
-	github.com/aws/aws-sdk-go-v2/credentials v1.20.12
+	github.com/aws/aws-sdk-go-v2/config v1.33.13
+	github.com/aws/aws-sdk-go-v2/credentials v1.20.13
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.16
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.20.5
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.23.17
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.23.19
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.75.2
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.91.0
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.44.2
@@ -247,8 +247,8 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.56.7
 	github.com/aws/aws-sdk-go-v2/service/kms v1.62.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.114.6
-	github.com/aws/aws-sdk-go-v2/service/sso v1.39.0
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.44.0
+	github.com/aws/aws-sdk-go-v2/service/sso v1.39.1
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.44.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.51.6
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.45.1
 	github.com/aws/smithy-go v1.28.7
@@ -1811,7 +1811,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.20.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.40.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/signin v1.12.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/signin v1.12.1 // indirect
 	github.com/awslabs/kinesis-aggregation/go/v2 v2.0.0-20241004223953-c2774b1ab29b // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bep/helpers v0.12.0 // indirect
