@@ -3497,8 +3497,8 @@ github.com/isaacphi/mcp-language-server v0.1.1 h1:wdfbey79Jq9Tm+2HkNFqZUrMGguKQG
 github.com/isaacphi/mcp-language-server v0.1.1/go.mod h1:5vfnrHMdARzEHTLO6tARKTa+VJsVTVFdFheYp09bIg4=
 github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar v0.0.0-20251128051024-55d4e5479475 h1:g+Gm6raxDkVu5AfzduFf6so5sNcGttyibVYzT8n6ZPo=
 github.com/isee15/Lunar-Solar-Calendar-Converter/Go/lunarsolar v0.0.0-20251128051024-55d4e5479475/go.mod h1:WJpDlRxPl4FMdDUo/VDKuHILvVbwKn+GL/XhobFatCM=
-github.com/itchyny/gojq v0.12.19 h1:ttXA0XCLEMoaLOz5lSeFOZ6u6Q3QxmG46vfgI4O0DEs=
-github.com/itchyny/gojq v0.12.19/go.mod h1:5galtVPDywX8SPSOrqjGxkBeDhSxEW1gSxoy7tn1iZY=
+github.com/itchyny/gojq v0.12.20 h1:mvxzKjEJDfeLlPc/15q5Kf6wLtEW2T399BL8xmOd9EQ=
+github.com/itchyny/gojq v0.12.20/go.mod h1:cgT47OXUC/BWCBh9V4LuuTRSwFIJNR5loUyqlzbIJbw=
 github.com/itchyny/timefmt-go v0.1.9 h1:J4j1qMqZbg5jycwT6zIKfRgZ9aqqMxqanaI6Rr9Ezs8=
 github.com/itchyny/timefmt-go v0.1.9/go.mod h1:5E46Q+zj7vbTgWY8o5YkMeYb4I6GeWLFnetPy5oBrAI=
 github.com/jackc/chunkreader v1.0.0 h1:4s39bBR8ByfqH+DKm8rQA3E1LHZWB9XWcrz8fqaZbe0=
