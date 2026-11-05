@@ -5047,8 +5047,8 @@ github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 h1:nn5Wsu0esKSJiIVhscUt
 github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529/go.mod h1:DxrIzT+xaE7yg65j358z/aeFdxmN0P9QXhEzd20vsDc=
 github.com/seancfoley/bintree v1.4.0 h1:Voxh1yBkOMWTXR4dP/hOrLYVq/yVwxaRVPc6pIj3kME=
 github.com/seancfoley/bintree v1.4.0/go.mod h1:hIUabL8OFYyFVTQ6azeajbopogQc2l5C/hiXMcemWNU=
-github.com/seancfoley/ipaddress-go v1.8.4 h1:o1pxYJ0hsxgjtBVYJfqtyIZlsDIjNaePJyYYrI9eCjU=
-github.com/seancfoley/ipaddress-go v1.8.4/go.mod h1:82ztygvPl5HAjSoz/mBcJNjTgTpCGH5hL/m8XeXFU3g=
+github.com/seancfoley/ipaddress-go v1.8.5 h1:y+GPoQLmKdrY8vmYsFsjFNVGu6i43kjCeuFFQRh3Z5E=
+github.com/seancfoley/ipaddress-go v1.8.5/go.mod h1:Nf25Bsxf4cbCN5YiQNJE/4BF5OoXumlFXhpqevFXl00=
 github.com/sebdah/goldie/v2 v2.5.3/go.mod h1:oZ9fp0+se1eapSRjfYbsV/0Hqhbuu3bJVvKI/NNtssI=
 github.com/sebdah/goldie/v2 v2.8.0 h1:dZb9wR8q5++oplmEiJT+U/5KyotVD+HNGCAc5gNr8rc=
 github.com/sebdah/goldie/v2 v2.8.0/go.mod h1:oZ9fp0+se1eapSRjfYbsV/0Hqhbuu3bJVvKI/NNtssI=
