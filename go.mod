@@ -494,7 +494,7 @@ require (
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/disintegration/gift v1.2.1
 	github.com/distribution/reference v0.6.0
-	github.com/djherbis/buffer v1.2.0
+	github.com/djherbis/buffer v1.2.1
 	github.com/djherbis/nio/v3 v3.0.1
 	github.com/djherbis/times v1.6.0
 	github.com/dlclark/regexp2 v1.12.0
