@@ -603,7 +603,7 @@ require (
 	github.com/go-co-op/gocron v1.37.0
 	github.com/go-critic/go-critic v0.15.0
 	github.com/go-delve/delve v1.27.2
-	github.com/go-ego/gse v1.2.0
+	github.com/go-ego/gse v1.3.1
 	github.com/go-enry/go-enry/v2 v2.9.6
 	github.com/go-enry/go-oniguruma v1.2.1
 	github.com/go-errors/errors v1.5.1
@@ -1507,7 +1507,7 @@ require (
 	github.com/valyala/gozstd v1.26.0
 	github.com/vapourismo/knx-go v0.0.0-20260813172143-02e535310602
 	github.com/vbatts/tar-split v0.12.3
-	github.com/vcaesar/cedar v0.50.0
+	github.com/vcaesar/cedar v0.50.1
 	github.com/vcaesar/tt v0.40.0
 	github.com/vektah/gqlparser/v2 v2.5.64
 	github.com/vektra/mockery/v2 v2.53.8
