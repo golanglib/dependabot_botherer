@@ -1459,7 +1459,7 @@ require (
 	github.com/tidwall/gjson v1.20.0
 	github.com/tidwall/match v1.2.0
 	github.com/tidwall/pretty v1.2.2
-	github.com/tidwall/sjson v1.2.5
+	github.com/tidwall/sjson v1.2.7
 	github.com/tidwall/tinylru v1.2.1
 	github.com/tidwall/wal v1.2.1
 	github.com/tiendc/go-deepcopy v1.7.2
