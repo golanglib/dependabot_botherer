@@ -4632,8 +4632,8 @@ github.com/pierrec/lz4/v4 v4.1.2/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuR
 github.com/pierrec/lz4/v4 v4.1.15/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuRQyBid4=
 github.com/pierrec/lz4/v4 v4.1.33 h1:GjG1TJ1V4IzKP8L96muuuDNpTwd7D+l2ccXrjAbe014=
 github.com/pierrec/lz4/v4 v4.1.33/go.mod h1:7SE9MC2STkNtL4PIwGhjmyVwvILaGI9/COYQNBhKM/c=
-github.com/pion/datachannel v1.6.3 h1:HZAYLpunVI0xi057ZiANl558d0uSpomcWw4UEPz3qXs=
-github.com/pion/datachannel v1.6.3/go.mod h1:oRmkXVVXxkUbqa8MatgdNHW29kvtQY3HUdjJQsfv2GE=
+github.com/pion/datachannel v1.6.4 h1:yFynqnFQ2Z+R01+kJmcU6SAMemRst972ZjKJVtb8/4Y=
+github.com/pion/datachannel v1.6.4/go.mod h1:AyOmAGX4Y8UHfhGTXwL5bwpIfCD2GPxfm2+h00WJ7nQ=
 github.com/pion/dtls v1.5.4 h1:q8pXFMF7T+EAVO4auQU/ds+5yh5yOK6NiTN/4NQ0dB0=
 github.com/pion/dtls v1.5.4/go.mod h1:eVHevf4AM8R9+Pxa29q4aiI2iIbfMWOW1WgEcSCGpHU=
 github.com/pion/dtls/v2 v2.0.1/go.mod h1:uMQkz2W0cSqY00xav7WByQ4Hb+18xeQh2oH2fRezr5U=
@@ -4668,8 +4668,8 @@ github.com/pion/rtp v1.6.1/go.mod h1:bDb5n+BFZxXx0Ea7E5qe+klMuqiBrP+w8XSjiWtCUko
 github.com/pion/rtp v1.8.3/go.mod h1:pBGHaFt/yW7bf1jjWAoUjpSNoDnw98KTMg+jWWvziqU=
 github.com/pion/rtp v1.10.6 h1:1qs356bmniSc89gTF1KFdI0kej7qTdIUSnHOXu3P2EY=
 github.com/pion/rtp v1.10.6/go.mod h1:qvV617FVkp5DBUfoHGxP8uOnTI4UaNDJK0z7Sildylk=
-github.com/pion/sctp v1.12.0 h1:AzUdVkVBNyGY1W4crWO1/aOWzMaW3zsVHGrNuAfFQiI=
-github.com/pion/sctp v1.12.0/go.mod h1:6k1zrpkrxSwbisitn/AlzDQaa15DR49MFsrMochG/yc=
+github.com/pion/sctp v1.12.1 h1:C9av2iqCNGUeO5gAro4lNdknZxdQojIyV1v/EdI4gzw=
+github.com/pion/sctp v1.12.1/go.mod h1:+lrF9pgQonc0JWC3FU9pzFJAl33eJY24uf0chnDY/38=
 github.com/pion/sdp/v3 v3.0.20 h1:TS6DViqcmp+49f0+mjw9anbr9xY3vJtsZewxAvlMCRQ=
 github.com/pion/sdp/v3 v3.0.20/go.mod h1:slIMXDK5OKj0nhISwjfeN18AzTBCt2LYZq9uPw0cU5Q=
 github.com/pion/srtp v1.5.2 h1:25DmvH+fqKZDqvX64vTwnycVwL9ooJxHF/gkX16bDBY=

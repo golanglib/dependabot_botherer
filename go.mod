@@ -1213,7 +1213,7 @@ require (
 	github.com/peterbourgon/unixtransport v0.0.7
 	github.com/philhofer/fwd v1.2.1
 	github.com/pierrec/lz4/v4 v4.1.33
-	github.com/pion/datachannel v1.6.3
+	github.com/pion/datachannel v1.6.4
 	github.com/pion/dtls v1.5.4
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/ice v0.7.18
@@ -1224,7 +1224,7 @@ require (
 	github.com/pion/randutil v0.1.0
 	github.com/pion/rtcp v1.2.20
 	github.com/pion/rtp v1.10.6
-	github.com/pion/sctp v1.12.0
+	github.com/pion/sctp v1.12.1
 	github.com/pion/sdp/v3 v3.0.20
 	github.com/pion/srtp v1.5.2
 	github.com/pion/srtp/v2 v2.0.20
