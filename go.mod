@@ -226,7 +226,7 @@ require (
 	github.com/atombender/go-jsonschema v0.24.1
 	github.com/atotto/clipboard v0.1.4
 	github.com/avast/retry-go/v4 v4.7.0
-	github.com/avast/retry-go/v5 v5.0.1
+	github.com/avast/retry-go/v5 v5.1.1
 	github.com/awnumar/memcall v0.5.0
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.55.1
