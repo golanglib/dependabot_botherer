@@ -2443,8 +2443,8 @@ github.com/gin-contrib/gzip v1.2.9/go.mod h1:vLBq0o7y73JpE7m1pngAK/BPaVB7EU56R2g
 github.com/gin-contrib/sessions v1.1.3 h1:jTd6RietfxB/0brE36W6Q7XTl9die/gwD5orFZQZfh0=
 github.com/gin-contrib/sessions v1.1.3/go.mod h1:4As481wI7g3rsRf6RnQYc0pS/IqBjp8vpz1Y4wudHek=
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
-github.com/gin-contrib/sse v1.2.0 h1:AeYPE9hukQvAU1y7+eNvTC67PuBLK4BOduG08yv7L28=
-github.com/gin-contrib/sse v1.2.0/go.mod h1:9ivB3pROCxcwnwHvAoYaHLwNQMGmzCjgriA04TuNIAc=
+github.com/gin-contrib/sse v1.2.1 h1:VAN6YEQlc6DbKmGYzSHZ72JWk5fp4gZaDwie4+bXx7s=
+github.com/gin-contrib/sse v1.2.1/go.mod h1:9ivB3pROCxcwnwHvAoYaHLwNQMGmzCjgriA04TuNIAc=
 github.com/gin-contrib/timeout v1.2.4 h1:pp07G955r0w2bZXcAY8/shpdDetNjqptSqunO4JVkNQ=
 github.com/gin-contrib/timeout v1.2.4/go.mod h1:oUNods7hxhYI8UNHrG3kGXIqE/RhRLVvZUezSBHAj0M=
 github.com/gin-gonic/gin v1.6.3/go.mod h1:75u5sXoLsGZoRN5Sgbi1eraJ4GU3++wFwWzhwvtwp4M=
