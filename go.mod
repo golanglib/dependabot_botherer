@@ -354,7 +354,7 @@ require (
 	github.com/byteplus-sdk/byteplus-sdk-golang v1.0.75
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/caddyserver/caddy v1.0.5
-	github.com/caddyserver/caddy/v2 v2.11.7
+	github.com/caddyserver/caddy/v2 v2.11.9
 	github.com/caddyserver/certmagic v0.25.6
 	github.com/caddyserver/xcaddy v0.4.7
 	github.com/caddyserver/zerossl v0.1.6
@@ -1633,7 +1633,7 @@ require (
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.33.0
 	golang.org/x/crypto v0.58.0
-	golang.org/x/crypto/x509roots/fallback v0.0.0-20260929172509-b39ff6d641ec
+	golang.org/x/crypto/x509roots/fallback v0.0.0-20261030153154-30a33513ff6d
 	golang.org/x/exp v0.0.0-20261014143641-f0251eb4aa3e
 	golang.org/x/exp/typeparams v0.0.0-20260811152304-ee035b5b010f
 	golang.org/x/image v0.47.0
