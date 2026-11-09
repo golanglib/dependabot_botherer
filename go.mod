@@ -578,7 +578,7 @@ require (
 	github.com/gin-contrib/cors v1.7.10
 	github.com/gin-contrib/gzip v1.2.9
 	github.com/gin-contrib/sessions v1.1.3
-	github.com/gin-contrib/sse v1.2.0
+	github.com/gin-contrib/sse v1.2.1
 	github.com/gin-contrib/timeout v1.2.4
 	github.com/gin-gonic/gin v1.12.0
 	github.com/git-lfs/git-lfs/v3 v3.8.1
