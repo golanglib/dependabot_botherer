@@ -1450,8 +1450,8 @@ require (
 	github.com/tenntenn/modver v1.0.1
 	github.com/tenntenn/text/transform v0.0.0-20200319021203-7eef512accb3
 	github.com/terminalstatic/go-xsd-validate v0.1.8
-	github.com/testcontainers/testcontainers-go v0.44.0
-	github.com/testcontainers/testcontainers-go/modules/kafka v0.44.0
+	github.com/testcontainers/testcontainers-go v0.45.0
+	github.com/testcontainers/testcontainers-go/modules/kafka v0.45.0
 	github.com/tetafro/godot v1.5.6
 	github.com/tetratelabs/wazero v1.12.0
 	github.com/thomasklein94/packer-plugin-libvirt v0.5.0
@@ -1911,6 +1911,7 @@ require (
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac // indirect
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
+	github.com/mdelapenya/tlscert v0.2.0 // indirect
 	github.com/metacubex/ascon v0.1.0 // indirect
 	github.com/metacubex/blake3 v0.1.0 // indirect
 	github.com/metacubex/cpu v0.1.0 // indirect
@@ -2057,5 +2058,6 @@ require (
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.2 // indirect
 	sigs.k8s.io/structured-merge-diff/v7 v7.0.0 // indirect
+	software.sslmate.com/src/go-pkcs12 v0.7.3 // indirect
 	tags.cncf.io/container-device-interface v1.1.1 // indirect
 )
