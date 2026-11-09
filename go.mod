@@ -403,7 +403,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.16.2
 	github.com/cloudflare/cfssl v1.7.1
 	github.com/cloudflare/circl v1.6.5
-	github.com/cloudsoda/go-smb2 v0.0.0-20260701064823-d8c5600d73b8
+	github.com/cloudsoda/go-smb2 v0.0.0-20260918041005-0c5d69b69701
 	github.com/cloudwego/base64x v0.1.7
 	github.com/cloudwego/configmanager v0.2.3
 	github.com/cloudwego/dynamicgo v0.9.2
@@ -1278,7 +1278,7 @@ require (
 	github.com/r3labs/sse/v2 v2.10.0
 	github.com/rabbitmq/amqp091-go v1.16.0
 	github.com/raeperd/recvcheck v0.3.1
-	github.com/rclone/rclone v1.75.2
+	github.com/rclone/rclone v1.76.0
 	github.com/redis/go-redis/v9 v9.23.0
 	github.com/redis/rueidis v1.0.79
 	github.com/refraction-networking/utls v1.8.2
