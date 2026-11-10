@@ -231,7 +231,7 @@ require (
 	github.com/awnumar/memguard v0.23.0
 	github.com/aws/aws-lambda-go v1.55.1
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.47.7
+	github.com/aws/aws-sdk-go-v2 v1.47.8
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.26
 	github.com/aws/aws-sdk-go-v2/config v1.33.15
 	github.com/aws/aws-sdk-go-v2/credentials v1.20.15
@@ -244,7 +244,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.73.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.46.6
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.344.1
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.56.11
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.56.12
 	github.com/aws/aws-sdk-go-v2/service/kms v1.62.4
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.114.8
 	github.com/aws/aws-sdk-go-v2/service/sso v1.39.3
@@ -1802,8 +1802,8 @@ require (
 	github.com/apparentlymart/go-textseg/v17 v17.0.1 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.5.10 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.8.10 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.5.11 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.8.11 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.5.10 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.24 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.11.11 // indirect
