@@ -465,7 +465,7 @@ require (
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/cpuguy83/go-md2man/v2 v2.0.7
 	github.com/creack/pty v1.1.24
-	github.com/crewjam/saml v0.6.1
+	github.com/crewjam/saml v0.6.3
 	github.com/cronokirby/saferith v0.33.1-0.20250226174546-1f11f94ce488
 	github.com/curioswitch/go-reassign v0.3.0
 	github.com/cyphar/filepath-securejoin v0.7.0
