@@ -576,7 +576,7 @@ require (
 	github.com/ghetzel/testify v1.4.1
 	github.com/ghostiam/protogetter v1.0.2
 	github.com/gin-contrib/cors v1.7.10
-	github.com/gin-contrib/gzip v1.2.9
+	github.com/gin-contrib/gzip v1.2.10
 	github.com/gin-contrib/sessions v1.1.3
 	github.com/gin-contrib/sse v1.2.1
 	github.com/gin-contrib/timeout v1.2.4
