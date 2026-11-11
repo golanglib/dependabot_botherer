@@ -579,7 +579,7 @@ require (
 	github.com/gin-contrib/gzip v1.2.10
 	github.com/gin-contrib/sessions v1.1.3
 	github.com/gin-contrib/sse v1.2.1
-	github.com/gin-contrib/timeout v1.2.4
+	github.com/gin-contrib/timeout v1.2.5
 	github.com/gin-gonic/gin v1.12.0
 	github.com/git-lfs/git-lfs/v3 v3.8.1
 	github.com/git-lfs/gitobj/v2 v2.1.1
