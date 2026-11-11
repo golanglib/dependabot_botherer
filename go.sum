@@ -2436,8 +2436,8 @@ github.com/ghetzel/testify v1.4.1/go.mod h1:FwvFn1OiGEUgzhS3ySCjTBG7/sez0WRvOAxz
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/ghostiam/protogetter v1.0.2 h1:LODUypum0pUnmBE/PD3hll7vkX5OzSDy/ZMoofsDrU8=
 github.com/ghostiam/protogetter v1.0.2/go.mod h1:m/nMpC841v/KHpw7J3+R6h4aEStoeOPsGyU/HeNoPYY=
-github.com/gin-contrib/cors v1.7.10 h1:psSUzREHu/qjLdH9j/+VYgAxll1/61rEoM5FhFf/2QE=
-github.com/gin-contrib/cors v1.7.10/go.mod h1:VJ2EOJXwnWuloSNs4nRKUPfwpJfqobjWiLaH8ezHM7c=
+github.com/gin-contrib/cors v1.7.11 h1:x9saJz6JTX5ptFCxuxu3679Gva0VG5hEx2D/NQqUVJs=
+github.com/gin-contrib/cors v1.7.11/go.mod h1:rRuFhi164VfG88NyDi5ME/JHW8nCATRzV/VViLpvd6U=
 github.com/gin-contrib/gzip v1.2.10 h1:wHeVRAuhY5/CNXEo0gdto+Ajo5FEfKIX9GH15bkzxGs=
 github.com/gin-contrib/gzip v1.2.10/go.mod h1:jDsAa3ADH+IKTOwF4HMtvw+mfXlKOaPjcSMOjykcOQ0=
 github.com/gin-contrib/sessions v1.1.3 h1:jTd6RietfxB/0brE36W6Q7XTl9die/gwD5orFZQZfh0=
