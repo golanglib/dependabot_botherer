@@ -865,7 +865,7 @@ require (
 	github.com/hetznercloud/hcloud-go/v2 v2.53.0
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/hhrutter/lzw v1.0.1
-	github.com/hhrutter/tiff v1.0.7
+	github.com/hhrutter/tiff v1.0.8
 	github.com/hinshun/vt10x v0.0.0-20220119200601-820417d04eec
 	github.com/huandu/go-assert v1.1.6
 	github.com/huandu/skiplist v1.2.1
