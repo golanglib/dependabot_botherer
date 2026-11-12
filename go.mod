@@ -1419,7 +1419,7 @@ require (
 	github.com/spiffe/spire-api-sdk v1.16.0
 	github.com/sqids/sqids-go v0.4.1
 	github.com/srebhan/cborquery v1.0.4
-	github.com/srebhan/protobufquery v1.0.4
+	github.com/srebhan/protobufquery v1.0.5
 	github.com/ssgelm/cookiejarparser v1.1.0
 	github.com/ssgreg/nlreturn/v2 v2.2.1
 	github.com/stbenjam/no-sprintf-host-port v0.3.1
