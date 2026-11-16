@@ -585,7 +585,7 @@ require (
 	github.com/git-lfs/gitobj/v2 v2.1.1
 	github.com/git-lfs/pktline v0.0.0-20210330133718-06e9096e2825
 	github.com/git-lfs/wildmatch/v2 v2.0.1
-	github.com/gkampitakis/ciinfo v0.3.4
+	github.com/gkampitakis/ciinfo v0.3.5
 	github.com/gkampitakis/go-diff v1.3.2
 	github.com/gkampitakis/go-snaps v0.5.25
 	github.com/glebarez/go-sqlite v1.23.0
