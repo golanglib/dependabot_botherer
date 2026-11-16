@@ -1072,7 +1072,7 @@ require (
 	github.com/metacubex/tfo-go v0.0.0-20261026151606-08d83ec08c84
 	github.com/metacubex/utls v1.8.8
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
-	github.com/mfridman/interpolate v0.0.2
+	github.com/mfridman/interpolate v0.2.0
 	github.com/mgdigital/gorm-cache/v2 v2.0.0-20230912113927-f2a8dd92a386
 	github.com/mgechev/revive v1.17.1
 	github.com/mholt/acmez v1.2.0
