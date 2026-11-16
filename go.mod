@@ -94,7 +94,7 @@ require (
 	github.com/ClickHouse/ch-go v0.75.0
 	github.com/ClickHouse/clickhouse-go v1.5.4
 	github.com/ClickHouse/clickhouse-go/v2 v2.51.0
-	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
+	github.com/CloudyKit/fastprinter v0.0.0-20251202014920-1725d2651bd4
 	github.com/CloudyKit/jet/v6 v6.3.3
 	github.com/Code-Hex/go-generics-cache v1.5.1
 	github.com/CycloneDX/cyclonedx-go v0.12.0
@@ -142,7 +142,7 @@ require (
 	github.com/SAP/go-hdb v1.21.0
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.10.0
 	github.com/Shopify/go-lua v0.0.0-20261007132305-3f823f845ff9
-	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06
+	github.com/Shopify/goreferrer v0.0.0-20250617153402-88c1d9a79b05
 	github.com/a2aproject/a2a-go v0.3.15
 	github.com/aalpar/deheap v1.1.2
 	github.com/abice/go-enum v0.9.5
@@ -724,7 +724,7 @@ require (
 	github.com/golangci/plugin-module-register v0.1.2
 	github.com/golangci/revgrep v0.8.0
 	github.com/golangci/unconvert v0.0.0-20250410112200-a129a6e6413e
-	github.com/gomarkdown/markdown v0.0.0-20240328165702-4d01890c35c0
+	github.com/gomarkdown/markdown v0.0.0-20261109103609-13f93121d67a
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/gonuts/commander v0.4.1
 	github.com/gonuts/flag v0.1.0
@@ -957,7 +957,7 @@ require (
 	github.com/karrick/godirwalk v1.17.0
 	github.com/kataras/blocks v0.1.0
 	github.com/kataras/golog v0.2.0
-	github.com/kataras/iris/v12 v12.2.11
+	github.com/kataras/iris/v12 v12.2.12
 	github.com/kataras/pio v0.0.14
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
@@ -1012,7 +1012,7 @@ require (
 	github.com/logzio/azure-monitor-metrics-receiver v1.1.0
 	github.com/lucasb-eyer/go-colorful v1.4.1
 	github.com/lufeee/execinquery v1.2.1
-	github.com/lufia/plan9stats v0.0.0-20260627054121-477a66015f15
+	github.com/lufia/plan9stats v0.0.0-20261101121723-be84dd9509a0
 	github.com/lunixbochs/struc v0.0.0-20241101090106-8d528fa2c543
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/lxc/incus v0.7.0
@@ -1245,7 +1245,7 @@ require (
 	github.com/pkoukk/tiktoken-go-loader v0.0.2
 	github.com/planetscale/vtprotobuf v0.6.1-0.20250313105119-ba97887b0a25
 	github.com/polyfloyd/go-errorlint v1.8.0
-	github.com/power-devops/perfstat v0.0.0-20260805114148-88456608a4f6
+	github.com/power-devops/perfstat v0.0.0-20260916203055-22a1a467d9f0
 	github.com/pquerna/otp v1.5.0
 	github.com/prashantv/gostub v1.1.0
 	github.com/pressly/goose/v3 v3.30.0
@@ -1632,7 +1632,7 @@ require (
 	go4.org/netipx v0.0.0-20260823151212-3075585bcbeb
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 	golang.org/x/arch v0.33.0
-	golang.org/x/crypto v0.58.0
+	golang.org/x/crypto v0.59.0
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20261030153154-30a33513ff6d
 	golang.org/x/exp v0.0.0-20261109185158-a52e3aef5920
 	golang.org/x/exp/typeparams v0.0.0-20260811152304-ee035b5b010f
@@ -1842,7 +1842,7 @@ require (
 	github.com/danielgtaylor/casing v0.0.0-20210126043903-4e55e6373ac3 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/davidmz/go-pageant v1.0.2 // indirect
-	github.com/dgraph-io/ristretto/v2 v2.2.0 // indirect
+	github.com/dgraph-io/ristretto/v2 v2.4.2 // indirect
 	github.com/dgryski/go-farm v0.0.0-20240924180020-3414d57e47da // indirect
 	github.com/dgryski/go-metro v0.0.0-20261008173524-5059e0b1da03 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
@@ -1870,7 +1870,7 @@ require (
 	github.com/go-openapi/swag/stringutils v0.29.2 // indirect
 	github.com/go-openapi/swag/typeutils v0.29.2 // indirect
 	github.com/go-openapi/swag/yamlutils v0.29.2 // indirect
-	github.com/gobwas/glob v1.0.0 // indirect
+	github.com/gobwas/glob v1.1.0 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
@@ -2039,6 +2039,7 @@ require (
 	go.opentelemetry.io/otel/sdk/log v1.47.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v4 v4.0.0 // indirect
+	golang.org/x/crypto/openpgp v0.1.0-deprecated // indirect
 	golang.org/x/exp/shiny v0.0.0-20261009195045-ca0d7ba23607 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v1.1.1 // indirect
@@ -2049,7 +2050,7 @@ require (
 	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 	gopkg.in/guregu/null.v4 v4.0.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/ini.v1 v1.67.3 // indirect
+	gopkg.in/ini.v1 v1.68.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
