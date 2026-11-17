@@ -4548,8 +4548,8 @@ github.com/otokaze/mock v0.0.0-20190125081256-8282b7a7c7c3/go.mod h1:pLR8n2aimFx
 github.com/outscale/osc-sdk-go/v2 v2.35.0 h1:bKR94p9KCc8ybu36k4RS5RDkC9p/7W//78CXPtOyXPo=
 github.com/outscale/osc-sdk-go/v2 v2.35.0/go.mod h1:6J8WRznaSIEXXVHhhTXisGJQgvE5fYzbf8hAw7YIGfQ=
 github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014/go.mod h1:joRatxRJaZBsY3JAOEMcoOp05CnZzsx4scTxi95DHyQ=
-github.com/ovh/go-ovh v1.9.0 h1:6K8VoL3BYjVV3In9tPJUdT7qMx9h0GExN9EXx1r2kKE=
-github.com/ovh/go-ovh v1.9.0/go.mod h1:cTVDnl94z4tl8pP1uZ/8jlVxntjSIf09bNcQ5TJSC7c=
+github.com/ovh/go-ovh v1.10.0 h1:TlH3Y7FRxgnPeYJHPbNSCESU8GkX2Sxo2ifaiS+IwH8=
+github.com/ovh/go-ovh v1.10.0/go.mod h1:cTVDnl94z4tl8pP1uZ/8jlVxntjSIf09bNcQ5TJSC7c=
 github.com/owenrumney/go-sarif v1.1.1 h1:QNObu6YX1igyFKhdzd7vgzmw7XsWN3/6NMGuDzBgXmE=
 github.com/owenrumney/go-sarif v1.1.1/go.mod h1:dNDiPlF04ESR/6fHlPyq7gHKmrM0sHUvAGjsoh8ZH0U=
 github.com/owenrumney/go-sarif/v2 v2.3.3 h1:ubWDJcF5i3L/EIOER+ZyQ03IfplbSU1BLOE26uKQIIU=
