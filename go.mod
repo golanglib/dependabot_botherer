@@ -592,7 +592,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/go-acme/lego/v3 v3.9.0
-	github.com/go-ap/activitypub v0.0.0-20261107170531-73ce953a88f6
+	github.com/go-ap/activitypub v0.0.0-20261114094942-b164c2575fd9
 	github.com/go-ap/errors v0.0.0-20261107170344-5391268d9d2c
 	github.com/go-ap/jsonld v0.0.0-20261107170435-a7bb5ba3f894
 	github.com/go-asn1-ber/asn1-ber v1.5.8
@@ -1294,7 +1294,7 @@ require (
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/robinson/gos7 v0.0.0-20261112115848-4e0a3d680f88
+	github.com/robinson/gos7 v0.0.0-20261116084448-107ef666cfdd
 	github.com/rogpeppe/go-internal v1.16.0
 	github.com/rs/cors v1.11.1
 	github.com/rs/cors/wrapper/gin v0.0.0-20261101222852-7ca5fe28f7d5

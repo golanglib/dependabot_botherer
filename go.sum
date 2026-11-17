@@ -2485,8 +2485,8 @@ github.com/go-acme/lego/v3 v3.1.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfc
 github.com/go-acme/lego/v3 v3.2.0/go.mod h1:074uqt+JS6plx+c9Xaiz6+L+GBb+7itGtzfcDM2AhEE=
 github.com/go-acme/lego/v3 v3.9.0 h1:Kyvg2GGqRJHfK2Stu57M45TDTx0y1bsxLH7lpeP3n0A=
 github.com/go-acme/lego/v3 v3.9.0/go.mod h1:va0cvQpxpJ3u2OA534L8TDn+lsr2oujLzPckLOLnUGQ=
-github.com/go-ap/activitypub v0.0.0-20261107170531-73ce953a88f6 h1:GHlzSobCsGzTobV56kkNI4p1F4sOPOH4IRII6Z05A0M=
-github.com/go-ap/activitypub v0.0.0-20261107170531-73ce953a88f6/go.mod h1:mFXNpHFBCIfECSLis4qm0mYm/gC/qCLPaAujRmUhaSE=
+github.com/go-ap/activitypub v0.0.0-20261114094942-b164c2575fd9 h1:ZSwUeG77S9I2UW2KwUF2t9oFmx4P3gKb/Z0YvvVTyz8=
+github.com/go-ap/activitypub v0.0.0-20261114094942-b164c2575fd9/go.mod h1:5ExJRNhX9YmAkcWEOADkG5BrNkQ4bmTXZt2DwJ8L+O0=
 github.com/go-ap/errors v0.0.0-20261107170344-5391268d9d2c h1:PZW1nVDRySL1RTaxT6tAxwOl9mGqNgOnUqbw2wAz/ME=
 github.com/go-ap/errors v0.0.0-20261107170344-5391268d9d2c/go.mod h1:dqDuYtQWH2GLodzfE+wKsEXEkWSHoGW43JZwGJapgX4=
 github.com/go-ap/jsonld v0.0.0-20261107170435-a7bb5ba3f894 h1:+LsrWlcFus3LiSUSkYOmJ5TQplAKO7q7jmzQr1xnhLs=
@@ -4923,8 +4923,8 @@ github.com/robertkrimen/otto v0.5.1 h1:avDI4ToRk8k1hppLdYFTuuzND41n37vPGJU7547dG
 github.com/robertkrimen/otto v0.5.1/go.mod h1:bS433I4Q9p+E5pZLu7r17vP6FkE6/wLxBdmKjoqJXF8=
 github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
 github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
-github.com/robinson/gos7 v0.0.0-20261112115848-4e0a3d680f88 h1:KOSsmJTVe/9eSsY6bFRzpWKqXz0GbA7f9arxuAM5ugg=
-github.com/robinson/gos7 v0.0.0-20261112115848-4e0a3d680f88/go.mod h1:AMHIeh1KJ7Xa2RVOMHdv9jXKrpw0D4EWGGQMHLb2doc=
+github.com/robinson/gos7 v0.0.0-20261116084448-107ef666cfdd h1:p9f4yLWVYsXPjhSro/Y8wZjLvpnaQ4cGQ4B7H8MRI54=
+github.com/robinson/gos7 v0.0.0-20261116084448-107ef666cfdd/go.mod h1:AMHIeh1KJ7Xa2RVOMHdv9jXKrpw0D4EWGGQMHLb2doc=
 github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6SoW27p1b0cqNHllgS5HIMJraePCO15w5zCzIWYg=
 github.com/rogpeppe/fastuuid v1.1.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
