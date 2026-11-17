@@ -7392,8 +7392,8 @@ sourcegraph.com/sourcegraph/go-diff v0.5.0/go.mod h1:kuch7UrkMzY0X+p9CRK03kfuPQ2
 sourcegraph.com/sqs/pbtypes v0.0.0-20180604144634-d3ebe8f20ae4/go.mod h1:ketZ/q3QxT9HOBeFhu6RdvsftgpsbFHBF5Cas6cDKZ0=
 storj.io/common v0.0.0-20260818140313-d38275a3768b h1:gTaeya1WKroXeUEwV24RA2UvQImHHlZNKfT+59yysxE=
 storj.io/common v0.0.0-20260818140313-d38275a3768b/go.mod h1:4+wYJmaVAWQfuk5DBgZ/BjZANO6q/HWwUs61qG9r7/I=
-storj.io/drpc v1.0.0 h1:1Xf1KCXXbV1viIfN56eqdJ3cNwpAL7OKwQkpS6ksing=
-storj.io/drpc v1.0.0/go.mod h1:Y9LZaa8esL1PW2IDMqJE7CFSNq7d5bQ3RI7mGPtmKMg=
+storj.io/drpc v1.0.1 h1:sZbCJ4faxGQIG/BsHgiaj3xvSIbkF7rBLBGAQSGDeY8=
+storj.io/drpc v1.0.1/go.mod h1:TgCXFNc1OpxBZdCMtpybjNjkvr4h8VLWsRyEzDSyvvg=
 storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5 h1:JPguPTktHaha9TBEHvuxZmB+mCkiMPgEMOLfosDoE9o=
 storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5/go.mod h1:RdWvp249AGm9FZnVKP88y3hFa7vlx9Jf3Cy1P+4EXIU=
 storj.io/infectious v1.0.1 h1:QxjULudP+FYN+wDHZw+dSphjnOsHsy2YKZNDVxz5HbU=
