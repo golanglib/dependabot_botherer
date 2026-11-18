@@ -1648,7 +1648,7 @@ import (
 	_ "golang.org/x/term"
 	_ "golang.org/x/text"
 	_ "golang.org/x/time/rate"
-	_ "golang.org/x/tools/benchmark/parse"
+	_ "golang.org/x/tools"
 	_ "golang.org/x/vuln/scan"
 	_ "golang.org/x/xerrors"
 	_ "golang.zx2c4.com/wireguard/conn"
