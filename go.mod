@@ -911,7 +911,7 @@ require (
 	github.com/jackc/pgx/v4 v4.18.3
 	github.com/jackc/pgx/v5 v5.13.0
 	github.com/jackc/puddle v1.3.0
-	github.com/jackc/puddle/v2 v2.2.3
+	github.com/jackc/puddle/v2 v2.2.4
 	github.com/jarcoal/httpmock v1.4.2
 	github.com/jcmturner/aescts/v2 v2.0.0
 	github.com/jcmturner/dnsutils/v2 v2.0.0
