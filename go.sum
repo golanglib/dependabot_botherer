@@ -5267,8 +5267,8 @@ github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89 h1:dArkMwZ7Mf2JiU8Ofdmq
 github.com/spdx/gordf v0.0.0-20221230105357-b735bd5aac89/go.mod h1:uKWaldnbMnjsSAXRurWqqrdyZen1R7kxl8TkmWk2OyM=
 github.com/spdx/tools-golang v0.5.7 h1:+sWcKGnhwp3vLdMqPcLdA6QK679vd86cK9hQWH3AwCg=
 github.com/spdx/tools-golang v0.5.7/go.mod h1:jg7w0LOpoNAw6OxKEzCoqPC2GCTj45LyTlVmXubDsYw=
-github.com/speakeasy-api/jsonpath v0.7.0 h1:Pz7dS2AfuB745mnEcmg4qyS7wTJFiHH9zjW5kFX9b4E=
-github.com/speakeasy-api/jsonpath v0.7.0/go.mod h1:b9upx/gIKYwyKVcgRxvmdyKwAykzk88FCnNH3cwbw8w=
+github.com/speakeasy-api/jsonpath v0.7.1 h1:vpBDKeT6av0v/g6oTwCfGh27iRDfMPaTQ2GvKK51TkQ=
+github.com/speakeasy-api/jsonpath v0.7.1/go.mod h1:b9upx/gIKYwyKVcgRxvmdyKwAykzk88FCnNH3cwbw8w=
 github.com/spf13/afero v1.1.2/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=
 github.com/spf13/afero v1.3.3/go.mod h1:5KUK8ByomD5Ti5Artl0RtHeI5pTF7MIDuXL3yY520V4=
 github.com/spf13/afero v1.6.0/go.mod h1:Ai8FlHk4v/PARR026UzYexafAt9roJ7LcLMAmO6Z93I=
