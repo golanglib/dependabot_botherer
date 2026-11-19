@@ -257,7 +257,7 @@ require (
 	github.com/axw/gocov v1.2.1
 	github.com/aymanbagabas/go-osc52 v1.2.2
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1
-	github.com/aymanbagabas/go-udiff v0.4.1
+	github.com/aymanbagabas/go-udiff v0.4.2
 	github.com/bahlo/generic-list-go v0.2.0
 	github.com/baulk/chardet v0.1.0
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3
