@@ -1753,7 +1753,7 @@ require (
 	storj.io/drpc v1.0.1
 	storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5
 	storj.io/infectious v1.0.1
-	storj.io/picobuf v0.0.4
+	storj.io/picobuf v0.9.4
 	storj.io/uplink v1.14.5
 	v2ray.com/core v4.19.1+incompatible
 	vitess.io/vitess v0.23.7
@@ -1858,7 +1858,7 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11 // indirect
-	github.com/go-json-experiment/json v0.0.0-20260623181947-01eb4420fa68 // indirect
+	github.com/go-json-experiment/json v0.0.0-20260820222146-c27c302e5fc3 // indirect
 	github.com/go-openapi/swag/cmdutils v0.29.2 // indirect
 	github.com/go-openapi/swag/conv v0.29.2 // indirect
 	github.com/go-openapi/swag/fileutils v0.29.2 // indirect
