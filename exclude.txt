@@ -90,7 +90,7 @@ github.com/fatih/gomodifytags
 //[github.com/fatih/gomodifytags] "test-fixtures": no buildable Go source files in /home/runner/go/pkg/mod/github.com/fatih/gomodifytags@v1.17.0/test-fixtures
 //[github.com/fatih/gomodifytags] no importable packages found
 github.com/fclairamb/ftpserverlib
-//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.33.2
+//[github.com/fclairamb/ftpserverlib] dir: /home/runner/go/pkg/mod/github.com/fclairamb/ftpserverlib@v0.33.3
 //[github.com/fclairamb/ftpserverlib] module has replace
 github.com/go-darwin/apfs
 //[github.com/go-darwin/apfs] dir: /home/runner/go/pkg/mod/github.com/go-darwin/apfs@v0.0.0-20211011131704-f84b94dbf348
@@ -419,7 +419,7 @@ github.com/open-telemetry/opentelemetry-collector-contrib
 //[github.com/open-telemetry/opentelemetry-collector-contrib] "reports/distributions": no buildable Go source files in /home/runner/go/pkg/mod/github.com/open-telemetry/opentelemetry-collector-contrib@v0.165.1/reports/distributions
 //[github.com/open-telemetry/opentelemetry-collector-contrib] no importable packages found
 github.com/Shopify/sarama
-//go: github.com/Shopify/sarama@latest (v1.61.1) requires github.com/Shopify/sarama@v1.61.1: parsing go.mod:
+//go: github.com/Shopify/sarama@latest (v1.62.0) requires github.com/Shopify/sarama@v1.62.0: parsing go.mod:
 //	module declares its path as: github.com/IBM/sarama
 //	        but was required as: github.com/Shopify/sarama
 github.com/smartystreets/assertions
@@ -438,7 +438,7 @@ go.mongodb.org/mongo-driver
 //[go.mongodb.org/mongo-driver] dir: /home/runner/go/pkg/mod/go.mongodb.org/mongo-driver@v1.17.10
 //[go.mongodb.org/mongo-driver] module has replace
 go.mongodb.org/mongo-driver/v2
-//[go.mongodb.org/mongo-driver/v2] dir: /home/runner/go/pkg/mod/go.mongodb.org/mongo-driver/v2@v2.10.0
+//[go.mongodb.org/mongo-driver/v2] dir: /home/runner/go/pkg/mod/go.mongodb.org/mongo-driver/v2@v2.10.1
 //[go.mongodb.org/mongo-driver/v2] module has replace
 go.opentelemetry.io/collector
 //[go.opentelemetry.io/collector] dir: /home/runner/go/pkg/mod/go.opentelemetry.io/collector@v0.165.0

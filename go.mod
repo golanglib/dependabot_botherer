@@ -411,7 +411,7 @@ require (
 	github.com/cloudwego/eino-ext/callbacks/langfuse v0.1.3
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.72
 	github.com/cloudwego/eino-ext/components/model/openai v0.1.13
-	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20261119045223-ac1f88adebcc
+	github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20261119070410-f11cd68188c3
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9
 	github.com/cloudwego/eino-ext/devops v0.1.9
 	github.com/cloudwego/eino-ext/libs/acl/langfuse v0.1.2-0.20260707092125-9c48c30a9c41
@@ -548,7 +548,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.17.8
-	github.com/facebook/time v0.0.0-20261118175518-62fc415c683e
+	github.com/facebook/time v0.0.0-20261119162039-a09293350f3e
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1297,7 +1297,7 @@ require (
 	github.com/robinson/gos7 v0.0.0-20261116084448-107ef666cfdd
 	github.com/rogpeppe/go-internal v1.16.0
 	github.com/rs/cors v1.11.1
-	github.com/rs/cors/wrapper/gin v0.0.0-20261101222852-7ca5fe28f7d5
+	github.com/rs/cors/wrapper/gin v0.0.0-20261119124737-ae205904e3ce
 	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
 	github.com/rs/xid v1.6.0
 	github.com/rs/zerolog v1.35.1
