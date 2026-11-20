@@ -3224,8 +3224,8 @@ github.com/grpc-ecosystem/grpc-gateway v1.16.0 h1:gmcG1KaJ57LophUzW0Hy8NmPhnMZb4
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0/go.mod h1:hgWBS7lorOAVIJEQMi4ZsPv9hVvWI6+ch50m39Pf2Ks=
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3/go.mod h1:o//XUCC/F+yRGJoPO/VU0GSB0f8Nhgmxx0VIRUvaC0w=
-github.com/grpc-ecosystem/grpc-gateway/v2 v2.33.0 h1:5T5Ns3kMpWr+z3s5ZA0e7ljVyWNVNxK76sHPAxi5D1k=
-github.com/grpc-ecosystem/grpc-gateway/v2 v2.33.0/go.mod h1:oWNYw09cH8wl8fFgC5hKlBLxR4XfKy2KQpP8MJjeCcc=
+github.com/grpc-ecosystem/grpc-gateway/v2 v2.34.0 h1:vzlTzzi4tHLa/JQdIE5LeXw6SEX5EVVhq/VPqKHnKOk=
+github.com/grpc-ecosystem/grpc-gateway/v2 v2.34.0/go.mod h1:FHXQZnW5pA0txiMr3jApv9uNJzZ+7mYZd+u+PPenCFU=
 github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c h1:6rhixN/i8ZofjG1Y75iExal34USq5p+wiN1tpie8IrU=
 github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c/go.mod h1:NMPJylDgVpX0MLRlPy15sqSwOFv/U1GZ2m21JhFfek0=
 github.com/h12w/go-socks5 v0.0.0-20200522160539-76189e178364 h1:5XxdakFhqd9dnXoAZy1Mb2R/DZ6D1e+0bGC/JhucGYI=
@@ -6154,8 +6154,8 @@ golang.org/x/exp v0.0.0-20200207192155-f17229e696bd/go.mod h1:J/WKrq2StrnmMY6+EH
 golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6/go.mod h1:3jZMyOhIsHpP37uCMkUooju7aAi5cS1Q23tOzKc+0MU=
 golang.org/x/exp v0.0.0-20220428152302-39d4317da171/go.mod h1:lgLbSvA5ygNOMpwM/9anMpWVlVJ7Z+cHWq/eFuinpGE=
 golang.org/x/exp v0.0.0-20220827204233-334a2380cb91/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
-golang.org/x/exp v0.0.0-20261109185158-a52e3aef5920 h1:qr+tk4P56rtbVVAJDyAr5LAOiaD/XhZCoRTr4SfLxAk=
-golang.org/x/exp v0.0.0-20261109185158-a52e3aef5920/go.mod h1:J3U+E8RzytcGvwz+uJuAP4zULJ2TkAQBnmPZMexpdXs=
+golang.org/x/exp v0.0.0-20261113113407-e3970619a1a4 h1:lfvjMWyv5q5oJgIhGfBDf7Szvu8POtgSpMy2XbXlEFs=
+golang.org/x/exp v0.0.0-20261113113407-e3970619a1a4/go.mod h1:J3U+E8RzytcGvwz+uJuAP4zULJ2TkAQBnmPZMexpdXs=
 golang.org/x/exp/shiny v0.0.0-20261009195045-ca0d7ba23607 h1:+d6HV3AHvcT254vs2elXnEOB602gvxOWsQtucpdtnAI=
 golang.org/x/exp/shiny v0.0.0-20261009195045-ca0d7ba23607/go.mod h1:LjwWUAy73DRPU6z93L7ykfRhO3biQRlb+dRIYvdwhs8=
 golang.org/x/exp/typeparams v0.0.0-20220428152302-39d4317da171/go.mod h1:AbB0pIl9nAr9wVwH+Z2ZpaocVmF5I4GyWCDIsVjR0bk=
