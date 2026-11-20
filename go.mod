@@ -1348,7 +1348,7 @@ require (
 	github.com/seiflotfy/cuckoofilter v0.0.0-20240715131351-a2f2c23f1771
 	github.com/sensu/sensu-go/api/core v0.0.0-20221108055736-999d91931d17
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
-	github.com/sergi/go-diff v1.4.0
+	github.com/sergi/go-diff v1.4.5
 	github.com/sethvargo/go-retry v0.5.0
 	github.com/shiningrush/droplet v0.4.2
 	github.com/shiningrush/go-download v2.1.0+incompatible
