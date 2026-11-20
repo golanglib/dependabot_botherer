@@ -1750,7 +1750,7 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.7.0
 	sigs.k8s.io/yaml v1.6.0
 	storj.io/common v0.0.0-20260818140313-d38275a3768b
-	storj.io/drpc v1.0.1
+	storj.io/drpc v1.1.0
 	storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5
 	storj.io/infectious v1.0.1
 	storj.io/picobuf v0.0.4
