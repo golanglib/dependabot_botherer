@@ -1537,7 +1537,7 @@ require (
 	github.com/xanzy/ssh-agent v0.3.3
 	github.com/xdg-go/pbkdf2 v1.0.0
 	github.com/xdg-go/scram v1.4.0
-	github.com/xdg-go/stringprep v1.0.4
+	github.com/xdg-go/stringprep v1.0.5
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xen0n/gosmopolitan v1.3.0
 	github.com/xiaokangwang/VLite v0.0.0-20231225174116-75fa4b06e9f2
