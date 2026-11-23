@@ -1592,7 +1592,7 @@ require (
 	go.etcd.io/etcd/etcdutl/v3 v3.7.3
 	go.etcd.io/etcd/pkg/v3 v3.7.4
 	go.etcd.io/etcd/raft/v3 v3.5.36
-	go.etcd.io/etcd/server/v3 v3.7.3
+	go.etcd.io/etcd/server/v3 v3.7.4
 	go.etcd.io/etcd/tests/v3 v3.6.14
 	go.etcd.io/etcd/v3 v3.6.14
 	go.etcd.io/gofail v0.2.0
