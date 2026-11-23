@@ -638,14 +638,14 @@ require (
 	github.com/go-openapi/analysis v1.0.2
 	github.com/go-openapi/errors v0.22.9
 	github.com/go-openapi/inflect v1.0.1
-	github.com/go-openapi/jsonpointer v1.0.2
+	github.com/go-openapi/jsonpointer v1.0.3
 	github.com/go-openapi/jsonreference v1.0.3
 	github.com/go-openapi/loads v0.25.4
 	github.com/go-openapi/runtime v0.33.5
 	github.com/go-openapi/spec v1.0.1
 	github.com/go-openapi/strfmt v0.27.4
 	github.com/go-openapi/swag v0.29.2
-	github.com/go-openapi/validate v1.0.2
+	github.com/go-openapi/validate v1.0.3
 	github.com/go-playground/assert/v2 v2.2.0
 	github.com/go-playground/form/v4 v4.5.1
 	github.com/go-playground/locales v0.14.2
@@ -658,7 +658,7 @@ require (
 	github.com/go-resty/resty/v2 v2.17.2
 	github.com/go-sql-driver/mysql v1.10.2
 	github.com/go-stack/stack v1.8.1
-	github.com/go-swagger/go-swagger v0.36.7
+	github.com/go-swagger/go-swagger v0.36.8
 	github.com/go-task/slim-sprig v2.20.0+incompatible
 	github.com/go-task/slim-sprig/v3 v3.0.0
 	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
