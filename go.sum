@@ -5857,12 +5857,12 @@ go.etcd.io/etcd/client/v2 v2.305.35/go.mod h1:tpf+ORRL6/iWpoyKAS5mj2ll/uHv70ul0k
 go.etcd.io/etcd/client/v3 v3.5.0/go.mod h1:AIKXXVX/DQXtfTEqBryiLTUXwON+GuvO6Z7lLS/oTh0=
 go.etcd.io/etcd/client/v3 v3.7.4 h1:dxgqiynqZkr7TCAWmILTBubRRNFJMNO0tb5BGBE41Bg=
 go.etcd.io/etcd/client/v3 v3.7.4/go.mod h1:XUTIBL+gwVM+AJDpJ7p8nKW4N7Ay3sF61Oc3lrwo/D8=
-go.etcd.io/etcd/etcdctl/v3 v3.7.3 h1:afjzE22RBDqciPNGDNExe2/kWfJAZsOskZPefffTEDM=
-go.etcd.io/etcd/etcdctl/v3 v3.7.3/go.mod h1:rXRw+dqvAFrPGRqh1cjH5oGCjOgG3OaX8t75TTzeDkM=
+go.etcd.io/etcd/etcdctl/v3 v3.7.4 h1:WE2b3CGtbpqgf12og+MyX7Zgm0TpmDt3cndYMmGrY4E=
+go.etcd.io/etcd/etcdctl/v3 v3.7.4/go.mod h1:aOz44c+MpiwKIV2mkUWEyuLJH3/ubSp18j1l8dzazGY=
 go.etcd.io/etcd/etcdutl/v3 v3.7.3 h1:JwG6zadsUzBYihuZLn3IIfB2Mi+UX2d+aUybvcfunyk=
 go.etcd.io/etcd/etcdutl/v3 v3.7.3/go.mod h1:23UNfb0Q2bFmROMI0Y8AC1LA0PDRHUL4lRLFBF2n4pY=
-go.etcd.io/etcd/pkg/v3 v3.7.3 h1:FoxH2JLECo/PYEHilgBFqz7Zlyiv5Sd20OlOOYESUos=
-go.etcd.io/etcd/pkg/v3 v3.7.3/go.mod h1:KMluxIriMegJqCjcmNmt1rdzyzZHvzsojBGmkN0ArYI=
+go.etcd.io/etcd/pkg/v3 v3.7.4 h1:+EFNlbNYoOWNazTNSBrU+5TCVvxQoDLa0cUN2t/2HUw=
+go.etcd.io/etcd/pkg/v3 v3.7.4/go.mod h1:QUsfihimN6X4RC/hJ+MfcopgfF3tmSAGioodMddxCjw=
 go.etcd.io/etcd/raft/v3 v3.5.36 h1:ne664+PLrSQXhq3yz144G9vERWK5TgDsfPtcSaIeAww=
 go.etcd.io/etcd/raft/v3 v3.5.36/go.mod h1:8VaYt7XG2IrzEisKl7X4ys4tpVb52UR79MkA8PrOGK8=
 go.etcd.io/etcd/server/v3 v3.7.3 h1:KcTZ/aEZrOiQe0/kdr7iYYcvyfbEoOwDOacHkz8xwZc=
