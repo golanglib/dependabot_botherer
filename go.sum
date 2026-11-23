@@ -5861,8 +5861,8 @@ go.etcd.io/etcd/etcdctl/v3 v3.7.3 h1:afjzE22RBDqciPNGDNExe2/kWfJAZsOskZPefffTEDM
 go.etcd.io/etcd/etcdctl/v3 v3.7.3/go.mod h1:rXRw+dqvAFrPGRqh1cjH5oGCjOgG3OaX8t75TTzeDkM=
 go.etcd.io/etcd/etcdutl/v3 v3.7.3 h1:JwG6zadsUzBYihuZLn3IIfB2Mi+UX2d+aUybvcfunyk=
 go.etcd.io/etcd/etcdutl/v3 v3.7.3/go.mod h1:23UNfb0Q2bFmROMI0Y8AC1LA0PDRHUL4lRLFBF2n4pY=
-go.etcd.io/etcd/pkg/v3 v3.7.3 h1:FoxH2JLECo/PYEHilgBFqz7Zlyiv5Sd20OlOOYESUos=
-go.etcd.io/etcd/pkg/v3 v3.7.3/go.mod h1:KMluxIriMegJqCjcmNmt1rdzyzZHvzsojBGmkN0ArYI=
+go.etcd.io/etcd/pkg/v3 v3.7.4 h1:+EFNlbNYoOWNazTNSBrU+5TCVvxQoDLa0cUN2t/2HUw=
+go.etcd.io/etcd/pkg/v3 v3.7.4/go.mod h1:QUsfihimN6X4RC/hJ+MfcopgfF3tmSAGioodMddxCjw=
 go.etcd.io/etcd/raft/v3 v3.5.36 h1:ne664+PLrSQXhq3yz144G9vERWK5TgDsfPtcSaIeAww=
 go.etcd.io/etcd/raft/v3 v3.5.36/go.mod h1:8VaYt7XG2IrzEisKl7X4ys4tpVb52UR79MkA8PrOGK8=
 go.etcd.io/etcd/server/v3 v3.7.3 h1:KcTZ/aEZrOiQe0/kdr7iYYcvyfbEoOwDOacHkz8xwZc=
