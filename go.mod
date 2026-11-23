@@ -1393,7 +1393,7 @@ require (
 	github.com/smallstep/go-attestation v0.4.9
 	github.com/smallstep/nosql v0.8.0
 	github.com/smallstep/pkcs7 v0.2.3
-	github.com/smallstep/scep v0.0.0-20260331191114-261f960a40d1
+	github.com/smallstep/scep v0.1.0
 	github.com/smallstep/truststore v0.13.0
 	github.com/smarty/assertions v1.16.0
 	github.com/smartystreets/goconvey v1.8.1
