@@ -1753,7 +1753,7 @@ require (
 	storj.io/drpc v1.1.0
 	storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5
 	storj.io/infectious v1.0.1
-	storj.io/picobuf v0.9.4
+	storj.io/picobuf v0.9.6
 	storj.io/uplink v1.14.5
 	v2ray.com/core v4.19.1+incompatible
 	vitess.io/vitess v0.23.7
