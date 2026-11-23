@@ -3113,8 +3113,8 @@ github.com/googleapis/go-type-adapters v1.0.0/go.mod h1:zHW75FOG2aur7gAO2B+MLby+
 github.com/googleapis/google-cloud-go-testing v0.0.0-20200911160855-bcd43fbb19e8/go.mod h1:dvDLG8qkwmyD9a/MJJN3XJcT3xFxOKAvTZGvuZmac9g=
 github.com/gopacket/gopacket v1.8.0 h1:1kiBo8+AXwzvqRBpJ01HvU6GQsb0oPK10tLJpuutEiw=
 github.com/gopacket/gopacket v1.8.0/go.mod h1:QKowPlTLrQU2rqV5C5I14Aoaid3l8da3kbddibc/Wgk=
-github.com/gopcua/opcua v0.9.1 h1:Qp40I5JmiiKXYIWmk7xECYNrXs5unohH24jKWnSRyIE=
-github.com/gopcua/opcua v0.9.1/go.mod h1:Z6aellk0gIzznZd2UX+Syd/hUMBt65gRlTakpGo6se8=
+github.com/gopcua/opcua v0.9.2 h1:rJUEwhmqDud8stty6ov5O0V2tvRuzxAN8dI5aerWbz4=
+github.com/gopcua/opcua v0.9.2/go.mod h1:Z6aellk0gIzznZd2UX+Syd/hUMBt65gRlTakpGo6se8=
 github.com/goph/emperror v0.17.2 h1:yLapQcmEsO0ipe9p5TaN22djm3OFV/TfM/fcYP0/J18=
 github.com/goph/emperror v0.17.2/go.mod h1:+ZbQ+fUNO/6FNiUo0ujtMjhgad9Xa6fQL9KhH4LNHic=
 github.com/gophercloud/gophercloud v0.3.0/go.mod h1:vxM41WHh5uqHVBMZHzuwNOHh8XEoIEcSTewFxm1c5g8=
