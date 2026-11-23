@@ -1424,7 +1424,7 @@ require (
 	github.com/ssgreg/nlreturn/v2 v2.2.1
 	github.com/stbenjam/no-sprintf-host-port v0.3.1
 	github.com/steveyen/gtreap v0.1.0
-	github.com/stoewer/go-strcase v1.3.1
+	github.com/stoewer/go-strcase v1.4.0
 	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/objx v0.8.0
 	github.com/stretchr/testify v1.12.1
