@@ -7398,8 +7398,8 @@ storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5 h1:JPguPTktHaha9TBEHvuxZmB+
 storj.io/eventkit v0.0.0-20260716074419-6861a92e2aa5/go.mod h1:RdWvp249AGm9FZnVKP88y3hFa7vlx9Jf3Cy1P+4EXIU=
 storj.io/infectious v1.0.1 h1:QxjULudP+FYN+wDHZw+dSphjnOsHsy2YKZNDVxz5HbU=
 storj.io/infectious v1.0.1/go.mod h1:3/J7t+ueWJgLSNjHVqhPBeFEIgnjZyiA8BI54NUTecY=
-storj.io/picobuf v0.9.4 h1:CZdl6AWqhDnS7wMKKuvSdS6/b4vjdTYvT+azMh+4ejY=
-storj.io/picobuf v0.9.4/go.mod h1:sYpkLKWLNg4VfH5URsK1Dw8K3RqKmhER3uTwtN7grK8=
+storj.io/picobuf v0.9.6 h1:chGu7zEffHpeOWzHmkZgt83JUPrLTVm08YAcE/4gXOY=
+storj.io/picobuf v0.9.6/go.mod h1:sYpkLKWLNg4VfH5URsK1Dw8K3RqKmhER3uTwtN7grK8=
 storj.io/uplink v1.14.5 h1:60fjTBiceaFUdmDeHLJetFZDMLAd+PFtKHpQIoNeRW8=
 storj.io/uplink v1.14.5/go.mod h1:CJX4CKkG5C8qajzYMhC5sIAIqUgWyJ8fH8J0ikrZGEQ=
 tags.cncf.io/container-device-interface v1.1.1 h1:YPwQz4xg8PlQ0yT/baR0BtLpTQROe4l6M1yuRgAu1vc=
