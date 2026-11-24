@@ -1707,7 +1707,7 @@ require (
 	lukechampine.com/blake3 v1.5.1
 	lukechampine.com/uint128 v1.3.0
 	modernc.org/cc/v3 v3.41.0
-	modernc.org/cc/v4 v4.34.1
+	modernc.org/cc/v4 v4.35.0
 	modernc.org/ccgo/v3 v3.17.0
 	modernc.org/ccgo/v4 v4.39.3
 	modernc.org/ccorpus v1.11.6
@@ -1719,7 +1719,7 @@ require (
 	modernc.org/httpfs v1.0.6
 	modernc.org/lex v1.1.1
 	modernc.org/lexer v1.0.5
-	modernc.org/libc v1.82.5
+	modernc.org/libc v1.82.9
 	modernc.org/mathutil v1.7.1
 	modernc.org/memory v1.13.0
 	modernc.org/opt v0.2.0
