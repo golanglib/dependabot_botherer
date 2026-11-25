@@ -547,7 +547,7 @@ require (
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
-	github.com/expr-lang/expr v1.17.8
+	github.com/expr-lang/expr v1.18.1
 	github.com/facebook/time v0.0.0-20261123103848-0e42d8be34d2
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
