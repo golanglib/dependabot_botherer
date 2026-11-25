@@ -1600,7 +1600,7 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	go.mozilla.org/pkcs7 v0.10.0
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/auto/sdk v1.2.1
+	go.opentelemetry.io/auto/sdk v1.2.2
 	go.opentelemetry.io/contrib v1.47.0
 	go.opentelemetry.io/contrib/detectors/gcp v1.47.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.72.0
