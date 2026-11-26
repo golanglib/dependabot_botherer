@@ -1888,8 +1888,8 @@ github.com/cloudwego/eino-ext/components/model/ark v0.1.73 h1:AvliSuHsMr/RkHb7cK
 github.com/cloudwego/eino-ext/components/model/ark v0.1.73/go.mod h1:1yEbE7jLOMZ+pic7NOSK12+hwsGNWCTKjIdgxdrN8Ng=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13 h1:5XHRTiTD5bt9KQrMHcfvuWNklEC3tpm3XHejdozt9vM=
 github.com/cloudwego/eino-ext/components/model/openai v0.1.13/go.mod h1:mgIoqYYOc0eECCqvLbEYpOJrQNTNxkwXzSJzFU+v5sQ=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20261119070410-f11cd68188c3 h1:/9OtWwOO5iSjI+nEyVo7WTZ4cPkdQAlyPMFQNnjoOWY=
-github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20261119070410-f11cd68188c3/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20261125082806-48998f2f2934 h1:c1wfo8LoUVJVviRuyoTGG/b6SwCIUv289IdlkhbfWWU=
+github.com/cloudwego/eino-ext/components/retriever/volc_vikingdb v0.0.0-20261125082806-48998f2f2934/go.mod h1:He7AHJpLTs0MXKPx5JpI8MdYtLUcKhUAZwCsgNtaq6k=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9 h1:3NqF4ggVj/JmUopEM+IOrYmU8N/PQyS8gOR0ZV1tSDs=
 github.com/cloudwego/eino-ext/components/tool/mcp v0.0.9/go.mod h1:zxP8sFkADBqflNc0a4qfKdLYQ+edzHPlkOaZF0A1X7o=
 github.com/cloudwego/eino-ext/devops v0.1.9 h1:kz0sIwXbdzP0QVO2wjVbBjhksi1sYKM8koh3XDmyRnQ=
@@ -2345,8 +2345,8 @@ github.com/evanw/esbuild v0.28.2/go.mod h1:D2vIQZqV/vIf/VRHtViaUtViZmG7o+kKmlBfV
 github.com/exoscale/egoscale v0.18.1/go.mod h1:Z7OOdzzTOz1Q1PjQXumlz9Wn/CddH0zSYdCF3rnBKXE=
 github.com/expr-lang/expr v1.18.1 h1:mu6I2eTkwUgMP+Q4KgS9Ipc1CrukUpRrG9PsQYPv9js=
 github.com/expr-lang/expr v1.18.1/go.mod h1:8/vRC7+7HBzESEqt5kKpYXxrxkr31SaO8r40VO/1IT4=
-github.com/facebook/time v0.0.0-20261123103848-0e42d8be34d2 h1:V5lm8TBwu463IFKkwpi8+Kkft4gO8IaSQtDB6aXvtV0=
-github.com/facebook/time v0.0.0-20261123103848-0e42d8be34d2/go.mod h1:tvIlGl1H0y35Opsd4n7WmsVYxaTCHOsGhaGCNw4UsfQ=
+github.com/facebook/time v0.0.0-20261126000616-9143c51942d4 h1:wxp7+O0sPsgVS2uvrqZbHkcBk0tvKelDdbK4xYcnf5w=
+github.com/facebook/time v0.0.0-20261126000616-9143c51942d4/go.mod h1:tvIlGl1H0y35Opsd4n7WmsVYxaTCHOsGhaGCNw4UsfQ=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c/go.mod h1:Yg+htXGokKKdzcwhuNDwVvN+uBxDGXJ7G/VN1d8fa64=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqLaRiH3MsBH8va0n7s1pQYcu3uTb8G4tygF4Zg=
