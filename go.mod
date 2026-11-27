@@ -516,7 +516,7 @@ require (
 	github.com/eapache/go-xerial-snappy v0.0.0-20230731223053-c322873962e3
 	github.com/ebitengine/purego v0.11.3
 	github.com/eclipse/paho.golang v0.24.0
-	github.com/eclipse/paho.mqtt.golang v1.5.1
+	github.com/eclipse/paho.mqtt.golang v1.5.2
 	github.com/editorconfig-checker/editorconfig-checker v0.0.0-20231102090242-ddae3e68851e
 	github.com/editorconfig/editorconfig-core-go/v2 v2.6.5
 	github.com/edsrzf/mmap-go v1.2.1-0.20241212181136-fad1cd13edbd
