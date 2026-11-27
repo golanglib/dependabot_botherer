@@ -522,7 +522,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.1-0.20241212181136-fad1cd13edbd
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.9.4
-	github.com/elazarl/goproxy/ext v0.0.0-20261112133026-c150a338c025
+	github.com/elazarl/goproxy/ext v0.0.0-20261126133644-8e2d1e7d4610
 	github.com/elliotchance/orderedmap v1.8.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-imap/v2 v2.0.0-beta.9
@@ -548,7 +548,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.18.1
-	github.com/facebook/time v0.0.0-20261126000616-9143c51942d4
+	github.com/facebook/time v0.0.0-20261126091811-77e84ce206ec
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
@@ -1294,7 +1294,7 @@ require (
 	github.com/rivo/uniseg v0.4.7
 	github.com/robertkrimen/otto v0.5.1
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/robinson/gos7 v0.0.0-20261116084448-107ef666cfdd
+	github.com/robinson/gos7 v0.0.0-20261127075228-df9d9b03d23d
 	github.com/rogpeppe/go-internal v1.16.0
 	github.com/rs/cors v1.11.1
 	github.com/rs/cors/wrapper/gin v0.0.0-20261119124737-ae205904e3ce
