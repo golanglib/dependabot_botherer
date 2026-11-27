@@ -1279,7 +1279,7 @@ require (
 	github.com/rabbitmq/amqp091-go v1.17.0
 	github.com/raeperd/recvcheck v0.3.2
 	github.com/rclone/rclone v1.76.0
-	github.com/redis/go-redis/v9 v9.23.0
+	github.com/redis/go-redis/v9 v9.24.0
 	github.com/redis/rueidis v1.0.80
 	github.com/refraction-networking/utls v1.8.2
 	github.com/relvacode/iso8601 v1.8.3
