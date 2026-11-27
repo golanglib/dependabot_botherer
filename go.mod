@@ -523,7 +523,7 @@ require (
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.9.4
 	github.com/elazarl/goproxy/ext v0.0.0-20261126133644-8e2d1e7d4610
-	github.com/elliotchance/orderedmap v1.8.0
+	github.com/elliotchance/orderedmap v1.9.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-imap/v2 v2.0.0-beta.9
 	github.com/emersion/go-message v0.18.2
