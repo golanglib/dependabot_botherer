@@ -801,7 +801,7 @@ require (
 	github.com/grafana/pyroscope-go v1.5.0
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.12
 	github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853
-	github.com/gravitational/trace v1.5.4
+	github.com/gravitational/trace v1.6.0
 	github.com/grid-x/modbus v1.5.1
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa
 	github.com/grokify/html-strip-tags-go v0.1.0
