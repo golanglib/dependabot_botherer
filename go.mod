@@ -522,7 +522,7 @@ require (
 	github.com/edsrzf/mmap-go v1.2.1-0.20241212181136-fad1cd13edbd
 	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/elazarl/goproxy v1.9.4
-	github.com/elazarl/goproxy/ext v0.0.0-20261126133644-8e2d1e7d4610
+	github.com/elazarl/goproxy/ext v0.0.0-20261127191045-cdfff367fdcd
 	github.com/elliotchance/orderedmap v1.9.0
 	github.com/emersion/go-imap v1.2.1
 	github.com/emersion/go-imap/v2 v2.0.0-beta.9
@@ -548,7 +548,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/evanw/esbuild v0.28.2
 	github.com/expr-lang/expr v1.18.1
-	github.com/facebook/time v0.0.0-20261126091811-77e84ce206ec
+	github.com/facebook/time v0.0.0-20261127160044-df9206fed862
 	github.com/fatih/color v1.19.0
 	github.com/fatih/structtag v1.2.0
 	github.com/fclairamb/go-log v0.6.0
